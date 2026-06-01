@@ -1,0 +1,1115 @@
+# newdoc id = LRT_SVE_007
+# newpar id = LRT_SVE_007-p1
+# sent_id = LRT_SVE_007-s1
+# text = Inkstų akmenligė: ligos pradžia nebyli, ūmi šlapimo takų infekcija gal būti pavojinga gyvybei
+1	Inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	akmenligė	akmenligė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	pradžia	pradžia	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	nebyli	nebylus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ūmi	ūmus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+9	šlapimo	šlapimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	takų	takas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	infekcija	infekcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	gal	gal	PART	dll.	_	_	_	_	Multext=Qg
+13	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	pavojinga	pavojingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+15	gyvybei	gyvybė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+
+# newpar id = LRT_SVE_007-p2
+# sent_id = LRT_SVE_007-s2
+# text = Inkstų akmenligė – tai liga, kuria sergant inkstuose formuojasi akmenys.
+1	Inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	akmenligė	akmenligė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+4	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+5	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kuria	kurti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	sergant	sirgti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+9	inkstuose	inkstas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+10	formuojasi	formuotis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+11	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s3
+# text = Šie akmenys ilgai gali nesukelti jokių simptomų – dažniausiai apie juos sužinoma tik ištikus ūmiam stipraus skausmo priepuoliui, rašoma klinikos „Nefrida“ pranešime žiniasklaidai.
+1	Šie	šis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+2	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	ilgai	ilgai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	nesukelti	nesukelti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	Multext=Vgi-----y--n--
+6	jokių	joks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+7	simptomų	simptomas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+10	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+12	sužinoma	sužinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+13	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	ištikus	ištikti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+15	ūmiam	ūmus	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsdn
+16	stipraus	stiprus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+17	skausmo	skausmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	priepuoliui	priepuolis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+21	klinikos	klinika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	Nefrida	Nefrida	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+24	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+25	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+26	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s4
+# text = Apie inkstų akmenligės priežastis, simptomus, diagnostiką bei gydymo galimybes pasakoja klinikos „Nefrida“ gydytojas urologas Mindaugas Raščius.
+1	Apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	priežastis	priežastis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	simptomus	simptomas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	diagnostiką	diagnostika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	galimybes	galimybė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+12	pasakoja	pasakoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	klinikos	klinika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Nefrida	Nefrida	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+16	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+17	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	urologas	urologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+19	Mindaugas	Mindaugas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+20	Raščius	Raščius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p3
+# sent_id = LRT_SVE_007-s5
+# text = Pasak gydytojo, akmenlige serga nuo 1 iki 20 proc. kiekvienos šalies populiacijos, tačiau išsivysčiusiose šalyse sergamumas šia liga didesnis.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	akmenlige	akmenligė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+5	serga	sirgti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	20	20	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+11	kiekvienos	kiekvienas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+12	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	populiacijos	populiacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	išsivysčiusiose	išsivystyti	VERB	vksm.dlv.sngr.veik.būt-k.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannly-p
+17	šalyse	šalis	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+18	sergamumas	sergamumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+19	šia	šis	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+20	liga	liga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+21	didesnis	didis	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsnn
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s6
+# text = Vyrams akmenys susiformuoja dukart dažniau nei moterims.
+1	Vyrams	vyras	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+2	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	susiformuoja	susiformuoti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+4	dukart	dukart	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	dažniau	dažnai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+6	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	moterims	moteris	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s7
+# text = Dažniausiai ši liga diagnozuojama 30-60 metų amžiaus asmenims.
+1	Dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+2	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	diagnozuojama	diagnozuoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+5	30	30	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+6	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+7	60	60	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	asmenims	asmuo	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p4
+# sent_id = LRT_SVE_007-s8
+# text = Inkstų akmenligę dažnai nulemia mūsų gyvenimo būdas ir mitybos įpročiai
+1	Inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	akmenligę	akmenligė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nulemia	nulemti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+6	gyvenimo	gyvenimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	mitybos	mityba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	įpročiai	įprotis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+
+# newpar id = LRT_SVE_007-p5
+# sent_id = LRT_SVE_007-s9
+# text = Gydytojas urologas sako, kad dažniausiai akmenų formavimąsi inkstuose nulemia ne tik druskų ir kristalų koncentracija šlapime, bet ir mūsų gyvenimo būdas bei mitybos įpročiai.
+1	Gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	urologas	urologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+7	akmenų	akmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	formavimąsi	formavimasis	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+9	inkstuose	inkstas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+10	nulemia	nulemti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+12	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+13	druskų	druska	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	kristalų	kristalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	koncentracija	koncentracija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	šlapime	šlapimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+21	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+22	gyvenimo	gyvenimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+24	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	mitybos	mityba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	įpročiai	įprotis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s10
+# text = Šios ligos rizikos faktoriai: viršsvoris, mažas fizinis aktyvumas, gretutiniai susirgimai (podagra, skydliaukės sutrikimai), nepakankamas skysčių kiekis, perteklinis maisto papildų, kalcio preparatų vartojimas.
+1	Šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+2	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	rizikos	rizika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	faktoriai	faktorius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	viršsvoris	viršsvoris	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	mažas	mažas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	fizinis	fizinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+10	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	gretutiniai	gretutinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+13	susirgimai	susirgimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+14	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+15	podagra	podagra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	skydliaukės	skydliaukė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	sutrikimai	sutrikimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+19	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	nepakankamas	nepakankamas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+22	skysčių	skystis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	kiekis	kiekis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	perteklinis	perteklinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+26	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	papildų	papildas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	kalcio	kalcis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+30	preparatų	preparatas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	vartojimas	vartojimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p6
+# sent_id = LRT_SVE_007-s11
+# text = M. Raščius pastebi, kad pacientai dažniausiai į gydytojus kreipiasi prasidėjus stipriam skausmui juosmens srityje.
+1	M.	M.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Raščius	Raščius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	pastebi	pastebėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	pacientai	pacientas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+8	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	gydytojus	gydytojas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+10	kreipiasi	kreiptis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+11	prasidėjus	prasidėti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+12	stipriam	stiprus	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsdn
+13	skausmui	skausmas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+14	juosmens	juosmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s12
+# text = Skausmas plinta į pilvo apačią, kirkšnį ir vidinę šlaunies pusę, norima dažniau šlapintis.
+1	Skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	plinta	plisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	pilvo	pilvas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	apačią	apačia	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kirkšnį	kirkšnis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	vidinę	vidinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+10	šlaunies	šlaunis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	pusę	pusė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	norima	norėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+14	dažniau	dažnai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+15	šlapintis	šlapintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s13
+# text = Gali pakilti temperatūra, imti pykinti, vemiama.
+1	Gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+2	pakilti	pakilti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	temperatūra	temperatūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	imti	imti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	pykinti	pykinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	vemiama	vemti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s14
+# text = Pasak gydytojo, tokiu atveju pacientai dažniausiai kviečia greitąją pagalbą ar patys vyksta į skubios pagalbos skyrių.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+5	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+6	pacientai	pacientas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+8	kviečia	kviesti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	greitąją	greitas	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsay
+10	pagalbą	pagalba	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+11	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	patys	pats	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+13	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	skubios	skubus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+16	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	skyrių	skyrius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p7
+# sent_id = LRT_SVE_007-s15
+# text = Laiku nediagnozuota inkstų akmenligė gali grėsti komplikacijomis
+1	Laiku	laiku	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nediagnozuota	nediagnozuoti	VERB	vksm.dlv.neig.neveik.būt.bev.	Gender=Neut|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npyn-n-p
+3	inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	akmenligė	akmenligė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	grėsti	grėsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	komplikacijomis	komplikacija	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+
+# newpar id = LRT_SVE_007-p8
+# sent_id = LRT_SVE_007-s16
+# text = Pašnekovo teigimu, akmenys inkstuose pradeda formuotis nebyliai, o skausmas pasireiškia tik tada, kai susiformavę akmenys užstringa šlapimtakyje ir sukelia uždegiminius procesus.
+1	Pašnekovo	pašnekovas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	teigimu	teigimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+5	inkstuose	inkstas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+6	pradeda	pradėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	formuotis	formuotis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+8	nebyliai	nebyliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	pasireiškia	pasireikšti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+13	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	susiformavę	susiformuoti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannny-p
+18	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+19	užstringa	užstrigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	šlapimtakyje	šlapimtakis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	sukelia	sukelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	uždegiminius	uždegiminis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+24	procesus	procesas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p9
+# sent_id = LRT_SVE_007-s17
+# text = Inkstų akmenligė diagnozuojama remiantis paciento anamneze, klinikine apžiūra ir laboratorinių bei instrumentinių tyrimų rezultatais.
+1	Inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	akmenligė	akmenligė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	diagnozuojama	diagnozuoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+4	remiantis	remtis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+5	paciento	pacientas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	anamneze	anamnezė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	klinikine	klinikinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+9	apžiūra	apžiūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	laboratorinių	laboratorinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+12	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	instrumentinių	instrumentinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+14	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	rezultatais	rezultatas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s18
+# text = Tyrimų metu tikrinama, ar pacientui nėra ūmaus apendicito, divertikulito, tulžies pūslės akmenligės, žarnų nepraeinamumo, opaligės ir kitų ligų, kurių gydymas nuo inkstų akmenligės kardinaliai skiriasi.
+1	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	tikrinama	tikrinti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+7	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+8	ūmaus	ūmus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+9	apendicito	apendicitas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	divertikulito	divertikulitas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	tulžies	tulžis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	pūslės	pūslė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	žarnų	žarna	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	nepraeinamumo	nepraeinamumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	opaligės	opaligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	kitų	kitas	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+23	ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	kurių	kuris	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+26	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+27	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+28	inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	kardinaliai	kardinaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+31	skiriasi	skirtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p10
+# sent_id = LRT_SVE_007-s19
+# text = Dažnai ši liga diagnozuojama profilaktinio patikrinimo metu atliekant vidaus organų echoskopiją arba radus tam tikrų pakitimų šlapimo tyrime.
+1	Dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	diagnozuojama	diagnozuoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+5	profilaktinio	profilaktinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+6	patikrinimo	patikrinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+8	atliekant	atlikti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+9	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	organų	organas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	echoskopiją	echoskopija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+12	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	radus	rasti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+14	tam tikrų	tam tikras	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+15	pakitimų	pakitimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	šlapimo	šlapimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	tyrime	tyrimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s20
+# text = Tokiu atveju pacientas siunčiamas urologo konsultacijai.
+1	Tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	siunčiamas	siųsti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+5	urologo	urologas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	konsultacijai	konsultacija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s21
+# text = Jos metu atliekamas ehoskopijos tyrimas, padedantis patvirtinti arba atmesti inkstų akmenligės diagnozę.
+1	Jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	atliekamas	atlikti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+4	ehoskopijos	ehoskopijos	X	kt.	_	_	_	_	Multext=X-
+5	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	padedantis	padėti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+8	patvirtinti	patvirtinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	atmesti	atmesti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	diagnozę	diagnozė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p11
+# sent_id = LRT_SVE_007-s22
+# text = M. Raščius sako, kad jeigu susiformavę akmenys yra nedideli, žmogus, apie juos nežinodamas, gali nugyventi visą gyvenimą.
+1	M.	M.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Raščius	Raščius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	susiformavę	susiformuoti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannny-p
+8	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	nedideli	nedidelis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+16	nežinodamas	nežinoti	VERB	vksm.pusd.neig.vyr.vns.	Gender=Masc|Number=Sing|Polarity=Neg|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sm-y--n--
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	nugyventi	nugyventi	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	visą	visas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+21	gyvenimą	gyvenimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s23
+# text = Didesni akmenys gali sukelti skausmus, šlapimtakio obstrukciją (užkimšimą) ar kitas komplikacijas.
+1	Didesni	didis	ADJ	bdv.aukšt.vyr.dgs.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpnn
+2	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	sukelti	sukelti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	skausmus	skausmas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	šlapimtakio	šlapimtakis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	obstrukciją	obstrukcija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+10	užkimšimą	užkimšimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+12	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	kitas	kitas	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+14	komplikacijas	komplikacija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s24
+# text = Tam, kad juos pašalinti, gali prireikti skubios operacijos.
+1	Tam	tam	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+5	pašalinti	pašalinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	prireikti	prireikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	skubios	skubus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+10	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s25
+# text = Kartais esant užblokuotam inkstui šlapimo takų infekcija gali greitai progresuoti ir išsivystyti pavojinga gyvybei būklė – urosepsis.
+1	Kartais	kartais	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	esant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+3	užblokuotam	užblokuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnndn-p
+4	inkstui	inkstas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+5	šlapimo	šlapimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	takų	takas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	infekcija	infekcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	greitai	greitai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	progresuoti	progresuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	išsivystyti	išsivystyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+13	pavojinga	pavojingas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+14	gyvybei	gyvybė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+15	būklė	būklė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+16	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+17	urosepsis	urosepsis	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s26
+# text = Laiku nesuteikus pagalbos ji gali baigtis mirtimi.
+1	Laiku	laikas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+2	nesuteikus	nesuteikti	VERB	vksm.pad.neig.būt-k.	Polarity=Neg|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----y--n--
+3	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	baigtis	baigtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+7	mirtimi	mirtis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s27
+# text = Ypač ši būklė pavojinga vyresnio amžiaus žmonėms, turintiems gretutinių ligų.
+1	Ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	būklė	būklė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	pavojinga	pavojingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+5	vyresnio	vyresnis	ADJ	bdv.aukšt.vyr.vns.K.	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsgn
+6	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	žmonėms	žmogus	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	turintiems	turėti	VERB	vksm.dlv.veik.es.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanndn-p
+10	gretutinių	gretutinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+11	ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p12
+# sent_id = LRT_SVE_007-s28
+# text = Gydytojas urologas pataria, kad norint išvengti pavojingų situacijų, reikėtų nenumoti ranka į savo sveikatą ir, jaučiant besikartojantį juosmens ar nugaros skausmą, atvykti pasitikrinti pas specialistą.
+1	Gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	urologas	urologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	pataria	patarti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	norint	norėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+7	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	pavojingų	pavojingas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+9	situacijų	situacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	nenumoti	nenumoti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	Multext=Vgi-----y--n--
+13	ranka	ranka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+16	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+17	ir	ir	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	jaučiant	jausti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+20	besikartojantį	besikartoti	VERB	vksm.dlv.sngr.veik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannay-p
+21	juosmens	juosmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	nugaros	nugara	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	skausmą	skausmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	atvykti	atvykti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+27	pasitikrinti	pasitikrinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+28	pas	pas	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+29	specialistą	specialistas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p13
+# sent_id = LRT_SVE_007-s29
+# text = Akmenligė ne visada gydoma chirurgiškai
+1	Akmenligė	akmenligė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+3	visada	visada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	gydoma	gydyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+5	chirurgiškai	chirurgiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+
+# newpar id = LRT_SVE_007-p14
+# sent_id = LRT_SVE_007-s30
+# text = Dažnai manoma, kad vienintelis akmenų pašalinimo būdas – chirurginė operacija, kurios baiminantis delsiama kreiptis į gydytojus.
+1	Dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	manoma	manyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	vienintelis	vienintelis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+6	akmenų	akmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	pašalinimo	pašalinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	chirurginė	chirurginis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+11	operacija	operacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kurios	kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+14	baiminantis	baimintis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+15	delsiama	delsti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+16	kreiptis	kreiptis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	gydytojus	gydytojas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s31
+# text = Tačiau M. Raščius pastebi, kad operacinis gydymas taikomas tik apie penktadaliui visų akmenligės atvejų.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	M.	M.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Raščius	Raščius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+4	pastebi	pastebėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	operacinis	operacinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+8	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+10	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	penktadaliui	penktadalis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+13	visų	visas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+14	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	atvejų	atvejis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p15
+# sent_id = LRT_SVE_007-s32
+# text = Neretai pakanka konservatyvaus gydymo – skausmą malšinančių nesteroidinių vaistų nuo uždegimo.
+1	Neretai	neretai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	pakanka	pakakti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	konservatyvaus	konservatyvus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+4	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	skausmą	skausmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	malšinančių	malšinti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+8	nesteroidinių	nesteroidinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+9	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	uždegimo	uždegimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s33
+# text = Esant poreikiui pacientui gali būti skiriami papildomi medikamentai.
+1	Esant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	poreikiui	poreikis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+3	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	skiriami	skirti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+7	papildomi	papildomas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	medikamentai	medikamentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s34
+# text = Mažesni nei 5 milimetrų akmenys dažniausiai su šlapimu pasišalina savaime, todėl, pasak gydytojo, neretai skiriami konkrementus tirpinantys preparatai ir pasirenkama akmenų stebėjimo taktika.
+1	Mažesni	mažas	ADJ	bdv.aukšt.vyr.dgs.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpnn
+2	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+4	milimetrų	milimetras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+7	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+8	šlapimu	šlapimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+9	pasišalina	pasišalinti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+10	savaime	savaime	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	neretai	neretai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	skiriami	skirti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+19	konkrementus	konkrementas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	tirpinantys	tirpinti	VERB	vksm.dlv.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannnn-p
+21	preparatai	preparatas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+22	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	pasirenkama	pasirinkti	VERB	vksm.dlv.sngr.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnny-p
+24	akmenų	akmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+25	stebėjimo	stebėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	taktika	taktika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s35
+# text = Siekiant padidinti akmens pasišalinimo tikimybę, pacientams patariama gerti daug skysčių.
+1	Siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	padidinti	padidinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	akmens	akmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	pasišalinimo	pasišalinimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+5	tikimybę	tikimybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	pacientams	pacientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+8	patariama	patarti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+9	gerti	gerti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	skysčių	skystis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p16
+# sent_id = LRT_SVE_007-s36
+# text = Prireikus chirurginio gydymo, įprastai taikomi šiuolaikiniai mažai invazyvūs gydymo metodai – ekstrakorporinė litotripsija, ureteroskopija, pekutaninė nefrolitotripsija.
+1	Prireikus	prireikti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+2	chirurginio	chirurginis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+3	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	įprastai	įprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	taikomi	taikyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+7	šiuolaikiniai	šiuolaikinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	mažai	mažai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	invazyvūs	invazyvus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+10	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	metodai	metodas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+13	ekstrakorporinė	ekstrakorporinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+14	litotripsija	litotripsija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	ureteroskopija	ureteroskopija	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	pekutaninė	pekutaninė	X	kt.	_	_	_	_	Multext=X-
+19	nefrolitotripsija	nefrolitotripsija	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s37
+# text = Jų metu naudojami mažo diametro, lankstūs instrumentai ir modernūs skaldymo šaltiniai, todėl gydymas yra itin tausojantis, o pacientai jau kitą dieną po procedūros gali vykti namo.
+1	Jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	naudojami	naudoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+4	mažo	mažas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+5	diametro	diametras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	lankstūs	lankstus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	instrumentai	instrumentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	modernūs	modernus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+11	skaldymo	skaldymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	šaltiniai	šaltinis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	itin	itin	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	tausojantis	tausoti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-smannnn-p
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	pacientai	pacientas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+22	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	kitą	kitas	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+24	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+25	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	procedūros	procedūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+27	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+28	vykti	vykti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	namo	namo	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s38
+# text = Atviros operacijos šiais laikais atliekamos labai retais atvejais.
+1	Atviros	atviras	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+2	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	šiais	šis	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+4	laikais	laikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+5	atliekamos	atlikti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+6	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	retais	retas	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+8	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p17
+# sent_id = LRT_SVE_007-s39
+# text = Jeigu akmenų dydis yra iki 1,2 cm, gali būti atliekama ekstrakorporinė lipotripsija, kurios metu akmenys suskaldomi išoriškai bangomis.
+1	Jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	akmenų	akmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	dydis	dydis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	1,2	1,2	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	cm	cm	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	atliekama	atlikti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+12	ekstrakorporinė	ekstrakorporinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+13	lipotripsija	lipotripsija	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kurios	kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+16	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+17	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+18	suskaldomi	suskaldyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+19	išoriškai	išoriškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	bangomis	banga	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s40
+# text = Esant 2 cm dydžio akmenims, dažniausiai pasitelkiama ureteroskopija.
+1	Esant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	2	2	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+3	cm	cm	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	dydžio	dydis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	akmenims	akmuo	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+8	pasitelkiama	pasitelkti	VERB	vksm.dlv.sngr.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnny-p
+9	ureteroskopija	ureteroskopija	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s41
+# text = Šios tausojančios operacijos metu per šlaplę ir šlapimo pūslę į šlapimtakį arba inkstą įvedamas ureteroskopas su maža šviesolaidine kamera, leidžiančia tiesiogiai matyti šlapimtakius bei inkstus.
+1	Šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+2	tausojančios	tausoti	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfanngn-p
+3	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+5	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	šlaplę	šlaplė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	šlapimo	šlapimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	pūslę	pūslė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	šlapimtakį	šlapimtakis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+12	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	inkstą	inkstas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	įvedamas	įvesti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+15	ureteroskopas	ureteroskopas	X	kt.	_	_	_	_	Multext=X-
+16	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+17	maža	mažas	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+18	šviesolaidine	šviesolaidinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+19	kamera	kamera	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	leidžiančia	leisti	VERB	vksm.dlv.veik.es.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannin-p
+22	tiesiogiai	tiesiogiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	matyti	matyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+24	šlapimtakius	šlapimtakis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+25	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	inkstus	inkstas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s42
+# text = Akmenys lazerine skaidula suskaldomi į smulkius fragmentus, kurie lengvai pašalinami.
+1	Akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	lazerine	lazerinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+3	skaidula	skaidula	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+4	suskaldomi	suskaldyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	smulkius	smulkus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+7	fragmentus	fragmentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+10	lengvai	lengvai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	pašalinami	pašalinti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnnnn-p
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s43
+# text = Didesni nei 2 cm akmenys gali būti skaldomi transkutaniškai.
+1	Didesni	didis	ADJ	bdv.aukšt.vyr.dgs.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpnn
+2	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	2	2	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+4	cm	cm	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	akmenys	akmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	skaldomi	skaldyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+9	transkutaniškai	transkutaniškai	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s44
+# text = Per mažą pjūvelį šone įdūrus į inkstą, iki reikiamo diametro išplečiamas kanalas ir akmuo tiesiogiai suskaldomas lazeriu ar ultragarsu.
+1	Per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	mažą	mažas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+3	pjūvelį	pjūvelį	X	kt.	_	_	_	_	Multext=X-
+4	šone	šonas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+5	įdūrus	įdurti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+6	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	inkstą	inkstas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	reikiamo	reikiamas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+11	diametro	diametras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	išplečiamas	išplėsti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+13	kanalas	kanalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	akmuo	akmuo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	tiesiogiai	tiesiogiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	suskaldomas	suskaldyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+18	lazeriu	lazeris	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+19	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	ultragarsu	ultragarsas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p18
+# sent_id = LRT_SVE_007-s45
+# text = Kaip išvengti akmenligės atsinaujinimo ir sumažinti šios ligos riziką
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	atsinaujinimo	atsinaujinimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	sumažinti	sumažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+8	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+
+# newpar id = LRT_SVE_007-p19
+# sent_id = LRT_SVE_007-s46
+# text = Mindaugas Raščius atkreipia dėmesį, kad sirgusiems akmenlige net ir po gydymo išlieka ligos atsinaujinimo ir priepuolių pasikartojimo rizika, nes organizmas linkęs iš naujo formuoti konkrementus.
+1	Mindaugas	Mindaugas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+2	Raščius	Raščius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	atkreipia	atkreipti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	sirgusiems	sirgti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanndn-p
+8	akmenlige	akmenligė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+9	net	net	PART	dll.	_	_	_	_	Multext=Qg
+10	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+11	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	išlieka	išlikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	atsinaujinimo	atsinaujinimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	priepuolių	priepuolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	pasikartojimo	pasikartojimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+19	rizika	rizika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	organizmas	organizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+23	linkęs	linkti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+24	iš naujo	iš naujo	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	formuoti	formuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	konkrementus	konkrementas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s47
+# text = Todėl labai svarbu atsakingai laikytis gydytojų pateiktų rekomendacijų, padedančių sumažinti pakartotino akmenų susiformavimo tikimybę.
+1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+4	atsakingai	atsakingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	laikytis	laikytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+6	gydytojų	gydytojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	pateiktų	pateikti	VERB	vksm.dlv.neveik.būt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnngn-p
+8	rekomendacijų	rekomendacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	padedančių	padėti	VERB	vksm.dlv.veik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfanngn-p
+11	sumažinti	sumažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	pakartotino	pakartoti	VERB	vksm.dlv.reik.vyr.vns.K.	Case=Gen|Gender=Masc|Mood=Nec|Number=Sing|VerbForm=Part	_	_	_	Multext=Vgp--smnnngn-p
+13	akmenų	akmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	susiformavimo	susiformavimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+15	tikimybę	tikimybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p20
+# sent_id = LRT_SVE_007-s48
+# text = Pasak gydytojo urologo, dažniausiai pacientams rekomenduojama speciali dieta, druskos ribojimas, didesnis fizinis aktyvumas, esant gretutinėms ligoms – jų gydymas, esant viršsvoriui – svorio mažinimas, pakankamas skysčių ( 2,5 l per parą) vartojimas.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	urologo	urologas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+6	pacientams	pacientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+7	rekomenduojama	rekomenduoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+8	speciali	specialus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+9	dieta	dieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	druskos	druska	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	ribojimas	ribojimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	didesnis	didis	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsnn
+15	fizinis	fizinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+16	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	esant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+19	gretutinėms	gretutinis	ADJ	bdv.nelygin.mot.dgs.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdn
+20	ligoms	liga	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+21	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+22	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+23	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	esant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+26	viršsvoriui	viršsvoris	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+27	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+28	svorio	svoris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	mažinimas	mažinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	pakankamas	pakankamas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+32	skysčių	skystis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+33	(	(	PUNCT	skyr.	_	_	_	_	Multext=Tl
+34	2,5	2,5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+35	l	l	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+36	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+37	parą	para	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+38	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+39	vartojimas	vartojimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s49
+# text = Taip pat patariama vengti didelio skysčio netekimo sportuojant ar lankantis pirtyje.
+1	Taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+2	patariama	patarti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	vengti	vengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	didelio	didelis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+5	skysčio	skystis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	netekimo	netekimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	sportuojant	sportuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	lankantis	lankytis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+10	pirtyje	pirtis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p21
+# sent_id = LRT_SVE_007-s50
+# text = Pašalinus inkstų akmenį, rekomenduojama atlikti jo cheminės sudėties ištyrimą.
+1	Pašalinus	pašalinti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+2	inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	akmenį	akmuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	rekomenduojama	rekomenduoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+6	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	cheminės	cheminis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+9	sudėties	sudėtis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	ištyrimą	ištyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s51
+# text = Nustačius akmens rūšį, gydytojas gali skirti specialią dietą ar gydymą, taip pat pateikti tikslesnes rekomendacijas, padėsiančias išvengti pasikartojančių akmenligės priepuolių.
+1	Nustačius	nustatyti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+2	akmens	akmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	rūšį	rūšis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	specialią	specialus	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+9	dietą	dieta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	gydymą	gydymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+14	pateikti	pateikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	tikslesnes	tikslus	ADJ	bdv.aukšt.mot.dgs.G.	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	_	_	_	Multext=Agcfpan
+16	rekomendacijas	rekomendacija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	padėsiančias	padėti	VERB	vksm.dlv.veik.būs.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpf-pfannan-p
+19	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	pasikartojančių	pasikartoti	VERB	vksm.dlv.sngr.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngy-p
+21	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	priepuolių	priepuolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_007-p22
+# sent_id = LRT_SVE_007-s52
+# text = Baigdamas pokalbį gydytojas urologas pataria, jog sumažinti akmenligės riziką galima ribojant suvartojamų baltymų ir druskos kiekį, geriant pakankamai skysčių, į kasdienį mitybos racioną įtraukiant daugiau citrusinių vaisių, uogų (ypač spanguolių), daržovių.
+1	Baigdamas	baigti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+2	pokalbį	pokalbis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+3	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	urologas	urologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	pataria	patarti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	sumažinti	sumažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	akmenligės	akmenligė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+11	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+12	ribojant	riboti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+13	suvartojamų	suvartoti	VERB	vksm.dlv.neveik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnngn-p
+14	baltymų	baltymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	druskos	druska	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	kiekį	kiekis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	geriant	gerti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+20	pakankamai	pakankamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	skysčių	skystis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+24	kasdienį	kasdienis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+25	mitybos	mityba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	racioną	racionas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+27	įtraukiant	įtraukti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+28	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+29	citrusinių	citrusinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+30	vaisių	vaisius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	uogų	uoga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+33	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+34	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+35	spanguolių	spanguolė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+36	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+37	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+38	daržovių	daržovė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_007-s53
+# text = O laiku diagnozuoti šią ligą ir išvengti grėsmingų situacijų padės reguliari sveikatos patikra ir vidaus organų echoskopijos tyrimas.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	laiku	laiku	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	diagnozuoti	diagnozuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	šią	šis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+5	ligą	liga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	grėsmingų	grėsmingas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+9	situacijų	situacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	padės	padėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+11	reguliari	reguliarus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+12	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	patikra	patikra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	organų	organas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+17	echoskopijos	echoskopija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

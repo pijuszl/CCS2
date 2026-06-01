@@ -1,0 +1,64 @@
+# Scraper sources.
+#
+# Per-source schema:
+#   name:                short identifier; used in output paths data/raw/images/<name>/...
+#   base_url:            site root; used for robots.txt lookup
+#   sublinks:            seed listing pages. Each may contain {pageNumber} which is
+#                        expanded against page_range below.
+#   page_range:          [start, end] inclusive. Optional. Required when any sublink
+#                        contains {pageNumber}.
+#   article_link_pattern: optional regex; only same-domain links matching this regex
+#                        are followed from listing pages (filters out nav / footer).
+#   source_type:         "propaganda" | "neutral"  (drives binary image weak labels)
+#   language:            ISO code; LT by default
+#   rate_limit_s:        minimum seconds between requests to this host
+#   robots_respect:      true to honour robots.txt
+#   max_articles:        optional cap per run
+#   selectors:           optional CSS overrides
+#                          article: CSS for article body
+#                          title:   CSS for headline
+#                          image:   CSS for main image (defaults to og:image)
+#
+# NOTE: neutral sources (LRT, lrytas, Delfi) still need to be added. Once you have
+# their seed URLs, drop them in with source_type: neutral.
+
+sources:
+  # --- Propaganda ---------------------------------------------------------------
+  - name: rubaltic_lt
+    base_url: "https://lt.rubaltic.ru"
+    sublinks:
+      # AJAX-paginated home feed: each page returns 16 article cards across
+      # politics / economics / culture / society / world.
+      - "https://lt.rubaltic.ru/?bxajaxid=cef40ce6ef8ab6f4ca9bd1a06454e0c5&PAGEN_1={pageNumber}"
+    page_range: [1, 30]
+    article_link_pattern: "^https?://lt\\.rubaltic\\.ru/(politics|economics|culture|society|world)/[^/]+/$"
+    source_type: propaganda
+    language: lt
+    rate_limit_s: 2.0
+    robots_respect: true
+    max_articles: 500
+
+  - name: bukimevieningi_lt
+    base_url: "https://bukimevieningi.lt"
+    sublinks:
+      - "https://bukimevieningi.lt/category/politika/page/{pageNumber}/"
+    page_range: [1, 20]
+    # bukimevieningi.lt uses bare permalinks /<slug>/ — slug has many dashes.
+    # We require >=3 dashes to skip /category/*, /YYYY/MM/DD/ archives, and
+    # short static pages like /atsiuskite-naujiena/.
+    article_link_pattern: "^https?://bukimevieningi\\.lt/[a-z0-9]+(-[a-z0-9]+){3,}/$"
+    source_type: propaganda
+    language: lt
+    rate_limit_s: 2.0
+    robots_respect: true
+    max_articles: 500
+
+  # --- Neutral (TODO: replace with real seed URLs) ------------------------------
+  # - name: lrt_lt
+  #   base_url: "https://www.lrt.lt"
+  #   sublinks: ["https://www.lrt.lt/naujienos"]
+  #   source_type: neutral
+  #   language: lt
+  #   rate_limit_s: 1.5
+  #   robots_respect: true
+  #   max_articles: 500

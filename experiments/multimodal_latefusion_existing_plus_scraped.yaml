@@ -1,0 +1,12 @@
+tag: multimodal_latefusion_existing_plus_scraped
+model_kind: multimodal
+dataset:
+  use_scraped: true
+  image_required: true
+train:
+  epochs: 4
+  batch_size: 4
+  grad_accum: 8
+  lr: 2.0e-5
+  modality_dropout: 0.1
+  loss: focal

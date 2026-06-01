@@ -1,0 +1,2251 @@
+# newdoc id = LRT_POL_015
+# newpar id = LRT_POL_015-p1
+# sent_id = LRT_POL_015-s1
+# text = LRT tyrimas.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+3	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s2
+# text = Matijošaičio verslas į Rusiją vežė kare pritaikomas prekes
+1	Matijošaičio	Matijošaitis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+2	verslas	verslas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+5	vežė	vežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	kare	karas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+7	pritaikomas	pritaikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+8	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+
+# newpar id = LRT_POL_015-p2
+# sent_id = LRT_POL_015-s3
+# text = LRT Tyrimų skyriaus duomenys rodo, kad „Vičiūnų“ grupei priklausanti „Plungės kooperatinė prekyba“ daugiau nei dešimt kartų į Rusiją vežė prekes, kurioms taikomos sankcijos.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+5	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	grupei	grupė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+12	priklausanti	priklausyti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+13	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+15	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+16	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+17	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+18	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+19	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	dešimt	dešimt	NUM	sktv.raid.kiek.dgs.	Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mc-p-l-
+21	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+23	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+24	vežė	vežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kurioms	kuris	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+28	taikomos	taikyti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+29	sankcijos	sankcija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s4
+# text = Jos buvo eksportuojamos į Kaliningrado srityje, Sovetske, esančią gamyklą.
+1	Jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	eksportuojamos	eksportuoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+4	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	Kaliningrado	Kaliningradas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+6	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	Sovetske	Sovetskas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	esančią	būti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+11	gamyklą	gamykla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s5
+# text = Iš Lietuvos vežtos ir prekės bei technologijos, priskiriamos aukšto prioriteto kovos lauko prekėms.
+1	Iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	vežtos	vežti	VERB	vksm.dlv.neveik.būt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnngn-p
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	technologijos	technologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	priskiriamos	priskirti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+10	aukšto	aukštas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+11	prioriteto	prioritetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	prekėms	prekė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p3
+# sent_id = LRT_POL_015-s6
+# text = „Vičiūnai“ pripažįsta vežę tokias prekes, tačiau tikina apie sankcijas nežinoję.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+3	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+4	pripažįsta	pripažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	vežę	vežti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+6	tokias	toks	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+7	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	tikina	tikinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+13	nežinoję	nežinoti	VERB	vksm.dlv.neig.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmaynnn-p
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p4
+# sent_id = LRT_POL_015-s7
+# text = Tyrimas taip pat rodo, kad Kauno mero Visvaldo Matijošaičio verslas savo gamyklą Rusijoje per Lietuvą aprūpina įvairiomis europietiškomis detalėmis.
+1	Tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+3	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	Kauno	Kaunas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+7	mero	meras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	Visvaldo	Visvaldas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+9	Matijošaičio	Matijošaitis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+10	verslas	verslas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+12	gamyklą	gamykla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+14	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	Lietuvą	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+16	aprūpina	aprūpinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	įvairiomis	įvairus	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+18	europietiškomis	europietiškas	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+19	detalėmis	detalė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s8
+# text = Iš viso nuo karo pradžios į Rusiją įmonė Plungėje išgabeno krovinių už daugiau nei 5 mln. eurų.
+1	Iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+7	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	Plungėje	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+9	išgabeno	išgabenti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	krovinių	krovinys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+13	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+15	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+16	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p5
+# sent_id = LRT_POL_015-s9
+# text = TYRIMAS TRUMPAI
+1	TYRIMAS	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	TRUMPAI	Trumpa	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+
+# newpar id = LRT_POL_015-p6
+# sent_id = LRT_POL_015-s10
+# text = „Vičiūnų grupei“ priklausanti „Plungės kooperatinė prekyba“ į Rusiją bent 11 kartų vežė į sankcijas įtrauktas prekes.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+3	grupei	grupė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	priklausanti	priklausyti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+8	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+9	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+13	bent	bent	PART	dll.	_	_	_	_	Multext=Qg
+14	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+15	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	vežė	vežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+19	įtrauktas	įtraukti	VERB	vksm.dlv.neveik.būt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnan-p
+20	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p7
+# sent_id = LRT_POL_015-s11
+# text = Tarp vežtų prekių – ir tos, kurios įtrauktos į aukšto prioriteto kovos lauko prekių sąrašą, pavyzdžiui, guoliai, kuriuos Rusija naudoja tankų gamybai.
+1	Tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	vežtų	vežti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+3	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	tos	tas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgfpnn
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+9	įtrauktos	įtraukti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	aukšto	aukštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	prioriteto	prioritetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	guoliai	guolis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	kuriuos	kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+23	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+24	naudoja	naudoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	tankų	tankas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+26	gamybai	gamyba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p8
+# sent_id = LRT_POL_015-s12
+# text = „Vičiūnų grupė“ pripažįsta vežusi tokias prekes, tačiau tikina apie sankcijas nežinojusi.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+3	grupė	grupė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	pripažįsta	pripažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	vežusi	vežti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannnn-p
+7	tokias	toks	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+8	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	tikina	tikinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+14	nežinojusi	nežinoti	VERB	vksm.dlv.neig.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-sfaynnn-p
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s13
+# text = Esą eksportas nutrauktas vos sužinojus apie ribojimus, pradėtas vidinis tyrimas.
+1	Esą	esą	PART	dll.	_	_	_	_	Multext=Qg
+2	eksportas	eksportas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	nutrauktas	nutraukti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+4	vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+5	sužinojus	sužinoti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+6	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	ribojimus	ribojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	pradėtas	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	vidinis	vidinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+11	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p9
+# sent_id = LRT_POL_015-s14
+# text = Plungės įmonė į Rusiją vežė švedų guolių gamintojos SKF guolius.
+1	Plungės	Plungė	PROPN	dkt.tikr.pvrd.vyr.dgs.Š.	Case=Voc|Gender=Masc|NameType=Sur|Number=Plur	_	_	_	Multext=Npmpvns
+2	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+5	vežė	vežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	švedų	švedas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	guolių	guolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	gamintojos	gamintoja	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	SKF	SKF	X	kt.	_	_	_	_	Multext=X-
+10	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s15
+# text = Nors šis koncernas pats iš Rusijos pasitraukė dar karo pradžioje.
+1	Nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	koncernas	koncernas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+5	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+7	pasitraukė	pasitraukti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+8	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+9	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	pradžioje	pradžia	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p10
+# sent_id = LRT_POL_015-s16
+# text = „Plungės kooperatinė prekyba“ buvo viena įmonių, dėl kurių eksporto į Rusiją Lietuvą įspėjo Europos Komisija.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+4	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+6	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+8	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	kurių	kuris	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+12	eksporto	eksportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+15	Lietuvą	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+16	įspėjo	įspėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+18	Komisija	komisija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p11
+# sent_id = LRT_POL_015-s17
+# text = Tada pranešta apie 2023 metų pirmą pusmetį į trečiąsias šalis vežtas, tačiau Rusijoje atsidūrusias kovos lauko prekes.
+1	Tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	pranešta	pranešti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+3	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	pirmą	pirmas	ADJ	sktv.raid.kelint.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsaln
+7	pusmetį	pusmetis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+8	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	trečiąsias	trečias	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+10	šalis	šalis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+11	vežtas	vežti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+15	atsidūrusias	atsidurti	VERB	vksm.dlv.sngr.veik.būt-k.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannay-p
+16	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p12
+# sent_id = LRT_POL_015-s18
+# text = Rusijoje iki šiol veikia septynios su „Vičiūnų grupe“ susijusios įmonės, o Kazachstane, kuris yra muitų sąjungoje su Rusija, – prekybos bendrovė „Vičiūnai-Kazachstan“.
+1	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+2	iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	septynios	septyni	NUM	sktv.raid.kiek.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpnl-
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+8	grupe	grupė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+9	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+10	susijusios	susyti	VERB	vksm.dlv.veik.būt-k.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannnn-p
+11	įmonės	įmonė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	Kazachstane	Kazachstanas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+17	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	muitų	muitas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	sąjungoje	sąjunga	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+20	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+21	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Įn.	Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsing
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+24	prekybos	prekyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	bendrovė	bendrovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+26	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+28	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+29	Kazachstan	Kazachstan	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+30	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p13
+# sent_id = LRT_POL_015-s19
+# text = Žemaitijoje įsikūrusi „Plungės kooperatinė prekyba“ priklauso „Vičiūnų“ įmonių grupei.
+1	Žemaitijoje	Žemaitija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+2	įsikūrusi	įsikurti	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannny-p
+3	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+6	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	priklauso	priklausyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+13	grupei	grupė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s20
+# text = Bendrovės pagrindinė veikla – maisto produktų iš surimio gamyba.
+1	Bendrovės	bendrovė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	pagrindinė	pagrindinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+3	veikla	veikla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	produktų	produktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	surimio	surimis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	gamyba	gamyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p14
+# sent_id = LRT_POL_015-s21
+# text = LRT tyrimas rodo, kad ši „Vičiūnų grupės“ įmonė pasitelkiama ir eksportui į Rusiją – aprūpinti Kaliningrado srityje, Sovetsko mieste, esančią gamyklą „Vičiūnai-Rus“ įvairia įranga, detalėmis, etiketėmis.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+9	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	pasitelkiama	pasitelkti	VERB	vksm.dlv.sngr.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnny-p
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	eksportui	eksportas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+15	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+16	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+17	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+18	aprūpinti	aprūpinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	Kaliningrado	Kaliningradas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+20	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	Sovetsko	Sovetskas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+23	mieste	miestas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	esančią	būti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+26	gamyklą	gamykla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+27	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+29	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+30	Rus	rusti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+31	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+32	įvairia	įvairus	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+33	įranga	įranga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	detalėmis	detalė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	etiketėmis	etiketė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+38	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p15
+# sent_id = LRT_POL_015-s22
+# text = Eksportas į Rusiją iš Lietuvos nestojo ir Rusijai pradėjus karą Ukrainoje.
+1	Eksportas	eksportas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+4	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	nestojo	nestoti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	Rusijai	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+9	pradėjus	pradėti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+10	karą	karas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s23
+# text = O tarp eksportuotų prekių – ir tos, kurios įtrauktos į sankcijas bei priskiriamos kovos lauko prekėms.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	eksportuotų	eksportuotas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+4	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	tos	tas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgfpnn
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+10	įtrauktos	įtraukti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+11	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+13	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	priskiriamos	priskirti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+15	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	prekėms	prekė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p16
+# sent_id = LRT_POL_015-s24
+# text = Kas yra kovos lauko prekės?
+1	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+6	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_POL_015-p17
+# sent_id = LRT_POL_015-s25
+# text = Plečiant sankcijas Rusijai Europos Sąjunga (ES) kartu su partnerėmis Jungtinėmis Amerikos Valstijomis (JAV), Jungtine Karalyste ir Japonija pernai paskelbė bendrą prioritetinių kovos lauke randamų prekių sąrašą.
+1	Plečiant	plėsti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+3	Rusijai	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+4	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	Sąjunga	sąjunga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+8	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+9	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+11	partnerėmis	partnerė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+12	Jungtinėmis	jungtinis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+13	Amerikos	Amerika	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+14	Valstijomis	valstija	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+15	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+16	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+17	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	Jungtine	jungtinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+20	Karalyste	karalystė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	Japonija	Japonija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+23	pernai	pernai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	bendrą	bendras	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+26	prioritetinių	prioritetinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+27	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	lauke	lauke	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+29	randamų	rasti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+30	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+31	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p18
+# sent_id = LRT_POL_015-s26
+# text = Tai yra prekių, kurios reikalingos ginkluotės gamybai, sąrašas.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kurios	kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+6	reikalingos	reikalingas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+7	ginkluotės	ginkluotė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	gamybai	gamyba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	sąrašas	sąrašas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s27
+# text = Šias prekes draudžiama ne tik tiekti, eksportuoti, bet ir gabenti tranzitu per Rusiją.
+1	Šias	šis	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+2	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+3	draudžiama	drausti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+6	tiekti	tiekti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	eksportuoti	eksportuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+12	gabenti	gabenti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	tranzitu	tranzitas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+14	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s28
+# text = Taip siekiama apriboti Rusijos galimybes tobulinti kariuomenę ir technologijas, plėtoti gynybos ir saugumo sektorius.
+1	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	siekiama	siekti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	apriboti	apriboti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	galimybes	galimybė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+6	tobulinti	tobulinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	kariuomenę	kariuomenė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	technologijas	technologija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	plėtoti	plėtoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	gynybos	gynyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	saugumo	saugumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	sektorius	sektorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p19
+# sent_id = LRT_POL_015-s29
+# text = „Sąrašas yra sudarytas remiantis informacija, kokie ginkluotės komponentai randami karo lauke Ukrainoje“, – paaiškina Arūnas Adomėnas, Lietuvos muitinės Veiklos ir netarifinių priemonių kontrolės skyriaus vyresnysis patarėjas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Sąrašas	sąrašas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	sudarytas	sudaryti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+5	remiantis	remtis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+6	informacija	informacija	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kokie	koks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+9	ginkluotės	ginkluotė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	komponentai	komponentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+11	randami	rasti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+12	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	lauke	laukas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+14	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+15	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+18	paaiškina	paaiškinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	Arūnas	Arūnas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+20	Adomėnas	Adomėnas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+23	muitinės	muitinė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	Veiklos	veikla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	netarifinių	netarifinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+27	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+28	kontrolės	kontrolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+29	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+30	vyresnysis	vyresnysis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+31	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p20
+# sent_id = LRT_POL_015-s30
+# text = Šiuo metu minėtame sąraše yra 50 prekių, kurios yra itin svarbios Rusijos ginkluotės sistemai.
+1	Šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	minėtame	minėti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+4	sąraše	sąrašas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+5	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+10	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	itin	itin	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	svarbios	svarbus	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+13	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+14	ginkluotės	ginkluotė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	sistemai	sistema	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s31
+# text = Kai kurių prekių eksportui draudimai pritaikyti jau karo pradžioje, kitoms – vėliau, vis plečiant sankcijas.
+1	Kai kurių	kai kuris	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+2	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	eksportui	eksportas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+4	draudimai	draudimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+5	pritaikyti	pritaikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	pradžioje	pradžia	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kitoms	kitas	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+11	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+12	vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	plečiant	plėsti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+16	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p21
+# sent_id = LRT_POL_015-s32
+# text = LRT Tyrimų skyriaus turimi dokumentai rodo, kad „Plungės kooperatinė prekyba“ į Rusiją eksportavo guolius, naudojamus tankuose, šviesai jautrius puslaidininkius įtaisus, elektrinius komponentus bei kitas į sankcijas įtrauktas prekes.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	turimi	turėti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+5	dokumentai	dokumentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+11	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+12	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+16	eksportavo	eksportuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	naudojamus	naudoti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+20	tankuose	tankas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	šviesai	šviesa	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+23	jautrius	jautrus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+24	puslaidininkius	puslaidininkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+25	įtaisus	įtaisas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	elektrinius	elektrinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+28	komponentus	komponentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+29	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+31	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+32	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+33	įtrauktas	įtraukti	VERB	vksm.dlv.neveik.būt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnan-p
+34	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+35	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p22
+# sent_id = LRT_POL_015-s33
+# text = Be to, LRT šaltinių duomenimis, „Plungės kooperatinė prekyba“ buvo viena įmonių, dėl kurių eksporto į Rusiją Lietuva gavo įspėjimą iš Europos Komisijos.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+4	šaltinių	šaltinis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	Plungės	Plungė	PROPN	dkt.tikr.pvrd.vyr.dgs.Š.	Case=Voc|Gender=Masc|NameType=Sur|Number=Plur	_	_	_	Multext=Npmpvns
+9	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+10	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+14	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	kurių	kuris	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+18	eksporto	eksportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+21	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+22	gavo	gauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	įspėjimą	įspėjimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+24	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+25	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+26	Komisijos	komisija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s34
+# text = Lietuva buvo įspėta apie 2023 metų sausį–liepą į trečiąsias šalis eksportuotas kovos lauko prekes, kurios atsidūrė Rusijoje.
+1	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	įspėta	įspėti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+4	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+6	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	sausį	sausis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	–	–	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+9	liepą	liepa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	trečiąsias	trečias	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+12	šalis	šalis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+13	eksportuotas	eksportuotas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+14	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+19	atsidūrė	atsidurti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+20	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p23
+# sent_id = LRT_POL_015-s35
+# text = Vežta iš Rusijos pasitraukusio gamintojo produkcija
+1	Vežta	vežti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+2	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	pasitraukusio	pasitraukti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smanngy-p
+5	gamintojo	gamintojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	produkcija	produkcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+
+# newpar id = LRT_POL_015-p24
+# sent_id = LRT_POL_015-s36
+# text = 2022 metų balandį, keli mėnesiai po Rusijos plataus masto puolimo Ukrainoje pradžios, didžiausia pasaulyje rutulinių guolių gamintoja Švedijos įmonė SKF pranešė nutraukianti veiklą Rusijoje.
+1	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+2	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	balandį	balandis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	keli	keli	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+6	mėnesiai	mėnuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	plataus	platus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+10	masto	mastas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	puolimo	puolimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+13	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	didžiausia	didis	ADJ	bdv.aukšč.mot.vns.V.	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Multext=Agsfsnn
+16	pasaulyje	pasaulis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+17	rutulinių	rutulinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+18	guolių	guolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	gamintoja	gamintoja	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+20	Švedijos	Švedija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+21	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+22	SKF	SKF	X	kt.	_	_	_	_	Multext=X-
+23	pranešė	pranešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+24	nutraukianti	nutraukti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+25	veiklą	veikla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+26	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p25
+# sent_id = LRT_POL_015-s37
+# text = „Padarėme išvadą, kad nebegalime tęsti veiklos Rusijoje, nes nėra pagrindo ir stabilumo mūsų verslui“, – tada buvo sakoma SKF generalinio direktoriaus Rickardo Gustafsono pranešime.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Padarėme	padaryti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+3	išvadą	išvada	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	nebegalime	nebegalėti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--y--ni-
+7	tęsti	tęsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	veiklos	veikla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+13	pagrindo	pagrindas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	stabilumo	stabilumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+17	verslui	verslas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+18	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	sakoma	sakyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+24	SKF	SKF	X	kt.	_	_	_	_	Multext=X-
+25	generalinio	generalinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+26	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	Rickardo	Rickardo	X	kt.	_	_	_	_	Multext=X-
+28	Gustafsono	Gustafsono	X	kt.	_	_	_	_	Multext=X-
+29	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p26
+# sent_id = LRT_POL_015-s38
+# text = SKF prekių ženklas aktualus ir „Vičiūnų“ eksporto istorijoje.
+1	SKF	SKF	X	kt.	_	_	_	_	Multext=X-
+2	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	ženklas	ženklas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	aktualus	aktualus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+8	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+9	eksporto	eksportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	istorijoje	istorija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s39
+# text = Švedų koncerno gaminiai buvo vieni tų, kuriuos „Plungės kooperatinė prekyba“ eksportavo į Rusiją.
+1	Švedų	švedas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	koncerno	koncernas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	gaminiai	gaminys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	vieni	vienas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+6	tų	tas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpgn
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kuriuos	kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+11	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+12	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	eksportavo	eksportuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+16	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s40
+# text = Nuo karo pradžios – net 11 kartų.
+1	Nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	net	net	PART	dll.	_	_	_	_	Multext=Qg
+6	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s41
+# text = Iš jų 5 kartus jau po to, kai konkretūs prekių kodai buvo įtraukti į ES sankcijų sąrašus.
+1	Iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+3	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+4	kartus	kartas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	konkretūs	konkretus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+10	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	kodai	kodas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	įtraukti	įtraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+16	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+17	sąrašus	sąrašas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p27
+# sent_id = LRT_POL_015-s42
+# text = Tokią informacija LRT Tyrimų skyrius surinko, remdamasis sistema „ImportGenius“.
+1	Tokią	toks	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+2	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+4	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	skyrius	skyrius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	surinko	surinkti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	remdamasis	remtis	VERB	vksm.pusd.sngr.vyr.vns.	Gender=Masc|Number=Sing|Reflex=Yes|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--y--
+9	sistema	sistema	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+10	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	ImportGenius	ImportGenius	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+12	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s43
+# text = Joje skelbiami duomenys iš Rusijos muitinių pagal prekių patekimo į Rusiją faktą.
+1	Joje	jis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+2	skelbiami	skelbti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+3	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	muitinių	muitinė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+9	patekimo	patekimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+12	faktą	faktas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s44
+# text = Konkrečiai „Plungės kooperatinė prekyba“ į Rusiją gabeno SKF guolius.
+1	Konkrečiai	konkrečiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+5	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+6	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+9	gabeno	gabenti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	SKF	SKF	X	kt.	_	_	_	_	Multext=X-
+11	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p28
+# sent_id = LRT_POL_015-s45
+# text = Guoliai – viena esminių bet kokio mechanizmo dalių.
+1	Guoliai	guolis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+3	viena	vienas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+4	esminių	esminis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+5	bet kokio	bet koks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+6	mechanizmo	mechanizmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	dalių	dalis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s46
+# text = Šie mechaniniai įtaisai ypač reikalingi Rusijos karinei pramonei.
+1	Šie	šis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+2	mechaniniai	mechaninis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+3	įtaisai	įtaisas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	reikalingi	reikalingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+6	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+7	karinei	karinis	ADJ	bdv.nelygin.mot.vns.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsdn
+8	pramonei	pramonė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s47
+# text = Jie naudojami sunkiasvorėms transporto priemonėms, taigi ir tankams, gaminti.
+1	Jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+2	naudojami	naudoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+3	sunkiasvorėms	sunkiasvoris	ADJ	bdv.nelygin.mot.dgs.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdn
+4	transporto	transportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	priemonėms	priemonė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	taigi	taigi	PART	dll.	_	_	_	_	Multext=Qg
+8	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+9	tankams	tankas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	gaminti	gaminti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p29
+# sent_id = LRT_POL_015-s48
+# text = Rusija guolių trūkumą pajuto dar prieš karą Ukrainoje – per COVID-19 pandemiją, kai pasaulyje stojo gamyklų veikla, mat šalis agresorė rutulinius guolius importuodavo iš JAV ir Europos.
+1	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	guolių	guolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	trūkumą	trūkumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	pajuto	pajusti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+6	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	karą	karas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+8	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+9	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	COVID-19	COVID-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+12	pandemiją	pandemija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	pasaulyje	pasaulis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+16	stojo	stoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	gamyklų	gamykla	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	veikla	veikla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	mat	mat	PART	dll.	_	_	_	_	Multext=Qg
+21	šalis	šalis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+22	agresorė	agresorė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+23	rutulinius	rutulinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+24	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+25	importuodavo	importuoti	VERB	vksm.asm.tiesiog.būt-d.3.	Aspect=Hab|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgmq3---n--ni-
+26	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+27	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgng
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p30
+# sent_id = LRT_POL_015-s49
+# text = Rusijai užpuolus Ukrainą ir dėl to sulaukus sankcijų, situacija tapo dar sudėtingesnė.
+1	Rusijai	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+2	užpuolus	užpulti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+3	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	sulaukus	sulaukti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+7	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	situacija	situacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	tapo	tapti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+12	sudėtingesnė	sudėtingas	ADJ	bdv.aukšt.mot.vns.V.	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcfsnn
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s50
+# text = Pernai atliktas Strateginių ir tarptautinių studijų centro Vašingtone tyrimas atskleidė, kad Rusija neturi pakankamai guolių, kad išlaikytų nuolatinę naujų transporto priemonių gamybą.
+1	Pernai	pernai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	atliktas	atlikti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+3	Strateginių	strateginis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	tarptautinių	tarptautinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+6	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	Vašingtone	Vašingtonas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+9	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	atskleidė	atskleisti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+14	neturi	neturėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+15	pakankamai	pakankamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	guolių	guolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	išlaikytų	išlaikyti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+20	nuolatinę	nuolatinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+21	naujų	naujas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+22	transporto	transportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	gamybą	gamyba	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p31
+# sent_id = LRT_POL_015-s51
+# text = ES dalį guolių rūšių į sankcijų sąrašą įtraukė dar 2022 m. liepą, o 2023 m. vasarį sankcijų sąrašą dar labiau praplėtė.
+1	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	dalį	dalis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	guolių	guolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	rūšių	rūšis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+8	įtraukė	įtraukti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+10	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	liepą	liepa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	vasarį	vasaris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+18	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+19	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+21	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+22	praplėtė	praplėsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s52
+# text = ES ir partnerės JAV, Jungtinė Karalystė ir Japonija guolius įtraukė ir į kovos lauke randamų prekių sąrašą.
+1	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	partnerės	partnerė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	Jungtinė	jungtinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+7	Karalystė	karalystė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	Japonija	Japonija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+10	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+11	įtraukė	įtraukti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	lauke	lauke	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	randamų	rasti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+17	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p32
+# sent_id = LRT_POL_015-s53
+# text = ES, įvesdama sankcijas guoliams, numatė išimtis sutartims, pasirašytoms iki 2023 m. vasario 26 d. Bet kokiems papildomiems susitarimams įvykdyti laikas buvo pratęstas dar mėnesiu.
+1	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	įvesdama	įvesti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sf-n--n--
+4	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+5	guoliams	guolis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	numatė	numatyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	išimtis	išimtis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+9	sutartims	sutartis	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	pasirašytoms	pasirašyti	VERB	vksm.dlv.sngr.neveik.būt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnndy-p
+12	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+15	vasario	vasaris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	26	26	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	d.	d.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+18	Bet kokiems	bet koks	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+19	papildomiems	papildomas	ADJ	bdv.nelygin.vyr.dgs.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpdn
+20	susitarimams	susitarimas	NOUN	dkt.sngr.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Reflex=Yes	_	_	_	Multext=Ncmpdy-
+21	įvykdyti	įvykdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+22	laikas	laikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+23	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+24	pratęstas	pratęsti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+25	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+26	mėnesiu	mėnuo	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p33
+# sent_id = LRT_POL_015-s54
+# text = Vis dėlto LRT Tyrimų skyriaus turimi eksporto dokumentai rodo, kad „Plungės kooperatinė prekyba“ guolius į Rusiją eksportavo iki pat 2023 metų birželio pabaigos.
+1	Vis dėlto	vis dėlto	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+3	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	turimi	turėti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+6	eksporto	eksportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	dokumentai	dokumentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+8	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+13	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+14	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+15	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+16	guolius	guolis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+19	eksportavo	eksportuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	iki pat	iki pat	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+22	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	birželio	birželis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	pabaigos	pabaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s55
+# text = Tai – naujausi duomenys, kuriuos pateikia minėta „ImportGenius“ sistema.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+3	naujausi	naujas	ADJ	bdv.aukšč.vyr.dgs.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpnn
+4	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kuriuos	kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+7	pateikia	pateikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	minėta	minėti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	ImportGenius	ImportGenius	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	sistema	sistema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p34
+# sent_id = LRT_POL_015-s56
+# text = Visų prekių gavėjas – Rusijoje, Kaliningrado srityje, Sovetske, veikianti „Vičiūnų“ gamykla „Vičiūnai-Rus“.
+1	Visų	visas	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+2	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	gavėjas	gavėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	Kaliningrado	Kaliningradas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+8	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	Sovetske	Sovetskas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	veikianti	veikti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+13	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+15	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+16	gamykla	gamykla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+19	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+20	Rus	rusti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+21	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p35
+# sent_id = LRT_POL_015-s57
+# text = LRT Tyrimų skyriaus išanalizuoti duomenys rodo, kad į Rusiją vežti ne tik guoliai, bet ir kitos kontroliuojamos dvejopos paskirties prekės.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	išanalizuoti	išanalizuoti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+5	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+11	vežti	vežti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+13	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+14	guoliai	guolis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+18	kitos	kitas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+19	kontroliuojamos	kontroliuoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+20	dvejopos	dvejopas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+21	paskirties	paskirtis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s58
+# text = Pagal Rusijos muitinėse deklaruotus prekių kodus tai – šviesai jautrūs puslaidininkiai įtaisai, elektriniai komponentai.
+1	Pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	muitinėse	muitinė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+4	deklaruotus	deklaruoti	VERB	vksm.dlv.neveik.būt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnan-p
+5	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+6	kodus	kodas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	šviesai	šviesa	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+10	jautrūs	jautrus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+11	puslaidininkiai	puslaidininkis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	įtaisai	įtaisas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	elektriniai	elektrinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+15	komponentai	komponentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s59
+# text = Šios prekės taip pat priskiriamos aukšto prioriteto kovos lauko prekėms.
+1	Šios	šis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+2	prekės	prekė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+4	priskiriamos	priskirti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+5	aukšto	aukštas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+6	prioriteto	prioritetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	lauko	laukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	prekėms	prekė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p36
+# sent_id = LRT_POL_015-s60
+# text = Tarp kitų vežtų prekių – ir įvairūs valdikliai.
+1	Tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	kitų	kitas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+3	vežtų	vežti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+4	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	įvairūs	įvairus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	valdikliai	valdiklis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p37
+# sent_id = LRT_POL_015-s61
+# text = LRT Tyrimų skyriaus skaičiavimais, „Plungės kooperatinė prekyba“ iš viso 11 kartų skirtingomis datomis į Rusiją išgabeno draudžiamas prekes.
+1	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	skyriaus	skyrius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	skaičiavimais	skaičiavimas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Plungės	Plungė	PROPN	dkt.tikr.pvrd.vyr.dgs.Š.	Case=Voc|Gender=Masc|NameType=Sur|Number=Plur	_	_	_	Multext=Npmpvns
+8	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+9	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	skirtingomis	skirtingas	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+15	datomis	data	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+16	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+18	išgabeno	išgabenti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	draudžiamas	drausti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnan-p
+20	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p38
+# sent_id = LRT_POL_015-s62
+# text = Kaltę verčia muitinei
+1	Kaltę	kaltė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+2	verčia	versti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	muitinei	muitinė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+
+# newpar id = LRT_POL_015-p39
+# sent_id = LRT_POL_015-s63
+# text = „Vičiūnų grupės“ atstovai LRT atsiųstame atsakyme pripažįsta, kad į Rusiją vežė prekes, kurioms taikomos sankcijos, tačiau tikina apie tai nežinoję.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+3	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	atstovai	atstovas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	atsiųstame	atsiųsti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+8	atsakyme	atsakymas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+9	pripažįsta	pripažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+14	vežė	vežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	prekes	prekė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kurioms	kuris	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+18	taikomos	taikyti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+19	sankcijos	sankcija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	tikina	tikinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+24	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+25	nežinoję	nežinoti	VERB	vksm.dlv.neig.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmaynnn-p
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s64
+# text = Kaltę jie verčia Lietuvos muitinei.
+1	Kaltę	kaltė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+2	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	verčia	versti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	muitinei	muitinė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p40
+# sent_id = LRT_POL_015-s65
+# text = „Atsarginės dalys, skirtos maisto gamybos įrengimams aptarnauti, istoriškai yra perkamos Lietuvoje ir vežamos centralizuotai visoms „Vičiūnų“ įmonių grupės gamykloms, todėl šis techninis eksportas tebevyko ir į Rusiją.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Atsarginės	atsarginis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+3	dalys	dalis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	skirtos	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+6	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	gamybos	gamyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	įrengimams	įrengimas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+9	aptarnauti	aptarnauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	istoriškai	istoriškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	perkamos	pirkti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+14	Lietuvoje	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	vežamos	vežti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+17	centralizuotai	centralizuotai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	visoms	visas	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+19	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+21	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+22	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+23	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	gamykloms	gamykla	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+27	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+28	techninis	techninis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+29	eksportas	eksportas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+30	tebevyko	tebevykti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+31	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+33	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s66
+# text = Maisto gamybos įrengimų veiklai palaikyti skirtos dalys dažniausiai tiekiamos sukomplektuotais mazgais, todėl nei mes, nei Lietuvos muitinė nežinojom apie atskiroms komplektacijos dalims paskirtas sankcijas.
+1	Maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	gamybos	gamyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	įrengimų	įrengimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	veiklai	veikla	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+5	palaikyti	palaikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	skirtos	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+7	dalys	dalis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+8	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+9	tiekiamos	tiekti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+10	sukomplektuotais	sukomplektuoti	VERB	vksm.dlv.neveik.būt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnin-p
+11	mazgais	mazgas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pg-pnn
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+19	muitinė	muitinė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+20	nežinojom	nežinoti	VERB	vksm.asm.neig.tiesiog.būt-k.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past|Variant=Short|VerbForm=Fin	_	_	_	Multext=Vgma1p--y--ni-
+21	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+22	atskiroms	atskiras	ADJ	bdv.nelygin.mot.dgs.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdn
+23	komplektacijos	komplektacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	dalims	dalis	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+25	paskirtas	paskirti	VERB	vksm.dlv.neveik.būt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnan-p
+26	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s67
+# text = Iškart, kai buvome informuoti, sustabdėme procesą ir pradėjome vidinį tyrimą“, – rašoma įmonės atsakyme raštu.
+1	Iškart	iškart	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	buvome	būti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+5	informuoti	informuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	sustabdėme	sustabdyti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+8	procesą	procesas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	pradėjome	pradėti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+11	vidinį	vidinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+12	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+13	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+16	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+17	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	atsakyme	atsakymas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+19	raštu	raštas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p41
+# sent_id = LRT_POL_015-s68
+# text = Įmonių grupė, paklausta, kada ir kieno buvo informuota apie sankcijas, taip pat kada sustabdė procesą, atsakymo taip ir nebeatsiuntė.
+1	Įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+2	grupė	grupė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	paklausta	paklausti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-sfpnnnn-p
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kada	kada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	kieno	kas	PRON	įv.savyb.K.	Case=Gen|Poss=Yes	_	_	_	Multext=Pg--gn
+9	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	informuota	informuoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	sankcijas	sankcija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+15	kada	kada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	sustabdė	sustabdyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	procesą	procesas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	atsakymo	atsakymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+22	nebeatsiuntė	nebeatsiųsti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p42
+# sent_id = LRT_POL_015-s69
+# text = Tuo metu Lietuvos muitinės atstovas A. Adomėnas teigia, kad sankcijų žinojimas – pačių įmonių atsakomybė.
+1	Tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	muitinės	muitinė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	atstovas	atstovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+7	Adomėnas	Adomėnas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+8	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	žinojimas	žinojimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	pačių	pats	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+15	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	atsakomybė	atsakomybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p43
+# sent_id = LRT_POL_015-s70
+# text = „ES reglamentas, nustatantis ribojamąsias priemones, yra tiesiogiai taikomas visose valstybėse narėse, tiek ir Lietuvoje.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+3	reglamentas	reglamentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	nustatantis	nustatyti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+6	ribojamąsias	riboti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+7	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	tiesiogiai	tiesiogiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+12	visose	visas	PRON	įv.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpln
+13	valstybėse	valstybė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+14	narėse	narė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpln-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+18	Lietuvoje	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s71
+# text = Jis galioja visiems asmenims.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	galioja	galioti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	visiems	visas	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+4	asmenims	asmuo	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s72
+# text = Čia jau įmonės, besiverčiančios importu ir eksportu, privalo žinoti tuos įstatymus“, – teigė A. Adomėnas.
+1	Čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	besiverčiančios	besiversti	VERB	vksm.dlv.sngr.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannny-p
+6	importu	importas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	eksportu	eksportas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	privalo	privalėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	žinoti	žinoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	tuos	tas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+13	įstatymus	įstatymas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+14	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+17	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+18	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+19	Adomėnas	Adomėnas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p44
+# sent_id = LRT_POL_015-s73
+# text = Jo aiškinimu, Lietuvos muitinė krovinį su prekėmis, kurioms taikomos sankcijos, galėjo praleisti tik tokiu atveju, jei prekės į Rusiją buvo eksportuojamos pasitelkiant trečiąsias šalis.
+1	Jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+2	aiškinimu	aiškinimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	muitinė	muitinė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	krovinį	krovinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+8	prekėmis	prekė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kurioms	kuris	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+11	taikomos	taikyti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+12	sankcijos	sankcija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	galėjo	galėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	praleisti	praleisti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+18	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+23	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+24	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	eksportuojamos	eksportuoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+26	pasitelkiant	pasitelkti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+27	trečiąsias	trečias	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+28	šalis	šalis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p45
+# sent_id = LRT_POL_015-s74
+# text = „Lietuvos muitinė turi rizikos vertinimo sistemas, kurios veikia pagal prekės kodus, pagal kitus kriterijus, dažniausiai kai įvedami apribojimai tam tikroms prekėms, įmonė sukuria rizikos profilį, kuris veikia pagal kodą <...>.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	muitinė	muitinė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	rizikos	rizika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	vertinimo	vertinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	sistemas	sistema	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+10	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	kodus	kodas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+16	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+17	kriterijus	kriterijus	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+20	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	įvedami	įvesti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+22	apribojimai	apribojimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+23	tam tikroms	tam tikras	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+24	prekėms	prekė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+27	sukuria	sukurti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+28	rizikos	rizika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+29	profilį	profilis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+32	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+33	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+34	kodą	kodas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+35	<	<	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Xh
+36	...	...	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Ti
+37	>	>	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Xh
+38	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s75
+# text = Kai įsigaliojo [draudimai], turėjo suveikti rizikos profilis: muitinės pareigūnas gauna instrukciją, kaip reikia tikrinti.
+1	Kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	įsigaliojo	įsigalioti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+3	[	[	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+4	draudimai	draudimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+5	]	]	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	turėjo	turėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	suveikti	suveikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	rizikos	rizika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	profilis	profilis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+12	muitinės	muitinė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	pareigūnas	pareigūnas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	gauna	gauti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	instrukciją	instrukcija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	tikrinti	tikrinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s76
+# text = Jeigu yra nustatoma, kad taikomi draudimai, neišleidžia prekių eksportuoti“, – paaiškino A. Adomėnas.
+1	Jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	nustatoma	nustatyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	taikomi	taikyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+7	draudimai	draudimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	neišleidžia	neišleisti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+10	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	eksportuoti	eksportuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	paaiškino	paaiškinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Adomėnas	Adomėnas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p46
+# sent_id = LRT_POL_015-s77
+# text = Eksportas nestojo
+1	Eksportas	eksportas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	nestojo	nestoti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+
+# newpar id = LRT_POL_015-p47
+# sent_id = LRT_POL_015-s78
+# text = Turimi duomenys rodo, kad nuo karo pradžios „Plungės kooperatinė prekyba“ iš viso į Rusiją išvežė prekių už daugiau nei 5 mln. eurų.
+1	Turimi	turėti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+2	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+11	kooperatinė	kooperatinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+12	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+16	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+17	išvežė	išvežti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+18	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+19	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+21	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p48
+# sent_id = LRT_POL_015-s79
+# text = Kaip nurodoma deklaracijose, tai daugiausia atsarginės dalys anksčiau importuotai įrangai.
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	nurodoma	nurodyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	deklaracijose	deklaracija	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpln-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	daugiausia	daug	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+7	atsarginės	atsarginis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+8	dalys	dalis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+9	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+10	importuotai	importuotas	ADJ	bdv.nelygin.mot.vns.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsdn
+11	įrangai	įranga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s80
+# text = Nuo karo pradžios iš Lietuvos į Rusiją „Vičiūnų“ grupės įmonė išgabeno beveik 1 300 tokių dalių.
+1	Nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+13	išgabeno	išgabenti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+14	beveik	beveik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	1 300	1 300	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	tokių	toks	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+17	dalių	dalis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p49
+# sent_id = LRT_POL_015-s81
+# text = Gabentos pasaulyje žinomų gamintojų, tokių kaip „Siemens“, „Multivac“, „Festo“, „Motovario“, „Schneider Electric“ ir kt. detalės.
+1	Gabentos	gabenti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+2	pasaulyje	pasaulis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+3	žinomų	žinomas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+4	gamintojų	gamintojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	tokių	toks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+7	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Siemens	Siemens	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+10	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	Multivac	Multivac	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+14	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+17	Festo	festas	NOUN	dkt.vyr.vns.K.substnd.	Case=Gen|Gender=Masc|Number=Sing|Style=Slng	_	_	_	SpaceAfter=No|Multext=Nnmsgn-
+18	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	Motovario	Motovario	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+22	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+25	Schneider	Schneider	X	kt.	_	_	_	_	Multext=X-
+26	Electric	Electric	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+27	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	kt.	kt.	PRON	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+30	detalės	detalė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p50
+# sent_id = LRT_POL_015-s82
+# text = Vienas iš „Plungės kooperatinės prekybos“ akcininkų Liudas Skierus teigė, kad eksportas jau nutrauktas.
+1	Vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	Plungės	Plungė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	kooperatinės	kooperatinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+6	prekybos	prekyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+7	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	akcininkų	akcininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	Liudas	Liudas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+10	Skierus	Skierus	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+11	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	eksportas	eksportas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+15	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	nutrauktas	nutraukti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s83
+# text = „Mes eksportavom.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+3	eksportavom	eksportuoti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Past|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1p--n--ni-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s84
+# text = Mes dabar jau nebeeksportuojam.
+1	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+2	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nebeeksportuojam	nebeeksportuoti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--y--ni-
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s85
+# text = Mes nebedarom“, – LRT Tyrimų skyriui teigė verslininkas.
+1	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+2	nebedarom	nebedaryti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--y--ni-
+3	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	skyriui	skyrius	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+9	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	verslininkas	verslininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p51
+# sent_id = LRT_POL_015-s86
+# text = „Paskutinis buvo po naujų metų“, – prekių vežimo į Rusiją datą patikslino L. Skierus.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Paskutinis	paskutinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+3	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	naujų	naujas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+6	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+7	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	vežimo	vežimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	Rusiją	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+14	datą	data	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+15	patikslino	patikslinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	L.	L.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Skierus	Skierus	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p52
+# sent_id = LRT_POL_015-s87
+# text = Verslas nestoja
+1	Verslas	verslas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	nestoja	nestoti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+
+# newpar id = LRT_POL_015-p53
+# sent_id = LRT_POL_015-s88
+# text = „Vičiūnų grupei“ Rusijoje priklausanti gamykla „Vičiūnai-Rus“ yra didžiausias Sovetsko darbdavys.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+3	grupei	grupė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+6	priklausanti	priklausyti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+7	gamykla	gamykla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+10	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+11	Rus	rusti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+12	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	didžiausias	didis	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsnn
+15	Sovetsko	Sovetskas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+16	darbdavys	darbdavys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s89
+# text = Nors Kauno meras, „Vičiūnų“ bendraturtis Visvaldas Matijošaitis nuo pat karo pradžios yra kritikuojamas ir raginamas nutraukti verslą Rusijoje, ši gamykla veikia iki šiol.
+1	Nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	Kauno	Kaunas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+3	meras	meras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+7	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	bendraturtis	bendraturtis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	Visvaldas	Visvaldas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+10	Matijošaitis	Matijošaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+11	nuo pat	nuo pat	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	pradžios	pradžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	kritikuojamas	kritikuoti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	raginamas	raginti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+18	nutraukti	nutraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	verslą	verslas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+23	gamykla	gamykla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+24	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	šiol.	šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+
+# sent_id = LRT_POL_015-s90
+# text = Rusijos komercinių registrų duomenys rodo, kad „Vičiūnai-Rus“ akcininkai iki šiol nepasikeitę.
+1	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+2	komercinių	komercinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+3	registrų	registras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+5	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+10	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+11	Rus	rusti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+12	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	akcininkai	akcininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+14	iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	nepasikeitę	nepasikeisti	VERB	vksm.dlv.neig.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmaynny-p
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s91
+# text = Iki šiol nesikeitė ir kitų Rusijoje veikiančių su „Vičiūnų grupe“ susijusių įmonių akcininkai.
+1	Iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nesikeitė	nesikeisti	VERB	vksm.asm.neig.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--yi-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	kitų	kitas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+5	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+6	veikiančių	veikti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+7	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+10	grupe	grupė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	susijusių	susyti	VERB	vksm.dlv.veik.būt-k.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfanngn-p
+13	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	akcininkai	akcininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s92
+# text = Tiesa, vakar rusiškas leidinys „Kommersant“ paskelbė, kad Lietuvos įmonių grupė 2024 m. vasarį gavo Rusijos vyriausybinės užsienio investicijų kontrolės komisijos leidimą parduoti 100 proc. bendrovės „Vičiūnai-Rus“ akcijų.
+1	Tiesa	tiesa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	vakar	vakar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	rusiškas	rusiškas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+5	leidinys	leidinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Kommersant	Kommersant	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+9	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+13	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	grupė	grupė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+15	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	vasarį	vasaris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+18	gavo	gauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+20	vyriausybinės	vyriausybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+21	užsienio	užsienis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	investicijų	investicija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+23	kontrolės	kontrolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	komisijos	komisija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	leidimą	leidimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+26	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+27	100	100	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+28	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+29	bendrovės	bendrovė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+31	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+32	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+33	Rus	rusti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+34	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+35	akcijų	akcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p54
+# sent_id = LRT_POL_015-s93
+# text = L. Skierus, kalbėdamas su LRT Tyrimų skyriumi, negalėjo įvardyti, kada „Vičiūnų“ grupė galutinai pasitrauks iš Rusijos.
+1	L.	L.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Skierus	Skierus	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kalbėdamas	kalbėti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	Tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	skyriumi	skyrius	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	negalėjo	negalėti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+11	įvardyti	įvardyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kada	kada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+16	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+17	grupė	grupė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+18	galutinai	galutinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	pasitrauks	pasitraukti	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--yi-
+20	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgng
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p55
+# sent_id = LRT_POL_015-s94
+# text = „Jeigu žinotume datą, jei galėtume valdyti tą procesą, jei nuo mūsų tai priklausytų...
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	žinotume	žinoti	VERB	vksm.asm.tar.dgs.1.	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	_	_	_	Multext=Vgm-1p--n--ns-
+4	datą	data	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	galėtume	galėti	VERB	vksm.asm.tar.dgs.1.	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	_	_	_	Multext=Vgm-1p--n--ns-
+8	valdyti	valdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+10	procesą	procesas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+14	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+15	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	priklausytų	priklausyti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ns-
+17	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+
+# sent_id = LRT_POL_015-s95
+# text = Mes tą galėtume pasakyti.
+1	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+2	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+3	galėtume	galėti	VERB	vksm.asm.tar.dgs.1.	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	_	_	_	Multext=Vgm-1p--n--ns-
+4	pasakyti	pasakyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s96
+# text = Mes nevaldom...
+1	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+2	nevaldom	nevaldyti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--y--ni-
+3	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+
+# sent_id = LRT_POL_015-s97
+# text = Ne viską galim padaryti“, – sakė jis.
+1	Ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+2	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+3	galim	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+4	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+8	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p56
+# sent_id = LRT_POL_015-s98
+# text = Paklaustas apie galimus „Vičiūnų grupės“ verslo Rusijoje pirkėjus L. Skierus taip pat nebuvo konkretus.
+1	Paklaustas	paklausti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+2	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	galimus	galėti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+4	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+5	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+6	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+7	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	verslo	verslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+10	pirkėjus	pirkėjas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+11	L.	L.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	Skierus	Skierus	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+13	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+14	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+15	konkretus	konkretus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p57
+# sent_id = LRT_POL_015-s99
+# text = „Mes tuos interesantus turim nuo pradžių, kai pardavinėjam.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+3	tuos	tas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+4	interesantus	interesantas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	turim	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+6	nuo pradžių	nuo pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	pardavinėjam	pardavinėti	VERB	vksm.asm.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s100
+# text = Bet procesas labai sudėtingas“, –aiškino verslininkas.
+1	Bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	procesas	procesas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	sudėtingas	sudėtingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+5	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	–aiškino	–aiškino	X	kt.	_	_	_	_	Multext=Th
+8	verslininkas	verslininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p58
+# sent_id = LRT_POL_015-s101
+# text = Maskvoje veikia „Vičiūnų“ produkciją parduodanti „Baltko“ bei jos filialas „Baltko Neva“.
+1	Maskvoje	Maskva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+2	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+5	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+6	produkciją	produkcija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	parduodanti	parduoti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannnn-p
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Baltko	Baltko	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+13	filialas	filialas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Baltko	Baltko	X	kt.	_	_	_	_	Multext=X-
+16	Neva	Neva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnng
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s102
+# text = Sovetske dirba logistikos įmonės „Refterminal“, „Frost Logistics“ ir „Vičirustrans“, priklausančios „Vičiūnų grupės“ valdytojai „VG Holding“.
+1	Sovetske	Sovetskas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+2	dirba	dirbti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	logistikos	logistika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Refterminal	Refterminal	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Frost	Frost	X	kt.	_	_	_	_	Multext=X-
+11	Logistics	Logistics	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+12	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Vičirustrans	Vičirustrans	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+16	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	priklausančios	priklausyti	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfanngn-p
+19	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+21	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+22	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+23	valdytojai	valdytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+24	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+25	VG	VG	X	kt.	_	_	_	_	Multext=X-
+26	Holding	Holding	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+27	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s103
+# text = „Frost Logistics“ priklauso logistikos ir bendrovė Sankt Peterburge „Centrum“.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Frost	Frost	X	kt.	_	_	_	_	Multext=X-
+3	Logistics	Logistics	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	priklauso	priklausyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	logistikos	logistika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	bendrovė	bendrovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	Sankt	Sankt	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Npc--ng
+10	Peterburge	Peterburgas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+11	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	Centrum	Centrum	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+13	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p59
+# sent_id = LRT_POL_015-s104
+# text = Iš viso Rusijoje veikia septynios su „Vičiūnų grupe“ susijusios įmonės.
+1	Iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+3	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	septynios	septyni	NUM	sktv.raid.kiek.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpnl-
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+8	grupe	grupė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+9	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+10	susijusios	susyti	VERB	vksm.dlv.veik.būt-k.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannnn-p
+11	įmonės	įmonė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p60
+# sent_id = LRT_POL_015-s105
+# text = Kazachstane, kuris yra muitų sąjungoje su Rusija, veikia bendrovė „Vičiūnai-Kazachstan“, užsiimanti prekyba.
+1	Kazachstane	Kazachstanas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	muitų	muitas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	sąjungoje	sąjunga	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+7	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+8	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Įn.	Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsing
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	veikia	veikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	bendrovė	bendrovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	Vičiūnai	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpnng
+14	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+15	Kazachstan	Kazachstan	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+16	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	užsiimanti	užsiimti	VERB	vksm.dlv.sngr.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannny-p
+19	prekyba	prekyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p61
+# sent_id = LRT_POL_015-s106
+# text = Klausimai apie verslo Rusijoje pardavimą bei prekių, kurioms taikomos sankcijos, eksportą buvo perduoti ir kitam „Vičiūnų grupės“ bendraturčiui Kauno merui V. Matijošaičiui.
+1	Klausimai	klausimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	verslo	verslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	Rusijoje	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+5	pardavimą	pardavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	prekių	prekė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurioms	kuris	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+10	taikomos	taikyti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+11	sankcijos	sankcija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	eksportą	eksportas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	perduoti	perduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	kitam	kitas	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+18	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+20	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+21	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+22	bendraturčiui	bendraturtis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+23	Kauno	Kaunas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+24	merui	meras	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+25	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+26	Matijošaičiui	Matijošaitis	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsdns
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_015-s107
+# text = Tačiau jis atsakymų iki šiol nepateikė.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	atsakymų	atsakymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	nepateikė	nepateikti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_015-p62
+# sent_id = LRT_POL_015-s108
+# text = V. Matijošaitis ir L. Skierus valdo po 50 proc. „Vičiūnų grupės“ valdytojos „VG Holding“ akcijų.
+1	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Matijošaitis	Matijošaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	L.	L.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Skierus	Skierus	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+6	valdo	valdyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+10	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	Vičiūnų	Vičiūnai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	Multext=Npmpgng
+12	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+13	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	valdytojos	valdytoja	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	VG	VG	X	kt.	_	_	_	_	Multext=X-
+17	Holding	Holding	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+18	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+19	akcijų	akcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

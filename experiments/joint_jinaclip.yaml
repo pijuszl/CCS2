@@ -1,0 +1,11 @@
+# Joint multilingual jina-clip-v2 alt.
+tag: joint_jinaclip
+model_kind: joint_jinaclip
+dataset:
+  use_scraped: true
+  image_required: true
+train:
+  epochs: 4
+  batch_size: 8
+  grad_accum: 4
+  lr: 5.0e-5

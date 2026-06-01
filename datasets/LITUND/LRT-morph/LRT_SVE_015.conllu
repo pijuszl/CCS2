@@ -1,0 +1,933 @@
+# newdoc id = LRT_SVE_015
+# newpar id = LRT_SVE_015-p1
+# sent_id = LRT_SVE_015-s1
+# text = Po pusnimi gali slėptis pavojus: vaistininkas įvardijo 10 taisyklių, padėsiančių išvengti traumų
+1	Po	po	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+2	pusnimi	pusnis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	slėptis	slėptis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+5	pavojus	pavojus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+7	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	įvardijo	įvardyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	10	10	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	taisyklių	taisyklė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	padėsiančių	padėti	VERB	vksm.dlv.veik.būs.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpf-pmanngn-p
+13	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	traumų	trauma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+
+# newpar id = LRT_SVE_015-p2
+# sent_id = LRT_SVE_015-s2
+# text = Mėgstantieji aktyvias šaltojo sezono pramogas dažniausiai suvokia didesnę traumų riziką, tačiau trauma gali tykoti ir paprasčiausiai einant gatve.
+1	Mėgstantieji	mėgti	VERB	vksm.dlv.veik.es.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanynn-p
+2	aktyvias	aktyvus	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+3	šaltojo	šaltas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgy
+4	sezono	sezonas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	pramogas	pramoga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+6	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+7	suvokia	suvokti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	didesnę	didis	ADJ	bdv.aukšt.mot.vns.G.	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	Multext=Agcfsan
+9	traumų	trauma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	trauma	trauma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+14	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	tykoti	tykoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	paprasčiausiai	paprastai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+18	einant	eiti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+19	gatve	gatvė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s3
+# text = Juk ne vienam teko slystelėti ant ledo, pasislėpusio po puraus sniego apklotu, ar slystelėti ant ledu blizgančio asfalto.
+1	Juk	juk	PART	dll.	_	_	_	_	Multext=Qg
+2	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+3	vienam	vienas	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+4	teko	tekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	slystelėti	slystelėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	ledo	ledas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	pasislėpusio	pasislėpti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smanngy-p
+10	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	puraus	purus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+12	sniego	sniegas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	apklotu	apklotas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	slystelėti	slystelėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+18	ledu	ledas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+19	blizgančio	blizgėti	VERB	vksm.dlv.veik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smanngn-p
+20	asfalto	asfaltas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s4
+# text = Vaistinių tinklo „Camelia“ vaistininkas Deimantas Auškalnis primena pagrindines ėjimo slidžia kelio danga taisykles ir paaiškina, ką daryti patyrus traumą, rašoma vaistinių tinklo „Camelia“ pranešime žiniasklaidai.
+1	Vaistinių	vaistinė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+2	tinklo	tinklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	Camelia	Camelia	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+5	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+6	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	Deimantas	Deimantas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+8	Auškalnis	Auškalnis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+9	primena	priminti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	pagrindines	pagrindinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+11	ėjimo	ėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	slidžia	slidus	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+13	kelio	kelias	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	danga	danga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+15	taisykles	taisyklė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	paaiškina	paaiškinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+20	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+21	patyrus	patirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+22	traumą	trauma	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+25	vaistinių	vaistinė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+26	tinklo	tinklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	Camelia	Camelia	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+29	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+30	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+31	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p3
+# sent_id = LRT_SVE_015-s5
+# text = „Žiemą padaugėja ne tik kvėpavimo takų ligų, bet ir įvairių traumų, susijusių su slidžiais keliais“, – pasakoja vaistininkas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Žiemą	žiema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	padaugėja	padaugėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+6	kvėpavimo	kvėpavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	takų	takas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+12	įvairių	įvairus	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+13	traumų	trauma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	susijusių	susyti	VERB	vksm.dlv.veik.būt-k.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfanngn-p
+16	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+17	slidžiais	slidus	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+18	keliais	kelias	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+19	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+22	pasakoja	pasakoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s6
+# text = Anot jo, dažniausiai žmonės patiria lengvus sužalojimus: nubrozdinimus, mėlynes, raumenų patempimus ar sutrenkimus.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+5	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	patiria	patirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	lengvus	lengvas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+8	sužalojimus	sužalojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+10	nubrozdinimus	nubrozdinimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	mėlynes	mėlynė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	raumenų	raumuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	patempimus	patempimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+16	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	sutrenkimus	sutrenkimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p4
+# sent_id = LRT_SVE_015-s7
+# text = Kai pirmosios pagalbos neužtenka
+1	Kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	pirmosios	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsgly
+3	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	neužtenka	neužtekti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+
+# newpar id = LRT_SVE_015-p5
+# sent_id = LRT_SVE_015-s8
+# text = „Deja, ne visada slystelėjus patiriamas tik lengvas sumušimas, kartais traumos gali būti sudėtingesnės.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Deja	deja	INTJ	jst.	_	_	_	_	SpaceAfter=No|Multext=Ig
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	visada	visada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	slystelėjus	slystelėti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+7	patiriamas	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+8	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	lengvas	lengvas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+10	sumušimas	sumušimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kartais	kartais	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	traumos	trauma	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+14	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	sudėtingesnės	sudėtingas	ADJ	bdv.aukšt.mot.dgs.V.	Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agcfpnn
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s9
+# text = Pavyzdžiui, patempus raiščius ir sausgysles, pirmąsias keletą dienų sužalotą vietą reikia ne šildyti, o šaldyti.
+1	Pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	patempus	patempti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+4	raiščius	raištis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	sausgysles	sausgyslė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	pirmąsias	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+9	keletą	keletas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+10	dienų	diena	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	sužalotą	sužaloti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+12	vietą	vieta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+15	šildyti	šildyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	šaldyti	šaldyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s10
+# text = Sužeistą vietą geriausia sutvarstyti, kad galūnė mažiau judėtų ir netintų – tai taip pat padės sumažinti juntamą skausmą.
+1	Sužeistą	sužeisti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+2	vietą	vieta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	geriausia	geras	ADJ	bdv.aukšč.bev.	Degree=Sup|Gender=Neut	_	_	_	Multext=Agsn--n
+4	sutvarstyti	sutvarstyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	galūnė	galūnė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+9	judėtų	judėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	netintų	netinti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+12	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+13	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+15	padės	padėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+16	sumažinti	sumažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	juntamą	juntamas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+18	skausmą	skausmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s11
+# text = Siekiant išvengti panašių sužalojimų arba susižeidus minimizuoti nemalonius pojūčius, svarbus reguliarius fizinis aktyvumas.
+1	Siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	panašių	panašus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+4	sužalojimų	sužalojimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	susižeidus	susižeisti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+7	minimizuoti	minimizuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	nemalonius	nemalonus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+9	pojūčius	pojūtis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	svarbus	svarbus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+12	reguliarius	reguliarus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+13	fizinis	fizinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+14	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s12
+# text = Reikia mankštintis, skirti laiko tempimo pratimams – tai didina jungčių elastingumą ir atsparumą“, – patarimais dalinasi D. Auškalnis.
+1	Reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+2	mankštintis	mankštintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	tempimo	tempimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	pratimams	pratimas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+10	didina	didinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	jungčių	jungtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	elastingumą	elastingumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	atsparumą	atsparumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+15	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+18	patarimais	patarimas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+19	dalinasi	dalintis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+20	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+21	Auškalnis	Auškalnis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p6
+# sent_id = LRT_SVE_015-s13
+# text = Anot vaistininko, namuose gydytis galima tik tuo atveju, jei po traumos juntamas skausmas yra lokalus ir neplinta į kitas vietas.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	vaistininko	vaistininkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+5	gydytis	gydytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+6	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+7	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+9	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	traumos	trauma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	juntamas	justi	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+15	skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	lokalus	lokalus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	neplinta	neplisti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+20	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	kitas	kitas	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+22	vietas	vieta	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s14
+# text = Svarbu atkreipti dėmesį ir į tai, ar vartojant nesteroidinius vaistus nuo skausmo arba šaltus kompresus nemalonūs pojūčiai mažėja.
+1	Svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+2	atkreipti	atkreipti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	vartojant	vartoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+10	nesteroidinius	nesteroidinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+11	vaistus	vaistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+12	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	skausmo	skausmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	šaltus	šaltas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+16	kompresus	kompresas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	nemalonūs	nemalonus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+18	pojūčiai	pojūtis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+19	mažėja	mažėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s15
+# text = Jei minėtos priemonės nepadeda ir skausmas nepasitraukia per 12 valandų, reikėtų kreiptis į gydytojus.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	minėtos	minėti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+3	priemonės	priemonė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+4	nepadeda	nepadėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	nepasitraukia	nepasitraukti	VERB	vksm.asm.neig.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--yi-
+8	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	valandų	valanda	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+13	kreiptis	kreiptis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	gydytojus	gydytojas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p7
+# sent_id = LRT_SVE_015-s16
+# text = „Lengvas traumas įprastai galima gydyti savarankiškai – susitrenkus koją, ranką ar kitą kūno vietą, svarbu sureaguoti ir imtis atitinkamų priemonių kuo greičiau.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Lengvas	lengvas	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+3	traumas	trauma	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+4	įprastai	įprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+6	gydyti	gydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	savarankiškai	savarankiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	susitrenkus	susitrenkti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+10	koją	koja	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ranką	ranka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	kitą	kitas	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+15	kūno	kūnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	vietą	vieta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+19	sureaguoti	sureaguoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	imtis	imtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+22	atitinkamų	atitinkamas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+23	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	kuo	kuo	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	greičiau	greitai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s17
+# text = Sužeistą vietą pirmiausia šaldyti.
+1	Sužeistą	sužeisti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+2	vietą	vieta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	pirmiausia	pirma	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+4	šaldyti	šaldyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s18
+# text = Tam galima naudoti ne tik specialius šaldymo maišelius, bet ir šaldytuve rastus ledo kubelius ar net sniegą, prieš tai įvyniojus į audinį, kad nebūtų tiesioginio kontakto su oda.
+1	Tam	tam	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	naudoti	naudoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+6	specialius	specialus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+7	šaldymo	šaldymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	maišelius	maišelis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+12	šaldytuve	šaldytuvas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+13	rastus	rasti	VERB	vksm.dlv.neveik.būt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnan-p
+14	ledo	ledas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	kubelius	kubelis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+16	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	net	net	PART	dll.	_	_	_	_	Multext=Qg
+18	sniegą	sniegas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	prieš tai	prieš tai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	įvyniojus	įvynioti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+22	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+23	audinį	audinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+26	nebūtų	nebūti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+27	tiesioginio	tiesioginis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+28	kontakto	kontaktas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+30	oda	oda	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s19
+# text = Šaldymas gana greitai sumažina skausmą ir patinimą, o veiksmingiausia tai yra pirmąsias 48 valandas po susižeidimo“, – pažymi vaistininkas.
+1	Šaldymas	šaldymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	gana	gana	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	greitai	greitai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	sumažina	sumažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	skausmą	skausmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	patinimą	patinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	veiksmingiausia	veiksmingas	ADJ	bdv.aukšč.mot.vns.V.	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Multext=Agsfsnn
+11	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+12	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	pirmąsias	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+14	48	48	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+15	valandas	valanda	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	susižeidimo	susižeidimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsgy-
+18	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	pažymi	pažymėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+22	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p8
+# sent_id = LRT_SVE_015-s20
+# text = Susižalojus bene visuomet rekomenduojama kurį laiką vengti stipresnio fizinio krūvio, stebėti, ar sužeista vieta netinsta, ar skausmas nestiprėja.
+1	Susižalojus	susižaloti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+2	bene	bene	PART	dll.	_	_	_	_	Multext=Qg
+3	visuomet	visuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	rekomenduojama	rekomenduoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+5	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	laiką	laikas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	vengti	vengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	stipresnio	stiprus	ADJ	bdv.aukšt.vyr.vns.K.	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsgn
+9	fizinio	fizinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+10	krūvio	krūvis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	stebėti	stebėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	sužeista	sužeisti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+16	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	netinsta	netinti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	nestiprėja	nestiprėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s21
+# text = Jei sužeista ranka, reikia nedelsiant nuimti visus papuošalus – galūnei ištinus jie gali sutrikdyti kraujotaką.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	sužeista	sužeisti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+3	ranka	ranka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	nedelsiant	nedelsiant	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	nuimti	nuimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	visus	visas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+9	papuošalus	papuošalas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+10	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	galūnei	galūnė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+12	ištinus	ištinti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+13	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+14	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	sutrikdyti	sutrikdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	kraujotaką	kraujotaka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p9
+# sent_id = LRT_SVE_015-s22
+# text = Suskubti ieškoti pagalbos D. Auškalnis ragina ir patyrus galvos traumą, ypač jaučiant tokius simptomus kaip silpnumas, pykinimas ar intensyvus skausmas.
+1	Suskubti	suskubti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+2	ieškoti	ieškoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Auškalnis	Auškalnis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+6	ragina	raginti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	patyrus	patirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+9	galvos	galva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	traumą	trauma	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	jaučiant	jausti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+14	tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+15	simptomus	simptomas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+16	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	silpnumas	silpnumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	pykinimas	pykinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+20	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	intensyvus	intensyvus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+22	skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s23
+# text = Galvos traumos gali kelti rimtą pavojų sveikatai ar net gyvybei, ypač tada, kai paslydęs žmogus griūva visu svoriu.
+1	Galvos	galva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	traumos	trauma	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	kelti	kelti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	rimtą	rimtas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+6	pavojų	pavojus	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	sveikatai	sveikata	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	net	net	PART	dll.	_	_	_	_	Multext=Qg
+10	gyvybei	gyvybė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	paslydęs	paslysti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+17	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	griūva	griūti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	visu	visas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+20	svoriu	svoris	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p10
+# sent_id = LRT_SVE_015-s24
+# text = „Tokiu atveju gali net prasidėti vidinis kraujavimas, ištikti sąmonės praradimas ar smegenų sutrenkimas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+3	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	net	net	PART	dll.	_	_	_	_	Multext=Qg
+6	prasidėti	prasidėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+7	vidinis	vidinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+8	kraujavimas	kraujavimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	ištikti	ištikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	sąmonės	sąmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	praradimas	praradimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	smegenų	smegenys	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	sutrenkimas	sutrenkimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s25
+# text = Būtent dėl to, jei jaučiame, kad slystame ir tuojau griūsime, reikėtų stengtis galvą lenkti į priekį, kad ši neatsitrenktų į grindinį“, – moko vaistininkas.
+1	Būtent	būtent	PART	dll.	_	_	_	_	Multext=Qg
+2	dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	jaučiame	jausti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	slystame	slysti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	tuojau	tuojau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	griūsime	griūti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf1p--n--ni-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+14	stengtis	stengtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+15	galvą	galva	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+16	lenkti	lenkti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	priekį	priekis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+22	neatsitrenktų	neatsitrenkti	VERB	vksm.asm.neig.sngr.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ys-
+23	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+24	grindinį	grindinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+25	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+28	moko	mokyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+29	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p11
+# sent_id = LRT_SVE_015-s26
+# text = Žiemos vaistinėlė
+1	Žiemos	žiema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	vaistinėlė	vaistinėlė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+
+# newpar id = LRT_SVE_015-p12
+# sent_id = LRT_SVE_015-s27
+# text = Žiemą farmacininkas pataria peržvelgti ir savo namų vaistinėlę, kurioje turėtų būti dažniausiems negalavimams palengvinti skirti medikamentai ar preparatai, taip pat – pirmajai pagalbai reikalingos medicininės priemonės.
+1	Žiemą	žiema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+2	farmacininkas	farmacininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	pataria	patarti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	peržvelgti	peržvelgti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+7	namų	namai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	vaistinėlę	vaistinėlė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kurioje	kuris	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+11	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	dažniausiems	dažnas	ADJ	bdv.aukšč.vyr.dgs.N.	Case=Dat|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpdn
+14	negalavimams	negalavimas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+15	palengvinti	palengvinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	skirti	skirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+17	medikamentai	medikamentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+18	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	preparatai	preparatas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+22	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+23	pirmajai	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.N.	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsdly
+24	pagalbai	pagalba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+25	reikalingos	reikalingas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+26	medicininės	medicininis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+27	priemonės	priemonė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p13
+# sent_id = LRT_SVE_015-s28
+# text = „Žiemą namų vaistinėlėje naudinga turėti šaldančių priemonių, tarkime, kompresų ar specialių gelių.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Žiemą	žiema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	namų	namai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	vaistinėlėje	vaistinėlė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+5	naudinga	naudingas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+6	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	šaldančių	šaldyti	VERB	vksm.dlv.veik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfanngn-p
+8	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	tarkime	tarkime	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kompresų	kompresas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	specialių	specialus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+15	gelių	gelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s29
+# text = Visada praverčia ir priemonės žaizdų dezinfekcijai – svarbu atkreipti dėmesį, kad tam turėtų būti naudojami specialūs preparatai, o ne rankų dezinfekciniai skysčiai.
+1	Visada	visada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	praverčia	praversti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	priemonės	priemonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	žaizdų	žaizda	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+6	dezinfekcijai	dezinfekcija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+7	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+8	svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+9	atkreipti	atkreipti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	tam	tam	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+15	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	naudojami	naudoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+17	specialūs	specialus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+18	preparatai	preparatas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+22	rankų	ranka	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+23	dezinfekciniai	dezinfekcinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+24	skysčiai	skystis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p14
+# sent_id = LRT_SVE_015-s30
+# text = Pravartu namuose turėti elastinį, medicininį, kompresinį tvarsčius, pleistrų, turniketą, žirkles ir skausmą malšinančių vaistų.
+1	Pravartu	pravartus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+3	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	elastinį	elastinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsan
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	medicininį	medicininis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsan
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kompresinį	kompresinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+9	tvarsčius	tvarstis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	pleistrų	pleistras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	turniketą	turniketas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	žirkles	žirklės	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	skausmą	skausmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+18	malšinančių	malšinti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+19	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s31
+# text = Atkreipkite dėmesį, kad šias atsargas derėtų nuolat papildyti ir automobilio vaistinėlėje“, – vardija vaistininkas.
+1	Atkreipkite	atkreipti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+2	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	šias	šis	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+6	atsargas	atsarga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+7	derėtų	derėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	nuolat	nuolat	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	papildyti	papildyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	automobilio	automobilis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	vaistinėlėje	vaistinėlė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+13	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+16	vardija	vardyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	vaistininkas	vaistininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p15
+# sent_id = LRT_SVE_015-s32
+# text = Pasak D. Auškalnio, taip pat naudinga turėti specialių tepalų, kurie padeda gydyti sumušimus, mažina po sutrenkimo likusias kraujosruvas.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Auškalnio	Auškalnis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsgns
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+6	naudinga	naudingas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+7	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	specialių	specialus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+9	tepalų	tepalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+12	padeda	padėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	gydyti	gydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	sumušimus	sumušimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	mažina	mažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+18	sutrenkimo	sutrenkimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	likusias	likti	VERB	vksm.dlv.veik.būt-k.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannan-p
+20	kraujosruvas	kraujosruva	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p16
+# sent_id = LRT_SVE_015-s33
+# text = 10 vaistininko D. Auškalnio patarimų, kaip išvengti traumų žiemą:
+1	10	10	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+2	vaistininko	vaistininkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	Auškalnio	Auškalnis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+5	patarimų	patarimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	traumų	trauma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	žiemą	žiema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = LRT_SVE_015-p17
+# sent_id = LRT_SVE_015-s34
+# text = Neskubėkite eidami slidžiais takais – tai darykite lėtai ir mažais žingsneliais.
+1	Neskubėkite	neskubėti	VERB	vksm.asm.neig.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-2p--y--nm-
+2	eidami	eiti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pm-n--n--
+3	slidžiais	slidus	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+4	takais	takas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	tai	tai	PART	dll.	_	_	_	_	Multext=Qg
+7	darykite	daryti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+8	lėtai	lėtai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	mažais	mažas	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+11	žingsneliais	žingsnelis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s35
+# text = Būkite atidūs ir dėmesingi.
+1	Būkite	būti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+2	atidūs	atidus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	dėmesingi	dėmesingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p18
+# sent_id = LRT_SVE_015-s36
+# text = Eidami nelaikykite rankose telefono, nes jis blaško dėmesį, o slystelėjus bus sunkiau išlaikyti pusiausvyrą.
+1	Eidami	eiti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pm-n--n--
+2	nelaikykite	nelaikyti	VERB	vksm.asm.neig.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-2p--y--nm-
+3	rankose	ranka	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+4	telefono	telefonas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	blaško	blaškyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	slystelėjus	slystelėti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+13	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+14	sunkiau	sunkiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+15	išlaikyti	išlaikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	pusiausvyrą	pusiausvyra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p19
+# sent_id = LRT_SVE_015-s37
+# text = Lipdami laiptais, laikykitės už turėklų.
+1	Lipdami	lipti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pm-n--n--
+2	laiptais	laiptas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	laikykitės	laikytis	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+5	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	turėklų	turėklas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p20
+# sent_id = LRT_SVE_015-s38
+# text = Geriau eikite sniegu, o ne ledu.
+1	Geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	eikite	eiti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+3	sniegu	sniegas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+7	ledu	ledas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p21
+# sent_id = LRT_SVE_015-s39
+# text = Venkite aukštakulnių.
+1	Venkite	vengti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+2	aukštakulnių	aukštakulniai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+3	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_015-s40
+# text = Rinkitės batus grubaus reljefo padu, kuris pagerina sukibimą su kelio danga.
+1	Rinkitės	rinktis	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+2	batus	batas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+3	grubaus	grubus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+4	reljefo	reljefas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	padu	padas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	pagerina	pagerinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	sukibimą	sukibimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+11	kelio	kelias	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	danga	danga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p22
+# sent_id = LRT_SVE_015-s41
+# text = Rankas išsitraukite iš kišenių, taip lengviau išlaikysite pusiausvyrą slystelėjus ir sumažinsite lūžių riziką parkritus.
+1	Rankas	ranka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+2	išsitraukite	išsitraukti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+3	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	kišenių	kišenė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	lengviau	lengvai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+8	išlaikysite	išlaikyti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2p--n--ni-
+9	pusiausvyrą	pusiausvyra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	slystelėjus	slystelėti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	sumažinsite	sumažinti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2p--n--ni-
+13	lūžių	lūžis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+15	parkritus	parkristi	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgaa----n--n--
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p23
+# sent_id = LRT_SVE_015-s42
+# text = Krentant patariama atsipalaiduoti – tada raumenys bus neįtempti ir kritimas bus švelnesnis.
+1	Krentant	kristi	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	patariama	patarti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	atsipalaiduoti	atsipalaiduoti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	raumenys	raumuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+8	neįtempti	neįtempti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	Multext=Vgi-----y--n--
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	kritimas	kritimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+12	švelnesnis	švelnus	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsnn
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p24
+# sent_id = LRT_SVE_015-s43
+# text = Supratus, kad pargriuvimo išvengti nepavyks, stenkitės kristi ne ant ištiestų rankų, o ant sėdmenų ar šlaunų.
+1	Supratus	suprasti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgaa----n--n--
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	pargriuvimo	pargriuvimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	nepavyks	nepavykti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---y--ni-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	stenkitės	stengtis	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+9	kristi	kristi	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+11	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	ištiestų	ištiesti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+13	rankų	ranka	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	sėdmenų	sėdmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	šlaunų	šlaunis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p25
+# sent_id = LRT_SVE_015-s44
+# text = Saugokitės varveklių – jiems krentant, galima patirti sunkių galvos traumų.
+1	Saugokitės	saugotis	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+2	varveklių	varveklis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+4	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+5	krentant	kristi	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgap----n--n--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+8	patirti	patirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	sunkių	sunkus	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+10	galvos	galva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	traumų	trauma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_015-p26
+# sent_id = LRT_SVE_015-s45
+# text = Žiemą eidami būkite atidūs ir dėmesingi.
+1	Žiemą	žiema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+2	eidami	eiti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pm-n--n--
+3	būkite	būti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+4	atidūs	atidus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	dėmesingi	dėmesingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

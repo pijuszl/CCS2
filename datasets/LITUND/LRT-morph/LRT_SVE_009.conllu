@@ -1,0 +1,700 @@
+# newdoc id = LRT_SVE_009
+# newpar id = LRT_SVE_009-p1
+# sent_id = LRT_SVE_009-s1
+# text = Dėl vaistininkų patiriamo spaudimo Veryga siūlys burti Seimo darbo grupę, Matulas idėją vertina skeptiškai
+1	Dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	patiriamo	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+4	spaudimo	spaudimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	Veryga	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+6	siūlys	siūlyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+7	burti	burti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+9	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	Matulas	Matulas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+13	idėją	idėja	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+14	vertina	vertinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	skeptiškai	skeptiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+
+# newpar id = LRT_SVE_009-p2
+# sent_id = LRT_SVE_009-s2
+# text = Viešojoje erdvėje pasirodžius informacijai apie vaistinių tinklų daromą spaudimą darbuotojams parduoti kuo daugiau vaistų ir maisto papildų, Seimo narys Aurelijus Veryga planuoja siūlyti Sveikatos reikalų komitetui (SRK) sudaryti darbo grupę šiam klausimui nagrinėti.
+1	Viešojoje	viešas	ADJ	bdv.nelygin.įvardž.mot.vns.Vt.	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsly
+2	erdvėje	erdvė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+3	pasirodžius	pasirodyti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+4	informacijai	informacija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+5	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	vaistinių	vaistinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+7	tinklų	tinklas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	daromą	daryti	VERB	vksm.dlv.neveik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnan-p
+9	spaudimą	spaudimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	darbuotojams	darbuotojas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+11	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+13	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+14	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	papildų	papildas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+20	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	Aurelijus	Aurelijus	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+22	Veryga	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+23	planuoja	planuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	siūlyti	siūlyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+25	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+26	reikalų	reikalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+27	komitetui	komitetas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+28	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+29	SRK	SRK	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+30	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+31	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+32	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+33	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+34	šiam	šis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+35	klausimui	klausimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+36	nagrinėti	nagrinėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+37	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s3
+# text = Visgi komiteto pirmininkas Antanas Matulas nemato poreikio tokios darbo grupės sudarymui.
+1	Visgi	visgi	PART	dll.	_	_	_	_	Multext=Qg
+2	komiteto	komitetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	pirmininkas	pirmininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	Antanas	Antanas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+5	Matulas	Matulas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+6	nemato	nematyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+7	poreikio	poreikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	tokios	toks	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+9	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	sudarymui	sudarymas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s4
+# text = Anot jo, kiti parlamentarai negauna vaistininkų skundų dėl patiriamo spaudimo, todėl ir problema, sako konservatorius, nėra didelė.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kiti	kitas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+5	parlamentarai	parlamentaras	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	negauna	negauti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+7	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	skundų	skundas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	patiriamo	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+11	spaudimo	spaudimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	problema	problema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	konservatorius	konservatorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+21	didelė	didelis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p3
+# sent_id = LRT_SVE_009-s5
+# text = „Kai prasidės Seimo pavasario sesija, aš grįšiu prie to klausimo ir siūlysiu, kad politikai sėstų prie stalo ir galvotų, ką daryti“, – Eltai teigė A. Veryga, pridurdamas, kad jis apie vaistinių tinklų daromą spaudimą darbuotojams jau buvo kalbėjęs Seimo rudens sesijos metu.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	prasidės	prasidėti	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--yi-
+4	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+5	pavasario	pavasaris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	sesija	sesija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+9	grįšiu	grįžti	VERB	vksm.asm.tiesiog.būs.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1s--n--ni-
+10	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+12	klausimo	klausimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	siūlysiu	siūlyti	VERB	vksm.asm.tiesiog.būs.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf1s--n--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	politikai	politikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+18	sėstų	sėsti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+19	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+20	stalo	stalas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	galvotų	galvoti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ns-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+25	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+26	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+29	Eltai	Elta	PROPN	dkt.tikr.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Npfsdn-
+30	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+31	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+32	Veryga	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	pridurdamas	pridurti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sm-n--n--
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+37	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+38	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+39	vaistinių	vaistinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+40	tinklų	tinklas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+41	daromą	daryti	VERB	vksm.dlv.neveik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnan-p
+42	spaudimą	spaudimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+43	darbuotojams	darbuotojas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+44	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+45	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+46	kalbėjęs	kalbėti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+47	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+48	rudens	ruduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+49	sesijos	sesija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+50	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+51	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p4
+# sent_id = LRT_SVE_009-s6
+# text = „Aš esu dar sesijai nepasibaigus viešai paprašęs ir pasiūlęs Sveikatos reikalų komitetui sudaryti darbo grupę visiems šitiems klausimams spręsti.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+3	esu	būti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+4	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+5	sesijai	sesija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+6	nepasibaigus	nepasibaigti	VERB	vksm.pad.neig.sngr.būt-k.	Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----y--y--
+7	viešai	viešai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	paprašęs	paprašyti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	pasiūlęs	pasiūlyti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+11	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+12	reikalų	reikalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	komitetui	komitetas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+14	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+17	visiems	visas	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+18	šitiems	šitas	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+19	klausimams	klausimas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+20	spręsti	spręsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s7
+# text = Ir čia yra vienas iš variantų, nes kaip juos spręsti – negaliu šiandien pasakyti, neturiu tokio atsakymo“, – kalbėjo „valstietis“.
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+5	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	variantų	variantas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	kaip	kaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+11	spręsti	spręsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+13	negaliu	negalėti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--y--ni-
+14	šiandien	šiandien	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	pasakyti	pasakyti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-pmpnnnn-p
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	neturiu	neturėti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--y--ni-
+18	tokio	toks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+19	atsakymo	atsakymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+20	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+23	kalbėjo	kalbėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+24	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+25	valstietis	valstietis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+26	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p5
+# sent_id = LRT_SVE_009-s8
+# text = Pastaruoju metu politikas sulaukia esamų ir buvusių vaistininkų skundų dėl patiriamo darbdavių spaudimo parduoti kuo daugiau vieno ar kito prekės ženklo farmacinių produktų.
+1	Pastaruoju	pastaras	ADJ	bdv.nelygin.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsiy
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	politikas	politikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	sulaukia	sulaukti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	esamų	būti	VERB	vksm.dlv.neveik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnngn-p
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	buvusių	būti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanngn-p
+8	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	skundų	skundas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	patiriamo	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+12	darbdavių	darbdavys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	spaudimo	spaudimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+16	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+17	vieno	vienas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	kito	kitas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+20	prekės	prekė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	ženklo	ženklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	farmacinių	farmacinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+23	produktų	produktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s9
+# text = Pasak A. Verygos, tokiu būdu pažeidžiamas vaistininkų profesinės etikos kodeksas.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Verygos	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsgns
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+6	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+7	pažeidžiamas	pažeisti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+8	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	profesinės	profesinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+10	etikos	etika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	kodeksas	kodeksas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p6
+# sent_id = LRT_SVE_009-s10
+# text = „Yra pačių vaistininkų priimtas etikos kodeksas, kurį ir profesinės sąjungos pasirašė, bet panašu, kad jo niekas nesilaiko.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	pačių	pats	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+4	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	priimtas	priimti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+6	etikos	etika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	kodeksas	kodeksas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	profesinės	profesinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+12	sąjungos	sąjunga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	pasirašė	pasirašyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--yi-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	panašu	panašus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+20	niekas	niekas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+21	nesilaiko	nesilaikyti	VERB	vksm.asm.neig.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--yi-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s11
+# text = Vaistinėms yra vienodai, jos turi savo tikslus, nori uždirbti daugiau pinigų ir joms tie pasirašyti kodeksai, matyt, nelabai įdomūs.
+1	Vaistinėms	vaistinė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	vienodai	vienodai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+6	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	tikslus	tikslas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	nori	norėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	uždirbti	uždirbti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+13	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	joms	jis	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+16	tie	tas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+17	pasirašyti	pasirašyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+18	kodeksai	kodeksas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	matyt	matyt	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	nelabai	nelabai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	įdomūs	įdomus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s12
+# text = Tad politikai turi ieškoti sprendimų“, – teigė parlamentaras.
+1	Tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	politikai	politikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	ieškoti	ieškoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	sprendimų	sprendimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+6	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	parlamentaras	parlamentaras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p7
+# sent_id = LRT_SVE_009-s13
+# text = SRK pirmininkas nemato poreikio burti darbo grupę
+1	SRK	SRK	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	pirmininkas	pirmininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	nemato	nematyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+4	poreikio	poreikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	burti	burti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+
+# newpar id = LRT_SVE_009-p8
+# sent_id = LRT_SVE_009-s14
+# text = Konservatorius A. Matulas skeptiškai vertina A. Verygos siūlymą burti darbo grupę.
+1	Konservatorius	konservatorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Matulas	Matulas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+4	skeptiškai	skeptiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	vertina	vertinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+7	Verygos	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+8	siūlymą	siūlymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	burti	burti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s15
+# text = Jis tvirtina nesulaukęs nei vieno farmacininko skundo dėl patiriamo spaudimo parduoti kuo daugiau produktų.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	tvirtina	tvirtinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	nesulaukęs	nesulaukti	VERB	vksm.dlv.neig.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smaynnn-p
+4	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	vieno	vienas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+6	farmacininko	farmacininkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	skundo	skundas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	patiriamo	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+10	spaudimo	spaudimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+13	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+14	produktų	produktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p9
+# sent_id = LRT_SVE_009-s16
+# text = „Keistai, prieš prasidedant rinkimams opozicija įžvelgia tam tikrų dalykų, dėl kurių komitetas negauna jokių nusiskundimų ir signalų.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Keistai	keistai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	prasidedant	prasidėti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+6	rinkimams	rinkimai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+7	opozicija	opozicija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	įžvelgia	įžvelgti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	tam tikrų	tam tikras	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+10	dalykų	dalykas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	kurių	kuris	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+14	komitetas	komitetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+15	negauna	negauti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+16	jokių	joks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+17	nusiskundimų	nusiskundimas	NOUN	dkt.sngr.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	_	_	_	Multext=Ncmpgy-
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	signalų	signalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s17
+# text = Kodėl kažkam tikrai rašo, o komitetui – nerašo“, – Eltai komentavo SRK pirmininkas.
+1	Kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	kažkam	kažkas	PRON	įv.N.	Case=Dat	_	_	_	Multext=Pg--dn
+3	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	rašo	rašyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	komitetui	komitetas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	nerašo	nerašyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+10	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+13	Eltai	Elta	PROPN	dkt.tikr.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Npfsdn-
+14	komentavo	komentuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	SRK	SRK	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+16	pirmininkas	pirmininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p10
+# sent_id = LRT_SVE_009-s18
+# text = „Pirmiausia, jeigu ta problema yra, o mes apie ją šnekėjomės su kolega Aurelijumi, tai buvo duotas žodinis pavedimas ministerijai, Vaistų kontrolės tarnybai aiškintis tuos dalykus, galėsime dar apie tai pašnekėti komiteto posėdyje.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Pirmiausia	pirma	ADV	prv.aukšč.	Degree=Sup	_	_	_	SpaceAfter=No|Multext=Rgs
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	ta	tas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+6	problema	problema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+13	šnekėjomės	šnekėtis	VERB	vksm.asm.sngr.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--yi-
+14	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+15	kolega	kolega	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+16	Aurelijumi	Aurelijus	PROPN	dkt.tikr.vrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsinf
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	duotas	duoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+21	žodinis	žodinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+22	pavedimas	pavedimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+23	ministerijai	ministerija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	Vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+26	kontrolės	kontrolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+27	tarnybai	tarnyba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+28	aiškintis	aiškintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+29	tuos	tas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+30	dalykus	dalykas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	galėsime	galėti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+33	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+34	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+35	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+36	pašnekėti	pašnekėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+37	komiteto	komitetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+38	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s19
+# text = Bet kol kas abejoju, ar tikrai reikėtų komitete sudaryti darbo grupę“, – pabrėžė A. Matulas.
+1	Bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	abejoju	abejoti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	komitete	komitetas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+9	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	pabrėžė	pabrėžti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Matulas	Matulas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p11
+# sent_id = LRT_SVE_009-s20
+# text = Jis pridūrė, kad Seimo nariams būtų „pakankamai sunku“ išsiaiškinti, ar tikrai vaistininkai yra įtraukiami į pardavimų skatinimą tokiais būdais.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+6	nariams	narys	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+7	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	pakankamai	pakankamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	vaistininkai	vaistininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+17	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	įtraukiami	įtraukti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+19	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	pardavimų	pardavimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+21	skatinimą	skatinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+22	tokiais	toks	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+23	būdais	būdas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p12
+# sent_id = LRT_SVE_009-s21
+# text = „Tuo labiau, kad išsiaiškinti, ar darbdavys kažkokį spaudimą daro ar nedaro, išsiaiškinti tam tikrus marketingo dalykus, mums pakankamai bus sunku.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tuo labiau	tuo labiau	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	darbdavys	darbdavys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	kažkokį	kažkoks	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+10	spaudimą	spaudimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	daro	daryti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	nedaro	nedaryti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+16	tam tikrus	tam tikras	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+17	marketingo	marketingas	NOUN	dkt.vyr.vns.K.substnd.	Case=Gen|Gender=Masc|Number=Sing|Style=Slng	_	_	_	Multext=Nnmsgn-
+18	dalykus	dalykas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur	_	_	_	Multext=Pg-pdn
+21	pakankamai	pakankamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+23	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s22
+# text = Pavesti, jeigu tai tikrai būtų, ministerijai arba tam tikroms tarnyboms aiškintis ir stebėti šitą procesą, tai tą mes galime padaryti.
+1	Pavesti	pavesti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+5	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ns-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ministerijai	ministerija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+9	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	tam tikroms	tam tikras	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+11	tarnyboms	tarnyba	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+12	aiškintis	aiškintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	stebėti	stebėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	šitą	šitas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+16	procesą	procesas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+20	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+21	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+22	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s23
+# text = Bet kol kas aš neturiu nei vieno komitete rašto, skundo, kad tai būtų didelė problema“, – pažymėjo Seimo narys.
+1	Bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+4	neturiu	neturėti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--y--ni-
+5	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	vieno	vienas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+7	komitete	komitetas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+8	rašto	raštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	skundo	skundas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+14	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+15	didelė	didelis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+16	problema	problema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+20	pažymėjo	pažymėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+22	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p13
+# sent_id = LRT_SVE_009-s24
+# text = ELTA primena, kad Seimo Lietuvos valstiečių ir žaliųjų sąjungos (LVŽS) frakcijos narys A. Veryga praėjusią savaitę savo „Facebook“ paskyroje pasidalino keliais esamų ir buvusių vaistininkų laiškais, kuriuose skundžiamasi patiriamu spaudimu parduoti kuo daugiau vaistų ar maisto papildų.
+1	ELTA	ELTA	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	primena	priminti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	Seimo	Seimas	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsgn-
+6	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+7	valstiečių	valstietis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	žaliųjų	žalias	ADJ	bdv.nelygin.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgy
+10	sąjungos	sąjunga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+12	LVŽS	LVŽS	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+13	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+14	frakcijos	frakcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Veryga	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+18	praėjusią	praeiti	VERB	vksm.dlv.veik.būt-k.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannan-p
+19	savaitę	savaitė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+20	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+21	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	Facebook	Facebook	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+23	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+24	paskyroje	paskyra	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+25	pasidalino	pasidalinti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+26	keliais	keli	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+27	esamų	būti	VERB	vksm.dlv.neveik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnngn-p
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	buvusių	būti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanngn-p
+30	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	laiškais	laiškas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	kuriuose	kuris	PRON	įv.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpln
+34	skundžiamasi	skųstis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-y-p
+35	patiriamu	patirti	VERB	vksm.dlv.neveik.es.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnin-p
+36	spaudimu	spaudimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+37	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+38	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+39	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+40	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+41	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+42	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+43	papildų	papildas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+44	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_009-s25
+# text = Politikas taip pat pasidalino įrašu bei nuotrauka, kaip „Eurovaistinės“ tinklo vadovybė skatina darbuotojus parduoti klientams kuo daugiau maisto papildų „Olvel“.
+1	Politikas	politikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+3	pasidalino	pasidalinti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+4	įrašu	įrašas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+5	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	nuotrauka	nuotrauka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	Eurovaistinės	Eurovaistinė	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgn-
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	tinklo	tinklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	vadovybė	vadovybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+14	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	darbuotojus	darbuotojas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+16	parduoti	parduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	klientams	klientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+18	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+19	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+20	maisto	maistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+21	papildų	papildas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	Olvel	Olvel	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+24	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_009-p14
+# sent_id = LRT_SVE_009-s26
+# text = Praėjusių metų rugsėjį atliktos farmacijos specialistų apklausos duomenimis, 85 proc. vaistininkų pripažino, kad jų sprendimus, konsultuojant pacientus ir parduodant jiems vaistus, lemia darbdavio sudarytos sąlygos, pavyzdžiui, priedas prie atlyginimo ar pardavimų rodikliai.
+1	Praėjusių	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanngn-p
+2	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	rugsėjį	rugsėjis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	atliktos	atlikti	VERB	vksm.dlv.neveik.būt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnngn-p
+5	farmacijos	farmacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	apklausos	apklausa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	85	85	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	vaistininkų	vaistininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	pripažino	pripažinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+17	sprendimus	sprendimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	konsultuojant	konsultuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+20	pacientus	pacientas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	parduodant	parduoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+23	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+24	vaistus	vaistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	lemia	lemti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	darbdavio	darbdavys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	sudarytos	sudaryti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+29	sąlygos	sąlyga	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	priedas	priedas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+34	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+35	atlyginimo	atlyginimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+36	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+37	pardavimų	pardavimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+38	rodikliai	rodiklis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

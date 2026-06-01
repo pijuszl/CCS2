@@ -1,0 +1,348 @@
+# newdoc id = UN_COV_07
+# newpar id = UN_COV_07-p1
+# sent_id = UN_COV_07-s1
+# text = CBS orų pranešėja griūva tiesioginiame eteryje
+1	CBS	CBS	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	orų	oras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	pranešėja	pranešėja	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	griūva	griūti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	tiesioginiame	tiesioginis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+6	eteryje	eteris	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+
+# newpar id = UN_COV_07-p2
+# sent_id = UN_COV_07-s2
+# text = Šeštadienio rytą tiesioginės transliacijos metu Los Andžele staiga nugriuvo meteorologė.
+1	Šeštadienio	šeštadienis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	rytą	rytas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+3	tiesioginės	tiesioginis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+4	transliacijos	transliacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+6	Los	Los	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Np---ng
+7	Andžele	Andželas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+8	staiga	staiga	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	nugriuvo	nugriūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	meteorologė	meteorologė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s3
+# text = Šokiruojančiame vaizdo įraše matyti, kaip Alissa Carlson Schwartz iš CBS filialo KCAL, ruošdamasi pateikti rytinį pranešimą apie orus, staiga išblykšta, jos akys atsimerkia ir galiausiai nugriūna ant grindų.
+1	Šokiruojančiame	šokiruoti	VERB	vksm.dlv.veik.es.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannln-p
+2	vaizdo	vaizdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	įraše	įrašas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+4	matyti	matyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	Alissa	Alissa	X	kt.	_	_	_	_	Multext=X-
+8	Carlson	Carlson	X	kt.	_	_	_	_	Multext=X-
+9	Schwartz	Schwartz	X	kt.	_	_	_	_	Multext=X-
+10	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	CBS	CBS	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+12	filialo	filialas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	KCAL	kcal	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	ruošdamasi	ruoštis	VERB	vksm.pusd.sngr.mot.vns.	Gender=Fem|Number=Sing|Reflex=Yes|VerbForm=Conv	_	_	_	Multext=Vgh--sf-n--y--
+16	pateikti	pateikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	rytinį	rytinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+18	pranešimą	pranešimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	orus	oras	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	staiga	staiga	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	išblykšta	išblykšti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+26	akys	akis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+27	atsimerkia	atsimerkti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	galiausiai	galiausiai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+30	nugriūna	nugriūti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+31	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+32	grindų	grindys	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_07-p3
+# sent_id = UN_COV_07-s4
+# text = "Infowars" praneša: "..: Iš pradžių jos kolegės diktorės Nichelle Medina ir Rachel Kim nepastebėjo, kad Schwartz prarado sąmonę.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Infowars	Infowars	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+4	praneša	pranešti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	..:	..:	X	kt.	_	_	_	_	Multext=Tp
+8	Iš pradžių	iš pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+10	kolegės	kolegė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	diktorės	diktorė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	Nichelle	Nichelle	X	kt.	_	_	_	_	Multext=X-
+13	Medina	Medina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	Rachel	Rachel	X	kt.	_	_	_	_	Multext=X-
+16	Kim	Kim	PROPN	dkt.tikr.pvrd.vyr.	Gender=Masc|NameType=Sur	_	_	_	Multext=Npm--ns
+17	nepastebėjo	nepastebėti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	Schwartz	Schwartz	X	kt.	_	_	_	_	Multext=X-
+21	prarado	prarasti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	sąmonę	sąmonė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s5
+# text = "Alissa, tai tikrai ramybė prieš audrą", - sakė Kim, o paskui išleido nustebusį "o!", kai suprato, kad jos kolegė guli ant žemės.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Alissa	Alissa	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	ramybė	ramybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	audrą	audra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+12	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	Kim	Kim	PROPN	dkt.tikr.pvrd.vyr.	Gender=Masc|NameType=Sur	_	_	_	SpaceAfter=No|Multext=Npm--ns
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	paskui	paskui	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	išleido	išleisti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+18	nustebusį	nustebti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+19	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	o!	o!	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+21	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+24	suprato	suprasti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+27	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+28	kolegė	kolegė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+29	guli	gulėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+30	ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+31	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s6
+# text = "Žinote, mes dabar eisime į pertrauką, tuoj pat", - pasakė Medina žiūrovams.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Žinote	žinoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp2p--n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+5	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	eisime	eiti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	pertrauką	pertrauka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	tuoj pat	tuoj pat	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	pasakė	pasakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	Medina	Medina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+16	žiūrovams	žiūrovas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s7
+# text = "Taip, - pritarė Kim.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	pritarė	pritarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	Kim	Kim	PROPN	dkt.tikr.pvrd.vyr.	Gender=Masc|NameType=Sur	_	_	_	SpaceAfter=No|Multext=Npm--ns
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s8
+# text = CBS Los Andželo viceprezidentas ir naujienų direktorius Mike'as Dello Stritto praėjus kelioms valandoms po to, kai Schwartz prarado sąmonę, paskelbė pareiškimą, kuriame patvirtino, kad ji buvo paguldyta į ligoninę.
+1	CBS	CBS	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Los	Los	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Np---ng
+3	Andželo	Andželas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+4	viceprezidentas	viceprezidentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	naujienų	naujiena	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	direktorius	direktorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	Mike'as	Mike'as	X	kt.	_	_	_	_	Multext=X-
+9	Dello	Dello	X	kt.	_	_	_	_	Multext=X-
+10	Stritto	Stritto	X	kt.	_	_	_	_	Multext=X-
+11	praėjus	praeiti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+12	kelioms	keli	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+13	valandoms	valanda	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+14	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	Schwartz	Schwartz	X	kt.	_	_	_	_	Multext=X-
+18	prarado	prarasti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	sąmonę	sąmonė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	pareiškimą	pareiškimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+25	patvirtino	patvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+28	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+29	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+30	paguldyta	paguldyti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+31	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+32	ligoninę	ligoninė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s9
+# text = "Mūsų kolegei Alisai Karlson (Alissa Carlson) pasidarė bloga šį rytą per 7 val. ryto žinių laidą.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+3	kolegei	kolegė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+4	Alisai	Alisa	PROPN	dkt.tikr.vrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsdnf
+5	Karlson	Karlson	X	kt.	_	_	_	_	Multext=X-
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	Alissa	Alissa	X	kt.	_	_	_	_	Multext=X-
+8	Carlson	Carlson	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+10	pasidarė	pasidaryti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+11	bloga	blogas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+12	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+13	rytą	rytas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	7	7	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	val.	val.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	ryto	rytas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	žinių	žinios	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+19	laidą	laidas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s10
+# text = Noriu padėkoti jos bendradarbiams, kurie nedelsdami ėmėsi veiksmų, kad paguostų Alisą ir iškviestų greitąją pagalbą", - TMZ sakė Stritto.
+1	Noriu	norėti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+2	padėkoti	padėkoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+4	bendradarbiams	bendradarbis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+7	nedelsdami	nedelsti	VERB	vksm.pusd.neig.vyr.dgs.	Gender=Masc|Number=Plur|Polarity=Neg|VerbForm=Conv	_	_	_	Multext=Vgh--pm-y--n--
+8	ėmėsi	imtis	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+9	veiksmų	veiksmas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	paguostų	paguosti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+13	Alisą	Alisas	PROPN	dkt.tikr.pvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsans
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	iškviestų	iškviesti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+16	greitąją	greitas	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsay
+17	pagalbą	pagalba	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+18	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	TMZ	TMZ	X	kt.	_	_	_	_	Multext=X-
+22	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	Stritto	Stritto	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s11
+# text = "Šiuo metu Alissa gydoma ligoninėje.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+3	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+4	Alissa	Alissa	X	kt.	_	_	_	_	Multext=X-
+5	gydoma	gydyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+6	ligoninėje	ligoninė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s12
+# text = Tikimės, kad netrukus sužinosime daugiau.
+1	Tikimės	tikėtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--yi-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	netrukus	netrukus	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	sužinosime	sužinoti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+6	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s13
+# text = Tuo tarpu Alissa bus mūsų mintyse ir meldžiamės, kad ji greitai pasijustų daug geriau", - pridūrė jis.
+1	Tuo tarpu	tuo tarpu	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	Alissa	Alissa	X	kt.	_	_	_	_	Multext=X-
+3	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+4	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+5	mintyse	mintis	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	meldžiamės	melstis	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--yi-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+11	greitai	greitai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	pasijustų	pasijusti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+13	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+15	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+18	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s14
+# text = Pažymėtina, kad 2014 m. A. Schwartz patyrė panašų priepuolį, kai ji vėmė tiesioginiame eteryje, prieš tai jai buvo diagnozuotas nesandarus širdies vožtuvas.
+1	Pažymėtina	pažymėti	VERB	vksm.dlv.reik.bev.	Gender=Neut|Mood=Nec|VerbForm=Part	_	_	_	SpaceAfter=No|Multext=Vgp---nnnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	2014	2014	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+7	Schwartz	Schwartz	X	kt.	_	_	_	_	Multext=X-
+8	patyrė	patirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	panašų	panašus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+10	priepuolį	priepuolis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+14	vėmė	vemti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	tiesioginiame	tiesioginis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+16	eteryje	eteris	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	prieš tai	prieš tai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	jai	jis	PRON	įv.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsdn
+20	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	diagnozuotas	diagnozuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+22	nesandarus	nesandarus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+23	širdies	širdis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	vožtuvas	vožtuvas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_07-s15
+# text = Nors tiksli jos alpimo priežastis nežinoma, Schwartz sąmonės praradimas tiesioginiame eteryje atitinka panašų modelį, pastebėtą nuo eksperimentinių "Covid" injekcijų įvedimo, kai žmonės nepaaiškinamai alpdavo, daug kartų tiesioginiame eteryje.
+1	Nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	tiksli	tikslus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+3	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+4	alpimo	alpimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	priežastis	priežastis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	nežinoma	nežinomas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	Schwartz	Schwartz	X	kt.	_	_	_	_	Multext=X-
+9	sąmonės	sąmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	praradimas	praradimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	tiesioginiame	tiesioginis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+12	eteryje	eteris	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+13	atitinka	atitikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	panašų	panašus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+15	modelį	modelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	pastebėtą	pastebėti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+18	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+19	eksperimentinių	eksperimentinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+20	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	Covid	Covid	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+22	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+23	injekcijų	injekcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	įvedimo	įvedimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+27	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+28	nepaaiškinamai	nepaaiškinti	VERB	vksm.dlv.neig.neveik.es.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpyndn-p
+29	alpdavo	alpti	VERB	vksm.asm.tiesiog.būt-d.3.	Aspect=Hab|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmq3---n--ni-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+32	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+33	tiesioginiame	tiesioginis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+34	eteryje	eteris	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+35	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

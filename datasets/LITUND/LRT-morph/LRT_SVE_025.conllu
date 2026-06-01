@@ -1,0 +1,841 @@
+# newdoc id = LRT_SVE_025
+# newpar id = LRT_SVE_025-p1
+# sent_id = LRT_SVE_025-s1
+# text = Būsimiems medikams planuojama skirti daugiau valstybės finansuojamų studijų vietų
+1	Būsimiems	būti	VERB	vksm.dlv.neveik.būs.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpf-pmpnndn-p
+2	medikams	medikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+3	planuojama	planuoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+4	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+6	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	finansuojamų	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+8	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+9	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+
+# newpar id = LRT_SVE_025-p2
+# sent_id = LRT_SVE_025-s2
+# text = 2024-2025 mokslo metais į valstybės finansuojamas sveikatos priežiūros specialistų rengimo programas ir studijų vietas Sveikatos apsaugos ministerija (SAM) siūlo priimti 304 asmenimis daugiau, nei ankstesniais mokslo metais, rašoma SAM pranešime žiniasklaidai.
+1	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+2	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+3	2025	2025	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+4	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+6	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	finansuojamas	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnan-p
+9	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	rengimo	rengimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	programas	programa	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	vietas	vieta	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+17	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+18	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	ministerija	ministerija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+20	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+21	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+22	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+23	siūlo	siūlyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+25	304	304	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+26	asmenimis	asmuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+27	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	ankstesniais	ankstus	ADJ	bdv.aukšt.vyr.dgs.Įn.	Case=Ins|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpin
+31	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+35	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+36	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+37	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+38	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p3
+# sent_id = LRT_SVE_025-s3
+# text = Sveikatos apsaugos viceministro Aurimo Pečkausko teigimu, kartu su kitais ministerijos vykdomais sveikatos priežiūros specialistų rengimo, pritraukimo ir profesijos prestižo didinimo pokyčiais, tai – svarbus žingsnis sprendžiant šių specialistų trūkumo problemą: „Sveikatos priežiūros specialistų pritraukimas ir rengimas – svarbus prioritetas, siekiant užtikrinti sklandų ir kokybišką sveikatos sistemos veikimą ir mūsų gyventojų sveikatą.
+1	Sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	viceministro	viceministras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	Aurimo	Aurimas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+5	Pečkausko	Pečkauskas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+6	teigimu	teigimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+10	kitais	kitas	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+11	ministerijos	ministerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	vykdomais	vykdyti	VERB	vksm.dlv.neveik.es.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnin-p
+13	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	rengimo	rengimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	pritraukimo	pritraukimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	profesijos	profesija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	prestižo	prestižas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	didinimo	didinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	pokyčiais	pokytis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+26	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+27	svarbus	svarbus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+28	žingsnis	žingsnis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+29	sprendžiant	spręsti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+30	šių	šis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+31	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+32	trūkumo	trūkumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+33	problemą	problema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+34	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+35	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+36	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+37	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+38	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+39	pritraukimas	pritraukimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+40	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+41	rengimas	rengimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+42	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+43	svarbus	svarbus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+44	prioritetas	prioritetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+47	užtikrinti	užtikrinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+48	sklandų	sklandus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+49	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+50	kokybišką	kokybiškas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+51	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+52	sistemos	sistema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+53	veikimą	veikimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+54	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+55	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+56	gyventojų	gyventojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+57	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+58	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s4
+# text = Džiaugiamės, kad matydami vis didėjantį šių specialistų poreikį, galime pasiūlyti labai konkrečias priemones jų skaičiaus augimui“.
+1	Džiaugiamės	džiaugtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--yi-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	matydami	matyti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pm-n--n--
+5	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	didėjantį	didėti	VERB	vksm.dlv.veik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannan-p
+7	šių	šis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+8	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	poreikį	poreikis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+12	pasiūlyti	pasiūlyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	konkrečias	konkretus	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+15	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+17	skaičiaus	skaičius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	augimui	augimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+19	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p4
+# sent_id = LRT_SVE_025-s5
+# text = Švietimo, mokslo ir sporto ministerijai bei Vyriausybei pritarus, kitais mokslo metais sveikatos priežiūros specialistus rengiančiose valstybės finansuojamose programų ir studijų vietose galės studijuoti 2 886 asmenys.
+1	Švietimo	švietimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	sporto	sportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	ministerijai	ministerija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+7	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	Vyriausybei	vyriausybė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+9	pritarus	pritarti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgaa----n--n--
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kitais	kitas	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+12	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+14	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	rengiančiose	rengti	VERB	vksm.dlv.veik.es.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannln-p
+18	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	finansuojamose	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnln-p
+20	programų	programa	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+23	vietose	vieta	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+24	galės	galėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+25	studijuoti	studijuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	2 886	2 886	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+27	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s6
+# text = Studijoms ir vientisosioms studijoms siūloma skirti 201 valstybės finansuojamų vietų daugiau, nei 2023-2024 mokslo metais, iš jų vientisosioms medicinos krypties studijoms siūloma skirti 20 valstybės finansuojamų vietų daugiau, vientisosioms farmacijos studijoms – 11 vietų daugiau.
+1	Studijoms	studijos	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	vientisosioms	vientisas	ADJ	bdv.nelygin.įvardž.mot.dgs.N.	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdy
+4	studijoms	studijos	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+5	siūloma	siūlyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+6	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	201	201	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	finansuojamų	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+10	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+15	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+16	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+22	vientisosioms	vientisas	ADJ	bdv.nelygin.įvardž.mot.dgs.N.	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdy
+23	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	krypties	kryptis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	studijoms	studijos	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+26	siūloma	siūlyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+27	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+28	20	20	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+29	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	finansuojamų	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+31	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+32	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	vientisosioms	vientisas	ADJ	bdv.nelygin.įvardž.mot.dgs.N.	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdy
+35	farmacijos	farmacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+36	studijoms	studijos	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+37	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+38	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+39	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+40	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+41	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p5
+# sent_id = LRT_SVE_025-s7
+# text = Prioritetas skiriamas šiuo metu labiausiai trūkstamų specialistų – slaugytojų, slaugytojų padėjėjų – parengimui.
+1	Prioritetas	prioritetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	skiriamas	skirti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+3	šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+4	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+5	labiausiai	labai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+6	trūkstamų	trūkti	VERB	vksm.dlv.neveik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnngn-p
+7	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	slaugytojų	slaugytojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	slaugytojų	slaugytojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	padėjėjų	padėjėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	parengimui	parengimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s8
+# text = Į valstybės finansuojamą slaugytojo padėjėjo modulinę profesinio mokymo programą numatyta priimti 103 asmenimis daugiau, į slaugos studijas kolegijose – 50 asmenų daugiau, o į slaugos ir akušerijos studijų kryptį universitetuose priimti 33 asmenimis daugiau nei 2023-2024 mokslo metais.
+1	Į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	finansuojamą	finansuoti	VERB	vksm.dlv.neveik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnan-p
+4	slaugytojo	slaugytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	padėjėjo	padėjėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	modulinę	modulinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+7	profesinio	profesinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+8	mokymo	mokymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	programą	programa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	numatyta	numatyti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+11	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	103	103	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	asmenimis	asmuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+14	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	slaugos	slauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	studijas	studijos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+19	kolegijose	kolegija	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+22	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+27	slaugos	slauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	akušerijos	akušerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+31	kryptį	kryptis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+32	universitetuose	universitetas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+33	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+34	33	33	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+35	asmenimis	asmuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+36	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+37	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+39	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+40	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+41	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+42	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+43	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p6
+# sent_id = LRT_SVE_025-s9
+# text = Planuojama, kad 2024-2025 mokslo metais į valstybės finansuojamas medicinos rezidentūros studijas bus priimti 365 asmenys, į odontologijos rezidentūros studijas – 12.
+1	Planuojama	planuoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+5	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+6	2025	2025	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	finansuojamas	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnan-p
+12	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	studijas	studijos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+15	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+16	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	365	365	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+18	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	odontologijos	odontologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+23	studijas	studijos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+24	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+25	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p7
+# sent_id = LRT_SVE_025-s10
+# text = Daugiausia 2024-2025 mokslo metais valstybės finansuojamų rezidentūros studijų vietų skirta šeimos medicinos rezidentūros studijų programai – 83, anesteziologijos ir reanimatologijos – 23, vidaus ligų – 22, psichiatrijos – 21, skubiosios medicinos – 18.
+1	Daugiausia	daug	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+2	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+3	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+4	2025	2025	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+7	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	finansuojamų	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+9	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	skirta	skirti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+13	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+17	programai	programa	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+18	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+19	83	83	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	anesteziologijos	anesteziologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	reanimatologijos	reanimatologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+25	23	23	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+29	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+30	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	psichiatrijos	psichiatrija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+33	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+34	21	21	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	skubiosios	skubus	ADJ	bdv.nelygin.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgy
+37	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+38	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+39	18	18	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p8
+# sent_id = LRT_SVE_025-s11
+# text = Šiuos siūlymus dėl valstybės finansuojamų vietų suformavo Nacionalinės sveikatos sistemos specialistų rengimo valstybinio užsakymo formavimo komitetas (VUK), o Švietimo, mokslo ir sporto ministerijai pateikė SAM.
+1	Šiuos	šis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+2	siūlymus	siūlymas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+3	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	finansuojamų	finansuoti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+6	vietų	vieta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	suformavo	suformuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	Nacionalinės	nacionalinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+9	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	sistemos	sistema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	rengimo	rengimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	valstybinio	valstybinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+14	užsakymo	užsakymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	formavimo	formavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	komitetas	komitetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+17	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+18	VUK	VUK	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+19	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	Švietimo	švietimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	sporto	sportas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	ministerijai	ministerija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+28	pateikė	pateikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+29	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p9
+# sent_id = LRT_SVE_025-s12
+# text = Formuojant valstybinį užsakymą naudojamas praeitais metais atnaujintas sprendimų priėmimo procesas, kuris yra paremtas gilesne sveikatos priežiūros specialistų poreikio analize.
+1	Formuojant	formuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	valstybinį	valstybinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+3	užsakymą	užsakymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	naudojamas	naudoti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+5	praeitais	praeiti	VERB	vksm.dlv.neveik.būt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnin-p
+6	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+7	atnaujintas	atnaujinti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+8	sprendimų	sprendimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	priėmimo	priėmimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	procesas	procesas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+13	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	paremtas	paremti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+15	gilesne	gilus	ADJ	bdv.aukšt.mot.vns.Įn.	Case=Ins|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	Multext=Agcfsin
+16	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	poreikio	poreikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	analize	analizė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s13
+# text = Išplėtus VUK sudėtį ir patariamąjį socialinių partnerių ratą, sprendimai priimami skaidriau ir geriau atitinka visuomenės bei gydymo įstaigų poreikius.
+1	Išplėtus	išplėsti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+2	VUK	VUK	X	kt.	_	_	_	_	Multext=X-
+3	sudėtį	sudėtis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	patariamąjį	patariamasis	ADJ	bdv.nelygin.įvardž.vyr.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsay
+6	socialinių	socialinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+7	partnerių	partneris	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	ratą	ratas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	sprendimai	sprendimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+11	priimami	priimti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+12	skaidriau	skaidriai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+15	atitinka	atitikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	visuomenės	visuomenė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+20	poreikius	poreikis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p10
+# sent_id = LRT_SVE_025-s14
+# text = Taip pat Ekspertų tarybos, formuodamos įžvalgas, o VUK formuodamas siūlymus rėmėsi Vyriausybės strateginės analizės centro 2023 metais atnaujintu Sveikatos priežiūros specialistų poreikio prognozavimo modeliu.
+1	Taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+2	Ekspertų	ekspertas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	formuodamos	formuoti	VERB	vksm.pusd.mot.dgs.	Gender=Fem|Number=Plur|VerbForm=Conv	_	_	_	Multext=Vgh--pf-n--n--
+6	įžvalgas	įžvalga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	VUK	VUK	X	kt.	_	_	_	_	Multext=X-
+10	formuodamas	formuoti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+11	siūlymus	siūlymas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+12	rėmėsi	remtis	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+13	Vyriausybės	vyriausybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	strateginės	strateginis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+15	analizės	analizė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+18	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+19	atnaujintu	atnaujinti	VERB	vksm.dlv.neveik.būt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnin-p
+20	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+21	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	poreikio	poreikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	prognozavimo	prognozavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	modeliu	modelis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p11
+# sent_id = LRT_SVE_025-s15
+# text = SAM primena, kad asmenys, įstoję į valstybės nefinansuojamas programas, studijas ar rezidentūros studijas, gali sudaryti sutartį su sveikatos priežiūros įstaiga, kuri įsipareigotų finansuoti programos, studijų ar rezidentūros studijų kainą ar taikyti kitas skatinamąsias priemones, o mokinys, studentas ar gydytojas rezidentas po studijų baigimo įsipareigotų įstaigoje dirbti sutartą laikotarpį.
+1	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	primena	priminti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	įstoję	įstoti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+8	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	nefinansuojamas	nefinansuoti	VERB	vksm.dlv.neig.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpynnn-p
+11	programas	programa	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	studijas	studijos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+14	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	studijas	studijos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	sutartį	sutartis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+21	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+22	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+23	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	įstaiga	įstaiga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+27	įsipareigotų	įsipareigoti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+28	finansuoti	finansuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	programos	programa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+32	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+33	rezidentūros	rezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+34	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+35	kainą	kaina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+36	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+37	taikyti	taikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+38	kitas	kitas	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+39	skatinamąsias	skatinti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+40	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+43	mokinys	mokinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+44	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+45	studentas	studentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+46	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+47	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+48	rezidentas	rezidentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+49	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+50	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+51	baigimo	baigimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+52	įsipareigotų	įsipareigoti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+53	įstaigoje	įstaiga	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+54	dirbti	dirbti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+55	sutartą	sutarti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+56	laikotarpį	laikotarpis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+57	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s16
+# text = Taip pat planuojantieji studijuoti gali su įstaiga sudaryti ketinimų sutartį.
+1	Taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+2	planuojantieji	planuoti	VERB	vksm.dlv.veik.es.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanynn-p
+3	studijuoti	studijuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	įstaiga	įstaiga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+7	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	ketinimų	ketinimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	sutartį	sutartis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p12
+# sent_id = LRT_SVE_025-s17
+# text = Siekiant pritraukti, įgalinti ir išlaikyti sveikatos priežiūros specialistus, SAM ragina taikyti kompleksines skatinamąsias priemones, kurti palankų psichoemocinį klimatą, organizacinę kultūrą, suteikti profesinio tobulėjimo galimybes, įtraukti į sprendimų priėmimą, užtikrinti savęs realizaciją, padėti sėkmingai integruotis į regioną, visuomenę, kolektyvą, taikyti tiek pinigines, tiek nepinigines skatinamąsias priemones.
+1	Siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	pritraukti	pritraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	įgalinti	įgalinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	išlaikyti	išlaikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+12	ragina	raginti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	taikyti	taikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	kompleksines	kompleksinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+15	skatinamąsias	skatinti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+16	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kurti	kurti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	palankų	palankus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+20	psichoemocinį	psichoemocinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+21	klimatą	klimatas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	organizacinę	organizacinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+24	kultūrą	kultūra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	suteikti	suteikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+27	profesinio	profesinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+28	tobulėjimo	tobulėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	galimybes	galimybė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	įtraukti	įtraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+32	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+33	sprendimų	sprendimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+34	priėmimą	priėmimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	užtikrinti	užtikrinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+37	savęs	savęs	PRON	įv.K.	Case=Gen	_	_	_	Multext=Pg--gn
+38	realizaciją	realizacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+39	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+40	padėti	padėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+41	sėkmingai	sėkmingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+42	integruotis	integruotis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+43	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+44	regioną	regionas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	visuomenę	visuomenė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+47	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+48	kolektyvą	kolektyvas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+49	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+50	taikyti	taikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+51	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+52	pinigines	piniginė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+53	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+54	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+55	nepinigines	nepiniginis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+56	skatinamąsias	skatinti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+57	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+58	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p13
+# sent_id = LRT_SVE_025-s18
+# text = SAM skatina sveikatos priežiūros įstaigas pateikti informaciją apie įstaigoje taikomas skatinamąsias priemones, kuriomis ministerija pasidalina savo tinklalapyje siekdama, kad moksleiviai, studentai, gydytojai rezidentai ar dar tik planuojantieji studijuoti galėtų palyginti įstaigų taikomas skatinamąsias priemones ir išsirinktų jiems patraukliausias vietas, o taip pat rastų viską vienoje vietoje, įskaitant ir įstaigų atsakingų asmenų kontaktus.
+1	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	įstaigas	įstaiga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+6	pateikti	pateikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	informaciją	informacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	įstaigoje	įstaiga	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+10	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+11	skatinamąsias	skatinti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+12	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kuriomis	kuris	PRON	įv.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpin
+15	ministerija	ministerija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+16	pasidalina	pasidalinti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+17	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	tinklalapyje	tinklalapis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+19	siekdama	siekti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sf-n--n--
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	moksleiviai	moksleivis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	studentai	studentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	gydytojai	gydytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+27	rezidentai	rezidentas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+28	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+30	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+31	planuojantieji	planuoti	VERB	vksm.dlv.veik.es.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanynn-p
+32	studijuoti	studijuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+33	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+34	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+35	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+36	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+37	skatinamąsias	skatinti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnyan-p
+38	priemones	priemonė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+39	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+40	išsirinktų	išsirinkti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+41	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+42	patraukliausias	patrauklus	ADJ	bdv.aukšč.mot.dgs.G.	Case=Acc|Degree=Sup|Gender=Fem|Number=Plur	_	_	_	Multext=Agsfpan
+43	vietas	vieta	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+44	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+45	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+46	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+47	rastų	rasti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+48	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+49	vienoje	vienas	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+50	vietoje	vieta	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+51	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+52	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+53	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+54	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+55	atsakingų	atsakingas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+56	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+57	kontaktus	kontaktas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+58	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p14
+# sent_id = LRT_SVE_025-s19
+# text = Ypatingai svarbu, kad kiekviena įstaiga prisidėtų, siekdama pritraukti sveikatos priežiūros specialistus.
+1	Ypatingai	ypatingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	kiekviena	kiekvienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+6	įstaiga	įstaiga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	prisidėtų	prisidėti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ys-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	siekdama	siekti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sf-n--n--
+10	pritraukti	pritraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s20
+# text = SAM skatina įstaigas inicijuoti bendradarbiavimą tarp savivaldybių, aukštųjų mokyklų ir įstaigų, identifikuoti studentus, kilusius iš regiono, ir jų studijų metu užmegzti ryšį, iš anksto pradėti kalbėti apie ateities darbo perspektyvas ir skatinimą grįžti į gimtąjį regioną, kviesti atlikti profesinę praktiką, pasirašytų ketinimų sutartis.
+1	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	įstaigas	įstaiga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+4	inicijuoti	inicijuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	bendradarbiavimą	bendradarbiavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	savivaldybių	savivaldybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	aukštųjų	aukštas	ADJ	bdv.nelygin.įvardž.mot.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgy
+10	mokyklų	mokykla	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	identifikuoti	identifikuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	studentus	studentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kilusius	kilti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannan-p
+18	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+19	regiono	regionas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	jų	jis	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+23	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+25	užmegzti	užmegzti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	ryšį	ryšys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	iš anksto	iš anksto	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+29	pradėti	pradėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+30	kalbėti	kalbėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+31	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+32	ateities	ateitis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+33	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+34	perspektyvas	perspektyva	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+35	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+36	skatinimą	skatinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+37	grįžti	grįžti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+38	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+39	gimtąjį	gimtas	ADJ	bdv.nelygin.įvardž.vyr.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsay
+40	regioną	regionas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	kviesti	kviesti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+43	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+44	profesinę	profesinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+45	praktiką	praktika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+46	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+47	pasirašytų	pasirašyti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+48	ketinimų	ketinimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+49	sutartis	sutartis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+50	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_025-p15
+# sent_id = LRT_SVE_025-s21
+# text = Pagal 2021-2027 m. ES fondų investicijų programą, numatoma skirti 14 mln. eurų sveikatos priežiūros specialistų pritraukimo priemonėms (pavyzdžiui, studijų kainos finansavimui, stipendijų skyrimui, labiausiai trūkstamų profesinių kvalifikacijų, specializacijų prestižo didinimui).
+1	Pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+3	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+4	2027	2027	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	fondų	fondas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	investicijų	investicija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+9	programą	programa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	numatoma	numatyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+12	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	14	14	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+15	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	pritraukimo	pritraukimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	priemonėms	priemonė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+21	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+22	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+25	kainos	kaina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	finansavimui	finansavimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	stipendijų	stipendija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+29	skyrimui	skyrimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	labiausiai	labai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+32	trūkstamų	trūkti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+33	profesinių	profesinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+34	kvalifikacijų	kvalifikacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	specializacijų	specializacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+37	prestižo	prestižas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+38	didinimui	didinimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+39	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s22
+# text = Dar 27,55 mln. eurų planuojama investuoti į sveikatos priežiūros specialistų profesinės kvalifikacijos tobulinimą.
+1	Dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+2	27,55	27,55	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+3	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	planuojama	planuoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+6	investuoti	investuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	specialistų	specialistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	profesinės	profesinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+12	kvalifikacijos	kvalifikacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	tobulinimą	tobulinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_025-s23
+# text = Be to, SAM 2023 metų lapkričio mėn. patvirtino gaires regionams, kurie gali planuoti ES fondų lėšomis finansuojamus projektus ir juose numatyti veiklas, siekiant sveikatos specialistus pritraukti darbui į asmens sveikatos priežiūros įstaigas, teikiančias ilgalaikės priežiūros paslaugas.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	SAM	SAM	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+4	2023	2023	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	lapkričio	lapkritis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	mėn.	mėn.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	patvirtino	patvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	gaires	gairė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+10	regionams	regionas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+13	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	planuoti	planuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+16	fondų	fondas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+17	lėšomis	lėšos	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+18	finansuojamus	finansuoti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+19	projektus	projektas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	juose	jis	PRON	įv.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpln
+22	numatyti	numatyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+23	veiklas	veikla	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+26	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+27	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+28	pritraukti	pritraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	darbui	darbas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+30	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+31	asmens	asmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+33	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+34	įstaigas	įstaiga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	teikiančias	teikti	VERB	vksm.dlv.veik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannan-p
+37	ilgalaikės	ilgalaikis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+38	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+39	paslaugas	paslauga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

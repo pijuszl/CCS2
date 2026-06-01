@@ -1,0 +1,1292 @@
+# newdoc id = UN_COV_09
+# newpar id = UN_COV_09-p1
+# sent_id = UN_COV_09-s1
+# text = Vaikų mirčių skaičius po koronės marmalizacijos Europoje išaugo 1580 proc.
+1	Vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	koronės	koronė	NOUN	dkt.mot.vns.K.substnd.	Case=Gen|Gender=Fem|Number=Sing|Style=Slng	_	_	_	Multext=Nnfsgn-
+6	marmalizacijos	marmalizacijos	X	kt.	_	_	_	_	Multext=X-
+7	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+8	išaugo	išaugti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	1580	1580	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+
+# newpar id = UN_COV_09-p2
+# sent_id = UN_COV_09-s2
+# text = Vaikų mirtys dėl pelno: EMA patvirtinus vaikams skirtą COVID "vakciną", jų mirčių skaičius Europoje išaugo 1580 % !
+1	Vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	mirtys	mirtis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	pelno	pelnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	EMA	Ema	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+7	patvirtinus	patvirtinti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+8	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+9	skirtą	skirti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+10	COVID	COVID	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	vakciną	vakcina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	jų	jis	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+16	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+17	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+19	išaugo	išaugti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	1580	1580	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+21	%	%	SYM	simb.	_	_	_	_	Multext=Tx
+22	!	!	PUNCT	skyr.	_	_	_	_	Multext=Te
+
+# sent_id = UN_COV_09-s3
+# text = Apie tai rašoma vokiečių portale "Unser-mitteleuropa". Vaikams skirtos vakcinos COVID-19 patvirtinimą kaip vilties spindulėlį vertino tie, kurie tikėjo viskuo, ką jiems sakė (o kai kuriais atvejais vis dar meluoja) didžioji žiniasklaida.
+1	Apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+4	vokiečių	vokietis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	portale	portalas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Unser	Unser	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+9	mitteleuropa	mitteleuropa	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+12	Vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+13	skirtos	skirti	VERB	vksm.dlv.neveik.būt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnngn-p
+14	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	COVID-19	COVID-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+16	patvirtinimą	patvirtinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+17	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	vilties	viltis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	spindulėlį	spindulėlis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	vertino	vertinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	tie	tas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpnn
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+24	tikėjo	tikėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	viskuo	viskas	PRON	įv.Įn.	Case=Ins	_	_	_	SpaceAfter=No|Multext=Pg--in
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+28	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+29	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+30	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+31	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	kai kuriais	kai kuris	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+33	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+34	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+35	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+36	meluoja	meluoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+37	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+38	didžioji	didis	ADJ	bdv.nelygin.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsny
+39	žiniasklaida	žiniasklaida	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s4
+# text = Taip buvo nepaisant to, kad jaunesnių nei 15 metų amžiaus grupėje mirčių nuo Kovido vakcinos praktiškai nebuvo.
+1	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	nepaisant	nepaisant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	jaunesnių	jaunas	ADJ	bdv.aukšt.vyr.dgs.K.	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpgn
+8	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	grupėje	grupė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+13	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	Kovido	kovidas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	praktiškai	praktiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s5
+# text = Tai buvo nusikaltimas - negailestingai paveikti vargšus vaikus eksperimentinėmis "vakcinomis" siekiant vien tik pelno.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	nusikaltimas	nusikaltimas	NOUN	dkt.sngr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsny-
+4	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	negailestingai	negailestingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	paveikti	paveikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	vargšus	vargšas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+8	vaikus	vaikas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+9	eksperimentinėmis	eksperimentinis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	vakcinomis	vakcina	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+12	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+14	vien	vien	PART	dll.	_	_	_	_	Multext=Qg
+15	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	pelno	pelnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s6
+# text = Skaičiai, kurie gąsdina Tačiau naujausi statistiniai duomenys, kuriuos "EuroMOMO" pateikė iš 27 Europos šalių, įskaitant Jungtinę Karalystę, Prancūziją, Italiją, Ispaniją, Italiją ir didžiąją dalį Vokietijos, oficialios valdžios institucijos, rodo, kad nuo tada, kai Europos vaistų agentūra (EMA) 2021 m. patvirtino COVID-19 injekciją 12-15 metų vaikams, o vos po kelių mėnesių - 5-11 metų vaikams, gerokai padaugėjo perteklinių vaikų mirčių.
+1	Skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+4	gąsdina	gąsdinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	naujausi	naujas	ADJ	bdv.aukšč.vyr.dgs.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpnn
+7	statistiniai	statistinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kuriuos	kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	EuroMOMO	EuroMOMO	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+13	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	pateikė	pateikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+16	27	27	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+18	šalių	šalis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+21	Jungtinę	jungtinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+22	Karalystę	karalystė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	Prancūziją	Prancūzija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	Italiją	Italija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	Ispaniją	Ispanija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	Italiją	Italija	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+31	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	didžiąją	didis	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsay
+33	dalį	dalis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+34	Vokietijos	Vokietija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgng
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	oficialios	oficialus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+37	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+38	institucijos	institucija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+39	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+40	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+43	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+44	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+47	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+48	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+49	agentūra	agentūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+50	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+51	EMA	EMA	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+52	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+53	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+54	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+55	patvirtino	patvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+56	COVID-19	COVID-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+57	injekciją	injekcija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+58	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+59	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+60	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+61	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+62	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+63	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+64	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+65	vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+66	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+67	kelių	keli	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+68	mėnesių	mėnuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+69	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+70	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+71	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+72	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+73	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+74	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+75	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+76	gerokai	gerokai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+77	padaugėjo	padaugėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+78	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+79	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+80	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+81	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s7
+# text = Šio šimtmečio nusikaltimo rezultatas: mirčių skaičius išaugo 1580 %, palyginti su tuo pačiu laikotarpiu, kai tariama "pandemija" buvo pačiame įkarštyje ir vaikams nebuvo siūloma Covid-19 injekcija.
+1	Šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+2	šimtmečio	šimtmetis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	nusikaltimo	nusikaltimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+4	rezultatas	rezultatas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	išaugo	išaugti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	1580	1580	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	%	%	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Tx
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+14	tuo pačiu	tas pats	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+15	laikotarpiu	laikotarpis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	tariama	tarti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+19	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	pandemija	pandemija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+21	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+22	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	pačiame	pats	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+24	įkarštyje	įkarštis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+27	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+28	siūloma	siūlyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+29	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+30	injekcija	injekcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s8
+# text = Tokius įspėtojus, kaip "Unser-mitteleuropa", ir kitus patikimus šaltinius didžioji žiniasklaida išvadino "sąmokslo teorijų šalininkais", "koronos neigėjais", "kovidistais" ar tiesiog "naciais".
+1	Tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+2	įspėtojus	įspėtojus	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Unser	Unser	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+8	mitteleuropa	mitteleuropa	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+13	patikimus	patikimas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+14	šaltinius	šaltinis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+15	didžioji	didis	ADJ	bdv.nelygin.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsny
+16	žiniasklaida	žiniasklaida	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	išvadino	išvadinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+18	"sąmokslo	"sąmokslo	X	kt.	_	_	_	_	Multext=Tu
+19	teorijų	teorija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+20	šalininkais	šalininkas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+21	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+24	koronos	korona	NOUN	dkt.mot.vns.K.substnd.	Case=Gen|Gender=Fem|Number=Sing|Style=Slng	_	_	_	Multext=Nnfsgn-
+25	neigėjais	neigėjas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+26	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+29	kovidistais	kovidistais	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+30	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+31	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+33	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+34	naciais	nacis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+35	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s9
+# text = Toliau pateiktus statistinius duomenis ir paaiškinimus parengė expose-news.com:
+1	Toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	pateiktus	pateikti	VERB	vksm.dlv.neveik.būt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnan-p
+3	statistinius	statistinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+4	duomenis	duomuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	paaiškinimus	paaiškinimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	parengė	parengti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	expose	expose	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+10	news.com	news.com	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# sent_id = UN_COV_09-s10
+# text = Prieš išduodant licenciją naudoti Kovid-19 vakciną vaikams, Europoje nebuvo užfiksuota perteklinio  vaikų mirčių skaičiaus.
+1	Prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	išduodant	išduoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+3	licenciją	licencija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+4	naudoti	naudoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	Kovid-19	Kovid-19	X	kt.	_	_	_	_	Multext=X-
+6	vakciną	vakcina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+10	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+11	užfiksuota	užfiksuoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+12	perteklinio	perteklinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+13	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	skaičiaus	skaičius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s11
+# text = EuroMOMO duomenimis, per pirmąsias 21 2021 m. savaites mirė 346 žmonėmis mažiau, nei tikėtasi, t. y. buvo minus 346 arba 0 mirčių perteklius.
+1	EuroMOMO	EuroMOMO	X	kt.	_	_	_	_	Multext=X-
+2	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	pirmąsias	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.dgs.G.	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofpaly
+6	21 2021	21 2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	savaites	savaitė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+9	mirė	mirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	346	346	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	žmonėmis	žmogus	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+12	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	tikėtasi	tikėtis	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-y-p
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	t. y.	t. y.	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	minus	minus	PART	dll.	_	_	_	_	Multext=Qg
+20	346	346	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+21	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	0	0	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	perteklius	perteklius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p3
+# sent_id = UN_COV_09-s12
+# text = Tačiau vos tik EMA 2021 m. 22-ąją savaitę patvirtino vakciną "Covid-19", skirtą 12-15 metų paaugliams, perteklinių mirčių skaičius ėmė smarkiai augti.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+3	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	EMA	Ema	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+5	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+6	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+7	22-ąją	22-ąją	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+8	savaitę	savaitė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	patvirtino	patvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	vakciną	vakcina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	skirtą	skirti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+16	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+17	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+18	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+19	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	paaugliams	paauglys	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+23	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+24	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+25	ėmė	imti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+26	smarkiai	smarkiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+27	augti	augti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p4
+# sent_id = UN_COV_09-s13
+# text = Žinoma, apie šį padidėjusį perteklinių mirčių skaičių nebuvo skelbiama pagrindinėje žiniasklaidoje.
+1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+5	padidėjusį	padidėti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+6	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+7	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+8	skaičių	skaičius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+10	skelbiama	skelbti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+11	pagrindinėje	pagrindinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+12	žiniasklaidoje	žiniasklaida	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s14
+# text = Tačiau tai nebuvo staigmena tokiems, kaip "OUR MIDEUROPE", kurie jau žinojo apie nuslėptą žalą, kurią suaugusiesiems padarė "Covid 19" skiepai.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+4	staigmena	staigmena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	tokiems	toks	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpdn
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	OUR	OUR	X	kt.	_	_	_	_	Multext=X-
+10	MIDEUROPE	MIDEUROPE	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+14	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	nuslėptą	nuslėpti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+18	žalą	žala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kurią	kuris	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+21	suaugusiesiems	suaugti	VERB	vksm.dlv.veik.būt-k.įvardž.vyr.dgs.N.	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanydn-p
+22	padarė	padaryti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+24	Covid	Covid	X	kt.	_	_	_	_	Multext=X-
+25	19	19	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+26	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+27	skiepai	skiepai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s15
+# text = Jei apie tai būtų paskelbta pagrindinėje žiniasklaidoje, o ne sušluota po kilimu, tai būtų sukėlę didelį susirūpinimą tėvams, nusprendusiems skiepyti savo vaikus, nes jie patikėjo viskuo, ką jiems sakė melaginga spauda.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+4	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+5	paskelbta	paskelbti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+6	pagrindinėje	pagrindinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+7	žiniasklaidoje	žiniasklaida	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+11	sušluota	sušluoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+12	po	po	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+13	kilimu	kilimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+17	sukėlę	sukelti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+18	didelį	didelis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+19	susirūpinimą	susirūpinimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+20	tėvams	tėvai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	nusprendusiems	nuspręsti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanndn-p
+23	skiepyti	skiepyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+24	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+25	vaikus	vaikas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+28	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+29	patikėjo	patikėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+30	viskuo	viskas	PRON	įv.Įn.	Case=Ins	_	_	_	SpaceAfter=No|Multext=Pg--in
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+33	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+34	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+35	melaginga	melagingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+36	spauda	spauda	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+37	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s16
+# text = Tai taip pat būtų sustabdę kitus tėvus nuo priverstinio vaikų skiepijimo, kurio jiems paprasčiausiai nereikėjo ir kuris buvo visiškai nereikalingas, kai vos po kelių mėnesių Europos vaistų agentūra (EMA) pratęsė skubų Pfizer Covid-19 injekcijos patvirtinimą naudoti 5-11 metų vaikams.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+3	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+4	sustabdę	sustabdyti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+5	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+6	tėvus	tėvai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	priverstinio	priverstinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+9	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	skiepijimo	skiepijimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+13	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+14	paprasčiausiai	paprastai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+15	nereikėjo	nereikėti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+18	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	visiškai	visiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	nereikalingas	nereikalingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+24	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+25	kelių	keli	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+26	mėnesių	mėnuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+27	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+28	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	agentūra	agentūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+30	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+31	EMA	EMA	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+32	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+33	pratęsė	pratęsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+34	skubų	skubus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+35	Pfizer	Pfizer	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+36	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+37	injekcijos	injekcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+38	patvirtinimą	patvirtinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+39	naudoti	naudoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+40	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+41	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+42	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+43	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+44	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+45	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p5
+# sent_id = UN_COV_09-s17
+# text = Tai galėjo užkirsti kelią šokiruojančiam vaikų mirčių skaičiaus augimui Europoje iki 2022 m. pabaigos.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	galėjo	galėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	užkirsti	užkirsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	kelią	kelias	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+5	šokiruojančiam	šokiruoti	VERB	vksm.dlv.veik.es.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smanndn-p
+6	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+8	skaičiaus	skaičius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	augimui	augimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+10	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+11	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+14	pabaigos	pabaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s18
+# text = Tačiau dabartinė padėtis rodo, kad sprendimas pratęsti skubų vakcinos "Covid-19" patvirtinimą vaikams turi toli siekiančių pasekmių.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	dabartinė	dabartinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+3	padėtis	padėtis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	sprendimas	sprendimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	pratęsti	pratęsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	skubų	skubus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+10	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+13	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	patvirtinimą	patvirtinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+15	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+16	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	toli	toli	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	siekiančių	siekti	VERB	vksm.dlv.veik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfanngn-p
+19	pasekmių	pasekmė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s19
+# text = Ir tai liudija apie vakcinų lobistų prioritetus ir nežmonišką valdžios institucijų požiūrį į visuomenės sveikatą.
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	liudija	liudyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	vakcinų	vakcina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+6	lobistų	lobistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	prioritetus	prioritetas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	nežmonišką	nežmoniškas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+10	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	institucijų	institucija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	požiūrį	požiūris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	visuomenės	visuomenė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s20
+# text = Vaikų sveikata ir saugumas buvo taip beatodairiškai ignoruojami, kad būtų vykdoma skiepijimo kampanija, kuri nepadarė nieko, išskyrus tai, kad vakcinos padarė didelę žalą ir atnešė didžiulį pelną didžiajai farmacijai.
+1	Vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	sveikata	sveikata	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	saugumas	saugumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	beatodairiškai	beatodairiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	ignoruojami	ignoruoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnnnn-p
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	vykdoma	vykdyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+13	skiepijimo	skiepijimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	kampanija	kampanija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+17	nepadarė	nepadaryti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+18	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	išskyrus	išskirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+21	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+24	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	padarė	padaryti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+26	didelę	didelis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+27	žalą	žala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	atnešė	atnešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+30	didžiulį	didžiulis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+31	pelną	pelnas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+32	didžiajai	didis	ADJ	bdv.nelygin.įvardž.mot.vns.N.	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsdy
+33	farmacijai	farmacija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s21
+# text = EuroMOMO duomenimis, tariamos pandemijos įkarštyje Europoje per visus 2020 m. mirė 466 vaikais mažiau, nei tikėtasi.
+1	EuroMOMO	EuroMOMO	X	kt.	_	_	_	_	Multext=X-
+2	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tariamos	tariamas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+5	pandemijos	pandemija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+6	įkarštyje	įkarštis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+7	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+8	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	visus	visas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+10	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	mirė	mirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	466	466	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	vaikais	vaikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+15	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	tikėtasi	tikėtis	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-y-p
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p6
+# sent_id = UN_COV_09-s22
+# text = Tačiau, kaip žinome, tariama "pandemija" iš tikrųjų Europą pasiekė tik 2020 m. kovo mėn. Valdžios institucijoms tai, deja, dar labiau apsunkina sprendimą skiepyti vaikus, nes tariamos "pandemijos" piko metu buvo užregistruota 616 vaikų mirčių mažiau.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	žinome	žinoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	tariama	tarti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+7	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	pandemija	pandemija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+9	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+10	iš tikrųjų	iš tikrųjų	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	Europą	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+12	pasiekė	pasiekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+15	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+16	kovo	kovas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	mėn.	mėn.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+18	Valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	institucijoms	institucija	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+20	tai	tai	SCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	deja	deja	INTJ	jst.	_	_	_	_	SpaceAfter=No|Multext=Ig
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+25	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+26	apsunkina	apsunkinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	sprendimą	sprendimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+28	skiepyti	skiepyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	vaikus	vaikas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+32	tariamos	tariamas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+33	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+34	pandemijos	pandemija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+35	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+36	piko	pikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+37	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+38	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+39	užregistruota	užregistruoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+40	616	616	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+41	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+42	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+43	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+44	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p7
+# sent_id = UN_COV_09-s23
+# text = Kartu su faktu, kad ši tendencija išliko ir 2021 m., kol EMA pratęsė skubų "Pfizer" "Covid 19" injekcijos patvirtinimą naudoti 12-15 metų vaikams, tampa aišku, kodėl šie skaičiai kelia rimtų klausimų, kodėl vyriausybės, nevyriausybinės organizacijos, medicinos reguliavimo institucijos ir mokesčių mokėtojų finansuojami mokslininkai bei gydytojai taip noriai siekė, kad eksperimentinė mRNA genų terapija būtų vykdoma vaikams.
+1	Kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+3	faktu	faktas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	tendencija	tendencija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	išliko	išlikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kol	kol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	EMA	Ema	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+15	pratęsė	pratęsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	skubų	skubus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+17	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	Pfizer	Pfizer	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+19	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+20	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	Covid	Covid	X	kt.	_	_	_	_	Multext=X-
+22	19	19	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+23	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+24	injekcijos	injekcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	patvirtinimą	patvirtinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+26	naudoti	naudoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+27	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+28	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+29	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+30	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	tampa	tapti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+34	aišku	aiškus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+37	šie	šis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+38	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+39	kelia	kelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+40	rimtų	rimtas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+41	klausimų	klausimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+42	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+43	kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+44	vyriausybės	vyriausybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	nevyriausybinės	nevyriausybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+47	organizacijos	organizacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+48	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+49	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+50	reguliavimo	reguliavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+51	institucijos	institucija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+52	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+53	mokesčių	mokestis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+54	mokėtojų	mokėtojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+55	finansuojami	finansuoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+56	mokslininkai	mokslininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+57	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+58	gydytojai	gydytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+59	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+60	noriai	noriai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+61	siekė	siekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+62	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+63	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+64	eksperimentinė	eksperimentinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+65	mRNA	mRNA	X	kt.	_	_	_	_	Multext=X-
+66	genų	genas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+67	terapija	terapija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+68	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+69	vykdoma	vykdyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+70	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+71	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s24
+# text = Vargšas, kuris apie tai galvoja blogai.
+1	Vargšas	vargšas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+6	galvoja	galvoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	blogai	blogai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s25
+# text = Skaičiai rodo, kad Covid 19 virusas nekėlė jokio pavojaus vaikams ir kad jiems sekėsi net geriau nei bet kada anksčiau.
+1	Skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	Covid	Covid	X	kt.	_	_	_	_	Multext=X-
+6	19	19	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	virusas	virusas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	nekėlė	nekelti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+9	jokio	joks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+10	pavojaus	pavojus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+15	sekėsi	sektis	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+16	net	net	PART	dll.	_	_	_	_	Multext=Qg
+17	geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+18	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	bet kada	bet kada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s26
+# text = Todėl tikrai neįtikėtina, kad vaikai buvo veikiami eksperimentinėmis "vakcinomis" su žinomu šalutiniu poveikiu ir nežinomomis ilgalaikėmis pasekmėmis.
+1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	neįtikėtina	neįtikėti	VERB	vksm.dlv.neig.reik.bev.	Gender=Neut|Mood=Nec|Polarity=Neg|VerbForm=Part	_	_	_	SpaceAfter=No|Multext=Vgp---nnyn-n-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	vaikai	vaikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	veikiami	veikti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+9	eksperimentinėmis	eksperimentinis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	vakcinomis	vakcina	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+12	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+14	žinomu	žinomas	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsin
+15	šalutiniu	šalutinis	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsin
+16	poveikiu	poveikis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	nežinomomis	nežinomas	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+19	ilgalaikėmis	ilgalaikis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+20	pasekmėmis	pasekmė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s27
+# text = Eksponentiškai augantis mirčių skaičius Tragiška, kad po skubaus "Covid" vakcinos vaikams patvirtinimo nuo 2021 m. 22 savaitės iki 2022 m. 52 savaitės buvo užregistruotas stulbinantis 1953 mirčių perteklius.
+1	Eksponentiškai	eksponentiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	augantis	augti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+3	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	Tragiška	tragiškas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	skubaus	skubus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	Covid	Covid	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+12	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+15	patvirtinimo	patvirtinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+18	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+19	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+20	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+22	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	52	52	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+25	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+27	užregistruotas	užregistruoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+28	stulbinantis	stulbinti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+29	1953	1953	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+30	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+31	perteklius	perteklius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p8
+# sent_id = UN_COV_09-s28
+# text = Palyginimui, nuo 2019 m. 22 iki 52 savaitės buvo užregistruotos 334 perteklinės vaikų mirtys.
+1	Palyginimui	palyginimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	2019	2019	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	52	52	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	užregistruotos	užregistruoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+12	334	334	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	perteklinės	perteklinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+14	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	mirtys	mirtis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p9
+# sent_id = UN_COV_09-s29
+# text = Taigi nuo 2019 m. 22 savaitės iki 2020 m. 52 savaitės visoje Europoje 0-14 metų amžiaus vaikų mirė 132 mirtimis mažiau, nei tikėtasi.
+1	Taigi	taigi	PART	dll.	_	_	_	_	Multext=Qg
+2	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	2019	2019	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+4	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+6	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+10	52	52	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	visoje	visas	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+13	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+14	0	0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+15	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+16	14	14	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	mirė	mirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	132	132	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+22	mirtimis	mirtis	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+23	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	tikėtasi	tikėtis	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-y-p
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s30
+# text = Tai leidžia tiesiogiai palyginti su duomenimis, gautais po to, kai buvo licencijuota "vakcina" Covid-19.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	leidžia	leisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	tiesiogiai	tiesiogiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	gautais	gauti	VERB	vksm.dlv.neveik.būt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnin-p
+9	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	licencijuota	licencijuoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+14	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	vakcina	vakcina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+17	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s31
+# text = Tačiau, kadangi neigiamas perteklinių mirčių skaičius buvo užregistruotas prieš išduodant Covid-19 "vakcinos" licenciją vaikams ir pačiame Covid-19 "pandemijos" įkarštyje, sunku nustatyti tikslų perteklinių mirčių skaičiaus padidėjimą.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kadangi	kadangi	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	neigiamas	neigiamas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+5	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+6	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	užregistruotas	užregistruoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	išduodant	išduoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+12	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+15	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+16	licenciją	licencija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+17	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	pačiame	pats	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+20	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+21	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	pandemijos	pandemija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+24	įkarštyje	įkarštis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+27	nustatyti	nustatyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+28	tikslų	tikslas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+30	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+31	skaičiaus	skaičius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	padidėjimą	padidėjimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s32
+# text = Procentinis perteklinių mirčių padidėjimas 1 953 atvejais nuo 2021 m. 22 savaitės iki 2022 m. 52 savaitės, palyginti su -132 perteklinėmis mirtimis nuo 2019 m. 22 savaitės iki 2020 m. 52 savaitės, yra lygus -1,580 %.
+1	Procentinis	procentinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+2	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+3	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	padidėjimas	padidėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	1 953	1 953	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+6	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+7	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	2021	2021	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+10	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+15	52	52	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+20	-132	-132	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=Th
+21	perteklinėmis	perteklinis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+22	mirtimis	mirtis	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+23	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+24	2019	2019	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+25	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+26	22	22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+27	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+29	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+30	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+31	52	52	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+32	savaitės	savaitė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+35	lygus	lygus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+36	-1,580	-1,580	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=Th
+37	%	%	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Tx
+38	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s33
+# text = Žinoma, žinome, kad perteklinių mirčių iš tikrųjų padaugėjo, o ne sumažėjo, todėl galime sakyti, kad perteklinių mirčių padaugėjo 1 580 % / 16,8 karto.
+1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	žinome	žinoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+7	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+8	iš tikrųjų	iš tikrųjų	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	padaugėjo	padaugėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+13	sumažėjo	sumažėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+17	sakyti	sakyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+21	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+22	padaugėjo	padaugėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	1 580	1 580	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+24	%	%	SYM	simb.	_	_	_	_	Multext=Tx
+25	/	/	PUNCT	skyr.	_	_	_	_	Multext=Tt
+26	16,8	16,8	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+27	karto	kartas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s34
+# text = Arba galite konvertuoti -132 perteklines mirtis 19/20 m. į skaičių 1 ir tą patį skirtumą pridėti prie 1 953 perteklinių mirčių 21/22 m. Tai prilygsta 2 086 mirčių pertekliui.
+1	Arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	galite	galėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp2p--n--ni-
+3	konvertuoti	konvertuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	-132	-132	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=Th
+5	perteklines	perteklinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+6	mirtis	mirtis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+7	19/20	19/20	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	skaičių	skaičius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	tą patį	tas pats	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+14	skirtumą	skirtumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+15	pridėti	pridėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	1 953	1 953	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+18	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+19	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+20	21/22	21/22	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+21	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+22	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+23	prilygsta	prilygti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	2 086	2 086	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+25	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+26	pertekliui	perteklius	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s35
+# text = Tuomet perteklinių mirčių padidėjimas yra šokiruojantis ir neįtikėtinas - 208 500 % / 2 086 kartų.
+1	Tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+3	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	padidėjimas	padidėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	šokiruojantis	šokiruoti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	neįtikėtinas	neįtikėti	VERB	vksm.dlv.neig.reik.vyr.vns.V.	Case=Nom|Gender=Masc|Mood=Nec|Number=Sing|Polarity=Neg|VerbForm=Part	_	_	_	Multext=Vgp--smnynnn-p
+9	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	208 500	208 500	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	%	%	SYM	simb.	_	_	_	_	Multext=Tx
+12	/	/	PUNCT	skyr.	_	_	_	_	Multext=Tt
+13	2 086	2 086	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	kartų	kartas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s36
+# text = Tačiau, kad ir kaip žiūrėtume, skaičiai ir sąryšis yra aiškūs.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	kaip	kaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	žiūrėtume	žiūrėti	VERB	vksm.asm.tar.dgs.1.	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-1p--n--ns-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	sąryšis	sąryšis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	aiškūs	aiškus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s37
+# text = EMA patvirtinus vaikams skirtą "vakciną" Covid-19, Europoje gerokai padaugėjo perteklinių mirčių, nors prieš patvirtinimą mirčių skaičius buvo mažesnis, nei tikėtasi.
+1	EMA	Ema	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+2	patvirtinus	patvirtinti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+3	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+4	skirtą	skirti	VERB	vksm.dlv.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnan-p
+5	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	vakciną	vakcina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+7	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+11	gerokai	gerokai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	padaugėjo	padaugėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+14	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	patvirtinimą	patvirtinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+20	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	mažesnis	mažas	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsnn
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	tikėtasi	tikėtis	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-y-p
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_COV_09-p10
+# sent_id = UN_COV_09-s38
+# text = Apibendrinant galima teigti, kad po to, kai COVID-19 "vakcina" buvo patvirtinta vaikams, visoje Europoje padaugėjo perteklinių mirčių atvejų, todėl kyla svarbių klausimų dėl šios "vakcinos" saugumo ir valdžios institucijų priimtų sprendimų.
+1	Apibendrinant	apibendrinti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	teigti	teigti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	COVID-19	COVID-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	vakcina	vakcina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+13	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+14	patvirtinta	patvirtinti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+15	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	visoje	visas	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+18	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+19	padaugėjo	padaugėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	perteklinių	perteklinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+21	mirčių	mirtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+22	atvejų	atvejis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	kyla	kilti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+26	svarbių	svarbus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+27	klausimų	klausimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+28	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+29	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+30	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+31	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+32	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+33	saugumo	saugumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+34	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+35	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+36	institucijų	institucija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+37	priimtų	priimti	VERB	vksm.dlv.neveik.būt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnngn-p
+38	sprendimų	sprendimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s39
+# text = Tai, kad valdžios institucijos ir toliau skatina skiepyti vaikus, nors yra daugybė įrodymų, kad vakcina yra žalinga, yra nehumaniška ir visuomenės pasitikėjimo išdavystė.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	institucijos	institucija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+8	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	skiepyti	skiepyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	vaikus	vaikas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	daugybė	daugybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+15	įrodymų	įrodymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	vakcina	vakcina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+19	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	žalinga	žalingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	nehumaniška	nehumaniškas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+24	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	visuomenės	visuomenė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	pasitikėjimo	pasitikėjimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+27	išdavystė	išdavystė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s40
+# text = Reikalaukite atsakingų asmenų atsakomybės - sustabdykite beprotybę Būtina nedelsiant pradėti tyrimą, kad būtų atskleistos šios tragedijos priežastys ir atsakingi asmenys būtų patraukti atsakomybėn.
+1	Reikalaukite	reikalauti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+2	atsakingų	atsakingas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+3	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	atsakomybės	atsakomybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	sustabdykite	sustabdyti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+7	beprotybę	beprotybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	Būtina	būtinas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+9	nedelsiant	nedelsiant	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	pradėti	pradėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+15	atskleistos	atskleisti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+16	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+17	tragedijos	tragedija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	priežastys	priežastis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	atsakingi	atsakingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+21	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+22	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+23	patraukti	patraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+24	atsakomybėn	atsakomybė	NOUN	dkt.mot.vns.Il.	Case=Ill|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsxn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s41
+# text = Negalime ilgiau leisti, kad tai tęstųsi.
+1	Negalime	negalėti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--y--ni-
+2	ilgiau	ilgai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+3	leisti	leisti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+7	tęstųsi	tęstis	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ys-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s42
+# text = Mūsų vaikų saugumas ir gerovė turi būti mūsų svarbiausias prioritetas.
+1	Mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+2	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	saugumas	saugumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	gerovė	gerovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+9	svarbiausias	svarbus	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsnn
+10	prioritetas	prioritetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s43
+# text = Turime reikalauti skaidrumo, atskaitomybės ir nutraukti šį su mūsų vaikais vykdomą eksperimentą su vakcinomis.
+1	Turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+2	reikalauti	reikalauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	skaidrumo	skaidrumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	atskaitomybės	atskaitomybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	nutraukti	nutraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+9	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+10	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+11	vaikais	vaikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+12	vykdomą	vykdyti	VERB	vksm.dlv.neveik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnan-p
+13	eksperimentą	eksperimentas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+15	vakcinomis	vakcina	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s44
+# text = Atėjo laikas tėvams, pedagogams ir sveikatos priežiūros specialistams susivienyti ir pasipriešinti šiai pražūtingai tikrovei.
+1	Atėjo	ateiti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+2	laikas	laikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	tėvams	tėvai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	pedagogams	pedagogas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	specialistams	specialistas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+10	susivienyti	susivienyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	pasipriešinti	pasipriešinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+13	šiai	šis	PRON	įv.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsdn
+14	pražūtingai	pražūtingas	ADJ	bdv.nelygin.mot.vns.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsdn
+15	tikrovei	tikrovė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_09-s45
+# text = Pranešimą parašė lebionka.blogspot.com
+1	Pranešimą	pranešimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+2	parašė	parašyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	lebionka.blogspot.com	lebionka.blogspot.com	X	kt.	_	_	_	_	Multext=X-

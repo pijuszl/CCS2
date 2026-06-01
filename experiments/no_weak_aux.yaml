@@ -1,0 +1,14 @@
+# Multimodal without weak-label auxiliary pretraining of the vision encoder.
+tag: no_weak_aux
+model_kind: multimodal
+dataset:
+  use_scraped: true
+  image_required: true
+vision:
+  freeze_until_layer: 0
+train:
+  epochs: 4
+  batch_size: 4
+  grad_accum: 8
+  lr: 2.0e-5
+  loss: focal

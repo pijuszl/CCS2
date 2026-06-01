@@ -1,0 +1,1225 @@
+# newdoc id = LRT_POL_011
+# newpar id = LRT_POL_011-p1
+# sent_id = LRT_POL_011-s1
+# text = Pradėtas tyrimas dėl prezidentūros siūlymų, teikiant kandidatus į teisėjus
+1	Pradėtas	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+2	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	prezidentūros	prezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	siūlymų	siūlymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	teikiant	teikti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+8	kandidatus	kandidatas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	teisėjus	teisėjas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+
+# newpar id = LRT_POL_011-p2
+# sent_id = LRT_POL_011-s2
+# text = Nacionalinės teismų administracijoje (NTA) pradėtas vidinis tyrimas, kurio metu aiškinamasi, ar skiriant asmenis Vilniaus miesto apylinkės teismo teisėjais nebuvo galimai pažeistos Teismų įstatymo nuostatos.
+1	Nacionalinės	nacionalinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+2	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	administracijoje	administracija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+4	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+5	NTA	NTA	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+6	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+7	pradėtas	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+8	vidinis	vidinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+12	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+13	aiškinamasi	aiškintis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-y-p
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	skiriant	skirti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+17	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+18	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+19	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	teisėjais	teisėjas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+23	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+24	galimai	galimai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	pažeistos	pažeisti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+26	Teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+27	įstatymo	įstatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	nuostatos	nuostata	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p3
+# sent_id = LRT_POL_011-s3
+# text = Apie tai Teisėjų tarybos posėdyje penktadienį pranešė tarybos pirmininkė Sigita Rudėnaitė.
+1	Apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	penktadienį	penktadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	pranešė	pranešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	Sigita	Sigita	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+11	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p4
+# sent_id = LRT_POL_011-s4
+# text = „Tyrimas yra pradėtas pagal Korupcijos prevencijos įstatymą mūsų teismų sistemos centrinio, už korupcijos prevenciją atsakingo pareigūno“, – teigė S. Rudėnaitė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	pradėtas	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+5	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	Korupcijos	korupcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	prevencijos	prevencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	įstatymą	įstatymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+10	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	sistemos	sistema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	centrinio	centrinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsgn
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	korupcijos	korupcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	prevenciją	prevencija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+17	atsakingo	atsakingas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+18	pareigūno	pareigūnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+19	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+22	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p5
+# sent_id = LRT_POL_011-s5
+# text = Ji tvirtino, kad jokia institucija neturėtų kištis į šį tyrimą.
+1	Ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+2	tvirtino	tvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	jokia	joks	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+6	institucija	institucija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	neturėtų	neturėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+8	kištis	kištis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+11	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p6
+# sent_id = LRT_POL_011-s6
+# text = „Manau, kad kol kas tyrimas nebaigtas, nei Teisėjų taryba, nei joks kitas subjektas neturi teisės kištis, nes tai būtų suprantama kaip bandymas tą pareigūną paveikti, poveikio darymas“, – tvirtino S. Rudėnaitė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	nebaigtas	nebaigti	VERB	vksm.dlv.neig.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpynnn-p
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	joks	joks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+16	subjektas	subjektas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+17	neturi	neturėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+18	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	kištis	kištis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+23	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+24	suprantama	suprasti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+25	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+26	bandymas	bandymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+27	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+28	pareigūną	pareigūnas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+29	paveikti	paveikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	poveikio	poveikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	darymas	darymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+33	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+36	tvirtino	tvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+37	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+38	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p7
+# sent_id = LRT_POL_011-s7
+# text = Teisėjų tarybos posėdyje apie tai, kad pradėtas tyrimas dėl konkrečių asmenų skyrimo į Vilniaus miesto apylinkės teismo teisėjų pareigas, patvirtino tyrimą atliekantis NTA direktoriaus patarėjas Justinas Bagdžius.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+4	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	pradėtas	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+9	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	konkrečių	konkretus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+12	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+16	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	patvirtino	patvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+24	atliekantis	atlikti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+25	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+26	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+28	Justinas	Justinas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+29	Bagdžius	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p8
+# sent_id = LRT_POL_011-s8
+# text = „Taip, aš galiu patvirtinti, kad aš, kaip centrinis už korupciją atsparios aplinkos kūrimo atsakingas subjektas, kovo 4 dieną informavau Nacionalinės teismų administracijos direktorę ir Teisėjų tarybos pirmininkę apie tai, kad aš savo iniciatyva pradėjau tam tikrų viešai pasirodžiusių aplinkybių vertinimą, susijusį su pastarosiomis atrankomis į Vilniaus miesto apylinkės teismą“, – sakė J. Bagdžius.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Taip	taip	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+5	galiu	galėti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+6	patvirtinti	patvirtinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pg-snn
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	centrinis	centrinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+13	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	korupciją	korupcija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+15	atsparios	atsparus	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+16	aplinkos	aplinka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	kūrimo	kūrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	atsakingas	atsakingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+19	subjektas	subjektas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kovo	kovas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	4	4	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+24	informavau	informuoti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+25	Nacionalinės	nacionalinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+26	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+27	administracijos	administracija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	direktorę	direktorė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+29	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+32	pirmininkę	pirmininkė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+33	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+34	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+37	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+38	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+39	iniciatyva	iniciatyva	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+40	pradėjau	pradėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+41	tam tikrų	tam tikras	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+42	viešai	viešai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+43	pasirodžiusių	pasirodyti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanngy-p
+44	aplinkybių	aplinkybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+45	vertinimą	vertinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+46	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+47	susijusį	susyti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+48	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+49	pastarosiomis	pastaras	ADJ	bdv.nelygin.įvardž.mot.dgs.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpiy
+50	atrankomis	atranka	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+51	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+52	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+53	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+54	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+55	teismą	teismas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+56	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+57	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+58	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+59	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+60	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+61	Bagdžius	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+62	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p9
+# sent_id = LRT_POL_011-s9
+# text = Anot jo, tyrimo metu analizuojamos prezidento G. Nausėdos siūlytų ir paskirtų asmenų į Vilniaus miesto apylinkės teismo teisėjus aplinkybės, aiškinamasi, ar teikiant šiuos kandidatus nebuvo galimai pažeistos Teismų įstatymo nuostatos.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+6	analizuojamos	analizuoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+7	prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	G.	G.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	Nausėdos	Nausėda	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+10	siūlytų	siūlyti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	paskirtų	paskirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnngn-p
+13	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+16	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	teisėjus	teisėjas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	aplinkybės	aplinkybė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	aiškinamasi	aiškintis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-y-p
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	teikiant	teikti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+26	šiuos	šis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+27	kandidatus	kandidatas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+28	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+29	galimai	galimai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+30	pažeistos	pažeisti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+31	Teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+32	įstatymo	įstatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+33	nuostatos	nuostata	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p10
+# sent_id = LRT_POL_011-s10
+# text = „Šitas tyrimas nėra kažkokio pažeidimo tyrimas ar atsakomybės aiškinimasis, kažkieno traukimas atsakomybėn.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Šitas	šitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+5	kažkokio	kažkoks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+6	pažeidimo	pažeidimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	atsakomybės	atsakomybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	aiškinimasis	aiškinimasis	NOUN	dkt.sngr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsny-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kažkieno	kažkas	PRON	įv.savyb.K.	Case=Gen|Poss=Yes	_	_	_	Multext=Pg--gn
+13	traukimas	traukimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	atsakomybėn	atsakomybė	NOUN	dkt.mot.vns.Il.	Case=Ill|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsxn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s11
+# text = Aiškinamasi aplinkybės, ar nebuvo galimai pažeistos Teismų įstatymo nuostatos, kurios nenumato, kad pretendentų į apylinkės teismo teisėjo pareigas yra reiškiamos teismo pirmininko ar teismo kolektyvo nuomonės.
+1	Aiškinamasi	aiškintis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-y-p
+2	aplinkybės	aplinkybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+6	galimai	galimai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	pažeistos	pažeisti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+8	Teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	įstatymo	įstatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	nuostatos	nuostata	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+13	nenumato	nenumatyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	pretendentų	pretendentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	teisėjo	teisėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+21	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+22	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	reiškiamos	reikšti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+24	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	pirmininko	pirmininkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	kolektyvo	kolektyvas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	nuomonės	nuomonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s12
+# text = Tas įstatymas priimtas neseniai Lietuvos Respublikos prezidento iniciatyva.
+1	Tas	tas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	įstatymas	įstatymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	priimtas	priimti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+4	neseniai	neseniai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	Respublikos	respublika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	iniciatyva	iniciatyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s13
+# text = O tyrimas inicijuotas atsižvelgiant į paskutiniuosius du teikimus į Vilniaus miesto apylinkės teismą, kuomet iš trijų teiktų kandidatų ir jau paskirtų teisėjų, du buvo tiesiogiai pavaldūs to teismo pirmininkei“, – dėstė NTA direktoriaus patarėjas.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	inicijuotas	inicijuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+4	atsižvelgiant	atsižvelgti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	paskutiniuosius	paskutinis	ADJ	bdv.nelygin.įvardž.vyr.dgs.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpay
+7	du	du	NUM	sktv.raid.kiek.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpal-
+8	teikimus	teikimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+11	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	teismą	teismas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kuomet	kuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	trijų	trys	NUM	sktv.raid.kiek.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpgl-
+18	teiktų	teikti	VERB	vksm.dlv.neveik.būt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnngn-p
+19	kandidatų	kandidatas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	paskirtų	paskirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnngn-p
+23	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	du	du	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+26	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+27	tiesiogiai	tiesiogiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	pavaldūs	pavaldus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+29	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+30	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+31	pirmininkei	pirmininkė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+32	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+35	dėstė	dėstyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+36	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+37	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+38	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p11
+# sent_id = LRT_POL_011-s14
+# text = Prezidento G. Nausėdos vyriausiasis patarėjas Andrius Kabišaitis Teisėjų tarybos posėdyje tvirtino, kad jį pasiekė informacija vidinį NTA tyrimą dėl teisėjų skyrimo.
+1	Prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	G.	G.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Nausėdos	Nausėda	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+4	vyriausiasis	vyresnis	ADJ	bdv.aukšč.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsny
+5	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	Andrius	Andrius	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+7	Kabišaitis	Kabišaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+8	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+11	tvirtino	tvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+15	pasiekė	pasiekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	vidinį	vidinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+18	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+19	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s15
+# text = Anot jo, susidaro įspūdis, jog siekiama išsiaiškinti, ar Vilniaus miesto teismo pirmininkė (Viktorija Šelmienė – ELTA) galėjo proteguoti tam tikrus asmenis.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	susidaro	susidaryti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+5	įspūdis	įspūdis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	siekiama	siekti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+9	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+13	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+16	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+17	Viktorija	Viktorija	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+18	Šelmienė	Šelmienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+19	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+20	ELTA	ELTA	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+21	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+22	galėjo	galėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	proteguoti	proteguoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+24	tam tikrus	tam tikras	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+25	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p12
+# sent_id = LRT_POL_011-s16
+# text = „Vartojama terminija, kad (teismo – ELTA) pirmininkė nepagrįstai protegavo atskirus asmenis.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vartojama	vartoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+3	terminija	terminija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	ELTA	ELTA	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+10	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+11	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	nepagrįstai	nepagrįstai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	protegavo	proteguoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+14	atskirus	atskiras	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+15	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s17
+# text = Nežinau, ar galima sakyti, kad nėra kalba apie pažeidimą“, – sakė A. Kabišaitis.
+1	Nežinau	nežinoti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--y--ni-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+5	sakyti	sakyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+9	kalba	kalba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	pažeidimą	pažeidimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Kabišaitis	Kabišaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p13
+# sent_id = LRT_POL_011-s18
+# text = Teisėjų tarybos pirmininkė S. Rudėnaitė kreipėsi į A. Kabišaitį, akcentuodama, kad tokie klausimai neturėtų būti aptarinėjamo uždaruose posėdžiuose.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+6	kreipėsi	kreiptis	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	Kabišaitį	Kabišaitis	PROPN	dkt.tikr.pvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsans
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	akcentuodama	akcentuoti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sf-n--n--
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	tokie	toks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+15	klausimai	klausimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+16	neturėtų	neturėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+17	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	aptarinėjamo	aptarinėti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+19	uždaruose	uždaras	ADJ	bdv.nelygin.vyr.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpln
+20	posėdžiuose	posėdis	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p14
+# sent_id = LRT_POL_011-s19
+# text = „Ko Jūs, gerbiamas Andriau, tikitės iš to?
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Ko	ko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	Jūs	tu	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pg-pnn
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	gerbiamas	gerbti	VERB	vksm.dlv.neveik.es.vyr.vns.Š.	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnvn-p
+6	Andriau	Andrius	PROPN	dkt.tikr.vrd.vyr.vns.Š.	Case=Voc|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsvnf
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tikitės	tikėtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp2p--n--yi-
+9	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+11	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_POL_011-s20
+# text = Kad Teisėjų taryba uždarame posėdyje pasikalbėjus turėtų kažką padaryti?“
+1	Kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	uždarame	uždaras	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+5	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	pasikalbėjus	pasikalbėti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+7	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	kažką	kažkas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+9	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+10	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = LRT_POL_011-s21
+# text = – klausė S. Rudėnaitė.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	klausė	klausti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p15
+# sent_id = LRT_POL_011-s22
+# text = A. Kabišaitis replikavo, kad jis uždaro Teisėjų tarybos posėdžio ir neprašo.
+1	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Kabišaitis	Kabišaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	replikavo	replikuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+7	uždaro	uždaryti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	posėdžio	posėdis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	neprašo	neprašyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p16
+# sent_id = LRT_POL_011-s23
+# text = Tuo metu Teisėjų tarybos narė Danguolė Bublienė tvirtino mananti, kad taryba turėtų susipažinti su vidiniu NTA tyrimu.
+1	Tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	narė	narė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	Danguolė	Danguolė	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+7	Bublienė	Bublienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+8	tvirtino	tvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	mananti	manyti	VERB	vksm.dlv.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-sfannnn-p
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+13	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+14	susipažinti	susipažinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+15	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+16	vidiniu	vidinis	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsin
+17	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+18	tyrimu	tyrimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p17
+# sent_id = LRT_POL_011-s24
+# text = „Kad būtų pristatyta, kas daroma, tai manau Teisėjų taryba turi tokią teisę“, – sakė D. Bublienė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+4	pristatyta	pristatyti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+7	daroma	daryti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+11	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+13	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	tokią	toks	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+15	teisę	teisė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+19	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+21	Bublienė	Bublienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p18
+# sent_id = LRT_POL_011-s25
+# text = Abejojo, ar NTA direktoriaus patarėjas turi įgaliojimus atlikti tyrimą
+1	Abejojo	abejoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+5	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	įgaliojimus	įgaliojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+9	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+
+# newpar id = LRT_POL_011-p19
+# sent_id = LRT_POL_011-s26
+# text = Teisėjų tarybos narys, Lietuvos Aukščiausiojo Teismo (LAT) teisėjas Artūras Ridikas kėlė klausimą, ar NTA direktoriaus patarėjas J. Bagdžius turi įgaliojimus atlikti vidinį tyrimą dėl teisėjų skyrimo procedūrų.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	Aukščiausiojo	aukštas	ADJ	bdv.aukšč.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsgy
+7	Teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+9	LAT	LAT	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+10	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+11	teisėjas	teisėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	Artūras	Artūras	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+13	Ridikas	Ridikas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+14	kėlė	kelti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+19	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+22	Bagdžius	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+23	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	įgaliojimus	įgaliojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+25	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	vidinį	vidinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+27	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+28	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+29	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+30	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+31	procedūrų	procedūra	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p20
+# sent_id = LRT_POL_011-s27
+# text = „Ar turi įgaliojimus pareigūnas pradėti tyrimą?“,
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	įgaliojimus	įgaliojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	pareigūnas	pareigūnas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	pradėti	pradėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+9	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+
+# sent_id = LRT_POL_011-s28
+# text = – svarstė Teisėjų tarybos narys.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	svarstė	svarstyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p21
+# sent_id = LRT_POL_011-s29
+# text = J. Bagdžius savo ruožtu kartojo, jog tyrimo metu tiesiog siekiam įvertinti situaciją, ar nėra diskredituojama pati teisėjų atrankos procedūra.
+1	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Bagdžius	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	savo ruožtu	savo ruožtu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	kartojo	kartoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+9	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	siekiam	siekti	VERB	vksm.asm.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+11	įvertinti	įvertinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	situaciją	situacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+16	diskredituojama	diskredituoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+17	pati	pats	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+18	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	atrankos	atranka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	procedūra	procedūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p22
+# sent_id = LRT_POL_011-s30
+# text = „Čia yra vertinama situacija ir žiūrima, ar ta situacija nesudaro prielaidų diskredituoti teisėjų atrankos procesą, įvertinti, kokios kliūtys, kokios teisinio reguliavimo problemos egzistuoja.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	vertinama	vertinti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+5	situacija	situacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	žiūrima	žiūrėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	ta	tas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+11	situacija	situacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	nesudaro	nesudaryti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+13	prielaidų	prielaida	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	diskredituoti	diskredituoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	atrankos	atranka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	procesą	procesas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	įvertinti	įvertinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kokios	koks	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+22	kliūtys	kliūtis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	kokios	koks	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+25	teisinio	teisinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+26	reguliavimo	reguliavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	problemos	problema	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+28	egzistuoja	egzistuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s31
+# text = (...) Šiai dienai ta pirminė informacija surinkta ir aš įsivaizduoju, kad sekančiame Teisėjų tarybos posėdyje gali būti pristatytas jau vertinimas tų mano išvadų ar rekomendacijos, kaip peržiūrėti teisinį reguliavimą, gal kokios rekomendacijos pateiktos apylinkių teismų pirmininkams“, – sakė NTA direktoriaus patarėjas.
+1	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+2	...	...	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Ti
+3	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+4	Šiai	šis	PRON	įv.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsdn
+5	dienai	diena	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+6	ta	tas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	pirminė	pirminis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+8	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	surinkta	surinkti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+12	įsivaizduoju	įsivaizduoti	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--yi-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	sekančiame	sekantis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+16	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+17	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	posėdyje	posėdis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+19	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+21	pristatytas	pristatyti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+22	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	vertinimas	vertinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+24	tų	tas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+25	mano	manyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+26	išvadų	išvada	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+27	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	rekomendacijos	rekomendacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+31	peržiūrėti	peržiūrėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+32	teisinį	teisinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+33	reguliavimą	reguliavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	gal	gal	PART	dll.	_	_	_	_	Multext=Qg
+36	kokios	koks	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+37	rekomendacijos	rekomendacija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+38	pateiktos	pateikti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+39	apylinkių	apylinkė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+40	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+41	pirmininkams	pirmininkas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+42	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+43	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+44	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+45	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+46	NTA	NTA	X	kt.	_	_	_	_	Multext=X-
+47	direktoriaus	direktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+48	patarėjas	patarėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+49	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p23
+# sent_id = LRT_POL_011-s32
+# text = Teisėjų tarybos narys A. Ridikas, tęsdamas diskusiją, kėlė mintį, ar neturėjo taryba, visų pirma, suteikti įgaliojimus J. Bagdžiui imtis tokio pobūdžio tyrimo.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Ridikas	Ridikas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	tęsdamas	tęsti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+8	diskusiją	diskusija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kėlė	kelti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	mintį	mintis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	neturėjo	neturėti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+15	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	visų pirma	visų pirma	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	suteikti	suteikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	įgaliojimus	įgaliojimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+21	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+22	Bagdžiui	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+23	imtis	imtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+24	tokio	toks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+25	pobūdžio	pobūdis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s33
+# text = Teisėjo įsitikinimu, iš viso tokių tyrimų galėtų imtis nebent Teisėjų tarybos sudaryta komisija.
+1	Teisėjo	teisėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	įsitikinimu	įsitikinimas	NOUN	dkt.sngr.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsiy-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	tokių	toks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+6	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	imtis	imtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+9	nebent	nebent	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	sudaryta	sudaryti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+13	komisija	komisija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p24
+# sent_id = LRT_POL_011-s34
+# text = „Mažų mažiausiai be Teisėjų tarybos įgaliojimo tokie tyrimai, kai įtraukiamos ir kitos institucijos, negali būti atliekami.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Mažų mažiausiai	mažų mažiausiai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+3	be	be	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	įgaliojimo	įgaliojimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	tokie	toks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+8	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	įtraukiamos	įtraukti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	kitos	kitas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+14	institucijos	institucija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	negali	negalėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+17	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	atliekami	atlikti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnnnn-p
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s35
+# text = Kitas dalykas – klausimas, ar turėtų tokius tyrimus daryti pareigūnas, jį įgaliojus.
+1	Kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	dalykas	dalykas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+4	klausimas	klausimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+9	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+10	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	pareigūnas	pareigūnas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+14	įgaliojus	įgalioti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgaa----n--n--
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s36
+# text = Manau, kad turėtų būti sudaryta komisija ištirti tokiems atvejams“, – dėstė A. Ridikas.
+1	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+5	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	sudaryta	sudaryti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+7	komisija	komisija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	ištirti	ištirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	tokiems	toks	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+10	atvejams	atvejis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+11	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	dėstė	dėstyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+16	Ridikas	Ridikas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p25
+# sent_id = LRT_POL_011-s37
+# text = Jis kėlė klausimą, ar nereikėtų Teisėjų tarybai stabdyti J. Bagdžiaus pradėtą tyrimą.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	kėlė	kelti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	nereikėtų	nereikėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+7	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	tarybai	taryba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+9	stabdyti	stabdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+11	Bagdžiaus	Bagdžius	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+12	pradėtą	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+13	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p26
+# sent_id = LRT_POL_011-s38
+# text = Teisėjų tarybos narė, LAT pirmininkė Danguolė Bublienė, kalbėdama apie tyrimą, savo ruožtu teigė, kad taryba, jei tyrimo akiratyje atsidūrė asmenų, kurie jau paskirti į teisėjų pareigas, skyrimo procesai, Teisėjų taryba, kuri pritarė prezidento siūlytoms kandidatūroms, gali atsidurti keistoje situacijoje.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	narė	narė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	LAT	LAT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+6	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	Danguolė	Danguolė	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+8	Bublienė	Bublienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kalbėdama	kalbėti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sf-n--n--
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	savo ruožtu	savo ruožtu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	teigė	teigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	akiratyje	akiratis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+23	atsidūrė	atsidurti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+24	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+27	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	paskirti	paskirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+30	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+34	procesai	procesas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+37	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+40	pritarė	pritarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+41	prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+42	siūlytoms	siūlyti	VERB	vksm.dlv.neveik.būt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnndn-p
+43	kandidatūroms	kandidatūra	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+44	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+45	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+46	atsidurti	atsidurti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+47	keistoje	keistas	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+48	situacijoje	situacija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+49	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p27
+# sent_id = LRT_POL_011-s39
+# text = „Tyrimas, nesvarbu, kaip pasibaigtų, diskredituoja ir pačią Teisėjų tarybą.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	nesvarbu	nesvarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	pasibaigtų	pasibaigti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---n--ys-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	diskredituoja	diskredituoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	pačią	pats	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+12	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	tarybą	taryba	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s40
+# text = Nes kas čia atsitinka?
+1	Nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+3	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	atsitinka	atsitikti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+5	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_POL_011-s41
+# text = Teisėjų taryba pritarė asmenims, kurie buvo proteguojami pirmininkės?“,
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	pritarė	pritarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	asmenims	asmuo	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+7	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	proteguojami	proteguoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+9	pirmininkės	pirmininkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+10	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+11	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+
+# sent_id = LRT_POL_011-s42
+# text = – kėlė klausimus D. Bublienė.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	kėlė	kelti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	klausimus	klausimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+4	D.	D.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Bublienė	Bublienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p28
+# sent_id = LRT_POL_011-s43
+# text = Teisėjų tarybos pirmininkė S. Rudėnaitė neslėpė nemananti, kad vidinis tyrimas dėl teisėjų skyrimo procedūrų neturėtų būti nutrauktas.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+6	neslėpė	neslėpti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+7	nemananti	nemanyti	VERB	vksm.dlv.neig.veik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-sfaynnn-p
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	vidinis	vidinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+11	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	procedūrų	procedūra	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	neturėtų	neturėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+17	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	nutrauktas	nutraukti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s44
+# text = Jos įsitikinimu, jei kyla abejonių dėl tokių skyrimų skaidrumo, būtina atlikti analizę.
+1	Jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+2	įsitikinimu	įsitikinimas	NOUN	dkt.sngr.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsiy-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	kyla	kilti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	abejonių	abejonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	tokių	toks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+9	skyrimų	skyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	skaidrumo	skaidrumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	būtina	būtinas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+13	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	analizę	analizė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p29
+# sent_id = LRT_POL_011-s45
+# text = „Prie ko čia teisės pažeidimas?
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	ko	ko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	pažeidimas	pažeidimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+7	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_POL_011-s46
+# text = Kas yra korupcija?
+1	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	korupcija	korupcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_POL_011-s47
+# text = Korupcija yra ne teisės pažeidimas, korupcija yra žymiai plačiau – ir dalykai, ir apraiškos“, – dėstė S. Rudėnaitė.
+1	Korupcija	korupcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+4	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	pažeidimas	pažeidimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	korupcija	korupcija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	žymiai	žymiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	plačiau	plačiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+11	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	dalykai	dalykas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	apraiškos	apraiška	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+20	dėstė	dėstyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+22	Rudėnaitė	Rudėnaitė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p30
+# sent_id = LRT_POL_011-s48
+# text = Galiausiai Teisėjų taryba klausimą dėl vidinio tyrimo, kuriame aiškinamasi dėl teisėjų skyrimo į pareigas aplinkybių, atidėjo.
+1	Galiausiai	galiausiai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+2	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	taryba	taryba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+5	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	vidinio	vidinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+7	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+10	aiškinamasi	aiškintis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-y-p
+11	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	aplinkybių	aplinkybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	atidėjo	atidėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p31
+# sent_id = LRT_POL_011-s49
+# text = ELTA primena, kad pastaruoju metu Teisėjų taryboje kilo ginčai dėl Prezidentūros iniciatyvų siūlyti į teisėjus asmenis, kurie atrankos komisijos sulaukė ne geriausių įvertinimų.
+1	ELTA	ELTA	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	primena	priminti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	pastaruoju	pastaras	ADJ	bdv.nelygin.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsiy
+6	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+7	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	taryboje	taryba	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+9	kilo	kilti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	ginčai	ginčas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+11	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	Prezidentūros	prezidentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	iniciatyvų	iniciatyva	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+14	siūlyti	siūlyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+16	teisėjus	teisėjas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+20	atrankos	atranka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	komisijos	komisija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	sulaukė	sulaukti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+24	geriausių	geras	ADJ	bdv.aukšč.vyr.dgs.K.	Case=Gen|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpgn
+25	įvertinimų	įvertinimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_011-p32
+# sent_id = LRT_POL_011-s50
+# text = Kaip nurodoma Teismų įstatyme, apylinkės teismų teisėjus į pareigas skiria prezidentas Teisėjų tarybos patarimu.
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	nurodoma	nurodyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	Teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	įstatyme	įstatymas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	apylinkės	apylinkė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	teisėjus	teisėjas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+11	skiria	skirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	prezidentas	prezidentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	patarimu	patarimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s51
+# text = Teisės akte numatoma, jog Teisėjų tarybai turi būti pateikti motyvai dėl teikiamo užimti atitinkamas pareigas pretendento pasirinkimo.
+1	Teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	akte	aktas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+3	numatoma	numatyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	tarybai	taryba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+8	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	pateikti	pateikti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+11	motyvai	motyvas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	teikiamo	teikti	VERB	vksm.dlv.neveik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnngn-p
+14	užimti	užimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	atitinkamas	atitinkamas	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+16	pareigas	pareigos	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+17	pretendento	pretendentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	pasirinkimo	pasirinkimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsgy-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_011-s52
+# text = Teisėjų tarybos patarimas prezidentui tai pat turi būti motyvuotas.
+1	Teisėjų	teisėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	patarimas	patarimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	prezidentui	prezidentas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+5	tai pat	tas pat	PRON	įv.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsdn
+6	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	motyvuotas	motyvuotas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

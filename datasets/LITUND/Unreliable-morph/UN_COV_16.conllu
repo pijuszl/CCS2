@@ -1,0 +1,163 @@
+# newdoc id = UN_COV_16
+# newpar id = UN_COV_16-p1
+# sent_id = UN_COV_16-s1
+# text = AEMEMI gydytojai išgydė 100 pacientų nuo Covid-19 naudojant CDS
+1	AEMEMI	AEMEMI	X	kt.	_	_	_	_	Multext=X-
+2	gydytojai	gydytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	išgydė	išgydyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	100	100	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	pacientų	pacientas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+8	naudojant	naudoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+9	CDS	CDS	NOUN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+
+# newpar id = UN_COV_16-p2
+# sent_id = UN_COV_16-s2
+# text = Mokslininkas Andreas Kalcker kartu su AEMEMI gydytojų asociacija praktiškai įrodė CDS efektyvumą kovojant su Covid-19.
+1	Mokslininkas	mokslininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	Andreas	Andreas	X	kt.	_	_	_	_	Multext=X-
+3	Kalcker	Kalcker	X	kt.	_	_	_	_	Multext=X-
+4	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	AEMEMI	AEMEMI	X	kt.	_	_	_	_	Multext=X-
+7	gydytojų	gydytojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	asociacija	asociacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	praktiškai	praktiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	įrodė	įrodyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	CDS	CDS	NOUN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+12	efektyvumą	efektyvumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	kovojant	kovoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+14	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+15	Covid-19	Covid-19	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_16-s3
+# text = Šio vaisto atradimas visai atsitiktinis: Jim Humble su komanda būnant ekspedicijoje, vienas narys užsikrėtė maliarija, stipriai karščiavo.
+1	Šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+2	vaisto	vaistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	atradimas	atradimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	visai	visai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	atsitiktinis	atsitiktinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+6	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+7	Jim	Jim	X	kt.	_	_	_	_	Multext=X-
+8	Humble	Humble	X	kt.	_	_	_	_	Multext=X-
+9	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+10	komanda	komanda	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+11	būnant	būti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+12	ekspedicijoje	ekspedicija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	narys	narys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	užsikrėtė	užsikrėsti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+17	maliarija	maliarija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	stipriai	stipriai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	karščiavo	karščiuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_16-s4
+# text = Vienintelis dalykas, ką turėjo Jim Humble, buvo tabletės, skirtos vandens dezinfekcijai, kai nėra galimybės gauti švaraus vandens.
+1	Vienintelis	vienintelis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+2	dalykas	dalykas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+5	turėjo	turėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	Jim	Jim	X	kt.	_	_	_	_	Multext=X-
+7	Humble	Humble	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	tabletės	tabletė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	skirtos	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+13	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	dezinfekcijai	dezinfekcija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+18	galimybės	galimybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	gauti	gauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	švaraus	švarus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+21	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_16-s5
+# text = Jis įmetė tą tabletę į vandenį ir davė gerti sergančiajam, kuris, visų nuostabai, labai greitai pasveiko!
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	įmetė	įmesti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	tą	tas	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+4	tabletę	tabletė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	vandenį	vanduo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	davė	duoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	gerti	gerti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	sergančiajam	sirgti	VERB	vksm.dlv.veik.es.įvardž.vyr.vns.N.	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-smanydn-p
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	visų	visas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+15	nuostabai	nuostaba	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	greitai	greitai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	pasveiko	pasveikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+20	!	!	PUNCT	skyr.	_	_	_	_	Multext=Te
+
+# sent_id = UN_COV_16-s6
+# text = Vėliau maliarija užsikrėtė ir pats Jim Humble ir taip pat pasveiko vandens dezinfekcijai skirtų tablečių pagalba.
+1	Vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	maliarija	maliarija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	užsikrėtė	užsikrėsti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+6	Jim	Jim	X	kt.	_	_	_	_	Multext=X-
+7	Humble	Humble	X	kt.	_	_	_	_	Multext=X-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+10	pasveiko	pasveikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	dezinfekcijai	dezinfekcija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+13	skirtų	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnngn-p
+14	tablečių	tabletė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	pagalba	pagalba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_16-s7
+# text = Nuo to prasidėjo šios medžiagos tyrimas gydymui, kuo susidomejo ir mokslininkas Andreas Kalcker.
+1	Nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	prasidėjo	prasidėti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+4	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+5	medžiagos	medžiaga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	gydymui	gydymas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kuo	kuo	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	susidomejo	susidomejo	X	kt.	_	_	_	_	Multext=X-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	mokslininkas	mokslininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	Andreas	Andreas	X	kt.	_	_	_	_	Multext=X-
+14	Kalcker.	Kalcker.	X	kt.	_	_	_	_	Multext=X-
+
+# newpar id = UN_COV_16-p3
+# sent_id = UN_COV_16-s8
+# text = Daugiau informacijos: www.andreaskalcker.com
+1	Daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	informacijos	informacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	www.andreaskalcker.com	www.andreaskalcker.com	X	kt.	_	_	_	_	Multext=X-
+
+# sent_id = UN_COV_16-s9
+# text = Žmonių liudijimai: mmstestimonials.co
+1	Žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	liudijimai	liudijimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	mmstestimonials.co	mmstestimonials.co	X	kt.	_	_	_	_	Multext=X-
+
+# sent_id = UN_COV_16-s10
+# text = Įsigyti galima: https://www.activatedmineralsolution.com/shop/cds
+1	Įsigyti	įsigyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+2	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	https://www.activatedmineralsolution.com/shop/cds	https://www.activatedmineralsolution.com/shop/cds	X	kt.	_	_	_	_	Multext=X-

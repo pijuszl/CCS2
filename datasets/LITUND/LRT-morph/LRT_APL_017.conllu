@@ -1,0 +1,568 @@
+# newdoc id = LRT_APL_017
+# newpar id = LRT_APL_017-p1
+# sent_id = LRT_APL_017-s1
+# text = Aplinkosaugininkų nerimas prieš šildymo sezoną – sena problema gali dar labiau paūmėti
+1	Aplinkosaugininkų	aplinkosaugininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	nerimas	nerimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	šildymo	šildymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	sezoną	sezonas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+7	sena	senas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+8	problema	problema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+11	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+12	paūmėti	paūmėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+
+# newpar id = LRT_APL_017-p2
+# sent_id = LRT_APL_017-s2
+# text = Miestams planuojant šildymo sezono pradžią, o ekspertams įspėjant dėl rekordinių kainų, pavojaus varpais skambina ir aplinkosaugos specialistai – baiminamasi, kad kasmet neteisėtai deginamos automobilių alyvos, kuri užteršia aplinką, kiekiai gali dar labiau išaugti ir pataria, kaip prisidėti prie šios problemos sprendimo, rašoma Aplinkos apsaugos instituto siųstame pranešime žiniasklaidai.
+1	Miestams	miestas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+2	planuojant	planuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+3	šildymo	šildymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	sezono	sezonas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	pradžią	pradžia	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	ekspertams	ekspertas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+9	įspėjant	įspėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	rekordinių	rekordinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+12	kainų	kaina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	pavojaus	pavojus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	varpais	varpas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+16	skambina	skambinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	aplinkosaugos	aplinkosauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	specialistai	specialistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	baiminamasi	baimintis	VERB	vksm.dlv.sngr.neveik.es.bev.	Gender=Neut|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-y-p
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+24	kasmet	kasmet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	neteisėtai	neteisėtai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+26	deginamos	deginti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+27	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+28	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+31	užteršia	užteršti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+32	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	kiekiai	kiekis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+35	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+36	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+37	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+38	išaugti	išaugti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+39	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+40	pataria	patarti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+43	prisidėti	prisidėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+44	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+45	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+46	problemos	problema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+47	sprendimo	sprendimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+48	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+49	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+50	Aplinkos	aplinka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+51	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+52	instituto	institutas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+53	siųstame	siųsti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+54	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+55	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+56	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p3
+# sent_id = LRT_APL_017-s3
+# text = Naudota automobilių alyva yra laikoma pavojinga atlieka, todėl draudžiama ją šalinti kartu su komunalinėmis ar kitomis atliekomis ir deginti, o už neteisėtus veiksmus gresia baudos.
+1	Naudota	naudoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+2	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	alyva	alyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	laikoma	laikyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+6	pavojinga	pavojingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+7	atlieka	atliekos	NOUN	dkt.mot.vns.V.vrnt.	Case=Nom|Gender=Fem|Number=Sing|Style=Rare	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	draudžiama	drausti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+11	ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+12	šalinti	šalinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+15	komunalinėmis	komunalinis	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpin
+16	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	kitomis	kitas	PRON	įv.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpin
+18	atliekomis	atliekos	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	deginti	deginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+24	neteisėtus	neteisėtas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+25	veiksmus	veiksmas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+26	gresia	grėsti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	baudos	bauda	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s4
+# text = Tačiau nepaisant to, didelis kiekis panaudoto tepalo kasmet būna sudeginamas šildant patalpas.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	nepaisant	nepaisant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	didelis	didelis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+6	kiekis	kiekis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	panaudoto	panaudotas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+8	tepalo	tepalas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	kasmet	kasmet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	būna	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	sudeginamas	sudeginti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+12	šildant	šildyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+13	patalpas	patalpa	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p4
+# sent_id = LRT_APL_017-s5
+# text = Į šalies vidaus rinką kasmet pateikiama daugiau nei 20 tūkst. tonų alyvos, tačiau jos atliekų surinkimo ir perdirbimo rodiklis daugelį metų išlieka itin mažas – oficialiai jos sutvarkoma mažiau nei trečdalis.
+1	Į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	rinką	rinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	kasmet	kasmet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	pateikiama	pateikti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+7	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+8	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	20	20	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	tūkst.	tūkst.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+11	tonų	tona	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+16	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+17	surinkimo	surinkimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	perdirbimo	perdirbimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	rodiklis	rodiklis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	daugelį	daugelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+22	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	išlieka	išlikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	itin	itin	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	mažas	mažas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+26	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+27	oficialiai	oficialiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+29	sutvarkoma	sutvarkyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+30	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+31	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	trečdalis	trečdalis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p5
+# sent_id = LRT_APL_017-s6
+# text = Vienas iš pavojingiausių taršos šaltinių
+1	Vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	pavojingiausių	pavojingas	ADJ	bdv.aukšč.mot.dgs.K.	Case=Gen|Degree=Sup|Gender=Fem|Number=Plur	_	_	_	Multext=Agsfpgn
+4	taršos	tarša	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	šaltinių	šaltinis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+
+# newpar id = LRT_APL_017-p6
+# sent_id = LRT_APL_017-s7
+# text = Aplinkos apsaugos agentūros duomenimis, 2020 m. Lietuvos vidaus rinkai buvo patiekta 21 912 tonos alyvos, o surinkta ir perdirbta tik 27,5 proc., skaičiuojant nuo patiekto kiekio.
+1	Aplinkos	aplinka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	agentūros	agentūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	rinkai	rinka	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+11	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	patiekta	patiekti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+13	21 912	21 912	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	tonos	tona	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	surinkta	surinkti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	perdirbta	perdirbti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+21	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	27,5	27,5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	skaičiuojant	skaičiuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+26	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+27	patiekto	patiekti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+28	kiekio	kiekis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p7
+# sent_id = LRT_APL_017-s8
+# text = „Statistika rodo, kad ne visi rinkos dalyviai laikosi teisės aktų ir tinkamai pasirūpina, kad panaudota automobilių alyva būtų tinkamai sutvarkyta.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Statistika	statistika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+7	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+8	rinkos	rinka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	dalyviai	dalyvis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+10	laikosi	laikytis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+11	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	aktų	aktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	tinkamai	tinkamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	pasirūpina	pasirūpinti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	panaudota	panaudoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+19	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	alyva	alyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+21	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+22	tinkamai	tinkamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	sutvarkyta	sutvarkyti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s9
+# text = Alyvos atliekų tvarkymo problema mūsų šalyje išryškėja atšalus orams.
+1	Alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	tvarkymo	tvarkymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	problema	problema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+6	šalyje	šalis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+7	išryškėja	išryškėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	atšalus	atšalti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+9	orams	oras	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s10
+# text = Jau praėjusiais metais energijos kainos pasiekė neregėtas aukštumas, o šiemet žiema prognozuojama finansiškai dar sunkesnė, tad kitais metais, tikėtina, turėsime dar prastesnius šios pavojingos atliekos tvarkymo rodiklius“, – teigia Gamintojų ir importuotojų asociacijos (GIA) vadovė Veronika Masalienė.
+1	Jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	praėjusiais	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannin-p
+3	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+4	energijos	energija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	kainos	kaina	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+6	pasiekė	pasiekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	neregėtas	neregėti	VERB	vksm.dlv.neig.neveik.būt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpynan-p
+8	aukštumas	aukštuma	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	šiemet	šiemet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	žiema	žiema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+13	prognozuojama	prognozuoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+14	finansiškai	finansiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+16	sunkesnė	sunkus	ADJ	bdv.aukšt.mot.vns.V.	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcfsnn
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	kitais	kitas	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+20	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	tikėtina	tikėtinas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	turėsime	turėti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+25	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+26	prastesnius	prastas	ADJ	bdv.aukšt.vyr.dgs.G.	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpan
+27	šios	šis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+28	pavojingos	pavojingas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+29	atliekos	atliekos	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+30	tvarkymo	tvarkymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+31	rodiklius	rodiklis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+32	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+35	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+36	Gamintojų	gamintojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+37	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	importuotojų	importuotojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+39	asociacijos	asociacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+40	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+41	GIA	GIA	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+42	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+43	vadovė	vadovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+44	Veronika	Veronika	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+45	Masalienė	Masalienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+46	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p8
+# sent_id = LRT_APL_017-s11
+# text = Automobilių variklio, pavarų dėžės ir tepamoji alyva yra vienas iš pavojingiausių taršos šaltinių.
+1	Automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	variklio	variklis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	pavarų	pavara	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	dėžės	dėžė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	tepamoji	tepti	VERB	vksm.dlv.neveik.es.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnynn-p
+8	alyva	alyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+11	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	pavojingiausių	pavojingas	ADJ	bdv.aukšč.mot.dgs.K.	Case=Gen|Degree=Sup|Gender=Fem|Number=Plur	_	_	_	Multext=Agsfpgn
+13	taršos	tarša	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	šaltinių	šaltinis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s12
+# text = Dėl alyvos atliekų deginimo į aplinką patenka kenksmingos medžiagos, kurios kelia pavojų žmogaus ir gyvūnų sveikatai.
+1	Dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	deginimo	deginimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	patenka	patekti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	kenksmingos	kenksmingas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+9	medžiagos	medžiaga	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+12	kelia	kelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	pavojų	pavojus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	žmogaus	žmogus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	gyvūnų	gyvūnas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+17	sveikatai	sveikata	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s13
+# text = Buitiniuose katiluose deginamas tepalas į aplinką išsiskiria anglies dioksidą (CO2), kuris skatina klimato atšilimą, bei sunkiuosius metalus – kadmį, chromą, šviną, nikelį, arseną, varį, cinką, azotą.
+1	Buitiniuose	buitinis	ADJ	bdv.nelygin.vyr.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpln
+2	katiluose	katilas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+3	deginamas	deginti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+4	tepalas	tepalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	išsiskiria	išsiskirti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+8	anglies	anglis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	dioksidą	dioksidas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+11	CO2	CO2	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+12	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	klimato	klimatas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	atšilimą	atšilimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	sunkiuosius	sunkus	ADJ	bdv.nelygin.įvardž.vyr.dgs.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpay
+21	metalus	metalas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+22	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+23	kadmį	kadmis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	chromą	chromas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	šviną	švinas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	nikelį	nikelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	arseną	arsenas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	varį	varis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	cinką	cinkas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	azotą	azotas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+38	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s14
+# text = Be to, vienas litras alyvos gali užteršti milijoną litrų vandens ir tapti ne tik vandens, bet ir žemės taršos objektu.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	litras	litras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	užteršti	užteršti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	milijoną	milijonas	NUM	sktv.raid.kiek.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmsal-
+9	litrų	litras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	tapti	tapti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+14	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+15	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+19	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	taršos	tarša	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	objektu	objektas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p9
+# sent_id = LRT_APL_017-s15
+# text = Ragina rinktis atsakingus specialistus
+1	Ragina	raginti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+2	rinktis	rinktis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+3	atsakingus	atsakingas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+4	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+
+# newpar id = LRT_APL_017-p10
+# sent_id = LRT_APL_017-s16
+# text = „Daugiausia alyvos atliekų susidaro autoservisuose, o už vienos tonos variklio, pavarų dėžės ir tepamosios naudotos alyvos perdavimą atliekų tvarkytojui gali tekti mokėti iki kelių šimtų eurų.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Daugiausia	daug	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+3	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	susidaro	susidaryti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+6	autoservisuose	autoservisas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	už	už	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	vienos	vienas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+11	tonos	tona	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	variklio	variklis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	pavarų	pavara	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	dėžės	dėžė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	tepamosios	tepti	VERB	vksm.dlv.neveik.es.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnygn-p
+18	naudotos	naudoti	VERB	vksm.dlv.neveik.būt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnngn-p
+19	alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	perdavimą	perdavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+21	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+22	tvarkytojui	tvarkytojas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+23	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	tekti	tekti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+25	mokėti	mokėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+27	kelių	keli	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+28	šimtų	šimtas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpgl-
+29	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s17
+# text = Dėl to veiklos nedeklaruojantys, veiklos apimtis slepiantys ir teisės aktų laikytis nelinkę automobilių remonto ūkio subjektai netvarko šių atliekų, jas perduoda neteisėtai arba tiesiog panaudoja patalpoms šildyti.
+1	Dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	veiklos	veikla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	nedeklaruojantys	nedeklaruoti	VERB	vksm.dlv.neig.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-pmaynnn-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	veiklos	veikla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	apimtis	apimtis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+7	slepiantys	slėpti	VERB	vksm.dlv.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannnn-p
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	aktų	aktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	laikytis	laikytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+12	nelinkę	nelinkti	VERB	vksm.dlv.neig.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmaynnn-p
+13	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	remonto	remontas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	subjektai	subjektas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+17	netvarko	netvarkyti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+18	šių	šis	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+19	atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	jas	jis	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+22	perduoda	perduoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	neteisėtai	neteisėtai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+26	panaudoja	panaudoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	patalpoms	patalpa	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+28	šildyti	šildyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s18
+# text = Dažniausiai automobilių savininkai alyvą keičia autoservisuose, tad reikėtų rinktis tokius specialistus, kurie tinkamai rūpinasi atliekomis.
+1	Dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+2	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	savininkai	savininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	alyvą	alyva	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	keičia	keisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	autoservisuose	autoservisas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+10	rinktis	rinktis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+11	tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+12	specialistus	specialistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+15	tinkamai	tinkamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	rūpinasi	rūpintis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+17	atliekomis	atliekos	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s19
+# text = Informaciją apie savo veiklą aplinkosaugai deklaravusius autoservisus galima rasti https://atliekos.lt/autoservisai“, – pataria V. Masalienė.
+1	Informaciją	informacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+2	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+4	veiklą	veikla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	aplinkosaugai	aplinkosauga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+6	deklaravusius	deklaruoti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannan-p
+7	autoservisus	autoservisas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+8	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+9	rasti	rasti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	https://atliekos.lt/autoservisai	https://atliekos.lt/autoservisai	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+11	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	pataria	patarti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+16	Masalienė	Masalienė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_APL_017-p11
+# sent_id = LRT_APL_017-s20
+# text = Atliekų tvarkytojai pasirūpina, kad atliekos būtų tvarkomos taip, jog būtų taupomi gamtos ištekliai ir saugoma aplinka.
+1	Atliekų	atliekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+2	tvarkytojai	tvarkytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	pasirūpina	pasirūpinti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	atliekos	atliekos	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+7	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+8	tvarkomos	tvarkyti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+9	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+13	taupomi	taupyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+14	gamtos	gamta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	ištekliai	išteklius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	saugoma	saugoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+18	aplinka	aplinka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_APL_017-s21
+# text = Alyvos atliekos yra perdirbamos taip, kad būtų gaunama bazinė alyva, iš kurios vėliau pagaminama tepalinė ar hidraulinė alyva, naudojama automobiliams bei kitoms reikmėms.
+1	Alyvos	alyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	atliekos	atliekos	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	perdirbamos	perdirbti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+5	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+9	gaunama	gauti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+10	bazinė	bazinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+11	alyva	alyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+14	kurios	kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+15	vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+16	pagaminama	pagaminti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+17	tepalinė	tepalinė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+18	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	hidraulinė	hidraulinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+20	alyva	alyva	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	naudojama	naudoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+23	automobiliams	automobilis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+24	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	kitoms	kitas	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+26	reikmėms	reikmė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

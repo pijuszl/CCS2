@@ -1,0 +1,896 @@
+# newdoc id = LRT_SVE_006
+# newpar id = LRT_SVE_006-p1
+# sent_id = LRT_SVE_006-s1
+# text = Tikimybė susirgti katarakta tik didės: operacija paprasta ir greita, tačiau atidėliojimas gali kainuoti regėjimą
+1	Tikimybė	tikimybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	susirgti	susirgti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	didės	didėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+6	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+7	operacija	operacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	paprasta	paprastas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	greita	greitas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	atidėliojimas	atidėliojimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	kainuoti	kainuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	regėjimą	regėjimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+
+# newpar id = LRT_SVE_006-p2
+# sent_id = LRT_SVE_006-s2
+# text = Viena pagrindinių priežasčių, kodėl žmogus suserga katarakta – amžius.
+1	Viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+2	pagrindinių	pagrindinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+3	priežasčių	priežastis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	suserga	susirgti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	amžius	amžius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s3
+# text = Vidutinė gyvenimo trukmė ilgėja, o kataraktos išsivystymo tikimybė didėja.
+1	Vidutinė	vidutinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+2	gyvenimo	gyvenimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	trukmė	trukmė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	ilgėja	ilgėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	išsivystymo	išsivystymas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+9	tikimybė	tikimybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	didėja	didėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s4
+# text = Gydytojas oftalmologas Vaidas Kilius sako, kad šiais laikais kataraktos operacija – paprasta ir greita, tačiau atidėlioti vizito pas gydytoją nereikėtų, nes laukimas didina regėjimo suprastėjimo ar net regos netekimo riziką, rašoma Medicinos diagnostikos ir gydymo centro „Hila“ pranešime žiniasklaidai.
+1	Gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	oftalmologas	oftalmologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	Vaidas	Vaidas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+4	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+5	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	šiais	šis	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+9	laikais	laikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+10	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	operacija	operacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+13	paprasta	paprastas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	greita	greitas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	atidėlioti	atidėlioti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	vizito	vizitas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	pas	pas	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	gydytoją	gydytojas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+22	nereikėtų	nereikėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---y--ns-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	laukimas	laukimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+26	didina	didinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	regėjimo	regėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	suprastėjimo	suprastėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	net	net	PART	dll.	_	_	_	_	Multext=Qg
+31	regos	rega	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+32	netekimo	netekimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+33	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+36	Medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+37	diagnostikos	diagnostika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+38	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+39	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+40	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+41	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+42	Hila	Hila	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+43	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+44	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+45	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+46	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p3
+# sent_id = LRT_SVE_006-s5
+# text = Katarakta – akių liga, kai akies lęšiukas po truputį netenka skaidrumo, formuojasi drumstys, dėl kurių prastėja regėjimas.
+1	Katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+3	akių	akis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	akies	akis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	lęšiukas	lęšiukas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	po truputį	po truputį	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	netenka	netekti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+11	skaidrumo	skaidrumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	formuojasi	formuotis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+14	drumstys	drumstis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	kurių	kuris	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+18	prastėja	prastėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	regėjimas	regėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s6
+# text = Dažniausiai ši ilga išsivysto vyresniame amžiuje ar kaip kitų ligų pasekmė, tačiau kartais gali pasireikšti ir vaikams.
+1	Dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+2	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	ilga	ilgas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+4	išsivysto	išsivystyti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+5	vyresniame	vyresnis	ADJ	bdv.aukšt.vyr.vns.Vt.	Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsln
+6	amžiuje	amžius	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+7	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	kitų	kitas	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+10	ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	pasekmė	pasekmė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	kartais	kartais	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	pasireikšti	pasireikšti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p4
+# sent_id = LRT_SVE_006-s7
+# text = Tikrintis – nuo 50 metų
+1	Tikrintis	tikrintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+2	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+3	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+
+# newpar id = LRT_SVE_006-p5
+# sent_id = LRT_SVE_006-s8
+# text = Vaizdas tarsi per rūką, neryškus matymas, sunkiau skaityti, matyti vairuojant, o akiniai nebepadeda, pamažu blogėjantis regėjimas, vaizdo dvejinimasis, aureolės apie šviesos šaltinį – pastebėjus bent vieną iš šių simptomų, reikėtų nieko nelaukus kreiptis į akių gydytoją.
+1	Vaizdas	vaizdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	tarsi	tarsi	PART	dll.	_	_	_	_	Multext=Qg
+3	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	rūką	rūkas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	neryškus	neryškus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+7	matymas	matymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	sunkiau	sunkiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+10	skaityti	skaityti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	matyti	matyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	vairuojant	vairuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgap----n--n--
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	akiniai	akiniai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+17	nebepadeda	nebepadėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	pamažu	pamažu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	blogėjantis	blogėti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+21	regėjimas	regėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	vaizdo	vaizdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	dvejinimasis	dvejinimasis	NOUN	dkt.sngr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsny-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	aureolės	aureolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+27	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+28	šviesos	šviesa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+29	šaltinį	šaltinis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+30	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+31	pastebėjus	pastebėti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+32	bent	bent	PART	dll.	_	_	_	_	Multext=Qg
+33	vieną	vienas	NUM	sktv.raid.kiek.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmsal-
+34	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+35	šių	šis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+36	simptomų	simptomas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+37	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+38	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+39	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+40	nelaukus	nelaukti	VERB	vksm.pad.neig.būt-k.	Polarity=Neg|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----y--n--
+41	kreiptis	kreiptis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+42	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+43	akių	akis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+44	gydytoją	gydytojas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+45	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s9
+# text = Rizika susirgti katarakta ypač padidėja sulaukus 50 metų, tad nuo tada tikrintis dėl šios ligos patariama ir profilaktiškai.
+1	Rizika	rizika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	susirgti	susirgti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	padidėja	padidėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	sulaukus	sulaukti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+7	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	tikrintis	tikrintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+14	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+16	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	patariama	patarti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	profilaktiškai	profilaktiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s10
+# text = Be to, katarakta anksčiau suserga žmonės, kuriems diagnozuotas cukrinis diabetas, kamuoja hipertenzija.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+5	suserga	susirgti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kuriems	kuris	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+9	diagnozuotas	diagnozuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	cukrinis	cukrinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+11	diabetas	diabetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kamuoja	kamuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	hipertenzija	hipertenzija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p6
+# sent_id = LRT_SVE_006-s11
+# text = Medicinos diagnostikos ir gydymo centro „Hila“ gydytojas oftalmologas V. Kilius sako, kad paprastai pacientai patys pastebi pirmuosius kataraktos simptomus, kreipiasi konsultacijai ir sėkmingai atliekamas chirurginis gydymas.
+1	Medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	diagnostikos	diagnostika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Hila	Hila	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+9	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	oftalmologas	oftalmologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+13	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	paprastai	paprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	pacientai	pacientas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+18	patys	pats	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+19	pastebi	pastebėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	pirmuosius	pirmas	ADJ	sktv.raid.kelint.įvardž.vyr.dgs.G.	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mompaly
+21	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	simptomus	simptomas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	kreipiasi	kreiptis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+25	konsultacijai	konsultacija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+26	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	sėkmingai	sėkmingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	atliekamas	atlikti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+29	chirurginis	chirurginis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+30	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p7
+# sent_id = LRT_SVE_006-s12
+# text = „Žmonės būna nepatenkinti vaizdu, kurį jie mato, kreipiasi dėl rūko akyse, sako, kad jokie akiniai nepadeda ir dažnai paaiškėja, kad tai – katarakta, – aiškina gydytojas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	būna	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	nepatenkinti	nepatenkintas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+5	vaizdu	vaizdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+8	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+9	mato	matyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kreipiasi	kreiptis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+12	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	rūko	rūkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	akyse	akis	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpln-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	jokie	joks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+20	akiniai	akiniai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+21	nepadeda	nepadėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+22	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	paaiškėja	paaiškėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+27	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+28	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+29	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+32	aiškina	aiškinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+33	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s13
+# text = – Jei liga nėra pažengusi, ją labai paprasta išoperuoti, dažniausiai matymas visiškai atstatomas arba pastebimai pagerinamas, tačiau, nors retai, pasitaiko „kantrių“ pacientų, kurie kataraktos simptomus kenčia ne vienerius metus, o pažengus ligai, operacija sudėtingėja, trukmė – ilgėja, pasveikimo šansai nėra tokie geri“.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+5	pažengusi	pažengti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-sfannnn-p
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+8	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	paprasta	paprastas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+10	išoperuoti	išoperuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+13	matymas	matymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	visiškai	visiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	atstatomas	atstatyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+16	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	pastebimai	pastebimai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	pagerinamas	pagerinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-smpnnnn-p
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	tačiau	tačiau	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	retai	retai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	pasitaiko	pasitaikyti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+26	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	kantrių	kantrus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpgn
+28	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+29	pacientų	pacientas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+32	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+33	simptomus	simptomas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+34	kenčia	kęsti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+35	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+36	vienerius	vienas	NUM	sktv.raid.daugin.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	_	_	_	Multext=Mmmpal-
+37	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+40	pažengus	pažengti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+41	ligai	liga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+42	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+43	operacija	operacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+44	sudėtingėja	sudėtingėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	trukmė	trukmė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+47	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+48	ilgėja	ilgėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+49	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+50	pasveikimo	pasveikimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+51	šansai	šansas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+52	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+53	tokie	toks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+54	geri	geras	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+55	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+56	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p8
+# sent_id = LRT_SVE_006-s14
+# text = Negydant rizikuojama apakti
+1	Negydant	negydyti	VERB	vksm.pad.neig.es.	Polarity=Neg|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----y--n--
+2	rizikuojama	rizikuoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	apakti	apakti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+
+# newpar id = LRT_SVE_006-p9
+# sent_id = LRT_SVE_006-s15
+# text = Gydytojas V. Kilius pasakoja, kad savo darbo praktikoje turėjo pacientą, kuris dėl kataraktos nematė net 50 metų, o pakeitus akies lęšiuką regėjimas atsistatė.
+1	Gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+4	pasakoja	pasakoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	praktikoje	praktika	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+10	turėjo	turėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	pacientą	pacientas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+14	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	nematė	nematyti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+17	net	net	PART	dll.	_	_	_	_	Multext=Qg
+18	50	50	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+19	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	pakeitus	pakeisti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+23	akies	akis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	lęšiuką	lęšiukas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+25	regėjimas	regėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+26	atsistatė	atsistatyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--yi-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p10
+# sent_id = LRT_SVE_006-s16
+# text = „Toks pacientas dėl kitos ligos katarakta susirgo dar vaikystėje, o tuomet nebuvo tokio gydymo, kaip šiais laikais, tad iki šiol pacientas viena akimi prastai matė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Toks	toks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	kitos	kitas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+6	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	susirgo	susirgti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+10	vaikystėje	vaikystė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+15	tokio	toks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+16	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	šiais	šis	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+20	laikais	laikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+25	viena	vienas	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+26	akimi	akis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+27	prastai	prastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	matė	matyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s17
+# text = Senstant regėjimas prastėjo ir kita akimi, tad kreipęsis į mus jis sužinojo, kad pagydyti galime bandyti abi akis.
+1	Senstant	senti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	regėjimas	regėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	prastėjo	prastėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	kita	kitas	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+6	akimi	akis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	kreipęsis	kreiptis	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannny-p
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	mus	aš	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+12	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+13	sužinojo	sužinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	pagydyti	pagydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+18	bandyti	bandyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	abi	abu	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+20	akis	akis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s18
+# text = Nors gerų rezultatų dėl užleistos kataraktos negalėjau žadėti, visgi operacija pavyko, regėjimas atsistatė.
+1	Nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	gerų	geras	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+3	rezultatų	rezultatas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	užleistos	užleisti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+6	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	negalėjau	negalėti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--y--ni-
+8	žadėti	žadėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	visgi	visgi	PART	dll.	_	_	_	_	Multext=Qg
+11	operacija	operacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	pavyko	pavykti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	regėjimas	regėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+15	atsistatė	atsistatyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--yi-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s19
+# text = Taip pasisekti gali ne visiems, tad ilgai laukti ir rizikuoti neverta“, – akcentuoja gydytojas oftalmologas V. Kilius.
+1	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	pasisekti	pasisekti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	visiems	visas	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpdn
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	ilgai	ilgai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	laukti	laukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	rizikuoti	rizikuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	neverta	nevertas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+13	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+16	akcentuoja	akcentuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	oftalmologas	oftalmologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+19	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+20	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p11
+# sent_id = LRT_SVE_006-s20
+# text = Negydoma katarakta gali komplikuotis kita akių liga – glaukoma.
+1	Negydoma	negydyti	VERB	vksm.dlv.neig.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpynnn-p
+2	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	komplikuotis	komplikuotis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+5	kita	kitas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+6	akių	akis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+9	glaukoma	glaukoma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s21
+# text = Dėl kataraktos lęšiukas išburksta, katarakta komplikuojasi, atsiranda glaukoma, ilgainiui žūsta akies optinis nervas, o tada jau nėra galimybių padėti.
+1	Dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	lęšiukas	lęšiukas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	išburksta	išburkti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	komplikuojasi	komplikuotis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	atsiranda	atsirasti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+10	glaukoma	glaukoma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ilgainiui	ilgainiui	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	žūsta	žūti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	akies	akis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	optinis	optinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+16	nervas	nervas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+22	galimybių	galimybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+23	padėti	padėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p12
+# sent_id = LRT_SVE_006-s22
+# text = „Vis labiau atidėdamas operaciją pacientas rizikuoja nebeatgauti maksimaliai gero regėjimo.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	atidėdamas	atidėti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+5	operaciją	operacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+6	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	rizikuoja	rizikuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	nebeatgauti	nebeatgauti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	Multext=Vgi-----y--n--
+9	maksimaliai	maksimaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	gero	geras	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+11	regėjimo	regėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s23
+# text = Geriausia operuoti, kai katarakta tik nustatoma.
+1	Geriausia	geras	ADJ	bdv.aukšč.bev.	Degree=Sup|Gender=Neut	_	_	_	Multext=Agsn--n
+2	operuoti	operuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	nustatoma	nustatyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-sfpnnnn-p
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s24
+# text = Ši liga savaime nepraeina, o ilgainiui tik progresuoja, matymas vis prastėja“, – sako „Hila“ akių gydytojas.
+1	Ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+2	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	savaime	savaime	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nepraeina	nepraeiti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	ilgainiui	ilgainiui	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	progresuoja	progresuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	matymas	matymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	prastėja	prastėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+14	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+17	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	Hila	Hila	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+20	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+21	akių	akis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+22	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p13
+# sent_id = LRT_SVE_006-s25
+# text = Kaip gydoma?
+1	Kaip	kaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	gydoma	gydyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+3	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SVE_006-p14
+# sent_id = LRT_SVE_006-s26
+# text = Katarakta gydoma chirurginiu būdu: operacijos metu pasitelkiant ultragarsą drumstas lęšiukas susmulkinamas ir pašalinamas, vietoje jo įdedamas dirbtinis.
+1	Katarakta	katarakta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	gydoma	gydyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+3	chirurginiu	chirurginis	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsin
+4	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+8	pasitelkiant	pasitelkti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+9	ultragarsą	ultragarsas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	drumstas	drumstas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+11	lęšiukas	lęšiukas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	susmulkinamas	susmulkinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	pašalinamas	pašalinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-smpnnnn-p
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	vietoje	vietoje	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	įdedamas	įdėti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+19	dirbtinis	dirbtinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s27
+# text = Jei liga nėra pažengusi, procedūra vidutiniškai vyksta 15 minučių, tačiau, jei atvejis sudėtingesnis, gali užtrukti ir iki valandos.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	liga	liga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+4	pažengusi	pažengti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-sfannnn-p
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	procedūra	procedūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	vidutiniškai	vidutiniškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	minučių	minutė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	tačiau	tačiau	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	atvejis	atvejis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	sudėtingesnis	sudėtingas	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsnn
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	užtrukti	užtrukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+22	valandos	valanda	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p15
+# sent_id = LRT_SVE_006-s28
+# text = Operacijos metu naudojama vietinė nejautra – prieš pradedant procedūrą į akį sulašinami nuskausminantys vaistai.
+1	Operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	naudojama	naudoti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+4	vietinė	vietinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+5	nejautra	nejautra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+7	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	pradedant	pradėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+9	procedūrą	procedūra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	akį	akis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+12	sulašinami	sulašinti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+13	nuskausminantys	nuskausminti	VERB	vksm.dlv.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannnn-p
+14	vaistai	vaistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s29
+# text = Iškart po operacijos pacientas gali matyti, tačiau akis būna sudirgusi ir jautri, tad siekiant išvengti infekcijos, akis uždengiama neperregimu raiščiu.
+1	Iškart	iškart	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	matyti	matyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	akis	akis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	būna	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	sudirgusi	sudirgti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannnn-p
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	jautri	jautrus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	tad	tad	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	siekiant	siekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+17	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	infekcijos	infekcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	akis	akis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+21	uždengiama	uždengti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+22	neperregimu	neperregėti	VERB	vksm.dlv.neig.neveik.es.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpynin-p
+23	raiščiu	raištis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p16
+# sent_id = LRT_SVE_006-s30
+# text = „Pirmą dieną po operacijos matymas nebūtinai yra geras, akis turi sugyti.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Pirmą	pirmas	ADJ	sktv.raid.kelint.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsaln
+3	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+4	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	matymas	matymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	nebūtinai	nebūtinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	geras	geras	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	akis	akis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	sugyti	sugyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s31
+# text = Paprastai per mėnesį akis visiškai sugyja, tačiau net ir savaitei praėjus po operacijos matymas operuota akimi jau gali būti labai geras“, – sako gydytojas oftalmologas V. Kilius.
+1	Paprastai	paprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	mėnesį	mėnuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	akis	akis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	visiškai	visiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	sugyja	sugyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	net	net	PART	dll.	_	_	_	_	Multext=Qg
+10	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+11	savaitei	savaitė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+12	praėjus	praeiti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+13	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+14	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	matymas	matymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	operuota	operuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+17	akimi	akis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+18	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+21	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	geras	geras	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+23	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+26	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+28	oftalmologas	oftalmologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+29	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+30	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p17
+# sent_id = LRT_SVE_006-s32
+# text = Dar prieš kelerius metus po kataraktos operacijos reikėdavo praleisti naktį ligoninėje, dabar dažniausiai pacientas namo vyksta tą pačią dieną.
+1	Dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+2	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	kelerius	keleri	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+4	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+5	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	reikėdavo	reikėti	VERB	vksm.asm.tiesiog.būt-d.3.	Aspect=Hab|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgmq3---n--ni-
+9	praleisti	praleisti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	naktį	naktis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+11	ligoninėje	ligoninė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+15	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	namo	namo	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	tą pačią	tas pats	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+19	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_006-s33
+# text = Po operacijos tris savaites į sveikstančią akį reikia lašinti vaistus, saugoti ją: vengti dirgiklių, tokių kaip dulkės, vėjas, stipri šviesa, neliesti akies rankomis, neleisti, kad prausiantis į akį patektų vandens.
+1	Po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	tris	trys	NUM	sktv.raid.kiek.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpal-
+4	savaites	savaitė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	sveikstančią	sveikti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+7	akį	akis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	lašinti	lašinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	vaistus	vaistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	saugoti	saugoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgfsan
+14	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+15	vengti	vengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	dirgiklių	dirgiklis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tokių	toks	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+19	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	dulkės	dulkė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	vėjas	vėjas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	stipri	stiprus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+25	šviesa	šviesa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	neliesti	neliesti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	Multext=Vgi-----y--n--
+28	akies	akis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+29	rankomis	ranka	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	neleisti	neleisti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----y--n--
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+34	prausiantis	praustis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+35	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+36	akį	akis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+37	patektų	patekti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+38	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p18
+# sent_id = LRT_SVE_006-s34
+# text = „Po operacijos žmogus gali užsiimti kasdiene veikla, tačiau kurį laiką reikia labiau pasisaugoti, vengti faktorių, didinančių infekcijos riziką“, – aiškina gydytojas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Po	Po	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Np---ng
+3	operacijos	operacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	užsiimti	užsiimti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+7	kasdiene	kasdienis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+8	veikla	veikla	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+12	laiką	laikas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+15	pasisaugoti	pasisaugoti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	vengti	vengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	faktorių	faktorius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	didinančių	didinti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+21	infekcijos	infekcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	riziką	rizika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+23	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+26	aiškina	aiškinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+27	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_006-p19
+# sent_id = LRT_SVE_006-s35
+# text = Gydytojas V. Kilius sako – užtikrinto būdo, kaip išvengti kataraktos, nėra, tačiau sveikas gyvenimo būdas padeda išvengti ar atidėti ne tik įvairias lėtines ligas, bet ir kataraktą.
+1	Gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Kilius	Kilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+4	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	užtikrinto	užtikrinti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+7	būdo	būdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	kataraktos	katarakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	sveikas	sveikas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+17	gyvenimo	gyvenimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+19	padeda	padėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+21	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	atidėti	atidėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+23	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+24	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+25	įvairias	įvairus	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+26	lėtines	lėtinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+27	ligas	liga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+31	kataraktą	katarakta	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

@@ -1,0 +1,190 @@
+# newdoc id = UN_COV_45
+# newpar id = UN_COV_45-p1
+# sent_id = UN_COV_45-s1
+# text = Jungtinėje Karalystėje uždrausta COVID vakcina vaikams
+1	Jungtinėje	jungtinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+2	Karalystėje	karalystė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+3	uždrausta	uždrausti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+4	COVID	COVID	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+5	vakcina	vakcina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+
+# newpar id = UN_COV_45-p2
+# sent_id = UN_COV_45-s2
+# text = Dr. Naomi Wolf trečiadienį prisijungė prie Steve'o Bannono laidoje "The War Room".
+1	Dr.	dr.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Naomi	Naomi	PROPN	dkt.tikr.vrd.mot.substnd.	Gender=Fem|NameType=Giv|Style=Slng	_	_	_	Multext=Nnf--nf
+3	Wolf	Wolf	X	kt.	_	_	_	_	Multext=X-
+4	trečiadienį	trečiadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+5	prisijungė	prisijungti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+6	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	Steve'o	Steve'o	X	kt.	_	_	_	_	Multext=X-
+8	Bannono	Bannono	X	kt.	_	_	_	_	Multext=X-
+9	laidoje	laida	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	The	The	X	kt.	_	_	_	_	Multext=X-
+12	War	War	X	kt.	_	_	_	_	Multext=X-
+13	Room	Room	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+14	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s3
+# text = Dr. N. Wolf aptarė naujausius pokyčius Jungtinėje Karalystėje.
+1	Dr.	dr.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	N.	N.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Wolf	Wolf	X	kt.	_	_	_	_	Multext=X-
+4	aptarė	aptarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	naujausius	naujas	ADJ	bdv.aukšč.vyr.dgs.G.	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpan
+6	pokyčius	pokytis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	Jungtinėje	jungtinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+8	Karalystėje	karalystė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s4
+# text = JK Sveikatos apsaugos agentūra uždraudė COVID vakciną vaikams, kuriems iki praėjusio mėnesio pabaigos nebuvo sukakę penkeri metai.
+1	JK	JK	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Sveikatos	Sveikata	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+3	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	agentūra	agentūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	uždraudė	uždrausti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	COVID	COVID	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	vakciną	vakcina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+8	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kuriems	kuris	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+11	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+12	praėjusio	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smanngn-p
+13	mėnesio	mėnuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	pabaigos	pabaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+16	sukakę	sukakti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+17	penkeri	penki	NUM	sktv.raid.daugin.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	_	_	_	Multext=Mmmpnln
+18	metai	metai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s5
+# text = Jungtinė Karalystė nebesiūlys šios vakcinos vaikams nuo 5 iki 11 metų.
+1	Jungtinė	jungtinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+2	Karalystė	karalystė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	nebesiūlys	nebesiūlyti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---y--ni-
+4	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+5	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+7	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	5	5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s6
+# text = Wolfas taip pat aptarė neseniai atliktą tyrimą, atskleidusį pražūtingą vakcinos poveikį mažiems berniukams.
+1	Wolfas	Wolfas	X	kt.	_	_	_	_	Multext=X-
+2	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+3	aptarė	aptarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	neseniai	neseniai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	atliktą	atlikti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+6	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	atskleidusį	atskleisti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+9	pražūtingą	pražūtingas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+10	vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	poveikį	poveikis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+12	mažiems	mažas	ADJ	bdv.nelygin.vyr.dgs.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpdn
+13	berniukams	berniukas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s7
+# text = Pasak daktarės Naomi Wolf, vakcina stabdo priešpensinio amžiaus berniukų sėklidžių vystymąsi.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	daktarės	daktarė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	Naomi	Naomi	PROPN	dkt.tikr.vrd.mot.substnd.	Gender=Fem|NameType=Giv|Style=Slng	_	_	_	Multext=Nnf--nf
+4	Wolf	Wolf	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	vakcina	vakcina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	stabdo	stabdyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	priešpensinio	priešpensinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+9	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	berniukų	berniukas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	sėklidžių	sėklidė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+12	vystymąsi	vystymasis	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsay-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s8
+# text = Tai katastrofa.
+1	Tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	katastrofa	katastrofa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+3	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s9
+# text = Dr. N. Wolf: Vakcinos kenkia sėklidėms ir pažeidžia sėklidžių dalis, kurios vysto mažų berniukų, kūdikių ir paauglių berniukų vyriškumą ir antrinius lytinius požymius.
+1	Dr.	dr.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	N.	N.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Wolf	Wolf	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+5	Vakcinos	vakcina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	kenkia	kenkti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	sėklidėms	sėklidė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	pažeidžia	pažeisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	sėklidžių	sėklidė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	dalis	dalis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+14	vysto	vystyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	mažų	mažas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+16	berniukų	berniukas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kūdikių	kūdikis	NOUN	dkt.bendr.dgs.K.	Case=Gen|Gender=Com|Number=Plur	_	_	_	Multext=Nccpgn-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	paauglių	paauglys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+21	berniukų	berniukas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	vyriškumą	vyriškumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+23	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+24	antrinius	antrinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+25	lytinius	lytinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+26	požymius	požymis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s10
+# text = Taigi jos tiesiogine prasme kenkia jūsų mažo berniuko vaiko galimybėms normaliai užaugti suaugusiu vyriškos lyties žmogumi.
+1	Taigi	taigi	PART	dll.	_	_	_	_	Multext=Qg
+2	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+3	tiesiogine	tiesioginis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+4	prasme	prasmė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+5	kenkia	kenkti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+7	mažo	mažas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+8	berniuko	berniukas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	vaiko	vaikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	galimybėms	galimybė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+11	normaliai	normaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	užaugti	užaugti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	suaugusiu	suaugti	VERB	vksm.dlv.veik.būt-k.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannin-p
+14	vyriškos	vyriškas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+15	lyties	lytis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	žmogumi	žmogus	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_45-s11
+# text = Dienraštis "The Daily Clout" anksčiau rašė apie tai, kad dėl vakcinų stulbinamai sumažėja suaugusių vyrų vaisingumas.
+1	Dienraštis	dienraštis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	The	The	X	kt.	_	_	_	_	Multext=X-
+4	Daily	Dailis	PROPN	dkt.tikr.vrd.vyr.vns.Vt.trump.	Case=Loc|Gender=Masc|NameType=Giv|Number=Sing|Variant=Short	_	_	_	Multext=Npmslnf
+5	Clout	Clout	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+6	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+7	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+8	rašė	rašyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+14	vakcinų	vakcina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	stulbinamai	stulbinti	VERB	vksm.dlv.neveik.es.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnndn-p
+16	sumažėja	sumažėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	suaugusių	suaugti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanngn-p
+18	vyrų	vyras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	vaisingumas	vaisingumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

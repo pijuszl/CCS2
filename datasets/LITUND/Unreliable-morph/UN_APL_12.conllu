@@ -1,0 +1,627 @@
+# newdoc id = UN_APL_12
+# newpar id = UN_APL_12-p1
+# sent_id = UN_APL_12-s1
+# text = Teksasas tapo pirmąja valstija, galinčia uždrausti chemtreilus
+1	Teksasas	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsnng
+2	tapo	tapti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	pirmąja	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.Įn.	Case=Ins|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsily
+4	valstija	valstija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	galinčia	galėti	VERB	vksm.dlv.veik.es.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannin-p
+7	uždrausti	uždrausti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	chemtreilus	chemtreilas	NOUN	dkt.vyr.dgs.G.substnd.	Case=Acc|Gender=Masc|Number=Plur|Style=Slng	_	_	_	Multext=Nnmpan-
+
+# newpar id = UN_APL_12-p2
+# sent_id = UN_APL_12-s2
+# text = Teksasas taps pirmąja valstija, kuri gali uždrausti aerozolinių dalelių purškimą į dangų - reiškinį, paprastai vadinamą "chemtreilais".
+1	Teksasas	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsnng
+2	taps	tapti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+3	pirmąja	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.Įn.	Case=Ins|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsily
+4	valstija	valstija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	uždrausti	uždrausti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	aerozolinių	aerozolinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+10	dalelių	dalelė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	purškimą	purškimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+12	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	dangų	dangus	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	reiškinį	reiškinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	paprastai	paprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	vadinamą	vadinti	VERB	vksm.dlv.neveik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnan-p
+19	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	chemtreilais	chemtreilas	NOUN	dkt.vyr.dgs.Įn.substnd.	Case=Ins|Gender=Masc|Number=Plur|Style=Slng	_	_	_	SpaceAfter=No|Multext=Nnmpin-
+21	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p3
+# sent_id = UN_APL_12-s3
+# text = Naujoje peticijoje grupė "Švarus Teksaso dangus" renka parašus, kuriais prašoma valstijos atstovų priimti įstatymus, draudžiančius pavojingą atmosferos aerozolių purškimą be išankstinio patvirtinimo ir purškiamų cheminių medžiagų tyrimų.
+1	Naujoje	naujas	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+2	peticijoje	peticija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+3	grupė	grupė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+5	Švarus	švarus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+6	Teksaso	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+7	dangus	dangus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+8	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+9	renka	rinkti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	parašus	parašas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kuriais	kuris	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+13	prašoma	prašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+14	valstijos	valstija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	atstovų	atstovas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	įstatymus	įstatymas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	draudžiančius	drausti	VERB	vksm.dlv.veik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannan-p
+20	pavojingą	pavojingas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+21	atmosferos	atmosfera	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	aerozolių	aerozolis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	purškimą	purškimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+24	be	be	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+25	išankstinio	išankstinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+26	patvirtinimo	patvirtinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	purškiamų	purkšti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+29	cheminių	cheminis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+30	medžiagų	medžiaga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+31	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p4
+# sent_id = UN_APL_12-s4
+# text = Infowars.com
+1	Infowars.com	Infowars.com	X	kt.	_	_	_	_	Multext=X-
+
+# sent_id = UN_APL_12-s5
+# text = praneša: Peticijoje teigiama: "Peticijoje teigiama, kad: "Mes, žemiau pasirašiusieji, esame susirūpinę Teksaso piliečiai, reikalaujantys, kad mūsų valstijos įstatymų leidėjai priimtų teisės aktus, kurie apsaugotų mūsų šeimas, naminius gyvūnus, pasėlius, vandenį ir aplinką nuo bet kokio neigiamo šalutinio apygardos, valstijos, federalinės, karinės, taip pat bet kurios korporacijos, nevyriausybinės ar pelno nesiekiančios organizacijos purškimo mūsų danguje poveikio."
+1	praneša	pranešti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+2	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+3	Peticijoje	peticija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+4	teigiama	teigti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Peticijoje	peticija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+8	teigiama	teigti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kad	kad	SCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+12	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	Mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pg-pnn
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	žemiau	žemiau	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+16	pasirašiusieji	pasirašyti	VERB	vksm.dlv.sngr.veik.būt-k.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmanyny-p
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	esame	būti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+19	susirūpinę	susirūpinti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannny-p
+20	Teksaso	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+21	piliečiai	pilietis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	reikalaujantys	reikalauti	VERB	vksm.dlv.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-pmannnn-p
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+26	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+27	valstijos	valstija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	įstatymų	įstatymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	leidėjai	leidėjas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+30	priimtų	priimti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+31	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+32	aktus	aktas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+35	apsaugotų	apsaugoti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+36	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+37	šeimas	šeima	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	naminius	naminis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+40	gyvūnus	gyvūnas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	pasėlius	pasėlis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+43	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+44	vandenį	vanduo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+45	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+46	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+47	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+48	bet kokio	bet koks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+49	neigiamo	neigiamas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+50	šalutinio	šalutinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+51	apygardos	apygarda	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+52	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+53	valstijos	valstija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+54	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+55	federalinės	federalinis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpfpnn
+56	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+57	karinės	karinis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpfpnn
+58	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+59	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+60	bet kurios	bet kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+61	korporacijos	korporacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+62	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+63	nevyriausybinės	nevyriausybinis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+64	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+65	pelno	pelnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+66	nesiekiančios	nesiekti	VERB	vksm.dlv.neig.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfayngn-p
+67	organizacijos	organizacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+68	purškimo	purškimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+69	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+70	danguje	dangus	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+71	poveikio	poveikis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+72	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+73	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# newpar id = UN_APL_12-p5
+# sent_id = UN_APL_12-s6
+# text = Švarus dangus Teksase ne tik sukelia atmosferos taršą - miglotą dangų ir užstoja saulės šviesą, bet ir pažymi, kad "kritulių, požeminio vandens ir dirvožemio tyrimai rodo, jog kai kurios purškiamos medžiagos ar dalelės yra aliuminio, bario ir stroncio oksidai".
+1	Švarus	švarus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+2	dangus	dangus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	Teksase	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+6	sukelia	sukelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	atmosferos	atmosfera	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	taršą	tarša	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	miglotą	miglotas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+11	dangų	dangus	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	užstoja	užstoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	saulės	saulė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	šviesą	šviesa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+19	pažymi	pažymėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	kritulių	krituliai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	požeminio	požeminis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+26	vandens	vanduo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+27	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	dirvožemio	dirvožemis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+30	rodo	rodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+33	kai kurios	kai kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+34	purškiamos	purkšti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+35	medžiagos	medžiaga	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+36	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+37	dalelės	dalelė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+38	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+39	aliuminio	aliuminis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+40	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+41	bario	baris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+42	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+43	stroncio	stroncis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+44	oksidai	oksidas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+45	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+46	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p6
+# sent_id = UN_APL_12-s7
+# text = "Labai padidėjęs aliuminio oksido ir kitų toksiškų metalų junginių bei kitų aerozolinių medžiagų ar dalelių poveikis žmonėms ir visoms gyvoms būtybėms sukelia kvėpavimo sutrikimų ir kitų neigiamų sveikatos sutrikimų", - teigiama peticijoje.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Labai	Laba	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+3	padidėjęs	padidėti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+4	aliuminio	aliuminis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	oksido	oksidas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	kitų	kitas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+8	toksiškų	toksiškas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+9	metalų	metalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	junginių	junginys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	kitų	kitas	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+13	aerozolinių	aerozolinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+14	medžiagų	medžiaga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	dalelių	dalelė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+17	poveikis	poveikis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	žmonėms	žmogus	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	visoms	visas	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+21	gyvoms	gyvas	ADJ	bdv.nelygin.mot.dgs.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdn
+22	būtybėms	būtybė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+23	sukelia	sukelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	kvėpavimo	kvėpavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	sutrikimų	sutrikimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+26	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	kitų	kitas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+28	neigiamų	neigiamas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+29	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	sutrikimų	sutrikimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+31	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+34	teigiama	teigti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+35	peticijoje	peticija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p7
+# sent_id = UN_APL_12-s8
+# text = "Žmonės, naminiai gyvūnai ir laukiniai gyvūnai patiria žalą, nukenčia žemės ūkio pasėliai ir dirvožemis, kenčia ir daug kur nyksta miškai, užterštas vanduo.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	naminiai	naminis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+5	gyvūnai	gyvūnas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	laukiniai	laukinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	gyvūnai	gyvūnas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	patiria	patirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	žalą	žala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	nukenčia	nukentėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	pasėliai	pasėlis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	dirvožemis	dirvožemis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kenčia	kęsti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	nyksta	nykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	miškai	miškas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	užterštas	užteršti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+27	vanduo	vanduo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_12-s9
+# text = Nepriklausomai nuo to, kuo pateisinamas šis nuolatinis purškimas, jis labai kenkia mūsų sveikatai ir aplinkai."
+1	Nepriklausomai	nepriklausomai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kuo	kuo	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	pateisinamas	pateisinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+7	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	nuolatinis	nuolatinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	purškimas	purškimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+12	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	kenkia	kenkti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+15	sveikatai	sveikata	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	aplinkai	aplinka	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+18	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+19	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# newpar id = UN_APL_12-p8
+# sent_id = UN_APL_12-s10
+# text = "Švarus dangus" nukreipia asmenis į geoinžinerijos svetainę geoengineering.org,
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Švarus	švarus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+3	dangus	dangus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	nukreipia	nukreipti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	geoinžinerijos	geoinžinerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	svetainę	svetainė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	geoengineering.org	geoengineering.org	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+
+# sent_id = UN_APL_12-s11
+# text = kur jie gali susipažinti su išsamiais tyrimais šia tema, ir papildomai pateikia įrodymų, kad federalinė vyriausybė įsigijo daugybę orų modifikavimo patentų, taip pat parengė mokslinių tyrimų dokumentų apie "Orų ir klimato modifikavimą", kurie buvo parengti dar praėjusio amžiaus septintajame dešimtmetyje.
+1	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	susipažinti	susipažinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	išsamiais	išsamus	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+7	tyrimais	tyrimas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+8	šia	šis	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+9	tema	tema	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	papildomai	papildomai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	pateikia	pateikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	įrodymų	įrodymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	federalinė	federalinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+18	vyriausybė	vyriausybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+19	įsigijo	įsigyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+20	daugybę	daugybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+21	orų	oras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	modifikavimo	modifikavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	patentų	patentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+26	parengė	parengti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+27	mokslinių	mokslinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+28	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	dokumentų	dokumentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+30	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+31	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+32	Orų	oras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+33	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+34	klimato	klimatas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+35	modifikavimą	modifikavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+36	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+37	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+38	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+39	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+40	parengti	parengti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+41	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+42	praėjusio	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smanngn-p
+43	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+44	septintajame	septintas	ADJ	sktv.raid.kelint.įvardž.vyr.vns.Vt.	Case=Loc|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momslly
+45	dešimtmetyje	dešimtmetis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+46	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p9
+# sent_id = UN_APL_12-s12
+# text = Ši peticija paskelbta po to, kai praėjusį rugsėjį geriausi geomokslų specialistai žurnale "Advances In Social Sciences Research Journal" paskelbė straipsnį, kuriame apkaltino Jungtines Tautas dalyvaujant sąmoksle, kuriuo siekiama sunaikinti Žemės aplinką.
+1	Ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+2	peticija	peticija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	paskelbta	paskelbti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+4	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	praėjusį	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+8	rugsėjį	rugsėjis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	geriausi	geras	ADJ	bdv.aukšč.vyr.dgs.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpnn
+10	geomokslų	geomokslai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	specialistai	specialistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	žurnale	žurnalas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	Advances	Advances	X	kt.	_	_	_	_	Multext=X-
+15	In	In	X	kt.	_	_	_	_	Multext=X-
+16	Social	Social	X	kt.	_	_	_	_	Multext=X-
+17	Sciences	Sciences	X	kt.	_	_	_	_	Multext=X-
+18	Research	Research	X	kt.	_	_	_	_	Multext=X-
+19	Journal	Journal	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+20	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+21	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	straipsnį	straipsnis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+25	apkaltino	apkaltinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+26	Jungtines	jungtinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+27	Tautas	Tautas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+28	dalyvaujant	dalyvauti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+29	sąmoksle	sąmokslas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	kuriuo	kuris	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+32	siekiama	siekti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+33	sunaikinti	sunaikinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+34	Žemės	Žemė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+35	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p10
+# sent_id = UN_APL_12-s13
+# text = Džeimsas Marvinas Herndonas (James Marvin Herndon) ir Markas Vaitesidas (Mark Whiteside) savo straipsnyje įspėjo, kad žmonijai "liko nedaug laiko visam laikui nutraukti bet kokią geoinžinerinę veiklą", konkrečiai "aerozolinius akmens anglies pelenus, kurie, pasak jų, yra išpurškiami iš reaktyvinių lėktuvų" ir "patenka į troposferą", kur "sistemingai ardo Žemės atramines sistemas ir nuodija gyvybę šioje planetoje".
+1	Džeimsas	Džeimsas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+2	Marvinas	Marvinas	X	kt.	_	_	_	_	Multext=X-
+3	Herndonas	Herndonas	X	kt.	_	_	_	_	Multext=X-
+4	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+5	James	James	X	kt.	_	_	_	_	Multext=X-
+6	Marvin	Marvin	X	kt.	_	_	_	_	Multext=X-
+7	Herndon	Herndon	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	Markas	Markas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+11	Vaitesidas	Vaitesidas	X	kt.	_	_	_	_	Multext=X-
+12	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+13	Mark	Mark	X	kt.	_	_	_	_	Multext=X-
+14	Whiteside	Whiteside	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+15	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+16	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+17	straipsnyje	straipsnis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+18	įspėjo	įspėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	žmonijai	žmonija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+22	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	liko	likti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+24	nedaug	nedaug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	laiko	laikyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+26	visam	visas	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+27	laikui	laikas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+28	nutraukti	nutraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	bet kokią	bet koks	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+30	geoinžinerinę	geoinžinerinę	X	kt.	_	_	_	_	Multext=X-
+31	veiklą	veikla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+32	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+33	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+34	konkrečiai	konkrečiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+35	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+36	aerozolinius	aerozolinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+37	akmens	akmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+38	anglies	anglis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+39	pelenus	pelenai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+40	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+41	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpnn
+42	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+43	pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+44	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpgn
+45	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+46	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+47	išpurškiami	išpurkšti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+48	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+49	reaktyvinių	reaktyvinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+50	lėktuvų	lėktuvas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+51	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+52	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+53	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+54	patenka	patekti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+55	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+56	troposferą	troposfera	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+57	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+58	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+59	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+60	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+61	sistemingai	sistemingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+62	ardo	ardyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+63	Žemės	Žemė	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+64	atramines	atraminis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+65	sistemas	sistema	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+66	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+67	nuodija	nuodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+68	gyvybę	gyvybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+69	šioje	šis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+70	planetoje	planeta	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+71	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+72	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p11
+# sent_id = UN_APL_12-s14
+# text = JAV federalinė vyriausybė tyliai pripažino, kad ši praktika vykdoma taikant stratosferos aerozolio įpurškimą (SAI), kuris, kaip pažymėjo buvęs CŽV direktorius Džonas Brennanas (John Brennan), yra "būdas stratosferą pasėti dalelėmis, galinčiomis padėti atspindėti saulės šilumą panašiai kaip ugnikalnių išsiveržimai".
+1	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	federalinė	federalinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+3	vyriausybė	vyriausybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	tyliai	tyliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	pripažino	pripažinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	ši	šis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+9	praktika	praktika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	vykdoma	vykdyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+11	taikant	taikyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+12	stratosferos	stratosfera	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	aerozolio	aerozolis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	įpurškimą	įpurškimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+15	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+16	SAI	SAI	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	pažymėjo	pažymėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+23	buvęs	būti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+24	CŽV	CŽV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+25	direktorius	direktorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+26	Džonas	Džonas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+27	Brennanas	Brennanas	X	kt.	_	_	_	_	Multext=X-
+28	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+29	John	John	PROPN	dkt.tikr.vrd.vyr.substnd.	Gender=Masc|NameType=Giv|Style=Slng	_	_	_	Multext=Nnm--nf
+30	Brennan	Brennan	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+31	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+34	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+35	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+36	stratosferą	stratosfera	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+37	pasėti	pasėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+38	dalelėmis	dalelė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+39	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+40	galinčiomis	galėti	VERB	vksm.dlv.veik.es.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannin-p
+41	padėti	padėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+42	atspindėti	atspindėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+43	saulės	saulė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+44	šilumą	šiluma	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+45	panašiai	panašiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+46	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+47	ugnikalnių	ugnikalnis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+48	išsiveržimai	išsiveržimas	NOUN	dkt.sngr.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmpny-
+49	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+50	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p12
+# sent_id = UN_APL_12-s15
+# text = "SAI programa galėtų apriboti pasaulinės temperatūros kilimą, sumažinti kai kuriuos su aukštesne temperatūra susijusius pavojus ir suteikti pasaulio ekonomikai papildomo laiko atsisakyti iškastinio kuro.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	SAI	SAI	X	kt.	_	_	_	_	Multext=X-
+3	programa	programa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+5	apriboti	apriboti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	pasaulinės	pasaulinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+7	temperatūros	temperatūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	kilimą	kilimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	sumažinti	sumažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	kai kuriuos	kai kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+12	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+13	aukštesne	aukštas	ADJ	bdv.aukšt.mot.vns.Įn.	Case=Ins|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	Multext=Agcfsin
+14	temperatūra	temperatūra	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+15	susijusius	susyti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannan-p
+16	pavojus	pavojus	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	suteikti	suteikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	pasaulio	pasaulis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	ekonomikai	ekonomika	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+21	papildomo	papildomas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+22	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	atsisakyti	atsisakyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+24	iškastinio	iškastinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+25	kuro	kuras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_12-s16
+# text = Be to, šis procesas yra palyginti nebrangus", - sakė Brennanas Užsienio santykių tarybos konferencijoje.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	procesas	procesas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	nebrangus	nebrangus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+8	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	Brennanas	Brennanas	X	kt.	_	_	_	_	Multext=X-
+13	Užsienio	užsienis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	santykių	santykis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	konferencijoje	konferencija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p13
+# sent_id = UN_APL_12-s17
+# text = Į "Švaraus dangaus Teksase" prašymą pateikti komentarą iš karto nebuvo atsakyta.
+1	Į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Švaraus	švarus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+4	dangaus	dangus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	Teksase	Teksasas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+6	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+7	prašymą	prašymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+8	pateikti	pateikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	komentarą	komentaras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	iš karto	iš karto	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+12	atsakyta	atsakyti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_APL_12-p14
+# sent_id = UN_APL_12-s18
+# text = P komentaras: užsienis rašo, todėl tiesos ieškokite "duonos trupiniais"... atsirinkite faktus.
+1	P	P	X	kt.	_	_	_	_	Multext=X-
+2	komentaras	komentaras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	užsienis	užsienis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	rašo	rašyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	tiesos	tiesa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	ieškokite	ieškoti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+10	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+11	duonos	duona	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	trupiniais	trupinys	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+15	atsirinkite	atsirinkti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--ym-
+16	faktus	faktas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_12-s19
+# text = Patiko pasidalinkite.
+1	Patiko	patikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+2	pasidalinkite	pasidalinti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-2p--n--ym-
+3	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

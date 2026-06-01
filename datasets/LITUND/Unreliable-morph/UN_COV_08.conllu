@@ -1,0 +1,494 @@
+# newdoc id = UN_COV_08
+# newpar id = UN_COV_08-p1
+# sent_id = UN_COV_08-s1
+# text = Robertas F. Kenedis jaunesnysis: "Fauci turi būti apkaltintas žmogžudyste, nes jis žinojo, kad "Remdesivir" jus nužudys
+1	Robertas	Robertas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+2	F.	F.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	Kenedis	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+4	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsny
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Fauci	Fauci	X	kt.	_	_	_	_	Multext=X-
+8	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	apkaltintas	apkaltinti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+11	žmogžudyste	žmogžudystė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	Remdesivir	Remdesivir	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+20	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+21	jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+22	nužudys	nužudyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+
+# newpar id = UN_COV_08-p2
+# sent_id = UN_COV_08-s2
+# text = Anthony Fauci žinojo, kad naudojant dirbtinės plaučių ventiliacijos aparatus ir duodant "Remdesivir" Covid pacientams, jie masiškai žus ir sumažės pasaulio gyventojų skaičius, teigia kandidatas į prezidentus Robertas F. Kennedy jaunesnysis, kuris pateikė įrodymų, patvirtinančių jo teiginius, kad buvęs NIH vadovas vykdė depopuliacijos vajų.
+1	Anthony	Anthony	PROPN	dkt.tikr.vrd.vyr.	Gender=Masc|NameType=Giv	_	_	_	Multext=Npm--nf
+2	Fauci	Fauci	X	kt.	_	_	_	_	Multext=X-
+3	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	naudojant	naudoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+7	dirbtinės	dirbtinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+8	plaučių	plaučiai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	ventiliacijos	ventiliacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	aparatus	aparatas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	duodant	duoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+13	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	Remdesivir	Remdesivir	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+15	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+16	Covid	Covid	X	kt.	_	_	_	_	Multext=X-
+17	pacientams	pacientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+20	masiškai	masiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	žus	žūti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+22	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	sumažės	sumažėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+24	pasaulio	pasaulis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	gyventojų	gyventojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+26	skaičius	skaičius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+29	kandidatas	kandidatas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+30	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+31	prezidentus	prezidentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+32	Robertas	Robertas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+33	F.	F.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+34	Kennedy	Kennedy	PROPN	dkt.tikr.pvrd.vyr.	Gender=Masc|NameType=Sur	_	_	_	Multext=Npm--ns
+35	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsny
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+38	pateikė	pateikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+39	įrodymų	įrodymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+40	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+41	patvirtinančių	patvirtinti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+42	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+43	teiginius	teiginys	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+44	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+45	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+46	buvęs	būti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+47	NIH	NIH	X	kt.	_	_	_	_	Multext=X-
+48	vadovas	vadovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+49	vykdė	vykdyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+50	depopuliacijos	depopuliacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+51	vajų	vajus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+52	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s3
+# text = Pasak Kenedžio jaunesniojo, Faučis turi būti apkaltintas žmogžudyste ir atsakyti už visas Kovid-19 metu ligoninėse mirusias pacientes, nes žinojo, kad jo patarimai nužudys milijonus žmonių.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	Kenedžio	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+3	jaunesniojo	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsgy
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	Faučis	Faučis	X	kt.	_	_	_	_	Multext=X-
+6	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	apkaltintas	apkaltinti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+9	žmogžudyste	žmogžudystė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	atsakyti	atsakyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	visas	visas	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+14	Kovid-19	Kovid-19	X	kt.	_	_	_	_	Multext=X-
+15	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+16	ligoninėse	ligoninė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+17	mirusias	mirti	VERB	vksm.dlv.veik.būt-k.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannan-p
+18	pacientes	pacientė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+24	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+25	patarimai	patarimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+26	nužudys	nužudyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+27	milijonus	milijonas	NUM	sktv.raid.kiek.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpal-
+28	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s4
+# text = Žiūrėkite:
+1	Žiūrėkite	žiūrėti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-2p--n--nm-
+2	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = UN_COV_08-p3
+# sent_id = UN_COV_08-s5
+# text = Aptardamas, kaip gydyti "Covid" pacientus, Kenedis jaunesnysis sakė: "Jūs norite juos gydyti namuose.
+1	Aptardamas	aptarti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sm-n--n--
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	gydyti	gydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Covid	Covid	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	pacientus	pacientas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	Kenedis	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+11	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsny
+12	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+13	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+14	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Jūs	tu	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+16	norite	norėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp2p--n--ni-
+17	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+18	gydyti	gydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s6
+# text = Duokite jiems dalykų, kurie, kaip žinome, žudo viruso replikaciją.
+1	Duokite	duoti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	Multext=Vgm-2p--n--nm-
+2	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+3	dalykų	dalykas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpnn
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	žinome	žinoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	žudo	žudyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	viruso	virusas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	replikaciją	replikacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s7
+# text = Cinką ir viską, kas padidina cinko kiekį.
+1	Cinką	cinkas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	SpaceAfter=No|Multext=Pg--an
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+6	padidina	padidinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	cinko	cinkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	kiekį	kiekis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s8
+# text = Pavyzdžiui, hidrochlorikviną, ivermektiną ir šimtą kitų dalykų, kurie, kaip žinome, smarkiai sumažina šios ligos plitimą."
+1	Pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	hidrochlorikviną	hidrochlorikviną	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	ivermektiną	ivermektiną	X	kt.	_	_	_	_	Multext=X-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	šimtą	šimtas	NUM	sktv.raid.kiek.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmsal-
+8	kitų	kitas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+9	dalykų	dalykas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpnn
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	žinome	žinoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	smarkiai	smarkiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	sumažina	sumažinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+19	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	plitimą	plitimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+21	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+22	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_COV_08-s9
+# text = Vietoj to Fauci pradėjo taikyti protokolą, kuris buvo skirtas žudyti.
+1	Vietoj	vietoj	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	Fauci	Fauci	X	kt.	_	_	_	_	Multext=X-
+4	pradėjo	pradėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	taikyti	taikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	protokolą	protokolas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+9	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	skirtas	skirti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+11	žudyti	žudyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s10
+# text = "O koks buvo mūsų protokolas?
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	koks	koks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+6	protokolas	protokolas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+7	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = UN_COV_08-s11
+# text = Mūsų protokolas buvo nieko iš to nedaryti, - sakė Kenedis jaunesnysis, - jokio gydymo, kol pateksite į ligoninę.
+1	Mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+2	protokolas	protokolas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+7	nedaryti	nedaryti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----y--n--
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+10	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	Kenedis	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+12	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsny
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	jokio	joks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+16	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kol	kol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	pateksite	patekti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2p--n--ni-
+20	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	ligoninę	ligoninė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s12
+# text = Tada jūsų gydymas yra du dalykai, kurie privalo jus nužudyti.
+1	Tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+3	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	du	du	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+6	dalykai	dalykas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+9	privalo	privalėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+11	nužudyti	nužudyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s13
+# text = Ventiliatoriai ir remdesiviras.
+1	Ventiliatoriai	ventiliatorius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	remdesiviras	remdesiviras	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s14
+# text = O Tonis Faucis žinojo, kad "Remdesivir" jus nužudys."
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	Tonis	Tonis	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+3	Faucis	Faucis	X	kt.	_	_	_	_	Multext=X-
+4	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	Remdesivir	Remdesivir	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+10	jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+11	nužudys	nužudyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+12	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+13	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_COV_08-s15
+# text = Fauci žinojo, kad "Remdesivir" nužudys milijonus žmonių, nes vos prieš dvejus metus jis vadovavo tyrimui, kurio metu nuo jo mirė 54 proc. pacientų.
+1	Fauci	Fauci	X	kt.	_	_	_	_	Multext=X-
+2	žinojo	žinoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Remdesivir	Remdesivir	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+8	nužudys	nužudyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+9	milijonus	milijonas	NUM	sktv.raid.kiek.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpal-
+10	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+14	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	dvejus	du	NUM	sktv.raid.daugin.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	_	_	_	Multext=Mmmpal-
+16	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+18	vadovavo	vadovauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	tyrimui	tyrimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+22	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+23	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+24	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+25	mirė	mirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+26	54	54	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+27	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+28	pacientų	pacientas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s16
+# text = "2019 m. jis bandė jį naudoti Ebolos virusui gydyti ir per penkias gydymo dienas 54 proc. žmonių sukėlė mirtiną šalutinį poveikį.
+1	"2019	"2019	X	kt.	_	_	_	_	Multext=Tu
+2	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	bandė	bandyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	naudoti	naudoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	Ebolos	Ebola	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+8	virusui	virusas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+9	gydyti	gydyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	penkias	penki	NUM	sktv.raid.kiek.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpal-
+13	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	dienas	diena	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+15	54	54	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	sukėlė	sukelti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	mirtiną	mirtinas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+20	šalutinį	šalutinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+21	poveikį	poveikis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s17
+# text = Saugos stebėsenos skyrius nurodė jam nutraukti to vaisto vartojimą.
+1	Saugos	sauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	stebėsenos	stebėsena	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	skyrius	skyrius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	nurodė	nurodyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+6	nutraukti	nutraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	vaisto	vaistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	vartojimą	vartojimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s18
+# text = Ir jis metė netikrą, išgalvotą, absoliučiai nesąžiningą tyrimą, kuriuo manipuliavo ir kurį organizavo, apie tą vaistą.
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	metė	mesti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	netikrą	netikras	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsan
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	išgalvotą	išgalvoti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnan-p
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	absoliučiai	absoliučiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	nesąžiningą	nesąžiningas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+10	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kuriuo	kuris	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+13	manipuliavo	manipuliuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+16	organizavo	organizuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+19	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+20	vaistą	vaistas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s19
+# text = "Tai žmogžudystė".
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	žmogžudystė	žmogžudystė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s20
+# text = Kaip anksčiau aiškino Kenedis jaunesnysis, JAV vyriausybė skyrė pinigines premijas ligoninėms, kurios prijungdavo žmones prie dirbtinio kvėpavimo aparatų ir "Remdesivir" derinių, nepaisant nepaprastai didelio nužudymų skaičiaus.
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+3	aiškino	aiškinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	Kenedis	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+5	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsny
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+8	vyriausybė	vyriausybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	skyrė	skirti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	pinigines	piniginis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+11	premijas	premija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+12	ligoninėms	ligoninė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+15	prijungdavo	prijungti	VERB	vksm.asm.tiesiog.būt-d.3.	Aspect=Hab|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgmq3---n--ni-
+16	žmones	žmogus	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+18	dirbtinio	dirbtinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+19	kvėpavimo	kvėpavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	aparatų	aparatas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+23	Remdesivir	Remdesivir	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+24	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+25	derinių	derinys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	nepaisant	nepaisant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+28	nepaprastai	nepaprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+29	didelio	didelis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+30	nužudymų	nužudymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+31	skaičiaus	skaičius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s21
+# text = "Kaip tai jus nužudo?"
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+4	jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+5	nužudo?	nužudo?	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+6	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_COV_08-s22
+# text = klausė Kenedis jaunesnysis.
+1	klausė	klausti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+2	Kenedis	Kenedis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	jaunesnysis	jaunas	ADJ	bdv.aukšt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsny
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s23
+# text = "Inkstų nepakankamumas, širdies nepakankamumas ir visų organų kolapsas."
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Inkstų	inkstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	nepakankamumas	nepakankamumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	širdies	širdis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	nepakankamumas	nepakankamumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	visų	visas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+9	organų	organas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	kolapsas	kolapsas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+12	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_COV_08-s24
+# text = "Visi gydytojai sakė.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	gydytojai	gydytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s25
+# text = Jūs tai girdėjote vėl ir vėl.
+1	Jūs	tu	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+2	tai	tai	PART	dll.	_	_	_	_	Multext=Qg
+3	girdėjote	girdėti	VERB	vksm.asm.tiesiog.būt-k.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma2p--n--ni-
+4	vėl ir vėl	vėl ir vėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s26
+# text = 'Dar niekada nematėme viruso, kuris puola inkstus'.
+1	'	'	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+3	niekada	niekada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nematėme	nematyti	VERB	vksm.asm.neig.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--y--ni-
+5	viruso	virusas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	puola	pulti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	inkstus'	inkstus'	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_COV_08-s27
+# text = Nes tai buvo ne virusas, o remdesiviras."
+1	Nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+5	virusas	virusas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	remdesiviras	remdesiviras	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+10	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu

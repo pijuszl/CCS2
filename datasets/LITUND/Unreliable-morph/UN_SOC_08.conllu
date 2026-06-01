@@ -1,0 +1,438 @@
+# newdoc id = UN_SOC_08
+# newpar id = UN_SOC_08-p1
+# sent_id = UN_SOC_08-s1
+# text = Jungtinių Tautų dokumentas siūlo dekriminalizuoti pedofiliją
+1	Jungtinių	jungtinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+2	Tautų	tauta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	dokumentas	dokumentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	siūlo	siūlyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	dekriminalizuoti	dekriminalizuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	pedofiliją	pedofilija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+
+# newpar id = UN_SOC_08-p2
+# sent_id = UN_SOC_08-s2
+# text = Pasak Jungtinių Tautų, niekas neturėtų trukdyti nepilnamečiams lytiškai santykiauti su suaugusiaisiais, jei tik abi pusės „sutinka”.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	Jungtinių	jungtinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+3	Tautų	tauta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	niekas	niekas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+6	neturėtų	neturėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+7	trukdyti	trukdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	nepilnamečiams	nepilnametis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+9	lytiškai	lytiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	santykiauti	santykiauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+12	suaugusiaisiais	suaugti	VERB	vksm.dlv.veik.būt-k.įvardž.vyr.dgs.Įn.	Case=Ins|Definite=Def|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmanyin-p
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	abi	abu	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+17	pusės	pusė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+18	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	sutinka	sutikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+20	”	”	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=X-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p3
+# sent_id = UN_SOC_08-s3
+# text = Jungtinių Tautų Tarptautinis teisininkų komitetas (TJK), pagrindinis tarpvyriausybinės organizacijos teisminis organas, pristatė naują pasiūlymų dėl teisinių principų rinkinį.
+1	Jungtinių	jungtinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+2	Tautų	tauta	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	Tarptautinis	tarptautinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+4	teisininkų	teisininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	komitetas	komitetas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	TJK	TJK	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+8	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	pagrindinis	pagrindinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+11	tarpvyriausybinės	tarpvyriausybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+12	organizacijos	organizacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	teisminis	teisminis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+14	organas	organas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	pristatė	pristatyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	naują	naujas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+18	pasiūlymų	pasiūlymas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+19	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+20	teisinių	teisinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+21	principų	principas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+22	rinkinį	rinkinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p4
+# sent_id = UN_SOC_08-s4
+# text = Jei jo rekomendacijos bus įgyvendintos, tikėtina, kad jose bus atsisakyta nuostatų dėl minimalaus amžiaus reikalavimų lytiniams santykiams ir bus atvertas kelias pedofilijos dekriminalizavimui.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	rekomendacijos	rekomendacija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+4	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+5	įgyvendintos	įgyvendinti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-pfpnnnn-p
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	tikėtina	tikėtinas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	jose	jis	PRON	įv.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpln
+11	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+12	atsisakyta	atsisakyti	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-y-p
+13	nuostatų	nuostatai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	minimalaus	minimalus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+16	amžiaus	amžius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	reikalavimų	reikalavimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	lytiniams	lytinis	ADJ	bdv.nelygin.vyr.dgs.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpdn
+19	santykiams	santykis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+22	atvertas	atverti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+23	kelias	kelias	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+24	pedofilijos	pedofilija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	dekriminalizavimui	dekriminalizavimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p5
+# sent_id = UN_SOC_08-s5
+# text = Kovo 8-osios principuose, paskelbtuose Tarptautinę moters dieną, siūloma taikyti žmogaus teisėmis grindžiamą požiūrį į įstatymus, kuriais kriminalizuojamas elgesys, susijęs su lytiniais santykiais, narkotikų vartojimu, lytine ir reprodukcine sveikata, benamyste ir skurdu.
+1	Kovo	kovas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	8-osios	8-osios	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+3	principuose	principas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	paskelbtuose	paskelbti	VERB	vksm.dlv.neveik.būt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnln-p
+6	Tarptautinę	tarptautinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+7	moters	moteris	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	siūloma	siūlyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+11	taikyti	taikyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	žmogaus	žmogus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	teisėmis	teisė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+14	grindžiamą	grįsti	VERB	vksm.dlv.neveik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnan-p
+15	požiūrį	požiūris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+16	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	įstatymus	įstatymas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kuriais	kuris	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+20	kriminalizuojamas	kriminalizuoti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+21	elgesys	elgesys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	susijęs	susyti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+24	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+25	lytiniais	lytinis	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+26	santykiais	santykis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	narkotikų	narkotikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+29	vartojimu	vartojimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	lytine	lytinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+32	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+33	reprodukcine	reprodukcinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+34	sveikata	sveikata	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+35	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+36	benamyste	benamystė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+37	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	skurdu	skurdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p6
+# sent_id = UN_SOC_08-s6
+# text = „Baudžiamoji teisė yra viena iš griežčiausių valstybės turimų priemonių kontroliuoti asmenis…
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Baudžiamoji	bausti	VERB	vksm.dlv.neveik.es.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnynn-p
+3	teisė	teisė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+6	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	griežčiausių	griežtas	ADJ	bdv.aukšč.mot.dgs.K.	Case=Gen|Degree=Sup|Gender=Fem|Number=Plur	_	_	_	Multext=Agsfpgn
+8	valstybės	valstybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	turimų	turėti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+10	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	kontroliuoti	kontroliuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+13	…	…	PUNCT	skyr.	_	_	_	_	Multext=X-
+
+# sent_id = UN_SOC_08-s7
+# text = todėl ji turėtų būti kraštutinė priemonė, tačiau pasaulyje vis dažniau pastebima perteklinio kriminalizavimo tendencija”, – pranešime spaudai aiškina Tarptautinio Teisingumo Teismo Teisės ir politikos direktorius Ianas Seidermanas.
+1	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+4	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	kraštutinė	kraštutinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+6	priemonė	priemonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	pasaulyje	pasaulis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+10	vis	vis	PART	dll.	_	_	_	_	Multext=Qg
+11	dažniau	dažnai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+12	pastebima	pastebėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+13	perteklinio	perteklinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+14	kriminalizavimo	kriminalizavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	tendencija	tendencija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	”	”	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+19	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+20	spaudai	spauda	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+21	aiškina	aiškinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+22	Tarptautinio	tarptautinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+23	Teisingumo	teisingumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	Teismo	teismas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	Teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	politikos	politika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	direktorius	direktorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+29	Ianas	Ianas	X	kt.	_	_	_	_	Multext=X-
+30	Seidermanas	Seidermanas	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p7
+# sent_id = UN_SOC_08-s8
+# text = „Turime pripažinti, kad šie įstatymai pažeidžia ne tik žmogaus teises, bet ir pačius pagrindinius baudžiamosios teisės principus”, – pridūrė jis.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+3	pripažinti	pripažinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	šie	šis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+7	įstatymai	įstatymas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+8	pažeidžia	pažeisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+10	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+11	žmogaus	žmogus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	teises	teisė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+16	pačius	pats	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+17	pagrindinius	pagrindinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+18	baudžiamosios	bausti	VERB	vksm.dlv.neveik.es.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnygn-p
+19	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	principus	principas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+21	”	”	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=X-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+24	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p8
+# sent_id = UN_SOC_08-s9
+# text = ATASKAITOJE NEUŽSIMENAMA APIE TĖVŲ TEISES, TAIP TARSI LEIDŽIANT SUPRASTI, KAD ŠIOJE SRITYJE JŲ VAIDMUO PRIIMANT VAIKO SPRENDIMUS NEEGZISTUOJA
+1	ATASKAITOJE	ataskaita	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+2	NEUŽSIMENAMA	neužsiminti	VERB	vksm.dlv.neig.sngr.neveik.es.bev.	Gender=Neut|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npyn-y-p
+3	APIE	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	TĖVŲ	tėvai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	TEISES	teisė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	TAIP	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	TARSI	tarsi	PART	dll.	_	_	_	_	Multext=Qg
+9	LEIDŽIANT	leisti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+10	SUPRASTI	suprasti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	KAD	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	ŠIOJE	šis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+14	SRITYJE	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+15	JŲ	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+16	VAIDMUO	vaidmuo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+17	PRIIMANT	priimti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+18	VAIKO	vaikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	SPRENDIMUS	sprendimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	NEEGZISTUOJA	neegzistuoti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+
+# newpar id = UN_SOC_08-p9
+# sent_id = UN_SOC_08-s10
+# text = Be to, seksualinis elgesys, kuriame dalyvauja asmenys, jaunesni už šalyje nustatytą minimalų sutikimo lytiškai santykiauti amžių, gali būti savanoriškas faktiškai, jei ne teisiškai.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	seksualinis	seksualinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+4	elgesys	elgesys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+7	dalyvauja	dalyvauti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	jaunesni	jaunas	ADJ	bdv.aukšt.vyr.dgs.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpnn
+11	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	šalyje	šalis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+13	nustatytą	nustatyti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+14	minimalų	minimalus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+15	sutikimo	sutikimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	lytiškai	lytiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	santykiauti	santykiauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	amžių	amžius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+22	savanoriškas	savanoriškas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+23	faktiškai	faktiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+26	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+27	teisiškai	teisiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p10
+# sent_id = UN_SOC_08-s11
+# text = Atsižvelgiant į tai, baudžiamosios teisės vykdymas turėtų atspindėti jaunesnių nei 18 metų asmenų teises ir gebėjimus priimti sprendimus dėl dalyvavimo savanoriškame lytiniame gyvenime ir jų teisę būti išklausytiems sprendžiant su jais susijusius klausimus.
+1	Atsižvelgiant	atsižvelgti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+2	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	baudžiamosios	bausti	VERB	vksm.dlv.neveik.es.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnygn-p
+6	teisės	teisė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	vykdymas	vykdymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+9	atspindėti	atspindėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	jaunesnių	jaunas	ADJ	bdv.aukšt.vyr.dgs.K.	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpgn
+11	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	18	18	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	teises	teisė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	gebėjimus	gebėjimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+18	priimti	priimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+19	sprendimus	sprendimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	dalyvavimo	dalyvavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	savanoriškame	savanoriškas	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+23	lytiniame	lytinis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+24	gyvenime	gyvenimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+27	teisę	teisė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+28	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	išklausytiems	išklausyti	VERB	vksm.dlv.neveik.būt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnndn-p
+30	sprendžiant	spręsti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+31	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+32	jais	jis	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+33	susijusius	susyti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannan-p
+34	klausimus	klausimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+35	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p11
+# sent_id = UN_SOC_08-s12
+# text = Toliau ataskaitoje teigiama, kad ji yra apgaubta neaiškios terminologijos:
+1	Toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	ataskaitoje	ataskaita	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+3	teigiama	teigti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	apgaubta	apgaubti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+9	neaiškios	neaiškus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+10	terminologijos	terminologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = UN_SOC_08-p12
+# sent_id = UN_SOC_08-s13
+# text = [Atsižvelgiant į jų besivystančius gebėjimus ir laipsnišką savarankiškumą, jaunesni nei 18 metų asmenys turėtų dalyvauti priimant su jais susijusius sprendimus, deramai atsižvelgiant į jų amžių, brandą ir geriausius interesus bei ypatingą dėmesį skiriant nediskriminavimo garantijoms.
+1	[	[	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+2	Atsižvelgiant	atsižvelgti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+5	besivystančius	besivystyti	VERB	vksm.dlv.sngr.veik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannay-p
+6	gebėjimus	gebėjimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	laipsnišką	laipsniškas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+9	savarankiškumą	savarankiškumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	jaunesni	jaunas	ADJ	bdv.aukšt.vyr.dgs.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpnn
+12	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	18	18	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+16	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+17	dalyvauti	dalyvauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+18	priimant	priimti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+19	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+20	jais	jis	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+21	susijusius	susyti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannan-p
+22	sprendimus	sprendimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	deramai	deramai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	atsižvelgiant	atsižvelgti	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+26	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+27	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+28	amžių	amžius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	brandą	branda	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+31	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	geriausius	geras	ADJ	bdv.aukšč.vyr.dgs.G.	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpan
+33	interesus	interesas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+34	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+35	ypatingą	ypatingas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+36	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+37	skiriant	skirti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+38	nediskriminavimo	nediskriminavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+39	garantijoms	garantija	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p13
+# sent_id = UN_SOC_08-s14
+# text = Svarbu tai, kad ataskaitoje neužsimenama apie tėvų teises, taip tarsi leidžiant suprasti, kad šioje srityje jų vaidmuo priimant vaiko sprendimus neegzistuoja.
+1	Svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	ataskaitoje	ataskaita	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+6	neužsimenama	neužsiminti	VERB	vksm.dlv.neig.sngr.neveik.es.bev.	Gender=Neut|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npyn-y-p
+7	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	tėvų	tėvai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	teises	teisė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	tarsi	tarsi	PART	dll.	_	_	_	_	Multext=Qg
+13	leidžiant	leisti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+14	suprasti	suprasti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	šioje	šis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+18	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+19	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+20	vaidmuo	vaidmuo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+21	priimant	priimti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+22	vaiko	vaikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	sprendimus	sprendimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+24	neegzistuoja	neegzistuoti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_08-s15
+# text = Be to, joje nenustatytas amžius, nuo kurio vaikas negali duoti sutikimo lytiniams santykiams.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	joje	jis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+4	nenustatytas	nenustatyti	VERB	vksm.dlv.neig.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpynnn-p
+5	amžius	amžius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+9	vaikas	vaikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	negali	negalėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+11	duoti	duoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	sutikimo	sutikimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	lytiniams	lytinis	ADJ	bdv.nelygin.vyr.dgs.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpdn
+14	santykiams	santykis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_08-p14
+# sent_id = UN_SOC_08-s16
+# text = Kartu su kitomis organizacijomis ir institucijomis „Amnesty International” išreiškė paramą visiems ataskaitoje pateiktiems principams.
+1	Kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+3	kitomis	kitas	PRON	įv.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpin
+4	organizacijomis	organizacija	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	institucijomis	institucija	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+7	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	Amnesty	Amnesty	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+9	International	International	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+10	”	”	PUNCT	skyr.	_	_	_	_	Multext=X-
+11	išreiškė	išreikšti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	paramą	parama	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	visiems	visas	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+14	ataskaitoje	ataskaita	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+15	pateiktiems	pateikti	VERB	vksm.dlv.neveik.būt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnndn-p
+16	principams	principas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

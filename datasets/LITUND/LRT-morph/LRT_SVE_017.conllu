@@ -1,0 +1,752 @@
+# newdoc id = LRT_SVE_017
+# newpar id = LRT_SVE_017-p1
+# sent_id = LRT_SVE_017-s1
+# text = Ligonių kasos: kokius kraujo tyrimus gali paskirti šeimos gydytojas?
+1	Ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	kasos	kasa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+3	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+4	kokius	koks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+5	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	paskirti	paskirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SVE_017-p2
+# sent_id = LRT_SVE_017-s2
+# text = Ligonių kasų specialistai pastebi, kad pasitaiko atvejų, kai kraujo tyrimai gydymo įstaigose papildomai apmokestinami neva dėl to, kad reikalingas skubus ištyrimas arba dėl to, kad taikomas brangesnis kraujo paėmimo metodas.
+1	Ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	kasų	kasa	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	specialistai	specialistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	pastebi	pastebėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	pasitaiko	pasitaikyti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+8	atvejų	atvejis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+13	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	įstaigose	įstaiga	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+15	papildomai	papildomai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	apmokestinami	apmokestinti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+17	neva	neva	PART	dll.	_	_	_	_	Multext=Qg
+18	dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	reikalingas	reikalingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+22	skubus	skubus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+23	ištyrimas	ištyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+24	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+28	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+29	brangesnis	brangus	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	Multext=Agcmsnn
+30	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+31	paėmimo	paėmimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	metodas	metodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s3
+# text = Ligonių kasos pabrėžia, kad visais atvejais tiek vaikams, tiek suaugusiesiems už šeimos gydytojo kompetencijai priskirtus kraujo tyrimus mokėti nereikia.
+1	Ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	kasos	kasa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	pabrėžia	pabrėžti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	visais	visas	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+7	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+8	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	vaikams	vaikas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	suaugusiesiems	suaugti	VERB	vksm.dlv.veik.būt-k.įvardž.vyr.dgs.N.	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanydn-p
+13	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	kompetencijai	kompetencija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+17	priskirtus	priskirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnan-p
+18	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	mokėti	mokėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+21	nereikia	nereikėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s4
+# text = Nesvarbu, ar tai būtų planiniai, ar skubūs tyrimai, ir kokiu būdu kraujo mėginiai paimami, rašoma Klaipėdos teritorinės ligonių kasos pranešime žiniasklaidai.
+1	Nesvarbu	nesvarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+5	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+6	planiniai	planinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	skubūs	skubus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+10	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	kokiu	koks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+14	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+15	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	mėginiai	mėginys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+17	paimami	paimti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnnnn-p
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+20	Klaipėdos	Klaipėda	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+21	teritorinės	teritorinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+22	ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	kasos	kasa	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+25	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p3
+# sent_id = LRT_SVE_017-s5
+# text = Kraujo tyrimai privalomuoju sveikatos draudimu apdraustiems pacientams, prisirašiusiems prie sutartį su ligonių kasomis turinčių gydymo įstaigų, yra apmokami Privalomojo sveikatos draudimo fondo (PSDF) lėšomis.
+1	Kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	privalomuoju	privalėti	VERB	vksm.dlv.neveik.es.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnyin-p
+4	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	draudimu	draudimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+6	apdraustiems	apdrausti	VERB	vksm.dlv.neveik.būt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnndn-p
+7	pacientams	pacientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	prisirašiusiems	prisirašyti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmanndy-p
+10	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	sutartį	sutartis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+12	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+13	ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	kasomis	kasa	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+15	turinčių	turėti	VERB	vksm.dlv.veik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfanngn-p
+16	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	apmokami	apmokėti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+21	Privalomojo	privalėti	VERB	vksm.dlv.neveik.es.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnygn-p
+22	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+23	draudimo	draudimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	fondo	fondas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+26	PSDF	PSDF	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+27	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+28	lėšomis	lėšos	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s6
+# text = Todėl, jei tyrimas pacientui reikalingas ir šeimos gydytojas tyrimą skiria, pacientui papildomai tai neturi kainuoti.
+1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+6	reikalingas	reikalingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	skiria	skirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+14	papildomai	papildomai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+16	neturi	neturėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+17	kainuoti	kainuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s7
+# text = Tačiau šeimos gydytojai nemokamai gali paskirti tik tuos tyrimus, kurie jam priklauso pagal kompetenciją (medicinos normą).
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	gydytojai	gydytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	nemokamai	nemokamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	paskirti	paskirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	tuos	tas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+9	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+12	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+13	priklauso	priklausyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	kompetenciją	kompetencija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+16	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+17	medicinos	medicina	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	normą	norma	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+19	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p4
+# sent_id = LRT_SVE_017-s8
+# text = Tuo atveju, kai diagnozei nustatyti arba gydymui paskirti reikia atlikti tyrimus, kurie nepriskirti šeimos gydytojo kompetencijai, jis, vadovaudamasis šeimos gydytojo normos nuostatomis, pacientui gali išduoti siuntimą gydytojo specialisto konsultacijai gauti.
+1	Tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	diagnozei	diagnozė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+6	nustatyti	nustatyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	gydymui	gydymas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+9	paskirti	paskirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+15	nepriskirti	nepriskirti	VERB	vksm.dlv.neig.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpynnn-p
+16	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	kompetencijai	kompetencija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	vadovaudamasis	vadovautis	VERB	vksm.pusd.sngr.vyr.vns.	Gender=Masc|Number=Sing|Reflex=Yes|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--y--
+23	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	normos	norma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+26	nuostatomis	nuostata	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+29	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+30	išduoti	išduoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+31	siuntimą	siuntimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+32	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+33	specialisto	specialistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+34	konsultacijai	konsultacija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+35	gauti	gauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s9
+# text = Tuomet gydytojo specialisto skirti tyrimai gali būti atlikti nemokamai.
+1	Tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	specialisto	specialistas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	skirti	skirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+5	tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	nemokamai	nemokamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p5
+# sent_id = LRT_SVE_017-s10
+# text = Jei pacientas pageidauja, kad šeimos gydytojo kompetencijai nepriskirtas tyrimas būtų atliktas nedelsiant ir nenori kreiptis į gydytoją specialistą dėl reikiamo tyrimo skyrimo, tuomet už šį tyrimą jis turės sumokėti pats.
+1	Jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	pacientas	pacientas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	pageidauja	pageidauti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	kompetencijai	kompetencija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+9	nepriskirtas	nepriskirti	VERB	vksm.dlv.neig.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpynnn-p
+10	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	atliktas	atlikti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+13	nedelsiant	nedelsiant	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	nenori	nenorėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+16	kreiptis	kreiptis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+17	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	gydytoją	gydytojas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	specialistą	specialistas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	reikiamo	reikiamas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+22	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	skyrimo	skyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+26	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+27	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+28	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+29	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+30	turės	turėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+31	sumokėti	sumokėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+32	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s11
+# text = Tarkim, vitamino D tyrimas, jeigu jį paskirtų šeimos gydytojas, būtų mokamas, tačiau tuo atveju, jei pacientui jis yra būtinas ir jį skiria atlikti, pavyzdžiui, gydytojas endokrinologas, jis yra atliekamas nemokamai.
+1	Tarkim	tarkim	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	vitamino	vitaminas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	D	D	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	jeigu	jeigu	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+9	paskirtų	paskirti	VERB	vksm.dlv.neveik.būt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnngn-p
+10	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+14	mokamas	mokėti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-smpnnnn-p
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+18	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+21	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+22	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+23	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	būtinas	būtinas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+27	skiria	skirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+28	atlikti	atlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+33	endokrinologas	endokrinologas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+34	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+35	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+36	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+37	atliekamas	atlikti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+38	nemokamai	nemokamai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p6
+# sent_id = LRT_SVE_017-s12
+# text = Šeimos gydytojas paskiria kraujo tyrimus, kai reikia diagnozuoti šeimos gydytojo kompetencijai priskiriamas ligas, būkles ir sveikatos sutrikimus.
+1	Šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	paskiria	paskirti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	diagnozuoti	diagnozuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	kompetencijai	kompetencija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+13	priskiriamas	priskirti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnan-p
+14	ligas	liga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	būkles	būklė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	sutrikimus	sutrikimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s13
+# text = Tyrimai skiriami ne tik norint pagrįsti diagnozę, bet ir nustatyti ligos eigą, pakoreguoti pradėtą gydymą, įvertinti jo efektyvumą.
+1	Tyrimai	tyrimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	skiriami	skirti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+3	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+4	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+5	norint	norėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+6	pagrįsti	pagrįsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	diagnozę	diagnozė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+11	nustatyti	nustatyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	eigą	eiga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	pakoreguoti	pakoreguoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	pradėtą	pradėti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+17	gydymą	gydymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	įvertinti	įvertinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+21	efektyvumą	efektyvumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p7
+# sent_id = LRT_SVE_017-s14
+# text = Šeimos gydytojas gali paskirti šiuos kraujo tyrimus, reikalingus jo kompetencijai priskiriamoms ligoms, būklėms ir sveikatos sutrikimams diagnozuoti, bei vertinti jų rezultatus:
+1	Šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	paskirti	paskirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	šiuos	šis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+6	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	reikalingus	reikalingas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+10	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+11	kompetencijai	kompetencija	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+12	priskiriamoms	priskirti	VERB	vksm.dlv.neveik.es.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnndn-p
+13	ligoms	liga	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	būklėms	būklė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	sutrikimams	sutrikimas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+19	diagnozuoti	diagnozuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	vertinti	vertinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+23	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+24	rezultatus	rezultatas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+25	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = LRT_SVE_017-p8
+# sent_id = LRT_SVE_017-s15
+# text = bendrą kraujo tyrimą;
+1	bendrą	bendras	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+2	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p9
+# sent_id = LRT_SVE_017-s16
+# text = biocheminius kraujo tyrimus (lipidų apykaitos tyrimą, kalio, natrio, kreatinino, alanininės aminotransferazės, asparagininės aminotransferazės, šarminės fosfatazės, bilirubino, gliukozės, šlapimo rūgšties);
+1	biocheminius	biocheminis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+2	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+4	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+5	lipidų	lipidas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	apykaitos	apykaita	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kalio	kalis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	natrio	natris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kreatinino	kreatininas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	alanininės	alanininis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+16	aminotransferazės	aminotransferazės	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	asparagininės	asparagininės	X	kt.	_	_	_	_	Multext=X-
+19	aminotransferazės	aminotransferazės	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	šarminės	šarminis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+22	fosfatazės	fosfatazė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	bilirubino	bilirubinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	gliukozės	gliukozė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	šlapimo	šlapimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+29	rūgšties	rūgštis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+30	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+31	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p10
+# sent_id = LRT_SVE_017-s17
+# text = skydliaukės funkcijos tyrimą (TTH);
+1	skydliaukės	skydliaukė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	funkcijos	funkcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+5	TTH	TTH	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+6	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+7	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p11
+# sent_id = LRT_SVE_017-s18
+# text = uždegimo rodiklius (CRB ir ENG);
+1	uždegimo	uždegimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	rodiklius	rodiklis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+3	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+4	CRB	CRB	X	kt.	_	_	_	_	Multext=X-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	ENG	ENG	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+8	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p12
+# sent_id = LRT_SVE_017-s19
+# text = gliukozės tolerancijos testą;
+1	gliukozės	gliukozė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	tolerancijos	tolerancija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	testą	testas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p13
+# sent_id = LRT_SVE_017-s20
+# text = prostatos specifinį antigeną pacientams po radikalaus priešinės liaukos vėžio gydymo;
+1	prostatos	prostata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	specifinį	specifinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+3	antigeną	antigenas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	pacientams	pacientas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+5	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	radikalaus	radikalus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+7	priešinės	priešinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+8	liaukos	liauka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	vėžio	vėžys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+11	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p14
+# sent_id = LRT_SVE_017-s21
+# text = natriuretinio peptido tyrimą.
+1	natriuretinio	natriuretinio	X	kt.	_	_	_	_	Multext=X-
+2	peptido	peptidas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p15
+# sent_id = LRT_SVE_017-s22
+# text = Taip pat tam tikrais atvejais šeimos gydytojas gali skirti šiuos kraujo tyrimus:
+1	Taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+2	tam tikrais	tam tikras	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+3	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+4	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	šiuos	šis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+9	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = LRT_SVE_017-p16
+# sent_id = LRT_SVE_017-s23
+# text = kraujo krešumo sistemos būklės įvertinimą pacientui, kuriam paskirtas gydymas geriamaisiais netiesioginio veikimo antikoaguliantais (per kalendorinius metus apmokama iki 12 tyrimų);
+1	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	krešumo	krešumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	sistemos	sistema	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	būklės	būklė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	įvertinimą	įvertinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kuriam	kuris	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+9	paskirtas	paskirti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	geriamaisiais	gerti	VERB	vksm.dlv.neveik.es.įvardž.vyr.dgs.Įn.	Case=Ins|Definite=Def|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnyin-p
+12	netiesioginio	netiesioginis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+13	veikimo	veikimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	antikoaguliantais	antikoaguliantas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+15	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+16	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	kalendorinius	kalendorinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+18	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+19	apmokama	apmokėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+20	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+22	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+23	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+24	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p17
+# sent_id = LRT_SVE_017-s24
+# text = glikozilinto hemoglobino nustatymą pacientui, kuriam pagal sąrašą paskirtas cukrinio diabeto gydymas (per kalendorinius metus apmokama iki 4 tyrimų);
+1	glikozilinto	glikozilinto	X	kt.	_	_	_	_	Multext=X-
+2	hemoglobino	hemoglobinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	nustatymą	nustatymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kuriam	kuris	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+7	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	sąrašą	sąrašas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	paskirtas	paskirti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	cukrinio	cukrinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+11	diabeto	diabetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	gydymas	gydymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+14	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	kalendorinius	kalendorinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+16	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	apmokama	apmokėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+18	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+19	4	4	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+20	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+21	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+22	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p18
+# sent_id = LRT_SVE_017-s25
+# text = kraujo krešumo tyrimus (protrombino laiką, tarptautinį normalizuotą santykį (TNS), aktyvinto dalinio tromboplastino laiką (ADTL));
+1	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	krešumo	krešumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+4	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+5	protrombino	protrombinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	laiką	laikas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tarptautinį	tarptautinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+9	normalizuotą	normalizuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+10	santykį	santykis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+12	TNS	TNS	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+13	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	aktyvinto	aktyvinti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+16	dalinio	dalinys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	tromboplastino	tromboplastinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	laiką	laikas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+20	ADTL	ADTL	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+21	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+22	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+23	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p19
+# sent_id = LRT_SVE_017-s26
+# text = kraujo grupės ir Rh faktoriaus tyrimus;
+1	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	Rh	Rh	X	kt.	_	_	_	_	Multext=X-
+5	faktoriaus	faktorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+7	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p20
+# sent_id = LRT_SVE_017-s27
+# text = sifilio (RPR) ir specifinį (treponeminį) tyrimą su T. pallidum antigenų (TPHA) tyrimu;
+1	sifilio	sifilis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+3	RPR	RPR	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	specifinį	specifinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+7	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+8	treponeminį	treponeminį	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+10	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+12	T.	T.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+13	pallidum	pallidum	X	kt.	_	_	_	_	Multext=X-
+14	antigenų	antigenas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+16	TPHA	TPHA	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+18	tyrimu	tyrimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+19	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+
+# newpar id = LRT_SVE_017-p21
+# sent_id = LRT_SVE_017-s28
+# text = tyrimus dėl virusinio hepatito B ir C.
+1	tyrimus	tyrimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+2	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	virusinio	virusinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+4	hepatito	hepatitas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	B	B	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	C.	C.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+
+# newpar id = LRT_SVE_017-p22
+# sent_id = LRT_SVE_017-s29
+# text = Be to, prieš planinę operaciją šeimos gydytojas gali skirti protrombino laiko (SPA) ir tarptautinio normalizacijos santykio (INR) nustatymo tyrimą; tyrimą, kuriuo nustatomas aktyvinto dalinio tromboplastino laikas (ADTL), taip pat nustatyti kraujo grupę pagal ABO antigenus ir rezus Rh (D) priklausomybės faktorių.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	planinę	planinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+5	operaciją	operacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+6	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	skirti	skirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	protrombino	protrombinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+13	SPA	SPA	NOUN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+14	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	tarptautinio	tarptautinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+17	normalizacijos	normalizacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	santykio	santykis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+20	INR	INR	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+21	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+22	nustatymo	nustatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+23	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+24	;	;	PUNCT	skyr.	_	_	_	_	Multext=Ts
+25	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kuriuo	kuris	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+28	nustatomas	nustatyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+29	aktyvinto	aktyvinti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+30	dalinio	dalinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+31	tromboplastino	tromboplastinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+32	laikas	laikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+33	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+34	ADTL	ADTL	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+35	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+38	nustatyti	nustatyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+39	kraujo	kraujas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+40	grupę	grupė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+41	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+42	ABO	ABO	X	kt.	_	_	_	_	Multext=X-
+43	antigenus	antigenas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+44	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+45	rezus	rezus	NOUN	dkt.vyr.	Gender=Masc	_	_	_	Multext=Ncm--n-
+46	Rh	Rh	X	kt.	_	_	_	_	Multext=X-
+47	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+48	D	D	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+49	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+50	priklausomybės	priklausomybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+51	faktorių	faktorius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+52	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SVE_017-p23
+# sent_id = LRT_SVE_017-s30
+# text = Ligonių kasų specialistai primena, kad kiekvienas iš mūsų turi teisę gauti informaciją iš gydymo įstaigos, į kurią kreipiasi, apie nemokamas ir mokamas paslaugas bei tas, už kurias reikia primokėti iš dalies.
+1	Ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	kasų	kasa	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	specialistai	specialistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	primena	priminti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	kiekvienas	kiekvienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+10	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	teisę	teisė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+12	gauti	gauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	informaciją	informacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+14	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+15	gydymo	gydymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	įstaigos	įstaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+19	kurią	kuris	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+20	kreipiasi	kreiptis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+23	nemokamas	nemokėti	VERB	vksm.dlv.neig.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpynan-p
+24	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	mokamas	mokėti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnan-p
+26	paslaugas	paslauga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+27	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	tas	tas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+31	kurias	kuris	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+32	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+33	primokėti	primokėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+34	iš dalies	iš dalies	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+35	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SVE_017-s31
+# text = Prieš teikiant pacientui brangiau kainuojančią paslaugą, žmogus taip pat privalo būti supažindintas su PSDF lėšomis apmokamos ir brangiau kainuojančios paslaugos kainų skirtumu.
+1	Prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	teikiant	teikti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+3	pacientui	pacientas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+4	brangiau	brangiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+5	kainuojančią	kainuoti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+6	paslaugą	paslauga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+10	privalo	privalėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	supažindintas	supažindinti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+13	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+14	PSDF	PSDF	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+15	lėšomis	lėšos	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+16	apmokamos	apmokėti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+17	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+18	brangiau	brangiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+19	kainuojančios	kainuoti	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfanngn-p
+20	paslaugos	paslauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	kainų	kaina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+22	skirtumu	skirtumas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

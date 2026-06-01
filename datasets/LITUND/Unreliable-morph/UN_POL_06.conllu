@@ -1,0 +1,216 @@
+# newdoc id = UN_POL_06
+# newpar id = UN_POL_06-p1
+# sent_id = UN_POL_06-s1
+# text = JAV naudojo užkrėstas erkes kaip biologinį ginklą?
+1	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	naudojo	naudoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	užkrėstas	užkrėsti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+4	erkes	erkė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+5	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	biologinį	biologinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+7	ginklą	ginklas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+8	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = UN_POL_06-p2
+# sent_id = UN_POL_06-s2
+# text = JAV Atstovų Rūmai paragino Pentagoną ištirti, ar kariuomenė 1950-1975 metais nevykdė eksperimentų su erkėmis kaip biologiniu ginklu.
+1	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Atstovų	atstovas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	Rūmai	rūmai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	paragino	paraginti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	Pentagoną	Pentagonas	PROPN	dkt.tikr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsan-
+6	ištirti	ištirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	kariuomenė	kariuomenė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	1950	1950	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+11	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+12	1975	1975	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+14	nevykdė	nevykdyti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+15	eksperimentų	eksperimentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+16	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+17	erkėmis	erkė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+18	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	biologiniu	biologinis	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsin
+20	ginklu	ginklas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_06-s3
+# text = Gynybos departamento vidaus priežiūros institucija turi išsiaiškinti ar, vykdant biologinio ginklo programas, erkės nebuvo sąmoningai apkrečiamos boreliozės (Laimo ligos) sukėlėjais, sakoma respublikonų pateiktame raginime.
+1	Gynybos	gynyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	departamento	departamentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	vidaus	vidus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	priežiūros	priežiūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	institucija	institucija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+8	ar	ar	CCONJ	jng.	_	_	_	_	SpaceAfter=No|Multext=Cg
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	vykdant	vykdyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+11	biologinio	biologinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+12	ginklo	ginklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	programas	programa	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	erkės	erkė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+16	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+17	sąmoningai	sąmoningai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	apkrečiamos	apkrėsti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+19	boreliozės	boreliozės	X	kt.	_	_	_	_	Multext=X-
+20	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+21	Laimo	Laimas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+22	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+24	sukėlėjais	sukėlėjas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	sakoma	sakyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+27	respublikonų	respublikonas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+28	pateiktame	pateikti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+29	raginime	raginimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_06-p3
+# sent_id = UN_POL_06-s4
+# text = Be to, turi būti ištirta, ar tokios erkės ar kiti vabzdžiai nepateko į aplinką – „netyčia ar sąmoningai“.
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	ištirta	ištirti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	tokios	toks	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+9	erkės	erkė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+10	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	kiti	kitas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+12	vabzdžiai	vabzdys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+13	nepateko	nepatekti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+16	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+17	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	netyčia	netyčia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	sąmoningai	sąmoningai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+21	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_06-p4
+# sent_id = UN_POL_06-s5
+# text = Pentagonas ketvirtadienį kaltinimų detaliai nekomentavo.
+1	Pentagonas	Pentagonas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Npmsnn-
+2	ketvirtadienį	ketvirtadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+3	kaltinimų	kaltinimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	detaliai	detaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	nekomentavo	nekomentuoti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_06-s6
+# text = Kariuomenė, „vykdydama visus eksperimentus, elgiasi labai atsargiai“, kad būtų apsaugotas personalas ir civiliai gyventojai, sakė atstovė Heather Babb.
+1	Kariuomenė	kariuomenė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	vykdydama	vykdyti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sf-n--n--
+5	visus	visas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+6	eksperimentus	eksperimentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	elgiasi	elgtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+9	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	atsargiai	atsargiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+11	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+15	apsaugotas	apsaugoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+16	personalas	personalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	civiliai	civilis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+19	gyventojai	gyventojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	atstovė	atstovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+23	Heather	Heather	X	kt.	_	_	_	_	Multext=X-
+24	Babb	Babb	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_06-p5
+# sent_id = UN_POL_06-s7
+# text = Tyrimu norima išsiaiškinti, ar ir kariškiams tenka atsakomybė dėl staigaus Laimo ligos atvejų padaugėjimo JAV pastaraisiais dešimtmečiais.
+1	Tyrimu	tyrimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+2	norima	norėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	išsiaiškinti	išsiaiškinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	kariškiams	kariškis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+8	tenka	tekti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	atsakomybė	atsakomybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	staigaus	staigus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+12	Laimo	Laimas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+13	ligos	liga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	atvejų	atvejis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	padaugėjimo	padaugėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+17	pastaraisiais	pastaras	ADJ	bdv.nelygin.įvardž.vyr.dgs.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpiy
+18	dešimtmečiais	dešimtmetis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_06-s8
+# text = JAV Ligų kontrolės ir prevencijos centro (CDC) duomenimis, dabar kasmet šia bakterine liga užsikrečia 300 000 žmonių.
+1	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	Ligų	liga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+3	kontrolės	kontrolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	prevencijos	prevencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+8	CDC	CDC	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+10	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	kasmet	kasmet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	šia	šis	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+15	bakterine	bakterinis	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+16	liga	liga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+17	užsikrečia	užsikrėsti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+18	300 000	300 000	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+19	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_06-p6
+# sent_id = UN_POL_06-s9
+# text = Laiku nustačius Laimo ligą, ji išgydoma kelių savaičių antibiotikų kursu.
+1	Laiku	laiku	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nustačius	nustatyti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+3	Laimo	Laimas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+4	ligą	liga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+7	išgydoma	išgydyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+8	kelių	kelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	savaičių	savaitė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	antibiotikų	antibiotikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	kursu	kursas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_06-s10
+# text = Tačiau pacientai ir vėliau gali jausti tokius simptomus, kaip koncentracijos sunkumai, skausmai ir nuovargis.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	pacientai	pacientas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	jausti	jausti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+8	simptomus	simptomas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	koncentracijos	koncentracija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	sunkumai	sunkumas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	skausmai	skausmas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+15	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	nuovargis	nuovargis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

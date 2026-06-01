@@ -1,0 +1,583 @@
+# newdoc id = LRT_UKR_007
+# newpar id = LRT_UKR_007-p1
+# sent_id = LRT_UKR_007-s1
+# text = Su Zelenskiu susitikusi Šimonytė: už tai, kad patys nepatiriame karo baisumų, esame skolingi ukrainiečiams
+1	Su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+2	Zelenskiu	Zelenskis	PROPN	dkt.tikr.pvrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsins
+3	susitikusi	susitikti	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannny-p
+4	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	patys	pats	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+11	nepatiriame	nepatirti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--y--ni-
+12	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	baisumų	baisumas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	esame	būti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+16	skolingi	skolingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+17	ukrainiečiams	ukrainietis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+
+# newpar id = LRT_UKR_007-p2
+# sent_id = LRT_UKR_007-s2
+# text = Ministrė pirmininkė Ingrida Šimonytė trečiadienį Vyriausybės rūmuose susitiko su Lietuvoje viešinčiu Ukrainos prezidentu Volodymyru Zelenskiu, rašoma Vyriausybės pranešime žiniasklaidai.
+1	Ministrė	ministrė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	Ingrida	Ingrida	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+4	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+5	trečiadienį	trečiadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	Vyriausybės	vyriausybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	rūmuose	rūmai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+8	susitiko	susitikti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+9	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+10	Lietuvoje	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+11	viešinčiu	viešėti	VERB	vksm.dlv.veik.es.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannin-p
+12	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+13	prezidentu	prezidentas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+14	Volodymyru	Volodymyras	PROPN	dkt.tikr.vrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsinf
+15	Zelenskiu	Zelenskis	PROPN	dkt.tikr.pvrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsins
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+18	Vyriausybės	vyriausybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+20	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p3
+# sent_id = LRT_UKR_007-s3
+# text = Susitikime taip pat dalyvavo Ukrainos ir Lietuvos užsienio reikalų ministrai Dmytro Kuleba ir Gabrielius Landsbergis.
+1	Susitikime	susitikimas	NOUN	dkt.sngr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsly-
+2	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+3	dalyvavo	dalyvauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+7	užsienio	užsienis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	reikalų	reikalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	ministrai	ministras	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+10	Dmytro	Dmytras	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+11	Kuleba	Kuleba	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	Gabrielius	Gabrielius	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+14	Landsbergis	Landsbergis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p4
+# sent_id = LRT_UKR_007-s4
+# text = Patvirtinusi nepajudinamą Lietuvos paramą Ukrainos kovai su Rusijos agresija iki pergalės ir šalies narystės ES ir NATO siekiams, I. Šimonytė su V. Zelenskiu aptarė situaciją kare, aktualiausius karinės, politinės ir kitokios paramos Ukrainai poreikius, šalies narystės ES ir NATO tikslų įgyvendinimą, sankcijų Rusijai ir jos agresiją remiančiai Baltarusijai įgyvendinimą ir plėtrą bei tarptautinės atsakomybės už agresijos nusikaltimą klausimus.
+1	Patvirtinusi	patvirtinti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannnn-p
+2	nepajudinamą	nepajudinamas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+3	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	paramą	parama	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	kovai	kova	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+7	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+8	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	agresija	agresija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	pergalės	pergalė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	narystės	narystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	NATO	NATO	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+18	siekiams	siekis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	I.	I.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+21	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsnns
+22	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+23	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	Zelenskiu	Zelenskis	PROPN	dkt.tikr.pvrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsins
+25	aptarė	aptarti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+26	situaciją	situacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+27	kare	karas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	aktualiausius	aktualus	ADJ	bdv.aukšč.vyr.dgs.G.	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpan
+30	karinės	karinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsgn
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	politinės	politinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+33	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+34	kitokios	kitoks	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+35	paramos	parama	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+36	Ukrainai	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+37	poreikius	poreikis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+40	narystės	narystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+41	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+42	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+43	NATO	NATO	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+44	tikslų	tikslas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+45	įgyvendinimą	įgyvendinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+46	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+47	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+48	Rusijai	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+49	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+50	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+51	agresiją	agresija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+52	remiančiai	remti	VERB	vksm.dlv.veik.es.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfanndn-p
+53	Baltarusijai	Baltarusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+54	įgyvendinimą	įgyvendinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+55	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+56	plėtrą	plėtra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+57	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+58	tarptautinės	tarptautinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+59	atsakomybės	atsakomybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+60	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+61	agresijos	agresija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+62	nusikaltimą	nusikaltimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+63	klausimus	klausimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+64	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p5
+# sent_id = LRT_UKR_007-s5
+# text = „Džiugu pasveikinti Jus čia, Lietuvoje, kurioje visuomet buvo ir tebėra puikiai suprantami tiek Rusijos imperiniai siekiai, tiek Ukrainos kovos už jūsų ir mūsų visų laisvę reikšmė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Džiugu	Džiugas	PROPN	dkt.tikr.vrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsinf
+3	pasveikinti	pasveikinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	Jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur	_	_	_	Multext=Pg-pan
+5	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	Lietuvoje	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurioje	kuris	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+10	visuomet	visuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	tebėra	tebebūti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	puikiai	puikiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	suprantami	suprasti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+16	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+18	imperiniai	imperinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+19	siekiai	siekis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+23	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+25	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+26	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+28	visų	visas	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+29	laisvę	laisvė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+30	reikšmė	reikšmė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s6
+# text = Nuo pat pirmųjų Rusijos invazijos dienų Ukraina savo valia ir gebėjimu gintis pranoko skeptikų lūkesčius, ir neabejoju, kad taip bus ir toliau.
+1	Nuo pat	nuo pat	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	pirmųjų	pirmas	ADJ	sktv.raid.kelint.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	_	_	_	Multext=Mompgly
+3	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	invazijos	invazija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+5	dienų	diena	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+6	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+7	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	valia	valia	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	gebėjimu	gebėjimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+11	gintis	gintis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	pranoko	pranokti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	skeptikų	skeptikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+14	lūkesčius	lūkestis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	neabejoju	neabejoti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--y--ni-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+22	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+23	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s7
+# text = Ukraina turi ir gali laimėti – ir ji laimės.
+1	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	laimėti	laimėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+9	laimės	laimė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s8
+# text = Lietuva darys viską, kas mūsų galioje, kad jūsų šalis kuo greičiau apgintų savo laisvę ir suverenitetą bei susigrąžintų kiekvieną kvadratinį metrą agresoriaus neteisėtai okupuotos ar aneksuotos Ukrainos teritorijos.
+1	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	darys	daryti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+3	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	SpaceAfter=No|Multext=Pg--an
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+6	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+7	galioje	galia	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+11	šalis	šalis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+13	greičiau	greitai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+14	apgintų	apginti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+15	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+16	laisvę	laisvė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	suverenitetą	suverenitetas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	susigrąžintų	susigrąžinti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+21	kiekvieną	kiekvienas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+22	kvadratinį	kvadratinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+23	metrą	metras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+24	agresoriaus	agresorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	neteisėtai	neteisėtai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+26	okupuotos	okupuoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+27	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	aneksuotos	aneksuoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+29	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+30	teritorijos	teritorija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s9
+# text = Tik Ukrainos pergalė gali užtikrinti teisingą ir tvarią taiką mūsų bendruose namuose, Europoje“, – sakė premjerė I. Šimonytė.
+1	Tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	pergalė	pergalė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	užtikrinti	užtikrinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	teisingą	teisingas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	tvarią	tvarus	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+9	taiką	taika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+11	bendruose	bendras	ADJ	bdv.nelygin.vyr.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpln
+12	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	Europoje	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+15	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+18	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	premjerė	premjerė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+20	I.	I.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+21	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p6
+# sent_id = LRT_UKR_007-s10
+# text = Lietuva ir toliau sieks maksimaliai atliepti būtiniausius Ukrainos karinius, humanitarinius, ekonominius, civilinės infrastruktūros atstatymo ir kitus poreikius ir ragins tai daryti ir sąjungininkus, pridūrė Vyriausybės vadovė.
+1	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	sieks	siekti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+5	maksimaliai	maksimaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	atliepti	atliepti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	būtiniausius	būtinas	ADJ	bdv.aukšč.vyr.dgs.G.	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Multext=Agsmpan
+8	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	karinius	karinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpan
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	humanitarinius	humanitarinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpan
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	ekonominius	ekonominis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpan
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	civilinės	civilinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+16	infrastruktūros	infrastruktūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	atstatymo	atstatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+20	poreikius	poreikis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	ragins	raginti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+23	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+24	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+25	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+26	sąjungininkus	sąjungininkas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+29	Vyriausybės	vyriausybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+30	vadovė	vadovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s11
+# text = Karinės paramos efektyvumas, greitis ir atitikimas Ukrainos poreikiams turi užtikrinti, kad Ukraina būtų pajėgi ne tik kuo greičiau apsiginti nuo Rusijos agresijos dabar, bet ir atgrasyti nuo šios agresijos ateityje.
+1	Karinės	karinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+2	paramos	parama	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	efektyvumas	efektyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	greitis	greitis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	atitikimas	atitikimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	poreikiams	poreikis	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+10	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	užtikrinti	užtikrinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+15	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+16	pajėgi	pajėgus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+17	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+18	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+19	kuo	kuo	PART	dll.	_	_	_	_	Multext=Qg
+20	greičiau	greitai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+21	apsiginti	apsiginti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+22	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+23	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+24	agresijos	agresija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+29	atgrasyti	atgrasyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+30	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+31	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+32	agresijos	agresija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+33	ateityje	ateitis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p7
+# sent_id = LRT_UKR_007-s12
+# text = Ministrė pirmininkė kartu pažymėjo, kad Lietuva niekuomet nepritars bandymams spausti Ukrainą derėtis su agresore Rusija jos primetamomis sąlygomis.
+1	Ministrė	ministrė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+2	pirmininkė	pirmininkė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	pažymėjo	pažymėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+8	niekuomet	niekuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	nepritars	nepritarti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---y--ni-
+10	bandymams	bandymas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+11	spausti	spausti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+13	derėtis	derėtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+14	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+15	agresore	agresorė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+16	Rusija	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+17	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+18	primetamomis	primesti	VERB	vksm.dlv.neveik.es.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnin-p
+19	sąlygomis	sąlyga	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p8
+# sent_id = LRT_UKR_007-s13
+# text = I. Šimonytės ir V. Zelenskio susitikime aptarta karo eiga ir situacija fronte, taip pat – Ukrainos europinės ir euroatlantinės integracijos eiga.
+1	I.	I.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Šimonytės	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	Multext=Npfsgns
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	V.	V.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+5	Zelenskio	Zelenskis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+6	susitikime	susitikimas	NOUN	dkt.sngr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsly-
+7	aptarta	aptarti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+8	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	eiga	eiga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	situacija	situacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+12	fronte	frontas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+15	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+16	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+17	europinės	europinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	euroatlantinės	euroatlantinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+20	integracijos	integracija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+21	eiga	eiga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p9
+# sent_id = LRT_UKR_007-s14
+# text = Premjerės teigimu, be Ukrainos narystės ES nėra baigtas taikios ir klestinčios Europos projektas, o taip pat negalime kalbėti apie Europos ir transatlantinį saugumą be Ukrainos narystės NATO.
+1	Premjerės	premjerė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	teigimu	teigimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	be	be	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	narystės	narystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+8	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+9	baigtas	baigti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+10	taikios	taikus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+11	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	klestinčios	klestėti	VERB	vksm.dlv.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannnn-p
+13	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+14	projektas	projektas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+18	negalime	negalėti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--y--ni-
+19	kalbėti	kalbėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+22	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	transatlantinį	transatlantinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+24	saugumą	saugumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+25	be	be	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+27	narystės	narystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+28	NATO	NATO	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_007-s15
+# text = Ne tik ypatingos pagarbos, bet ir nuoširdaus susižavėjimo verta tai, kokios pažangos narystei būtinų reformų darbotvarkėse Ukraina sugeba pasiekti, net ir karo sąlygomis, pridūrė I. Šimonytė.
+1	Ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+2	tik	tik	PART	dll.	_	_	_	_	Multext=Qg
+3	ypatingos	ypatingas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+4	pagarbos	pagarba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+8	nuoširdaus	nuoširdus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+9	susižavėjimo	susižavėjimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+10	verta	vertas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+11	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kokios	koks	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+14	pažangos	pažanga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	narystei	narystė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+16	būtinų	būtinas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+17	reformų	reforma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	darbotvarkėse	darbotvarkė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+19	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+20	sugeba	sugebėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	pasiekti	pasiekti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	net	net	PART	dll.	_	_	_	_	Multext=Qg
+24	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+25	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	sąlygomis	sąlyga	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+29	I.	I.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+30	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p10
+# sent_id = LRT_UKR_007-s16
+# text = „Esame pasiruošę su Ukraina dalytis Lietuvos patirtimi derybose dėl narystės ES, toliau padėti stiprinant administracinius pajėgumus ir įgyvendinant reformas, kartu identifikuoti galimus iššūkius ir padėti juos spręsti, nes jūsų sėkmė bus ir mūsų, o taip pat ir bendro Europos projekto sėkme“, – sakė premjerė.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Esame	būti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+3	pasiruošę	pasiruošti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannny-p
+4	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+5	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Įn.	Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsing
+6	dalytis	dalytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+7	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+8	patirtimi	patirtis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+9	derybose	derybos	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+10	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	narystės	narystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	ES	ES	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+15	padėti	padėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	stiprinant	stiprinti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+17	administracinius	administracinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+18	pajėgumus	pajėgumas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	įgyvendinant	įgyvendinti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+21	reformas	reforma	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	identifikuoti	identifikuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+25	galimus	galėti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+26	iššūkius	iššūkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+27	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+28	padėti	padėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+29	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+30	spręsti	spręsti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+33	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+34	sėkmė	sėkmė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+35	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+36	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+37	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pg-pgn
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+40	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+41	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+42	bendro	bendras	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+43	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+44	projekto	projektas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+45	sėkme	sėkmė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+46	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+47	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+48	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+49	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+50	premjerė	premjerė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+51	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p11
+# sent_id = LRT_UKR_007-s17
+# text = Susitikime akcentuota būtinybė ir toliau didinti spaudimą sankcijomis Rusijai ir jos bendrininkams, esamų sankcijų efektyvaus įgyvendinimo stiprinimas, įšaldyto ir imobilizuoto Rusijos turto panaudojimo Ukrainos atstatymui klausimas.
+1	Susitikime	susitikimas	NOUN	dkt.sngr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsly-
+2	akcentuota	akcentuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+3	būtinybė	būtinybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+6	didinti	didinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	spaudimą	spaudimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+8	sankcijomis	sankcija	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+9	Rusijai	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+12	bendrininkams	bendrininkas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	esamų	būti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnngn-p
+15	sankcijų	sankcija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	efektyvaus	efektyvus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+17	įgyvendinimo	įgyvendinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	stiprinimas	stiprinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	įšaldyto	įšaldyti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+21	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	imobilizuoto	imobilizuoti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnngn-p
+23	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+24	turto	turtas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	panaudojimo	panaudojimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+27	atstatymui	atstatymas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+28	klausimas	klausimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_007-p12
+# sent_id = LRT_UKR_007-s18
+# text = Lietuva ir toliau sieks, kad visi atsakingi už agresijos nusikaltimą prieš Ukrainą ir kitus karo nusikaltimus bei nusikaltimus žmogiškumui, įvykdytus ir tebevykdomus prieš Ukrainą, būtų patraukti atsakomybėn, pridūrė I. Šimonytė.
+1	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	sieks	siekti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+8	atsakingi	atsakingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+9	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	agresijos	agresija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	nusikaltimą	nusikaltimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+12	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+16	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	nusikaltimus	nusikaltimas	NOUN	dkt.sngr.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes	_	_	_	Multext=Ncmpay-
+18	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	nusikaltimus	nusikaltimas	NOUN	dkt.sngr.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes	_	_	_	Multext=Ncmpay-
+20	žmogiškumui	žmogiškumas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	įvykdytus	įvykdyti	VERB	vksm.dlv.neveik.būt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnan-p
+23	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+24	tebevykdomus	tebevykdyti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+25	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+26	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+29	patraukti	patraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+30	atsakomybėn	atsakomybė	NOUN	dkt.mot.vns.Il.	Case=Ill|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsxn-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+33	I.	I.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+34	Šimonytė	Šimonytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnns
+35	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

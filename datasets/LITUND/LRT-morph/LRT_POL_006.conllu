@@ -1,0 +1,820 @@
+# newdoc id = LRT_POL_006
+# newpar id = LRT_POL_006-p1
+# sent_id = LRT_POL_006-s1
+# text = Ieškiniai Stepukoniui viršys 30 mln. eurų, Gustainis žada tyrimo išvadas vasarį
+1	Ieškiniai	ieškinys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	Stepukoniui	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+3	viršys	viršyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+4	30	30	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+9	žada	žadėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	išvadas	išvada	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+12	vasarį	vasaris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+
+# newpar id = LRT_POL_006-p2
+# sent_id = LRT_POL_006-s2
+# text = „BaltCap“ toliau vykdomas tyrimas dėl Šarūno Stepukonio pasisavintų milijonų, per vasarį turėtų būti gautos išvados, LRT TELEVIZIJOS laidoje „Svarbi valanda“ sako bendrovei vadovaujantis partneris Simonas Gustainis.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	BaltCap	BaltCap	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+4	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+5	vykdomas	vykdyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+6	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	Šarūno	Šarūnas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+9	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+10	pasisavintų	pasisavinti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+11	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	SpaceAfter=No|Multext=Mcmpgl-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	vasarį	vasaris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+15	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+16	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+17	gautos	gauti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+18	išvados	išvada	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	LRT	LRT	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+21	TELEVIZIJOS	televizija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+22	laidoje	laida	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+23	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+24	Svarbi	svarbus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+25	valanda	valanda	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+26	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+27	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+28	bendrovei	bendrovė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+29	vadovaujantis	vadovauti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+30	partneris	partneris	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+31	Simonas	Simonas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+32	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p3
+# sent_id = LRT_POL_006-s3
+# text = „Tyrimas tebevyksta ir mes artėjame link pabaigos, bet jis dar nėra baigtas.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	tebevyksta	tebevykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+6	artėjame	artėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+7	link	link	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	pabaigos	pabaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+12	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+13	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+14	baigtas	baigti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s4
+# text = <...> Vasarį turėtume turėti išvadas“, – teigia S. Gustainis.
+1	<	<	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Xh
+2	...	...	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Ti
+3	>	>	SYM	simb.	_	_	_	_	Multext=Xh
+4	Vasarį	Vasaris	PROPN	dkt.tikr.vrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsanf
+5	turėtume	turėti	VERB	vksm.asm.tar.dgs.1.	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	_	_	_	Multext=Vgm-1p--n--ns-
+6	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	išvadas	išvada	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+8	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+13	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p4
+# sent_id = LRT_POL_006-s5
+# text = Jis papildė, kad per dešimtmečius trunkančią įmonės veiklą toks pinigų pasisavinimo atvejis – išskirtinio masto.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	papildė	papildyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	dešimtmečius	dešimtmetis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	trunkančią	trukti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+8	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	veiklą	veikla	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	toks	toks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+11	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	pasisavinimo	pasisavinimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsgy-
+13	atvejis	atvejis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+14	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	išskirtinio	išskirtinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+16	masto	mastas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p5
+# sent_id = LRT_POL_006-s6
+# text = „Šiame versle esame jau beveik 30 metų.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Šiame	šis	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+3	versle	verslas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+4	esame	būti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+5	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	beveik	beveik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	30	30	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s7
+# text = Esame padarę virš 100 investicijų ir tokiu atveju susiduriame pirmą kartą.
+1	Esame	būti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+2	padarę	padaryti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannnn-p
+3	virš	virš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	100	100	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	investicijų	investicija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+8	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+9	susiduriame	susidurti	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--yi-
+10	pirmą	pirmas	ADJ	sktv.raid.kelint.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsaln
+11	kartą	kartas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s8
+# text = Natūraliai turime apsaugos, kontrolės sistemas.
+1	Natūraliai	natūraliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+3	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kontrolės	kontrolė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	sistemas	sistema	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p6
+# sent_id = LRT_POL_006-s9
+# text = Tačiau lygiai taip pat ką matome, kad kai žmogus yra nusiteikęs daryti nusikaltimą ir negalvoja apie pasekmes, yra ypač sunku su esama sistema tą sustabdyti“, – kalba S. Gustainis.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	lygiai	lygiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+4	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+5	matome	matyti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	žmogus	žmogus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	nusiteikęs	nusiteikti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannny-p
+12	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	nusikaltimą	nusikaltimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	negalvoja	negalvoti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+16	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	pasekmes	pasekmė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+20	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+22	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+23	esama	būti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+24	sistema	sistema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+25	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+26	sustabdyti	sustabdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+27	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+30	kalba	kalbėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+31	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+32	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p7
+# sent_id = LRT_POL_006-s10
+# text = „BaltCap“ bendrovėje Š. Stepukonis vadovavo kelioms įmonėms.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	BaltCap	BaltCap	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+4	bendrovėje	bendrovė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+5	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+7	vadovavo	vadovauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	kelioms	keli	PRON	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpdn
+9	įmonėms	įmonė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpdn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p8
+# sent_id = LRT_POL_006-s11
+# text = „Š.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+
+# sent_id = LRT_POL_006-s12
+# text = Stepukonis buvo vadovas kelių portfelio įmonių viename iš mūsų 8 fondų.
+1	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	vadovas	vadovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	kelių	kelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	portfelio	portfelis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	viename	vienas	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+8	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+10	8	8	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	fondų	fondas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s13
+# text = Iš to, ką matome, iš tų įmonių buvo lėšos pasiimtos“, – nurodo S. Gustainis.
+1	Iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	ką	kas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+5	matome	matyti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	tų	tas	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+9	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	lėšos	lėšos	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+12	pasiimtos	pasiimti	VERB	vksm.dlv.sngr.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-pfpnnny-p
+13	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+16	nurodo	nurodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+18	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p9
+# sent_id = LRT_POL_006-s14
+# text = Anot jo, kai pinigų pervedimo schemos buvo pastebėtos, Š. Stepukonis iš pareigų atleistas.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	pervedimo	pervedimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	schemos	schema	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+8	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	pastebėtos	pastebėti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-pfpnnnn-p
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+13	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+14	pareigų	pareigos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+15	atleistas	atleisti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p10
+# sent_id = LRT_POL_006-s15
+# text = „Pamatėme dokumentus, neatitikimų, pradėjome diskusijas ir pamatėme tuo metu, kad jau pakanka priežasčių su juo atsisveikinti, o po to tęsėme tyrimą.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Pamatėme	pamatyti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+3	dokumentus	dokumentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	neatitikimų	neatitikimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	pradėjome	pradėti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+8	diskusijas	diskusija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	pamatėme	pamatyti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+11	tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+12	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	pakanka	pakakti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	priežasčių	priežastis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+19	juo	jis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+20	atsisveikinti	atsisveikinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+23	po to	po to	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+24	tęsėme	tęsti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+25	tyrimą	tyrimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s16
+# text = <...> Kai kurie iš pavedimų nuėjo ten ne ten, kur mums atrodė, turi nueiti“, – komentuoja pašnekovas.
+1	<	<	SYM	simb.	_	_	_	_	SpaceAfter=No|Multext=Xh
+2	...	...	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Ti
+3	>	>	SYM	simb.	_	_	_	_	Multext=Xh
+4	Kai kurie	kai kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+5	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	pavedimų	pavedimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	nuėjo	nueiti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	ten	ten	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+10	ten	ten	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur	_	_	_	Multext=Pg-pdn
+14	atrodė	atrodyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	nueiti	nueiti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+18	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	komentuoja	komentuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+22	pašnekovas	pašnekovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p11
+# sent_id = LRT_POL_006-s17
+# text = Paklaustas, kaip reagavo Š. Stepukonis, kai išaiškėjo jo vykdyti nelegalūs veiksmai, S. Gustainis atsakė: „Tai buvo jo klaidos.“
+1	Paklaustas	paklausti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpnnnn-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	reagavo	reaguoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+6	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	išaiškėjo	išaiškėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+10	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+11	vykdyti	vykdyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	nelegalūs	nelegalus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+13	veiksmai	veiksmas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+16	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+17	atsakė	atsakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+18	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+19	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+20	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+21	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+23	klaidos	klaida	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+24	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+25	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# newpar id = LRT_POL_006-p12
+# sent_id = LRT_POL_006-s18
+# text = Tyrimo metu bus nustatyta, ar įmanoma atgauti dalį pasisavintų lėšų.
+1	Tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+4	nustatyta	nustatyti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	įmanoma	įmanomas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+8	atgauti	atgauti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	dalį	dalis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+10	pasisavintų	pasisavinti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+11	lėšų	lėšos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s19
+# text = „Dalis pinigų ten, kur jie nukeliavo, mums dar reikia suprasti, ar jie yra atsiimami iš ten“, – teigia S. Gustainis.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Dalis	dalis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	ten	ten	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+8	nukeliavo	nukeliauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur	_	_	_	Multext=Pg-pdn
+11	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+12	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	suprasti	suprasti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+17	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+18	atsiimami	atsiimti	VERB	vksm.dlv.sngr.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnny-p
+19	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+20	ten	ten	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+21	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+24	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+26	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s20
+# text = Jis įsitikinęs, kad pasisavintų lėšų suma tik augs.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	įsitikinęs	įsitikinti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-smannny-p
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	pasisavintų	pasisavinti	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ys-
+6	lėšų	lėšos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	suma	suma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	augs	augti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p13
+# sent_id = LRT_POL_006-s21
+# text = „Ieškinių suma tikrai viršys 30 mln. eurų“, – tikina „BaltCap“ vadovaujantis partneris.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Ieškinių	ieškinys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	suma	suma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	viršys	viršyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+6	30	30	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+9	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+12	tikina	tikinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+14	BaltCap	BaltCap	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+15	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+16	vadovaujantis	vadovauti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+17	partneris	partneris	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p14
+# sent_id = LRT_POL_006-s22
+# text = Į kokias šalis tiksliai buvo pervesti pinigai, S. Gustainis neįvardijo.
+1	Į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	kokias	koks	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+3	šalis	šalis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+4	tiksliai	tiksliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	pervesti	pervesti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	pinigai	pinigas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+10	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+11	neįvardijo	neįvardyti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---y--ni-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s23
+# text = Anot jo, tokia informacija nurodyta ieškiniuose.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tokia	toks	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+5	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	nurodyta	nurodyti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+7	ieškiniuose	ieškinys	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p15
+# sent_id = LRT_POL_006-s24
+# text = „BaltCap“ valdomus fondus sudaro 237 juridiniai vienetai.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	BaltCap	BaltCap	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+4	valdomus	valdyti	VERB	vksm.dlv.neveik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnan-p
+5	fondus	fondas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+6	sudaro	sudaryti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	237	237	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	juridiniai	juridinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+9	vienetai	vienetas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s25
+# text = Visos įmonės turi buhalterius, įstatymo tvarka atlieka auditus, teigia S. Gustainis.
+1	Visos	visas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+2	įmonės	įmonė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	buhalterius	buhalteris	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	įstatymo	įstatymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	tvarka	tvarka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	atlieka	atlikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+9	auditus	auditas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	S.	S.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+13	Gustainis	Gustainis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p16
+# sent_id = LRT_POL_006-s26
+# text = Tuo metu antradienį eina penkta diena, kai paskelbta Š. Stepukonio paieška.
+1	Tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	antradienį	antradienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+4	eina	eiti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	penkta	penktas	ADJ	sktv.raid.kelint.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Mofsnln
+6	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	paskelbta	paskelbti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+10	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+11	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+12	paieška	paieška	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s27
+# text = Anksčiau generalinės prokuratūros tarptautinių ryšių ir teisinės pagalbos skyriui vadovavęs advokatas Rolandas Tilindis sako, kad jei informacija apie tai, kad Š. Stepukonis yra Ukrainoje teisinga – jo paieškai ir išdavimui užtenka dviejų tarptautinių sutarčių.
+1	Anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	generalinės	generalinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+3	prokuratūros	prokuratūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	tarptautinių	tarptautinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+5	ryšių	ryšys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	teisinės	teisinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+8	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	skyriui	skyrius	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+10	vadovavęs	vadovauti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+11	advokatas	advokatas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	Rolandas	Rolandas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+13	Tilindis	Tilindis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+14	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+19	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+25	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+26	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+27	teisinga	teisingas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+28	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+29	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+30	paieškai	paieška	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+31	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	išdavimui	išdavimas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+33	užtenka	užtekti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+34	dviejų	du	NUM	sktv.raid.kiek.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpgl-
+35	tarptautinių	tarptautinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+36	sutarčių	sutartis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+37	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p17
+# sent_id = LRT_POL_006-s28
+# text = Ukraina yra prisijungusi prie Europos tarybos konvencijos dėl ekstradicijos, dvišalę sutartį su Ukraina dėl teisinės pagalbos turi ir Lietuva.
+1	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsnng
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	prisijungusi	prisijungti	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-sfannny-p
+4	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+6	tarybos	taryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	konvencijos	konvencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	ekstradicijos	ekstradicija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	dvišalę	dvišalis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+12	sutartį	sutartis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+14	Ukraina	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Įn.	Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsing
+15	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+16	teisinės	teisinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+17	pagalbos	pagalba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	Lietuva	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnng
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p18
+# sent_id = LRT_POL_006-s29
+# text = „Vykdant asmenų paiešką dalinai taikomi ir kriminalinės žvalgybos veiksmai.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Vykdant	vykdyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+3	asmenų	asmuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	paiešką	paieška	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	dalinai	dalinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	taikomi	taikyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	kriminalinės	kriminalinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+9	žvalgybos	žvalgyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	veiksmai	veiksmas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s30
+# text = Veiksmų arsenalas nepaprastai platus.
+1	Veiksmų	veiksmas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	arsenalas	arsenalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	nepaprastai	nepaprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	platus	platus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s31
+# text = Galėčiau pasakyti, tiek, kiek leidžia pareigūnų fantazija ir galimybės, – visi veiksmai įmanomi“, – komentuoja R. Tilindis.
+1	Galėčiau	galėti	VERB	vksm.asm.tar.vns.1.	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	_	_	_	Multext=Vgm-1s--n--ns-
+2	pasakyti	pasakyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kiek	kiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	leidžia	leisti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	pareigūnų	pareigūnas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	fantazija	fantazija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	galimybės	galimybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+15	veiksmai	veiksmas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+16	įmanomi	įmanomas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+20	komentuoja	komentuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	R.	R.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+22	Tilindis	Tilindis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p19
+# sent_id = LRT_POL_006-s32
+# text = Anot jo, Ukrainoje, nepaisant karo, teisėsaugos institucijos sėkmingai funkcionuoja.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	nepaisant	nepaisant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	teisėsaugos	teisėsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	institucijos	institucija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+11	sėkmingai	sėkmingai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	funkcionuoja	funkcionuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s33
+# text = „Nėra jokių kliūčių tam, kad Ukrainos pareigūnai bendradarbiautų su kitomis valstybėmis, įskaitant ir Lietuvą“, – sako jis.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+3	jokių	joks	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpgn
+4	kliūčių	kliūtis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	tam	tam	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	pareigūnai	pareigūnas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+10	bendradarbiautų	bendradarbiauti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+11	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+12	kitomis	kitas	PRON	įv.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpin
+13	valstybėmis	valstybė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpin-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+16	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+17	Lietuvą	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+18	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+22	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p20
+# sent_id = LRT_POL_006-s34
+# text = Europos prokuratūra praėjusį penktadienį pranešė, kad Š. Stepukonis, kurio buvimo vieta šiuo metu nėra žinoma, pripažintas įtariamuoju dėl ne mažiau kaip 27 mln. eurų pasisavinimo.
+1	Europos	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+2	prokuratūra	prokuratūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	praėjusį	praeiti	VERB	vksm.dlv.veik.būt-k.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannan-p
+4	penktadienį	penktadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+5	pranešė	pranešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	Stepukonis	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+12	buvimo	buvimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+14	šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+15	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+16	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+17	žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	pripažintas	pripažinti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+20	įtariamuoju	įtarti	VERB	vksm.dlv.neveik.es.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnyin-p
+21	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+22	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+23	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+24	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	27	27	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+26	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+27	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+28	pasisavinimo	pasisavinimas	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsgy-
+29	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_POL_006-s35
+# text = Paskelbta tarptautinė jo paieška.
+1	Paskelbta	paskelbti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+2	tarptautinė	tarptautinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+3	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+4	paieška	paieška	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p21
+# sent_id = LRT_POL_006-s36
+# text = Trys „BaltCap Infrastructure Fund“ valdomos įmonės teismui yra pateikusios ieškinį Š. Stepukoniui, bendrovei „Olympic Casino Group Baltija“ bei jos akcininkei Estijos „OB Holding 1“ dėl 16,6 mln. eurų vertės elektroninių pinigų, esančių Š. Stepukonio ir lošimo įmonių „Payseros“ sąskaitose arba Š. Stepukonio sąskaitose lošimų bendrovėse, grąžinimo.
+1	Trys	trys	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	BaltCap	BaltCap	X	kt.	_	_	_	_	Multext=X-
+4	Infrastructure	Infrastructure	X	kt.	_	_	_	_	Multext=X-
+5	Fund	Fund	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+6	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+7	valdomos	valdyti	VERB	vksm.dlv.neveik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnngn-p
+8	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	teismui	teismas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+10	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	pateikusios	pateikti	VERB	vksm.dlv.veik.būt-k.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfannnn-p
+12	ieškinį	ieškinys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+14	Stepukoniui	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsdns
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	bendrovei	bendrovė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+17	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	Olympic	Olympic	X	kt.	_	_	_	_	Multext=X-
+19	Casino	Casino	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+20	Group	Group	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+21	Baltija	Baltija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnng
+22	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+23	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+24	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+25	akcininkei	akcininkė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+26	Estijos	Estija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+27	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	OB	OB	X	kt.	_	_	_	_	Multext=X-
+29	Holding	Holding	X	kt.	_	_	_	_	Multext=X-
+30	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+31	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+32	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+33	16,6	16,6	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+34	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+35	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+36	vertės	vertė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+37	elektroninių	elektroninis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+38	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+39	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+40	esančių	būti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmanngn-p
+41	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+42	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+43	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+44	lošimo	lošimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+45	įmonių	įmonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+46	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+47	Payseros	Paysera	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgn-
+48	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+49	sąskaitose	sąskaita	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+50	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+51	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+52	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+53	sąskaitose	sąskaita	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+54	lošimų	lošimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+55	bendrovėse	bendrovė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpln-
+56	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+57	grąžinimo	grąžinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+58	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_POL_006-p22
+# sent_id = LRT_POL_006-s37
+# text = Tačiau jei teismas šio reikalavimo netenkintų, prašoma priteisti tokios pat vertės žalos atlyginimą įmonėms solidariai iš Š. Stepukonio ir „Olympic Casino Group Baltija“ – neviršijant 3,5 mln. eurų, bei solidariai iš Š. Stepukonio ir „OB Holding 1“ – neviršijant 26,05 mln. eurų, BNS anksčiau pranešė teismas.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	jei	jei	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	teismas	teismas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+5	reikalavimo	reikalavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	netenkintų	netenkinti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-3---y--ns-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	prašoma	prašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+9	priteisti	priteisti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+10	tokios pat	toks pat	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+11	vertės	vertė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	žalos	žala	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	atlyginimą	atlyginimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+14	įmonėms	įmonė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+15	solidariai	solidariai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+18	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+19	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	Olympic	Olympic	X	kt.	_	_	_	_	Multext=X-
+22	Casino	Casino	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+23	Group	Group	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+24	Baltija	Baltija	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsnng
+25	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+26	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+27	neviršijant	neviršyti	VERB	vksm.pad.neig.es.	Polarity=Neg|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----y--n--
+28	3,5	3,5	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+29	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+30	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	bei	bei	CCONJ	jng.	_	_	_	_	Multext=Cg
+33	solidariai	solidariai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+34	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+35	Š.	Š.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+36	Stepukonio	Stepukonis	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+37	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+39	OB	OB	X	kt.	_	_	_	_	Multext=X-
+40	Holding	Holding	X	kt.	_	_	_	_	Multext=X-
+41	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+42	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+43	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+44	neviršijant	neviršyti	VERB	vksm.pad.neig.es.	Polarity=Neg|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----y--n--
+45	26,05	26,05	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+46	mln.	mln.	NUM	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+47	eurų	euras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+48	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+49	BNS	BNS	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+50	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+51	pranešė	pranešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+52	teismas	teismas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+53	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

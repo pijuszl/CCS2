@@ -1,0 +1,378 @@
+# newdoc id = UN_POL_08
+# newpar id = UN_POL_08-p1
+# sent_id = UN_POL_08-s1
+# text = Iraną bombarduoja žemės drebėjimai
+1	Iraną	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsang
+2	bombarduoja	bombarduoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+4	drebėjimai	drebėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+
+# newpar id = UN_POL_08-p2
+# sent_id = UN_POL_08-s2
+# text = Kol viso pasaulio akys žvelgia į nelaimių krečiamas Jungtines Valstijas, ne mažesnės tragedijos viena po kitos bombarduoja jų nekenčiamą Iraną.
+1	Kol	kol	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	viso	visas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	pasaulio	pasaulis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	akys	akis	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+5	žvelgia	žvelgti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	nelaimių	nelaimė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+8	krečiamas	krėsti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+9	Jungtines	jungtinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+10	Valstijas	valstija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+13	mažesnės	mažas	ADJ	bdv.aukšt.mot.vns.K.	Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing	_	_	_	Multext=Agcfsgn
+14	tragedijos	tragedija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+16	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	kitos	kitas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+18	bombarduoja	bombarduoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+20	nekenčiamą	nekęsti	VERB	vksm.dlv.neig.neveik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpynan-p
+21	Iraną	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsang
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s3
+# text = Vienas po kito – trys itin stiprūs žemės drebėjimai.
+1	Vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	kito	kitas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	trys	trys	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+6	itin	itin	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	stiprūs	stiprus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+8	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	drebėjimai	drebėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s4
+# text = Kas tai – sutapimas ar sąmokslo teorijų šalininkų teorijų pasitvirtinimas, kad HAARP naudojamas vis aktyviau?
+1	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+4	sutapimas	sutapimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+5	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	sąmokslo	sąmokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	teorijų	teorija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+8	šalininkų	šalininkas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	teorijų	teorija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	pasitvirtinimas	pasitvirtinimas	NOUN	dkt.sngr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsny-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	HAARP	HAARP	X	kt.	_	_	_	_	Multext=X-
+14	naudojamas	naudoti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+15	vis	vis	PART	dll.	_	_	_	_	Multext=Qg
+16	aktyviau	aktyviai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+17	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = UN_POL_08-p3
+# sent_id = UN_POL_08-s5
+# text = Trys žemės drebėjimai iš eilės
+1	Trys	trys	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+2	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	drebėjimai	drebėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	iš eilės	iš eilės	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+
+# newpar id = UN_POL_08-p4
+# sent_id = UN_POL_08-s6
+# text = Paskutiniais duomenimis, balandžio 18-ąją Rytų Azerbaidžano provinciją Irane sukrėtė 5,2 balo žemės drebėjimas.
+1	Paskutiniais	paskutinis	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+2	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	balandžio	balandis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	18-ąją	18-ąją	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+6	Rytų	rytai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+7	Azerbaidžano	Azerbaidžanas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+8	provinciją	provincija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	Irane	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+10	sukrėtė	sukrėsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	5,2	5,2	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+12	balo	balas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	drebėjimas	drebėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s7
+# text = Kol kas informacija tikslinama.
+1	Kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	informacija	informacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+3	tikslinama	tikslinti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-sfpnnnn-p
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p5
+# sent_id = UN_POL_08-s8
+# text = Vos prieš dvi dienas, balandžio 16-ąją, 15.14 val. vietos laiku Iraną sukrėtė stipriausias žemės drebėjimas per pastaruosius 40 metų.
+1	Vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+2	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	dvi	du	NUM	sktv.raid.kiek.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpal-
+4	dienas	diena	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	balandžio	balandis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	16-ąją	16-ąją	NUM	sktv.mišr.	NumForm=Combi	_	_	_	SpaceAfter=No|Multext=M----m-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	15.14	15.14	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	val.	val.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+11	vietos	vieta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+12	laiku	laikas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+13	Iraną	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsang
+14	sukrėtė	sukrėsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	stipriausias	stiprus	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsnn
+16	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+17	drebėjimas	drebėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+18	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+19	pastaruosius	pastaras	ADJ	bdv.nelygin.įvardž.vyr.dgs.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpay
+20	40	40	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+21	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p6
+# sent_id = UN_POL_08-s9
+# text = Pietrytinėje Sistano ir Balučestano provincijoje, besiribojančioje su Pakistanu, 86 km gylyje kilo net 7,8 balo žemės drebėjimas.
+1	Pietrytinėje	pietrytinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+2	Sistano	Sistano	X	kt.	_	_	_	_	Multext=X-
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	Balučestano	Balučestano	X	kt.	_	_	_	_	Multext=X-
+5	provincijoje	provincija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	besiribojančioje	besiriboti	VERB	vksm.dlv.sngr.veik.es.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannly-p
+8	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+9	Pakistanu	Pakistanas	PROPN	dkt.tikr.vtvrd.vyr.vns.Įn.	Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsing
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	86	86	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+12	km	km	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+13	gylyje	gylis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+14	kilo	kilti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	net	net	PART	dll.	_	_	_	_	Multext=Qg
+16	7,8	7,8	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	balo	balas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+19	drebėjimas	drebėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s10
+# text = Pranešama, kad Irane žuvo 1, sužeista 12, Pakistane žuvo 34, sužeisti 105 žmonės (http://www.bbc.co.uk/news/world-middle-east-22168202).
+1	Pranešama	pranešti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	Irane	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+5	žuvo	žūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	sužeista	sužeisti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+9	12	12	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	Pakistane	Pakistanas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+12	žuvo	žūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	34	34	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	sužeisti	sužeisti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+16	105	105	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+17	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+18	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+19	http://www.bbc.co.uk/news/world	http://www.bbc.co.uk/news/world	X	kt.	_	_	_	_	SpaceAfter=No|Multext=Xl
+20	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+21	middle	middle	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+22	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+23	east-22168202	east-22168202	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+24	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p7
+# sent_id = UN_POL_08-s11
+# text = Žemės drebėjimas įvyko tarp Saravano ir Khašo miestų ir truko apie 25 sekundes.
+1	Žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	drebėjimas	drebėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	įvyko	įvykti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	Saravano	Saravano	X	kt.	_	_	_	_	Multext=X-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	Khašo	Khašo	X	kt.	_	_	_	_	Multext=X-
+8	miestų	miestas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	truko	trukti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+11	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	25	25	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+13	sekundes	sekundė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p8
+# sent_id = UN_POL_08-s12
+# text = Vos prieš savaitę iki šios nelaimės 6,3 balo žemės drebėjimas kilo prie Irano Bušero atominės elektrinės..
+1	Vos	vos	PART	dll.	_	_	_	_	Multext=Qg
+2	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	savaitę	savaitė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+4	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+6	nelaimės	nelaimė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	6,3	6,3	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	balo	balas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	drebėjimas	drebėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+11	kilo	kilti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	Irano	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+14	Bušero	Bušero	X	kt.	_	_	_	_	Multext=X-
+15	atominės	atominis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+16	elektrinės..	elektrinė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+
+# newpar id = UN_POL_08-p9
+# sent_id = UN_POL_08-s13
+# text = Laimė, šįsyk nebuvo tiek aukų, kaip žemės drebėjime Tabase 1978-aisiais, kai žuvo net 15 000 žmonių.
+1	Laimė	laimė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	šįsyk	šįsyk	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+5	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	aukų	auka	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	drebėjime	drebėjimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+11	Tabase	Tabase	X	kt.	_	_	_	_	Multext=X-
+12	1978-aisiais	1978-aisiais	NUM	sktv.mišr.	NumForm=Combi	_	_	_	SpaceAfter=No|Multext=M----m-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	žuvo	žūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	net	net	PART	dll.	_	_	_	_	Multext=Qg
+17	15 000	15 000	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+18	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p10
+# sent_id = UN_POL_08-s14
+# text = Žemės drebėjimo Sistane ir Balučestane atgarsiai buvo jaučiami net Delyje, Arabijos pusiasalyje.
+1	Žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	drebėjimo	drebėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	Sistane	Sistane	X	kt.	_	_	_	_	Multext=X-
+4	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	Balučestane	Balučestane	X	kt.	_	_	_	_	Multext=X-
+6	atgarsiai	atgarsis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	jaučiami	jausti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+9	net	net	PART	dll.	_	_	_	_	Multext=Qg
+10	Delyje	Delis	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	Arabijos	Arabija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+13	pusiasalyje	pusiasalis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p11
+# sent_id = UN_POL_08-s15
+# text = Irano Raudonojo Kryžiaus duomenimis, visos komunikacijos žemės drebėjimo vietoje buvo atkirstos.
+1	Irano	Iranas	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+2	Raudonojo	raudonas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgy
+3	Kryžiaus	Kryžius	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+4	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	visos	visas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+7	komunikacijos	komunikacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	drebėjimo	drebėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	vietoje	vieta	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+11	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	atkirstos	atkirsti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-pfpnnnn-p
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p12
+# sent_id = UN_POL_08-s16
+# text = Panaudotas HAARP?
+1	Panaudotas	panaudoti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+2	HAARP	HAARP	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+3	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = UN_POL_08-p13
+# sent_id = UN_POL_08-s17
+# text = Nors oficialūs Vakarų šaltiniai teigia, kad dėl visko kalta tektonika, požeminiai Arabijos platformos judėjimai, tačiau sąmokslo teorijų šalininkai mano, jog prie visko čia nagus prikišęs HAARP.
+1	Nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	oficialūs	oficialus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+3	Vakarų	vakarai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	šaltiniai	šaltinis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+5	teigia	teigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	visko	viskas	PRON	įv.K.	Case=Gen	_	_	_	Multext=Pg--gn
+10	kalta	kaltas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+11	tektonika	tektonika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	požeminiai	požeminis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+14	Arabijos	Arabija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+15	platformos	platforma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	judėjimai	judėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	sąmokslo	sąmokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	teorijų	teorija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+21	šalininkai	šalininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+22	mano	manyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	visko	viskas	PRON	įv.K.	Case=Gen	_	_	_	Multext=Pg--gn
+27	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	nagus	nagas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+29	prikišęs	prikišti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+30	HAARP	HAARP	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_08-p14
+# sent_id = UN_POL_08-s18
+# text = Kažin ar juos galima apkaltinti beprotybe.
+1	Kažin	kažin	PART	dll.	_	_	_	_	Multext=Qg
+2	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+4	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+5	apkaltinti	apkaltinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	beprotybe	beprotybė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s19
+# text = HAARP iš tikro egzistuoja.
+1	HAARP	HAARP	X	kt.	_	_	_	_	Multext=X-
+2	iš tikro	iš tikro	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	egzistuoja	egzistuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s20
+# text = Tai karinis JAV objektas, įkurtas 1993-iaisiais Aliaskoje, oficialiai skirtas jonosferai tyrinėti ir net turintis savo tinklalapį (http://www.haarp.alaska.edu).
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	karinis	karinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+3	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+4	objektas	objektas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	įkurtas	įkurti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+7	1993-iaisiais	1993-iaisiais	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+8	Aliaskoje	Aliaska	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	oficialiai	oficialiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	skirtas	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnan-p
+12	jonosferai	jonosfera	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+13	tyrinėti	tyrinėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	net	net	PART	dll.	_	_	_	_	Multext=Qg
+16	turintis	turėti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+17	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	tinklalapį	tinklalapis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+20	http://www.haarp.alaska.edu	http://www.haarp.alaska.edu	X	kt.	_	_	_	_	SpaceAfter=No|Multext=Xl
+21	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_08-s21
+# text = Tačiau manoma, kad HAARP gali kontroliuoti orus, žemės drebėjimus, stichijas Žemėje.
+1	Tačiau	tačiau	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	manoma	manyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	HAARP	HAARP	X	kt.	_	_	_	_	Multext=X-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	kontroliuoti	kontroliuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	orus	oras	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	drebėjimus	drebėjimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	stichijas	stichija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+14	Žemėje	Žemė	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

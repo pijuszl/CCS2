@@ -1,0 +1,79 @@
+# High-level human-defined features. Drives:
+#   - LLM agent feature extraction (config/agent prompts)
+#   - features/text_features.py  (textual)
+#   - features/visual_features.py (zero-shot CLIP prompts)
+#   - the interpretable model used for H2 (logistic / GBM + SHAP)
+
+visual:
+  - name: national_symbol
+    type: presence
+    clip_prompts:
+      - "a national flag or coat of arms"
+      - "a generic photograph with no flag"
+  - name: military_presence
+    type: presence
+    clip_prompts:
+      - "soldiers, tanks, or military equipment"
+      - "an ordinary civilian scene"
+  - name: known_public_figure
+    type: presence
+    clip_prompts:
+      - "a politician or world leader giving a speech"
+      - "an anonymous person on the street"
+  - name: crowd_protest
+    type: presence
+    clip_prompts:
+      - "a large protesting crowd holding banners"
+      - "an empty street or a small group of people"
+  - name: map_territory
+    type: presence
+    clip_prompts:
+      - "a geographic map of a country or region"
+      - "a non-map photograph"
+  - name: religious_symbol
+    type: presence
+    clip_prompts:
+      - "religious symbols such as a cross, icon, or church interior"
+      - "a secular scene with no religious symbols"
+  - name: agriculture_rural
+    type: presence
+    clip_prompts:
+      - "rural fields, farms, or agricultural workers"
+      - "an urban or industrial scene"
+  - name: emotional_face
+    type: presence
+    clip_prompts:
+      - "a human face with a strong emotional expression"
+      - "a neutral or impassive human face"
+  - name: image_valence
+    type: scalar           # in [-1, +1]: negative=distressing, positive=uplifting
+    clip_prompts_pos:
+      - "an uplifting, hopeful, joyful photograph"
+    clip_prompts_neg:
+      - "a distressing, threatening, sad photograph"
+
+textual:
+  - name: loaded_lexicon_density
+    type: scalar
+    method: lexicon_match_rate
+    lexicon: lt_emotive_v1
+  - name: country_leader_mentions
+    type: count
+    method: regex_ner
+    targets: ["Lietuva", "Rusija", "Ukraina", "Putin", "Zelensk", "Nausėd", "Lukašenk", "NATO", "ES", "JAV"]
+  - name: us_vs_them_ratio
+    type: scalar
+    method: pronoun_ratio
+    in_group: ["mes", "mūsų", "mums", "savieji"]
+    out_group: ["jie", "jų", "jiems", "svetimi"]
+  - name: uncertainty_markers
+    type: scalar
+    method: lexicon_match_rate
+    lexicon: lt_modal_v1
+  - name: quotation_balance
+    type: scalar
+    method: quote_source_balance
+  - name: sensational_headline
+    type: scalar
+    method: headline_markers
+    markers: ["!", "?!", "ŠOK", "SENSACIJ", "TIESA", "ATSKLEID"]

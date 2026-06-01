@@ -1,0 +1,68 @@
+# Maps HALT-PROP technique tags to {open, hidden} propaganda.
+#
+# Rationale: HALT-PROP labels article-level propaganda presence (yes/no) and tags
+# spans with technique abbreviations. We treat overt rhetorical devices that hit
+# fast (System-1) emotional appeal as OPEN propaganda, and subtle / framing-level
+# devices that look like ordinary discourse as HIDDEN propaganda.
+#
+# Articles flagged is_propaganda=yes are routed to OPEN if any overt technique is
+# present; else routed to HIDDEN if only subtle techniques are present.
+# Articles with is_propaganda=no -> NON.
+# Articles with is_propaganda in {Unclear, nonDeterminable, propagandaCitation}
+# are dropped from the gold-3-class set but kept in interim parquet with
+# native_label intact for traceability.
+#
+# This taxonomy is documented as a method choice + validity threat in the report.
+
+overt:   # -> open propaganda
+  - name-calling
+  - name_calling
+  - loaded-language
+  - loaded_language
+  - emotionalExpression
+  - emotional_expression
+  - slogans
+  - wavingTheFlag
+  - waving_the_flag
+  - repetition
+  - appealToFear
+  - appeal_to_fear
+  - exaggeration
+  - flagWaving
+  - flag_waving
+  - blackAndWhite
+  - black_and_white
+  - thoughtTerminatingCliche
+  - thought_terminating_cliche
+
+subtle:  # -> hidden propaganda
+  - doubt
+  - uncertainty
+  - simplification
+  - causalOversimplification
+  - causal_oversimplification
+  - whataboutism
+  - appealToAuthority
+  - appeal_to_authority
+  - vagueness
+  - strawMan
+  - straw_man
+  - redHerring
+  - red_herring
+  - implicitNarrative
+  - implicit_narrative
+  - bandwagon
+  - reductio
+  - reductioAdHitlerum
+  - reductio_ad_hitlerum
+  - obfuscation
+
+# Items not in either list are treated as 'unknown' and route the article to
+# OPEN if any overt is present, else HIDDEN if only subtle, else HIDDEN by default
+# (rationale: a labelled-propaganda article whose technique we don't recognise is
+#  conservatively assumed to be subtler than not; documented limitation).
+
+ambiguous_is_propaganda_values:
+  - Unclear
+  - nonDeterminable
+  - propagandaCitation

@@ -1,0 +1,1677 @@
+# newdoc id = LRT_SOC_007
+# newpar id = LRT_SOC_007-p1
+# sent_id = LRT_SOC_007-s1
+# text = Režisierius Agnius Jankevičius: politika, religija, seksas – visada rezonuojančios temos
+1	Režisierius	režisierius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	Agnius	Agnius	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+3	Jankevičius	Jankevičius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+4	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+5	politika	politika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	religija	religija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	seksas	seksas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	visada	visada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	rezonuojančios	rezonuoti	VERB	vksm.dlv.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannnn-p
+13	temos	tema	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+
+# newpar id = LRT_SOC_007-p2
+# sent_id = LRT_SOC_007-s2
+# text = Ant Vilniaus senojo teatro (VST) fasado „šviečia“ neįprastai ryškios žaismingos afišos, gegužės 10, 11 dienomis kviečiančios į režisieriaus Agniaus Jankevičiaus spektaklio „Kankinys“ premjerą.
+1	Ant	ant	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+3	senojo	senas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgy
+4	teatro	teatras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+6	VST	VST	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+7	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+8	fasado	fasadas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	šviečia	šviesti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+11	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+12	neįprastai	neįprastai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	ryškios	ryškus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+14	žaismingos	žaismingas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+15	afišos	afiša	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	gegužės	gegužė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	10	10	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	11	11	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+21	dienomis	diena	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpin-
+22	kviečiančios	kviesti	VERB	vksm.dlv.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pfannnn-p
+23	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+24	režisieriaus	režisierius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+25	Agniaus	Agnius	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+26	Jankevičiaus	Jankevičius	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+27	spektaklio	spektaklis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+29	Kankinys	kankinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+30	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+31	premjerą	premjeras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s3
+# text = Poparto dėlionę primenančią afišų estetiką pasiūlė pats režisierius, kūryboje nevengiantis provokacijos ir moralinių konvencijų nesuvaržyto teatrinio šėlsmo, rašoma Vilniaus senojo teatro pranešime žiniasklaidai.
+1	Poparto	Poparto	X	kt.	_	_	_	_	Multext=X-
+2	dėlionę	dėlionė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	primenančią	priminti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+4	afišų	afiša	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+5	estetiką	estetika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+6	pasiūlė	pasiūlyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	režisierius	režisierius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kūryboje	kūryba	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+11	nevengiantis	nevengti	VERB	vksm.dlv.neig.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smaynnn-p
+12	provokacijos	provokacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	moralinių	moralinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+15	konvencijų	konvencija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+16	nesuvaržyto	nesuvaržyti	VERB	vksm.dlv.neig.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpyngn-p
+17	teatrinio	teatrinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+18	šėlsmo	šėlsmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+21	Vilniaus	Vilnius	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmsgng
+22	senojo	senas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgy
+23	teatro	teatras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	pranešime	pranešimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+25	žiniasklaidai	žiniasklaida	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+26	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p3
+# sent_id = LRT_SOC_007-s4
+# text = Apie tai, kodėl spektaklyje gyvai skambės daug gero klasikinio roko, apie ypatingą jaunatvišką energiją, tvyrančią repeticijose ir tarsi specialiai VST aktoriui Igoriui Abramovičiui dramaturgo Mariaus von Mayenburgo sukurtą Benjamino Ziūdelio personažą ir kalbamės su pačiu režisieriumi.
+1	Apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	spektaklyje	spektaklis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	gyvai	gyvai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	skambės	skambėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+8	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	gero	geras	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+10	klasikinio	klasikinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+11	roko	rokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	ypatingą	ypatingas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+15	jaunatvišką	jaunatviškas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+16	energiją	energija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	tvyrančią	tvyroti	VERB	vksm.dlv.veik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfannan-p
+19	repeticijose	repeticija	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpln-
+20	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	tarsi	tarsi	PART	dll.	_	_	_	_	Multext=Qg
+22	specialiai	specialiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	VST	VST	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+24	aktoriui	aktorius	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+25	Igoriui	Igoris	PROPN	dkt.tikr.vrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsdnf
+26	Abramovičiui	Abramovičius	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+27	dramaturgo	dramaturgas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	Mariaus	Marius	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+29	von	von	INTJ	jst.substnd.	Style=Slng	_	_	_	Multext=In
+30	Mayenburgo	Mayenburgo	X	kt.	_	_	_	_	Multext=X-
+31	sukurtą	sukurti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+32	Benjamino	Benjaminas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+33	Ziūdelio	Ziūdelio	X	kt.	_	_	_	_	Multext=X-
+34	personažą	personažas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+35	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+36	kalbamės	kalbėtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--yi-
+37	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+38	pačiu	pats	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+39	režisieriumi	režisierius	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p4
+# sent_id = LRT_SOC_007-s5
+# text = – Kas įkvepia kuriant šį spektaklį?
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+3	įkvepia	įkvėpti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	kuriant	kurti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+5	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	spektaklį	spektaklis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+7	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_SOC_007-s6
+# text = Kodėl atskleisti daugiasluoksnę religinio radikalizmo temą pasirinkai mūsų teatrui neįprastą poparto stilistiką?
+1	Kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	atskleisti	atskleisti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+3	daugiasluoksnę	daugiasluoksnis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+4	religinio	religinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+5	radikalizmo	radikalizmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	temą	tema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	pasirinkai	pasirinkti	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.2.	Mood=Ind|Number=Sing|Person=2|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma2s--n--yi-
+8	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+9	teatrui	teatras	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+10	neįprastą	neįprastas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+11	poparto	poparto	X	kt.	_	_	_	_	Multext=X-
+12	stilistiką	stilistika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p5
+# sent_id = LRT_SOC_007-s7
+# text = – Pats popartas, kaip meno kryptis, bent jau man asmeniškai – šioks toks žaidimas kiču.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	popartas	popartas	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	meno	menas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	kryptis	kryptis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	bent	bent	PART	dll.	_	_	_	_	Multext=Qg
+10	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+12	asmeniškai	asmeniškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	šioks toks	šioks toks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	žaidimas	žaidimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+16	kiču	kičas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s8
+# text = Jis kažkuria prasme koreliuoja ir su tuo, kaip mėginu atrakinti pačią Mariaus von Mayenburgo pjesę.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	kažkuria	kažkuris	PRON	įv.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsin
+3	prasme	prasmė	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsin-
+4	koreliuoja	koreliuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+7	tuo	tas	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsin
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	mėginu	mėginti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+11	atrakinti	atrakinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	pačią	pats	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+13	Mariaus	Marius	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+14	von	von	INTJ	jst.substnd.	Style=Slng	_	_	_	Multext=In
+15	Mayenburgo	Mayenburgo	X	kt.	_	_	_	_	Multext=X-
+16	pjesę	pjesė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s9
+# text = Per dainas, muzikinį naratyvą, per muzikos transliuojamą energiją.
+1	Per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	dainas	daina	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	muzikinį	muzikinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+5	naratyvą	naratyvas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	muzikos	muzika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+9	transliuojamą	transliuoti	VERB	vksm.dlv.neveik.es.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnan-p
+10	energiją	energija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p6
+# sent_id = LRT_SOC_007-s10
+# text = – Tavo pastarųjų metų pastatymuose muzika tapo ypač svarbi?
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Tavo	tavas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	pastarųjų	pastaras	ADJ	bdv.nelygin.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgy
+4	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	pastatymuose	pastatymas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+6	muzika	muzika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	tapo	tapti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	svarbi	svarbus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+10	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p7
+# sent_id = LRT_SOC_007-s11
+# text = – Tai susiję su pandemija, ypač antruoju karantinu.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	susiję	susyti	VERB	vksm.dlv.veik.būt-k.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa--nann-n-p
+4	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+5	pandemija	pandemija	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	antruoju	antras	ADJ	sktv.raid.kelint.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsily
+9	karantinu	karantinas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s12
+# text = Man teko garbė pasišnekėti su tuometinio sveikatos ministro Verygos kažkokiu patarėju.
+1	Man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+2	teko	tekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	garbė	garbė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	pasišnekėti	pasišnekėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+5	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+6	tuometinio	tuometinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+7	sveikatos	sveikata	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	ministro	ministras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	Verygos	Veryga	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+10	kažkokiu	kažkoks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+11	patarėju	patarėjas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s13
+# text = Toksai jaunas bičiukas... Vasarą, per atlaisvinimą tarp dviejų karantinų.
+1	Toksai	toks	PRON	įv.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsny
+2	jaunas	jaunas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+3	bičiukas	bičiukas	NOUN	dkt.vyr.vns.V.substnd.	Case=Nom|Gender=Masc|Number=Sing|Style=Slng	_	_	_	SpaceAfter=No|Multext=Nnmsnn-
+4	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+5	Vasarą	vasara	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	atlaisvinimą	atlaisvinimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	dviejų	du	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpgl-
+11	karantinų	karantinas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s14
+# text = Jis pasakė, jog valdžios koridoriuose kalbama, kad jau antro karantino tikrai nebus, nes ekonomikai – šikna.
+1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	pasakė	pasakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	koridoriuose	koridorius	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpln-
+7	kalbama	kalbėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	antro	antras	ADJ	sktv.raid.kelint.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsgln
+12	karantino	karantinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	nebus	nebūti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---y--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	ekonomikai	ekonomika	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+18	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+19	šikna	šikna	NOUN	dkt.mot.vns.V.substnd.	Case=Nom|Gender=Fem|Number=Sing|Style=Slng	_	_	_	SpaceAfter=No|Multext=Nnfsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p8
+# sent_id = LRT_SOC_007-s15
+# text = Buvau įsitikinęs, kad jo ir nebus.
+1	Buvau	būti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+2	įsitikinęs	įsitikinti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-smannny-p
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	nebus	nebūti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---y--ni-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s16
+# text = Tiesiog nusiteikiau, o kai paskelbė tą antrą karantiną, mane apsėdo labai stipri depresija.
+1	Tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	nusiteikiau	nusiteikti	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--n--yi-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+8	antrą	antras	ADJ	sktv.raid.kelint.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsaln
+9	karantiną	karantinas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	mane	aš	PRON	įv.vns.G.	Case=Acc|Number=Sing	_	_	_	Multext=Pg-san
+12	apsėdo	apsėsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+13	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	stipri	stiprus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+15	depresija	depresija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s17
+# text = Labai per smegenis plojo.
+1	Labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	smegenis	smegenys	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+4	plojo	ploti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s18
+# text = Ir kaip aš gelbėjausi?
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+3	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+4	gelbėjausi	gelbėtis	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--n--yi-
+5	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_SOC_007-s19
+# text = Jau anksčiau grojau gitara, bet pradėjau gilintis, groti sudėtingesnius džiazinius, bliuzinius rifus, ko anksčiau nebandžiau.
+1	Jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+3	grojau	groti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+4	gitara	gitara	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	pradėjau	pradėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+8	gilintis	gilintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	groti	groti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	sudėtingesnius	sudėtingas	ADJ	bdv.aukšt.vyr.dgs.G.	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	Multext=Agcmpan
+12	džiazinius	džiazinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpan
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	bliuzinius	bliuzinius	X	kt.	_	_	_	_	Multext=X-
+15	rifus	rifas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	ko	ko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+19	nebandžiau	nebandyti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--y--ni-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s20
+# text = Parašiau keletą dainų, o paskui jos nugulė jau po karantino Kaune statytame spektaklyje „Kaligula“.
+1	Parašiau	parašyti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+2	keletą	keletas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+3	dainų	daina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	paskui	paskui	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+8	nugulė	nugulti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	karantino	karantinas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	Kaune	Kaunas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+13	statytame	statyti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+14	spektaklyje	spektaklis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+15	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	Kaligula	Kaligula	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnnf
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s21
+# text = Pajutau, kad galiu tą daryti.
+1	Pajutau	pajusti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--n--ni-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	galiu	galėti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+5	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s22
+# text = Antai Šiauliuose, kai statėme „Prarastą Katarinos Blium garbę“, visas dainas parašiau, Pijus Ganusauskas jas aranžavo.
+1	Antai	antai	PART	dll.	_	_	_	_	Multext=Qg
+2	Šiauliuose	Šiauliai	PROPN	dkt.tikr.vtvrd.vyr.dgs.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmplng
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	statėme	statyti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Prarastą	prarasti	VERB	vksm.dlv.neveik.būt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnan-p
+8	Katarinos	Katarina	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+9	Blium	Blium	X	kt.	_	_	_	_	Multext=X-
+10	garbę	garbė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	visas	visas	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+14	dainas	daina	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+15	parašiau	parašyti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--n--ni-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	Pijus	Pijus	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+18	Ganusauskas	Ganusauskas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+19	jas	jis	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+20	aranžavo	aranžuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p9
+# sent_id = LRT_SOC_007-s23
+# text = O „Kankinyje“ aš jau atiduodu duoklę punk, post ir alternatyviam rokui, pats dainų nekūriau.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Kankinyje	kankinys	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+6	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	atiduodu	atiduoti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+8	duoklę	duoklė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	punk	punk	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	post	post	X	kt.	_	_	_	_	Multext=X-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	alternatyviam	alternatyvus	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsdn
+14	rokui	rokas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+17	dainų	daina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+18	nekūriau	nekurti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--y--ni-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s24
+# text = Naudojam 10-ojo dešimtmečio roko ir pankroko klasiką.
+1	Naudojam	naudoti	VERB	vksm.asm.tiesiog.es.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+2	10-ojo	10-ojo	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+3	dešimtmečio	dešimtmetis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	roko	rokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	pankroko	pankrokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	klasiką	klasika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s25
+# text = Green Day superhitas „Basket Case“, The Smashing Pumpkins „Bullet with Butterfly Wings“ ir t. t.
+1	Green	Green	X	kt.	_	_	_	_	Multext=X-
+2	Day	Day	X	kt.	_	_	_	_	Multext=X-
+3	superhitas	superhitas	X	kt.	_	_	_	_	Multext=X-
+4	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+5	Basket	Basket	X	kt.	_	_	_	_	Multext=X-
+6	Case	Case	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	The	The	X	kt.	_	_	_	_	Multext=X-
+10	Smashing	Smashing	X	kt.	_	_	_	_	Multext=X-
+11	Pumpkins	Pumpkins	X	kt.	_	_	_	_	Multext=X-
+12	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	Bullet	Bullet	X	kt.	_	_	_	_	Multext=X-
+14	with	with	X	kt.	_	_	_	_	Multext=X-
+15	Butterfly	Butterfly	X	kt.	_	_	_	_	Multext=X-
+16	Wings	Wings	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+18	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+19	t.	t.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+20	t.	t.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+
+# newpar id = LRT_SOC_007-p10
+# sent_id = LRT_SOC_007-s26
+# text = – Kodėl būtent šioje medžiagoje surezonavo pankiška, roko estetika?
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	būtent	būtent	PART	dll.	_	_	_	_	Multext=Qg
+4	šioje	šis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+5	medžiagoje	medžiaga	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+6	surezonavo	surezonuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	pankiška	pankiškas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsnn
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	roko	rokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	estetika	estetika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p11
+# sent_id = LRT_SOC_007-s27
+# text = – „Kankinys“ jau seniai buvo mano akiratyje, o naujai teatro vadovybės krypčiai, gairėms jis tiko.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Kankinys	kankinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	seniai	seniai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	mano	aš	PRON	įv.savyb.vns.K.	Case=Gen|Number=Sing|Poss=Yes	_	_	_	Multext=Pg-sgn
+9	akiratyje	akiratis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	naujai	naujai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	teatro	teatras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	vadovybės	vadovybė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+15	krypčiai	kryptis	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	gairėms	gairė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+18	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+19	tiko	tikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s28
+# text = Man kilo mintis į veiksmą įtraukti moksleivių chorą.
+1	Man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+2	kilo	kilti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	mintis	mintis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	veiksmą	veiksmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	įtraukti	įtraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+7	moksleivių	moksleivis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	chorą	choras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s29
+# text = Pagal pjesę – tai mokyklos mokiniai, pagrindinio veikėjo klasiokai.
+1	Pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	pjesę	pjesė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+3	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+4	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	mokyklos	mokykla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	mokiniai	mokinys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	pagrindinio	pagrindinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+9	veikėjo	veikėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	klasiokai	klasiokas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s30
+# text = Viskas labai paprasta – tiesiog skaičiau pjesę, o skaitydamas klausau muzikos.
+1	Viskas	viskas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	paprasta	paprastas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	skaičiau	skaityti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+7	pjesę	pjesė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	skaitydamas	skaityti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+11	klausau	klausyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+12	muzikos	muzika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s31
+# text = Tiesiog ėjo jutūbo streamas ir iššoko pinkfloidų hitas „We don't need no education“.
+1	Tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	ėjo	eiti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	jutūbo	jutūbo	X	kt.	_	_	_	_	Multext=X-
+4	streamas	streamas	X	kt.	_	_	_	_	Multext=X-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	iššoko	iššokti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	pinkfloidų	pinkfloidų	X	kt.	_	_	_	_	Multext=X-
+8	hitas	hitas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+10	We	We	X	kt.	_	_	_	_	Multext=X-
+11	don't	don't	X	kt.	_	_	_	_	Multext=X-
+12	need	need	X	kt.	_	_	_	_	Multext=X-
+13	no	no	X	kt.	_	_	_	_	Multext=X-
+14	education	education	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+15	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s32
+# text = Užmečiau akį, o klipe mokiniai į mėsmalę lenda, galvoju, reikia spektaklyje padaryti chorą, bus smagiau.
+1	Užmečiau	užmesti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+2	akį	akis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+5	klipe	klipas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	mokiniai	mokinys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	mėsmalę	mėsmalė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+9	lenda	lįsti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	galvoju	galvoti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+14	spektaklyje	spektaklis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+15	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+16	chorą	choras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+19	smagiau	smagiai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s33
+# text = Galvojau apie vaikų chorą, bet pats dirbu pedagogu su Lietuvos muzikos ir teatro akademijos (LMTA) antrakursiais aktoriais, dauguma jų turi absoliučią klausą, groja įvairiais instrumentais, jų vulkaniška energija „Kankinyje“ tiko idealiai.
+1	Galvojau	galvoti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+2	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+3	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	chorą	choras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+8	dirbu	dirbti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+9	pedagogu	pedagogas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+10	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+11	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+12	muzikos	muzika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	teatro	teatras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	akademijos	akademija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+16	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+17	LMTA	LMTA	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+18	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+19	antrakursiais	antrakursis	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+20	aktoriais	aktorius	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	dauguma	dauguma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+23	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+24	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	absoliučią	absoliutus	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+26	klausą	klausa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	groja	groti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+29	įvairiais	įvairus	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+30	instrumentais	instrumentas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpgn
+33	vulkaniška	vulkaniškas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+34	energija	energija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+35	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+36	Kankinyje	kankinys	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+37	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+38	tiko	tikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+39	idealiai	idealiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+40	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p12
+# sent_id = LRT_SOC_007-s34
+# text = – Ar galima būtų teigti, kad spektaklyje iš esmės kalbėsi ne apie religinį ekstremizmą, o apie religiją kaip tam tikrą jaunų žmonių protesto formą?
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+4	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+5	teigti	teigti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	spektaklyje	spektaklis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+9	iš esmės	iš esmės	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	kalbėsi	kalbėti	VERB	vksm.asm.tiesiog.būs.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2s--n--ni-
+11	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+12	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	religinį	religinis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+14	ekstremizmą	ekstremizmas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+18	religiją	religija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+19	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	tam tikrą	tam tikras	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+21	jaunų	jaunas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+22	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+23	protesto	protestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+24	formą	forma	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+25	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_SOC_007-s35
+# text = Ar gali apibrėžti spektaklio temą?
+1	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	apibrėžti	apibrėžti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	spektaklio	spektaklis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	temą	tema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+6	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p13
+# sent_id = LRT_SOC_007-s36
+# text = – Labai sunku kalbėti, kol spektaklis iki galo dar nesukurtas, nes dažnai jis pats „pasako“ temą.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Labai	Laba	PROPN	dkt.tikr.vtvrd.mot.vns.N.	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsdng
+3	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+4	kalbėti	kalbėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kol	kol	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	spektaklis	spektaklis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	galo	galas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+11	nesukurtas	nesukurti	VERB	vksm.dlv.neig.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps-smpynnn-p
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+16	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+17	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	pasako	pasakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+19	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+20	temą	tema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s37
+# text = Taip, religija kaip įvaizdis, motyvas Mayenburgo pjesėje užima labai daug eterio, bet ar tai religinis ekstremizmas?
+1	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	religija	religija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	įvaizdis	įvaizdis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	motyvas	motyvas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	Mayenburgo	Mayenburgo	X	kt.	_	_	_	_	Multext=X-
+9	pjesėje	pjesė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+10	užima	užimti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	eterio	eteris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	ar	ar	PART	dll.	_	_	_	_	Multext=Qg
+17	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+18	religinis	religinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+19	ekstremizmas	ekstremizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# sent_id = LRT_SOC_007-s38
+# text = Nemanau, kad religinis ekstremizmas yra labai ryškus akcentas.
+1	Nemanau	nemanyti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--y--ni-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	religinis	religinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+5	ekstremizmas	ekstremizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	ryškus	ryškus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	akcentas	akcentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s39
+# text = Man „Kankinys“ – tai šiandienos realybė, kaip oksimoronas, kaip kažkoks kičas.
+1	Man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Kankinys	kankinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+7	šiandienos	šiandiena	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	realybė	realybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	oksimoronas	oksimoronas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	kažkoks	kažkoks	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	kičas	kičas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s40
+# text = Tarkime, kai eini į metalo muzikos koncertą, nereikia turėti iliuzijų, kad galėsi normaliai susišnekėti.
+1	Tarkime	tarkime	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	eini	eiti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp2s--n--ni-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	metalo	metalas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	muzikos	muzika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	koncertą	koncertas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	nereikia	nereikėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+11	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+12	iliuzijų	iliuzija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	galėsi	galėti	VERB	vksm.asm.tiesiog.būs.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2s--n--ni-
+16	normaliai	normaliai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	susišnekėti	susišnekėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s41
+# text = Tau reikės šaukti.
+1	Tau	tu	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+2	reikės	reikėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+3	šaukti	šaukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s42
+# text = Pjesėje daug nuorodų į brendimo literatūrą – joje yra visos klasikiniam brendimo romanui būdingos dedamosios.
+1	Pjesėje	pjesė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+2	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	nuorodų	nuoroda	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+4	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	brendimo	brendimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	literatūrą	literatūra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+7	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+8	joje	jis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	visos	visas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+11	klasikiniam	klasikinis	ADJ	bdv.nelygin.vyr.vns.Vt.trump.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	Multext=Agpmsln
+12	brendimo	brendimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	romanui	romanas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=X-
+14	būdingos	būdingas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+15	dedamosios	dėti	VERB	vksm.dlv.neveik.es.įvardž.mot.dgs.V.	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pfpnynn-p
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s43
+# text = Nelaiminga meilė, nepilnavertė šeima, komplikuoti santykiai su motina, bandymas save identifikuoti bendruomenėje, t. y. klasėje, tam tikras atstūmimo momentas, pedagogų netolerancija, paauglio egocentrizmas ir t. t. Iš esmės tokioje dirvoje gali gimti tik radikalizmas.
+1	Nelaiminga	nelaimingas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+2	meilė	meilė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	nepilnavertė	nepilnavertis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+5	šeima	šeima	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	komplikuoti	komplikuoti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnnnn-p
+8	santykiai	santykis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+10	motina	motina	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	bandymas	bandymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+13	save	savęs	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+14	identifikuoti	identifikuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	bendruomenėje	bendruomenė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	t. y.	t. y.	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	klasėje	klasė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	tam tikras	tam tikras	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+21	atstūmimo	atstūmimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+22	momentas	momentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	pedagogų	pedagogas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+25	netolerancija	netolerancija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	paauglio	paauglys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+28	egocentrizmas	egocentrizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+29	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	t.	t.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+31	t.	t.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+32	Iš esmės	iš esmės	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+33	tokioje	toks	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+34	dirvoje	dirva	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+35	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+36	gimti	gimti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+37	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+38	radikalizmas	radikalizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+39	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s44
+# text = Religinis, nereliginis...
+1	Religinis	religinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	nereliginis	nereliginis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+4	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+
+# sent_id = LRT_SOC_007-s45
+# text = Šiuo atveju religija, religinės aplinkybės yra tik kaip priemonė, kaip pasirinkta forma.
+1	Šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+2	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+3	religija	religija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	religinės	religinis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+6	aplinkybės	aplinkybė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+7	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+10	priemonė	priemonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	pasirinkta	pasirinkti	VERB	vksm.dlv.sngr.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnny-p
+14	forma	forma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p14
+# sent_id = LRT_SOC_007-s46
+# text = Pjesėje yra vieta, kurioje pagrindinis herojus Benjaminas sako: „Iki ko mes, krikščionys, nusiritom, kitos religijos turi savo karius, savo kankinius, tuos, kurie pasiruošę mirti.
+1	Pjesėje	pjesė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kurioje	kuris	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+6	pagrindinis	pagrindinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+7	herojus	herojus	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+8	Benjaminas	Benjaminas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+9	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+10	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+11	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	Iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+13	ko	ko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pg-pnn
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	krikščionys	krikščionis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	nusiritom	nusiristi	VERB	vksm.asm.sngr.tiesiog.būt-k.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Past|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1p--n--yi-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kitos	kitas	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+21	religijos	religija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+22	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+24	karius	karys	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+27	kankinius	kankinys	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+28	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+29	tuos	tas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpan
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+32	pasiruošę	pasiruošti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pmannny-p
+33	mirti	mirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s47
+# text = Ar yra dabar bent vienas krikščionis, kuris galėtų mirti už tai, kad jis tiki?“
+1	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	bent	bent	PART	dll.	_	_	_	_	Multext=Qg
+5	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+6	krikščionis	krikščionis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+9	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+10	mirti	mirti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+16	tiki	tikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+17	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+18	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = LRT_SOC_007-s48
+# text = Benjaminas taip kuria pagrindą, bando save identifikuoti, pritraukti dėmesį, nes tikrai nėra taip, jog nuo pat pradžių jis ketintų žudyti.
+1	Benjaminas	Benjaminas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+2	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	kuria	kurti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	pagrindą	pagrindas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	bando	bandyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	save	savęs	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+8	identifikuoti	identifikuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	pritraukti	pritraukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+11	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+16	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	nuo pat pradžių	nuo pat pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+20	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+21	ketintų	ketinti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+22	žudyti	žudyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s49
+# text = Religija, į kurią jis remiasi, iš pradžių yra tik būdas išlikti.
+1	Religija	religija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	kurią	kuris	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+5	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+6	remiasi	remtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	iš pradžių	iš pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	išlikti	išlikti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s50
+# text = Veda tik interesas išsiskirti, galbūt sužavėti merginą, kuri jį atstūmė, atkreipti mamos, klasiokų dėmesį.
+1	Veda	vesti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+2	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	interesas	interesas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	išsiskirti	išsiskirti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	galbūt	galbūt	PART	dll.	_	_	_	_	Multext=Qg
+7	sužavėti	sužavėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	merginą	mergina	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kuri	kuris	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+11	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+12	atstūmė	atstumti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	atkreipti	atkreipti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+15	mamos	mama	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	klasiokų	klasiokas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+18	dėmesį	dėmesys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s51
+# text = Vis labiau įsijausdamas į tą pranašo, taip pavadinkim, ar kokio Jono Krikštytojo vaidmenį, jis eina toliau – prieina išvados, jog dėl visko yra kalti žydai, o tiksliau – žydė mokytoja.
+1	Vis	vis	PART	dll.	_	_	_	_	Multext=Qg
+2	labiau	labai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+3	įsijausdamas	įsijausti	VERB	vksm.pusd.sngr.vyr.vns.	Gender=Masc|Number=Sing|Reflex=Yes|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--y--
+4	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	tą	tas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	pranašo	pranašas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	pavadinkim	pavadinti	VERB	vksm.asm.liep.dgs.1.trump.	Mood=Imp|Number=Plur|Person=1|Variant=Short|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgm-1p--n--nm-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	kokio	koks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+13	Jono	Jonas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+14	Krikštytojo	krikštytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	vaidmenį	vaidmuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+18	eina	eiti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+20	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+21	prieina	prieiti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+22	išvados	išvada	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	visko	viskas	PRON	įv.K.	Case=Gen	_	_	_	Multext=Pg--gn
+27	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+28	kalti	kaltas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+29	žydai	žydas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	tiksliau	tiksliai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+33	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+34	žydė	žydė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+35	mokytoja	mokytoja	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+36	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s52
+# text = O finalas šiuo aspektu man dar yra atviras klausimas.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	finalas	finalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+4	aspektu	aspektas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+5	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+6	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+7	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	atviras	atviras	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	klausimas	klausimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s53
+# text = Ar jis vis dėl to pakelia prieš ją ranką, ar tokiu žaidimu viskas ir baigsis, to dar nežinau.
+1	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	dėl to	dėl to	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	pakelia	pakelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+8	ranką	ranka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+12	žaidimu	žaidimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+13	viskas	viskas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+14	ir	ir	PART	dll.	_	_	_	_	Multext=Qg
+15	baigsis	baigtis	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--yi-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+19	nežinau	nežinoti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--y--ni-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p15
+# sent_id = LRT_SOC_007-s54
+# text = – Kokia prasminė našta spektaklyje tenka ateistei, chemijos, biologijos, geografijos mokytojai Erikai Rot, kurios vaidmenį kuria Jevgenija Gladij?
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Kokia	koks	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+3	prasminė	prasminis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+4	našta	našta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	spektaklyje	spektaklis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+6	tenka	tekti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	ateistei	ateistė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	chemijos	chemija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	biologijos	biologija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	geografijos	geografija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	mokytojai	mokytojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+15	Erikai	Erikas	PROPN	dkt.tikr.vrd.vyr.vns.Š.	Case=Voc|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsvnf
+16	Rot	Rot	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kurios	kuris	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+19	vaidmenį	vaidmuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+20	kuria	kurti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	Jevgenija	Jevgenija	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+22	Gladij	Gladij	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+23	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p16
+# sent_id = LRT_SOC_007-s55
+# text = – Man atrodo, kad panelė Rot ir visi kiti personažai gyvena nedideliame, gan provincialiame užkampyje, miestelyje, kuriame iš tikrųjų yra nuobodu.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+3	atrodo	atrodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	panelė	panelė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+7	Rot	Rot	X	kt.	_	_	_	_	Multext=X-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+10	kiti	kitas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+11	personažai	personažas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+12	gyvena	gyventi	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	nedideliame	nedidelis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsln
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	gan	gan	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	provincialiame	provincialus	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+17	užkampyje	užkampis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	miestelyje	miestelis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+22	iš tikrųjų	iš tikrųjų	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+24	nuobodu	nuobodus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s56
+# text = Pagėgiuose, Molėtuose, pavyzdžiui.
+1	Pagėgiuose	Pagėgiai	PROPN	dkt.tikr.vtvrd.vyr.dgs.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmplng
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	Molėtuose	Molėtai	PROPN	dkt.tikr.vtvrd.vyr.dgs.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmplng
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s57
+# text = Kai kuriems specialistams, šiuo atveju pedagogams, tokiuose miesteliuose, aš taip įsivaizduoju, labai greitai įsijungia abuojumo rutina, nes nėra iššūkių.
+1	Kai kuriems	kai kuris	PRON	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpdn
+2	specialistams	specialistas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	šiuo	šis	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+5	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+6	pedagogams	pedagogas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpdn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	tokiuose	toks	PRON	įv.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpln
+9	miesteliuose	miestelis	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpln-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+12	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	įsivaizduoju	įsivaizduoti	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--yi-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	greitai	greitai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	įsijungia	įsijungti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+18	abuojumo	abuojumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	rutina	rutina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+22	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+23	iššūkių	iššūkis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s58
+# text = Nes nieko ypatingo ten nevyksta.
+1	Nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	ypatingo	ypatingas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+4	ten	ten	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	nevyksta	nevykti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---y--ni-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s59
+# text = Kasdienės eilinių paauglių problemos, kurios profesiškai nekelia iššūkių.
+1	Kasdienės	kasdienis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+2	eilinių	eilinis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	paauglių	paauglys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+4	problemos	problema	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+7	profesiškai	profesiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	nekelia	nekelti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+9	iššūkių	iššūkis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s60
+# text = O ji, man atrodo, turi neišsipildžiusios karjeristės geną.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgfsnn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+5	atrodo	atrodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	neišsipildžiusios	neišsipildyti	VERB	vksm.dlv.neig.sngr.veik.būt-k.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-pfaynny-p
+9	karjeristės	karjeristė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	geną	genas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s61
+# text = Ir eksceso dėl Benjamino religinio radikalizmo jai pakanka, jog į kovą mestų sunkiąją artileriją, tai tampa impulsu.
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	eksceso	ekscesas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	Benjamino	Benjaminas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+5	religinio	religinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+6	radikalizmo	radikalizmas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	jai	jis	PRON	įv.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsdn
+8	pakanka	pakakti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+12	kovą	kova	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+13	mestų	mesti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+14	sunkiąją	sunkus	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsay
+15	artileriją	artilerija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	tampa	tapti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	impulsu	impulsas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s62
+# text = Čia galiausiai ir atsiskleidžia jos trumparegiškumas ir karjeristinis fanatizmas.
+1	Čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	galiausiai	galiausiai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+3	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+4	atsiskleidžia	atsiskleisti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+5	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+6	trumparegiškumas	trumparegiškumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	karjeristinis	karjeristinis	X	kt.	_	_	_	_	Multext=X-
+9	fanatizmas	fanatizmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p17
+# sent_id = LRT_SOC_007-s63
+# text = – Pagrindiniam Benjamino vaidmeniui pakvietei VST trupės aktorių Igorį Abramovičių.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Pagrindiniam	pagrindinis	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsdn
+3	Benjamino	Benjaminas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+4	vaidmeniui	vaidmuo	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+5	pakvietei	pakviesti	VERB	vksm.asm.tiesiog.būt-k.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma2s--n--ni-
+6	VST	VST	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+7	trupės	trupė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+8	aktorių	aktorius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+9	Igorį	Igoris	PROPN	dkt.tikr.vrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsanf
+10	Abramovičių	Abramovičius	PROPN	dkt.tikr.pvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsans
+11	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s64
+# text = Kas lėmė tokį sprendimą?
+1	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	lėmė	lemti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	tokį	toks	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+4	sprendimą	sprendimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+5	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p18
+# sent_id = LRT_SOC_007-s65
+# text = – VST žiūrint spektaklį „Rozenkrancas ir Gildensternas mirę“ Igoris man labai patiko, įstrigo jo organika, vaidyba duete su partneriu.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	VST	VST	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+3	žiūrint	žiūrėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+4	spektaklį	spektaklis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+5	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+6	Rozenkrancas	Rozenkrancas	X	kt.	_	_	_	_	Multext=X-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	Gildensternas	Gildensternas	X	kt.	_	_	_	_	Multext=X-
+9	mirę	mirti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-pmannnn-p
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	Igoris	Igoris	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+12	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+13	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	patiko	patikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	įstrigo	įstrigti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+17	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	organika	organika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	vaidyba	vaidyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+21	duete	duetas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+22	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+23	partneriu	partneris	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s66
+# text = Apskritai pasirinkimą nulėmė jo santykis su medžiaga.
+1	Apskritai	apskritai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	pasirinkimą	pasirinkimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+3	nulėmė	nulemti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+5	santykis	santykis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+7	medžiaga	medžiaga	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsin-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s67
+# text = Igoris kone į viską žiūri labai kritiškai, turi savo nuomonę, o tai tokiam personažui labai padeda.
+1	Igoris	Igoris	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+2	kone	kone	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+5	žiūri	žiūrėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	kritiškai	kritiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+11	nuomonę	nuomonė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	tokiam	toks	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+16	personažui	personažas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsdn-
+17	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	padeda	padėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s68
+# text = Tuomet automatiškai atsiveria erdvė į viską pasižiūrėti satyriškai, paletė labai išsiplečia.
+1	Tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	automatiškai	automatiškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	atsiveria	atsiverti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+4	erdvė	erdvė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+5	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	viską	viskas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+7	pasižiūrėti	pasižiūrėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+8	satyriškai	satyriškai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	paletė	paletė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+11	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	išsiplečia	išsiplėsti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--yi-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s69
+# text = Scenoje jo santykis su viskuo yra per atstumą, bet jis valingas, taip net įpučia kažkokios vokiškos nuotaikos, lengvumo.
+1	Scenoje	scena	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+3	santykis	santykis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+5	viskuo	viskas	PRON	įv.Įn.	Case=Ins	_	_	_	Multext=Pg--in
+6	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	atstumą	atstumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+12	valingas	valingas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+15	net	net	PART	dll.	_	_	_	_	Multext=Qg
+16	įpučia	įpūsti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+17	kažkokios	kažkoks	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+18	vokiškos	vokiškas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+19	nuotaikos	nuotaika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	lengvumo	lengvumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+22	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s70
+# text = Kai visi kartu pirmą kartą skaitėme pjesę, iš karto pasakiau – reikia daryti juodą komediją, patalpa turėtų būti neoninė – lyg Las Vegase, kur „neoninės“ bažnyčios ir panašiai.
+1	Kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	pirmą	pirmas	ADJ	sktv.raid.kelint.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsaln
+5	kartą	kartas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	skaitėme	skaityti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1p--n--ni-
+7	pjesę	pjesė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	iš karto	iš karto	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	pasakiau	pasakyti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+11	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+12	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+13	daryti	daryti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+14	juodą	juodas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsan
+15	komediją	komedija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	patalpa	patalpa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+18	turėtų	turėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+19	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	neoninė	neoninis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsnn
+21	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+22	lyg	lyg	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	Las	Las	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Npc--ng
+24	Vegase	Vegasas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	kur	kur	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+27	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+28	neoninės	neoninis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpfsgn
+29	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+30	bažnyčios	bažnyčia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+31	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+32	panašiai	panašiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+33	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s71
+# text = Visas šis panoptikumas – apie rimtus dalykus, bet kaimo koncertų stilistika, kai atrodo, kad nuo savęs nori pabėgti absoliučiai visi.
+1	Visas	visas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+3	panoptikumas	panoptikumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+5	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+6	rimtus	rimtas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+7	dalykus	dalykas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	kaimo	kaimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+11	koncertų	koncertas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	stilistika	stilistika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	atrodo	atrodyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+18	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+19	savęs	savęs	PRON	įv.K.	Case=Gen	_	_	_	Multext=Pg--gn
+20	nori	norėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	pabėgti	pabėgti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+22	absoliučiai	absoliučiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpnn
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_SOC_007-p19
+# sent_id = LRT_SOC_007-s72
+# text = – Nuolat grįžti prie šiuolaikinės dramaturgijos, ypač vokiškos.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Nuolat	nuolat	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	grįžti	grįžti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+4	prie	prie	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+5	šiuolaikinės	šiuolaikinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+6	dramaturgijos	dramaturgija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	vokiškos	vokiškas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpfpnn
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s73
+# text = To paties M. von Mayenburgo pjesę „Akmuo“ esi statęs Nacionaliniame dramos teatre 2012-aisiais.
+1	To paties	tas pats	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+2	M.	M.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+3	von	von	INTJ	jst.substnd.	Style=Slng	_	_	_	Multext=In
+4	Mayenburgo	Mayenburgo	X	kt.	_	_	_	_	Multext=X-
+5	pjesę	pjesė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+6	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+7	Akmuo	akmuo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+8	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+9	esi	būti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp2s--n--ni-
+10	statęs	statyti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+11	Nacionaliniame	nacionalinis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+12	dramos	drama	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	teatre	teatras	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+14	2012-aisiais	2012-aisiais	NUM	sktv.mišr.	NumForm=Combi	_	_	_	SpaceAfter=No|Multext=M----m-
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s74
+# text = Kas lemia tokį susidomėjimą šiuolaikiniais autoriais?
+1	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+2	lemia	lemti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	tokį	toks	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+4	susidomėjimą	susidomėjimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsay-
+5	šiuolaikiniais	šiuolaikinis	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpin
+6	autoriais	autorius	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+7	?	?	PUNCT	skyr.	_	_	_	_	Multext=Tq
+
+# newpar id = LRT_SOC_007-p20
+# sent_id = LRT_SOC_007-s75
+# text = – Visi mano statyti šiuolaikinės dramaturgijos autorių kūriniai yra labai skirtingi, ypač autorių mąstymo būdas.
+1	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	Visi	visas	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	mano	manyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	statyti	statyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+5	šiuolaikinės	šiuolaikinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+6	dramaturgijos	dramaturgija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	autorių	autorius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	kūriniai	kūrinys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+9	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	skirtingi	skirtingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	autorių	autorius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	mąstymo	mąstymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	būdas	būdas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s76
+# text = Vienija galbūt tik mozaikinis, kaleidoskopinis rašymo stilius, scenų „sudaužymas“ į trumpus, lakoniškus fragmentus.
+1	Vienija	vienyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+2	galbūt	galbūt	PART	dll.	_	_	_	_	Multext=Qg
+3	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	mozaikinis	mozaikinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kaleidoskopinis	kaleidoskopinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+7	rašymo	rašymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	stilius	stilius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	scenų	scena	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+11	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+12	sudaužymas	sudaužymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+13	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	trumpus	trumpas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpan
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	lakoniškus	lakoniškas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+18	fragmentus	fragmentas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s77
+# text = Tarkim, Rolandas Schimmelpfennigas – jis man kaip atėjęs iš Šecherezados pasakų.
+1	Tarkim	tarkim	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	Rolandas	Rolandas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+4	Schimmelpfennigas	Schimmelpfennigas	X	kt.	_	_	_	_	Multext=X-
+5	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+6	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+7	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing	_	_	_	Multext=Pg-sdn
+8	kaip	kaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	atėjęs	ateiti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+10	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	Šecherezados	Šecherezados	X	kt.	_	_	_	_	Multext=X-
+12	pasakų	pasaka	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s78
+# text = Magiškasis realistas, kaip Rene Magritteʼas dailėje, taip jis literatūroje.
+1	Magiškasis	magiškas	ADJ	bdv.nelygin.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsny
+2	realistas	realistas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	Rene	Renė	PROPN	dkt.tikr.vrd.mot.vns.Įn.	Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsinf
+6	Magritteʼas	Magritteʼas	X	kt.	_	_	_	_	Multext=X-
+7	dailėje	dailė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+10	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+11	literatūroje	literatūra	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s79
+# text = O Mayenburgas daug sausesnis, jo pjesė „Akmuo“ bendrame jo dramaturgijos kontekste galbūt nėra pats didžiausias laimėjimas.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	Mayenburgas	Mayenburgas	X	kt.	_	_	_	_	Multext=X-
+3	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	sausesnis	sausas	ADJ	bdv.aukšt.vyr.vns.V.	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agcmsnn
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+7	pjesė	pjesė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+8	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Akmuo	akmuo	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	bendrame	bendras	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+12	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+13	dramaturgijos	dramaturgija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	kontekste	kontekstas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+15	galbūt	galbūt	PART	dll.	_	_	_	_	Multext=Qg
+16	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+17	pats	pats	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+18	didžiausias	didis	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsnn
+19	laimėjimas	laimėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s80
+# text = Vis dėlto ir tada repetuojant ganėtinai jautėsi, kad tai pjesė, parašyta pagal užsakymą, labai konkrečiai progai.
+1	Vis dėlto	vis dėlto	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	tada	tada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	repetuojant	repetuoti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+5	ganėtinai	ganėtinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	jautėsi	jaustis	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--yi-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+10	pjesė	pjesė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	parašyta	parašyti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+13	pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+14	užsakymą	užsakymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	labai	labai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+17	konkrečiai	konkrečiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+18	progai	proga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+19	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s81
+# text = O „Kankinys“ turi daug daugiau dedamųjų, kad išliktų meno istorijoje.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+3	Kankinys	kankinys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+4	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+5	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	daug	daug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+8	dedamųjų	dėti	VERB	vksm.dlv.neveik.es.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnygn-p
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+11	išliktų	išlikti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	meno	menas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	istorijoje	istorija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s82
+# text = Visų pirma todėl, kad čia panaudotos Biblijos, šventraščio citatos, istorijos.
+1	Visų pirma	visų pirma	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	čia	čia	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	panaudotos	panaudoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+7	Biblijos	Biblija	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	šventraščio	šventraštis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	citatos	citata	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	istorijos	istorija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s83
+# text = Šiuolaikinėje dramaturgijoje yra trys dalykai, kuriuos vienaip ar kitaip iškeliant, ištraukiant į paviršių, visą laiką sulauksi vienokio ar kitokio rezonanso.
+1	Šiuolaikinėje	šiuolaikinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+2	dramaturgijoje	dramaturgija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+3	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+4	trys	trys	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+5	dalykai	dalykas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kuriuos	kuris	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+8	vienaip	vienaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	iškeliant	iškelti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgap----n--n--
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	ištraukiant	ištraukti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+14	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+15	paviršių	paviršius	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	visą	visas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+18	laiką	laikas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+19	sulauksi	sulaukti	VERB	vksm.asm.tiesiog.būs.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf2s--n--ni-
+20	vienokio	vienoks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+21	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+22	kitokio	kitoks	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+23	rezonanso	rezonansas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+24	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s84
+# text = Tiek tarp kūrėjų, tiek tarp žiūrovų.
+1	Tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+3	kūrėjų	kūrėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+6	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	žiūrovų	žiūrovas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s85
+# text = Tai yra politika, religija ir seksas.
+1	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+2	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	politika	politika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	religija	religija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	seksas	seksas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_SOC_007-s86
+# text = Visais laikais tai buvo amžiniausios temos, kurios turės didelį rezonansą.
+1	Visais	visas	PRON	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpin
+2	laikais	laikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+3	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+4	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	amžiniausios	amžinas	ADJ	bdv.aukšč.mot.dgs.V.	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	_	_	_	Multext=Agsfpnn
+6	temos	tema	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kurios	kuris	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpnn
+9	turės	turėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+10	didelį	didelis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+11	rezonansą	rezonansas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

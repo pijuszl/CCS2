@@ -1,0 +1,13 @@
+# Robustness ablation: train multimodal with higher modality_dropout.
+tag: modality_dropout
+model_kind: multimodal
+dataset:
+  use_scraped: true
+  image_required: false
+train:
+  epochs: 4
+  batch_size: 4
+  grad_accum: 8
+  lr: 2.0e-5
+  modality_dropout: 0.5
+  loss: focal

@@ -1,0 +1,46 @@
+# Core ML / data
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.27
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0
+pyyaml>=6.0
+tqdm>=4.66
+python-dotenv>=1.0
+
+# Vision encoders
+open_clip_torch>=2.24
+einops>=0.7
+Pillow>=10.0
+imagehash>=4.3
+
+# Scraping
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+urllib3>=2.0
+tenacity>=8.2
+
+# Stats / interpretability
+statsmodels>=0.14
+shap>=0.44
+lime>=0.2.0.1
+captum>=0.7
+
+# Plots
+matplotlib>=3.7
+seaborn>=0.13
+
+# LT NLP optional
+langdetect>=1.0.9
+# spacy + lt model are optional; install separately if desired
+# spacy>=3.7
+
+# Joint-alt (jina-clip-v2) is fetched via transformers; no extra pin needed.
+
+# Tests
+pytest>=7.4

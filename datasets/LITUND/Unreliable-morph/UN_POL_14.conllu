@@ -1,0 +1,469 @@
+# newdoc id = UN_POL_14
+# newpar id = UN_POL_14-p1
+# sent_id = UN_POL_14-s1
+# text = Baltųjų rūmų gydytojo bomba: ‘Bidenui išrašomi vaistai nuo demencijos, kad jis išgyventų dieną’
+1	Baltųjų	baltas	ADJ	bdv.nelygin.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgy
+2	rūmų	rūmai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	gydytojo	gydytojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	bomba	bomba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+5	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+6	‘	‘	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=X-
+7	Bidenui	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+8	išrašomi	išrašyti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pmpnnnn-p
+9	vaistai	vaistas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+10	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	demencijos	demencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+14	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	išgyventų	išgyventi	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+16	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+17	’	’	PUNCT	skyr.	_	_	_	_	Multext=X-
+
+# newpar id = UN_POL_14-p2
+# sent_id = UN_POL_14-s2
+# text = Baltųjų rūmų gydytojas Ronny Džeksonas (Ronny Jackson) atskleidė, kad Joe Bidenas vartoja vaistus nuo demencijos, kurie jam padeda išgyventi dieną, ir netrukus bus priverstas atsistatydinti, nes jo kognityvinės funkcijos prastėja.
+1	Baltųjų	baltas	ADJ	bdv.nelygin.įvardž.vyr.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgy
+2	rūmų	rūmai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+3	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	Ronny	Ronny	X	kt.	_	_	_	_	Multext=X-
+5	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	Ronny	Ronny	X	kt.	_	_	_	_	Multext=X-
+8	Jackson	Jackson	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+10	atskleidė	atskleisti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+13	Joe	Joe	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+14	Bidenas	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+15	vartoja	vartoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	vaistus	vaistas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+18	demencijos	demencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+21	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+22	padeda	padėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+23	išgyventi	išgyventi	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+24	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+25	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+26	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+27	netrukus	netrukus	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+28	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+29	priverstas	priversti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+30	atsistatydinti	atsistatydinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+33	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+34	kognityvinės	kognityvinis	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+35	funkcijos	funkcija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+36	prastėja	prastėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+37	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s3
+# text = R. Džeksonas pateikė šiuos sensacingus teiginius Marijos Bartiromo (Maria Bartiromo) laidoje "Sunday Morning Futures Fox News".
+1	R.	R.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+2	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+3	pateikė	pateikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	šiuos	šis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+5	sensacingus	sensacingas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+6	teiginius	teiginys	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+7	Marijos	Marija	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+8	Bartiromo	Bartiromo	X	kt.	_	_	_	_	Multext=X-
+9	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+10	Maria	marus	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsin
+11	Bartiromo	Bartiromo	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+12	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+13	laidoje	laida	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+14	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	Sunday	Sunday	X	kt.	_	_	_	_	Multext=X-
+16	Morning	Morning	X	kt.	_	_	_	_	Multext=X-
+17	Futures	Futures	X	kt.	_	_	_	_	Multext=X-
+18	Fox	Fox	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+19	News	News	PROPN	dkt.tikr.	_	_	_	_	SpaceAfter=No|Multext=Npc--n-
+20	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s4
+# text = "Ar jie tai slepia ir maitina jį vaistais, kad jis galėtų funkcionuoti?"
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+4	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+5	slepia	slėpti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	maitina	maitinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+8	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+9	vaistais	vaistas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpin-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+13	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+14	funkcionuoti	funkcionuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+15	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+16	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_POL_14-s5
+# text = - klausė M. Bartiromo ir pridūrė: "Žinau, kad jis dažnai vyksta namo į Delaverą, dažniau nei bet kuris kitas prezidentas."
+1	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+2	klausė	klausti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	M.	M.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	Bartiromo	Bartiromo	X	kt.	_	_	_	_	Multext=X-
+5	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+7	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+8	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+9	Žinau	žinoti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+12	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+13	dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	namo	namo	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+17	Delaverą	Delaveras	PROPN	dkt.tikr.vtvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsang
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	dažniau	dažnai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+20	nei	nei	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	bet kuris	bet kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+22	kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+23	prezidentas	prezidentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+24	.	.	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tp
+25	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_POL_14-s6
+# text = "Kas dabar vadovauja Baltiesiems rūmams ir ar jie slepia šias psichikos problemas?"
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+3	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	vadovauja	vadovauti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	Baltiesiems	baltas	ADJ	bdv.nelygin.įvardž.vyr.dgs.N.	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpdy
+6	rūmams	rūmai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpdn-
+7	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+8	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+10	slepia	slėpti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	šias	šis	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+12	psichikos	psichika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+13	problemas	problema	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+14	?	?	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tq
+15	"	"	PUNCT	skyr.	_	_	_	_	Multext=Tu
+
+# sent_id = UN_POL_14-s7
+# text = Džeksono buvo paklausta.
+1	Džeksono	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+2	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	paklausta	paklausti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgps--npnn-n-p
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_POL_14-p3
+# sent_id = UN_POL_14-s8
+# text = Summit.news
+1	Summit.news	Summit.news	X	kt.	_	_	_	_	Multext=X-
+
+# sent_id = UN_POL_14-s9
+# text = pranešimai: "Kas traukia už virvučių, kas dabar valdo šalį, mes tikrai nežinome atsakymo į šį klausimą", - atsakė Džeksonas, kuris buvo ir Barako Obamos (Barack Obama), ir Donaldo Trampo (Donald Trump) asmeninis gydytojas.
+1	pranešimai	pranešimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+2	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+3	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+4	Kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+5	traukia	traukti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	už	už	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	virvučių	virvutė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+10	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+11	valdo	valdyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+12	šalį	šalis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+15	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	nežinome	nežinoti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--y--ni-
+17	atsakymo	atsakymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+19	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+20	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+21	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+24	atsakė	atsakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+25	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+28	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+29	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+30	Barako	Barakas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+31	Obamos	Obama	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+32	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+33	Barack	Barack	X	kt.	_	_	_	_	Multext=X-
+34	Obama	Obama	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+35	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	Donaldo	Donaldas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+39	Trampo	Trampas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+40	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+41	Donald	Donald	X	kt.	_	_	_	_	Multext=X-
+42	Trump	Trump	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+43	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+44	asmeninis	asmeninis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+45	gydytojas	gydytojas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+46	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s10
+# text = "Jie jį valdo tam tikru dienos metu, jam būna gerų ir blogų dienų, ar jie turi vaistų, aš nežinau, yra vaistų, kurie gali padidinti atmintį, budrumą ir panašius dalykus, ir laikinai paslėpti tokius dalykus, todėl esu tikras, kad kažkas iš to vyksta", - pridūrė kongresmenas.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+3	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+4	valdo	valdyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+5	tam tikru	tam tikras	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+6	dienos	diena	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+7	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+10	būna	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+11	gerų	geras	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	blogų	blogas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+14	dienų	diena	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpgn-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+17	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+18	turi	turėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+19	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+20	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+21	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+22	nežinau	nežinoti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--y--ni-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	vaistų	vaistas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+26	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+27	kurie	kuris	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+28	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+29	padidinti	padidinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+30	atmintį	atmintis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+31	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+32	budrumą	budrumas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+33	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+34	panašius	panašus	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+35	dalykus	dalykas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+36	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+37	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+38	laikinai	laikinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+39	paslėpti	paslėpti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+40	tokius	toks	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpan
+41	dalykus	dalykas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+42	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+43	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+44	esu	būti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1s--n--ni-
+45	tikras	tikras	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+46	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+47	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+48	kažkas	kažkas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+49	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+50	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+51	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+52	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+53	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+54	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+55	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+56	kongresmenas	kongresmenas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+57	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s11
+# text = Džeksonas paragino J. Baideno gydytoją sąžiningiau kalbėti apie šią situaciją, pažymėdamas, kad iš pradžių jam buvo leista tapti prezidentu tik tam, kad visame Vakarų sparne galėtų apsigyventi B. Obamai ištikimi žmonės.
+1	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+2	paragino	paraginti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+3	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+4	Baideno	Baidenas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+5	gydytoją	gydytojas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	sąžiningiau	sąžiningai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+7	kalbėti	kalbėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+8	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	šią	šis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+10	situaciją	situacija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	pažymėdamas	pažymėti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	SpaceAfter=No|Multext=Vgh--sm-n--n--
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	iš pradžių	iš pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsdn
+17	buvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+18	leista	leisti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps--npnn-n-p
+19	tapti	tapti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+20	prezidentu	prezidentas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+21	tik	tik	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+22	tam	tam	ADV	prv.nelygin.	Degree=Pos	_	_	_	SpaceAfter=No|Multext=Rgp
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+25	visame	visas	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+26	Vakarų	vakarai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+27	sparne	sparnas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+28	galėtų	galėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+29	apsigyventi	apsigyventi	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+30	B.	B.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+31	Obamai	Obama	PROPN	dkt.tikr.pvrd.vyr.vns.N.	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsdns
+32	ištikimi	ištikimas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+33	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+34	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s12
+# text = Toliau kongresmenas tvirtino manantis, kad J. Bidenas atsistatydins iki 2024 m., nes su amžiumi jo kognityvinės funkcijos "blogės, o ne gerės", ir pridūrė, kad kaip pretekstas jį nušalinti gali būti panaudota kita priežastis, pavyzdžiui, Hanterio Bideno skandalas.
+1	Toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+2	kongresmenas	kongresmenas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	tvirtino	tvirtinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	manantis	manyti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpp-smannnn-p
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	Bidenas	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+9	atsistatydins	atsistatydinti	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--yi-
+10	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+11	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+12	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+15	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+16	amžiumi	amžius	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+17	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+18	kognityvinės	kognityvinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+19	funkcijos	funkcija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+20	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+21	blogės	blogėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+24	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+25	gerės	gerėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+26	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+29	pridūrė	pridurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma3---n--ni-
+30	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+31	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+32	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+33	pretekstas	pretekstas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+34	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+35	nušalinti	nušalinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+36	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+37	būti	būti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+38	panaudota	panaudoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+39	kita	kitas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+40	priežastis	priežastis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+41	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+42	pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsdn-
+43	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+44	Hanterio	Hanterio	X	kt.	_	_	_	_	Multext=X-
+45	Bideno	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+46	skandalas	skandalas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+47	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s13
+# text = "Manau, kad jie ieškos progos mesti jį po autobusu per ateinančius kelis... mėnesius ir bandys juo atsikratyti, nes manau, kad jie taip pat žino, jog jis negali sulaukti šios kadencijos pabaigos 2024 m.", - sakė Džeksonas.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+6	ieškos	ieškoti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+7	progos	proga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+8	mesti	mesti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+9	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+10	po	po	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+11	autobusu	autobusas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+12	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+13	ateinančius	ateiti	VERB	vksm.dlv.veik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-pmannan-p
+14	kelis	keli	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Pgmpan
+15	...	...	PUNCT	skyr.	_	_	_	_	Multext=Ti
+16	mėnesius	mėnuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	bandys	bandyti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+19	juo	juo	CCONJ	jng.	_	_	_	_	Multext=Cg
+20	atsikratyti	atsikratyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--y--
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	nes	nes	SCONJ	jng.	_	_	_	_	Multext=Cg
+23	manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1s--n--ni-
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+26	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+27	taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+28	žino	žinoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	jog	jog	SCONJ	jng.	_	_	_	_	Multext=Cg
+31	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+32	negali	negalėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+33	sulaukti	sulaukti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+34	šios	šis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+35	kadencijos	kadencija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+36	pabaigos	pabaiga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+37	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+38	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+39	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+40	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+41	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+42	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+43	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+44	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s14
+# text = Kaip jau anksčiau pabrėžėme, Džeksonas nesitraukė nuo klausimų apie J. Bideno kognityvinius sutrikimus, nors iš Barako Obamos gavo piktą laišką, smerkiantį jį už diskusijas apie tai.
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	anksčiau	anksti	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	pabrėžėme	pabrėžti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1p--n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	Džeksonas	Džeksonas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsnns
+7	nesitraukė	nesitraukti	VERB	vksm.asm.neig.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--yi-
+8	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+9	klausimų	klausimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+11	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	Bideno	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+13	kognityvinius	kognityvinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+14	sutrikimus	sutrikimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpan-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+17	iš	iš	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+18	Barako	Barakas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsgnf
+19	Obamos	Obama	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+20	gavo	gauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+21	piktą	piktas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+22	laišką	laiškas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	smerkiantį	smerkti	VERB	vksm.dlv.veik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannan-p
+25	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+26	už	už	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+27	diskusijas	diskusija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+28	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+29	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	SpaceAfter=No|Multext=Pgn--n
+30	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_POL_14-s15
+# text = Kaip tyrinėjame toliau pateiktame vaizdo įraše, keistas J. Bideno elgesys ir žodiniai nesklandumai dabar tokie reguliarūs, kad tampa nebeįmanoma nuslėpti to, kas akivaizdu.
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	tyrinėjame	tyrinėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+3	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	pateiktame	pateikti	VERB	vksm.dlv.neveik.būt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnln-p
+5	vaizdo	vaizdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	įraše	įrašas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	keistas	keistas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+9	J.	J.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+10	Bideno	Bidenas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	Multext=Npmsgns
+11	elgesys	elgesys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+12	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+13	žodiniai	žodinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+14	nesklandumai	nesklandumas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+15	dabar	dabar	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+16	tokie	toks	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+17	reguliarūs	reguliarus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Agpmpnn
+18	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+19	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+20	tampa	tapti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+21	nebeįmanoma	nebeįmanomas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	Multext=Agpn--n
+22	nuslėpti	nuslėpti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+23	to	tas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+24	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+25	kas	kas	PRON	įv.V.	Case=Nom	_	_	_	Multext=Pg--nn
+26	akivaizdu	akivaizdus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

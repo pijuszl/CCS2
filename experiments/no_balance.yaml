@@ -1,0 +1,14 @@
+# With balanced cross-entropy turned off (no class weights, no focal loss).
+tag: no_balance
+model_kind: text
+dataset:
+  use_scraped: false
+  image_required: false
+train:
+  epochs: 4
+  batch_size: 8
+  grad_accum: 4
+  lr: 2.0e-5
+  loss: ce
+balance:
+  strategy: none

@@ -1,0 +1,31 @@
+# Auxiliary pretraining of the vision encoder on weak image labels.
+#
+# Currently both scraped sources (rubaltic_lt, bukimevieningi_lt) are
+# `source_type: propaganda`, so the binary head sees only one class and
+# pretraining is a no-op. This config becomes meaningful once at least one
+# neutral source (e.g. LRT, lrytas.lt, Delfi) is added to config/sources.yaml
+# and re-scraped. See README §"Vision aux pretraining" before running.
+#
+# Run:
+#   python -m src.models.train --config experiments/vision_aux_pretrain.yaml
+#
+# Output: a vision-encoder checkpoint to load with `pretrained_vision:`
+# in subsequent multimodal experiments.
+
+tag: vision_aux_pretrain
+model_kind: vision_only        # train just the encoder + binary head
+dataset:
+  use_scraped: true
+  image_required: true
+  weak_label_source: image_weak_labels   # use data/interim/image_weak_labels.parquet
+  classes: ["non", "propaganda"]         # binary
+vision:
+  freeze_until_layer: 0
+  aux_binary: true
+train:
+  epochs: 3
+  batch_size: 16
+  grad_accum: 2
+  lr: 1.0e-4
+  loss: ce
+  modality_dropout: 0.0

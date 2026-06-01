@@ -1,0 +1,13 @@
+tag: text_xlmr_existing
+model_kind: text
+dataset:
+  use_scraped: false
+  image_required: false
+text:
+  freeze_until_layer: 0
+train:
+  epochs: 4
+  batch_size: 8
+  grad_accum: 4
+  lr: 2.0e-5
+  loss: focal

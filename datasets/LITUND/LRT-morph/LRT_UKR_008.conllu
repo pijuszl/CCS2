@@ -1,0 +1,492 @@
+# newdoc id = LRT_UKR_008
+# newpar id = LRT_UKR_008-p1
+# sent_id = LRT_UKR_008-s1
+# text = Rusijos karas prieš Ukrainą.
+1	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+2	karas	karas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfsang
+5	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s2
+# text = Davose viešintis Jermakas: arba mes pralaimime ir išnyksime, arba laimėsime ir gyvensime toliau
+1	Davose	Davosas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+2	viešintis	viešėti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannnn-p
+3	Jermakas	Jermakas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+4	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+5	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+7	pralaimime	pralaimėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	išnyksime	išnykti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf1p--n--ni-
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	laimėsime	laimėti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	gyvensime	gyventi	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+15	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+
+# newpar id = LRT_UKR_008-p2
+# sent_id = LRT_UKR_008-s3
+# text = 690-oji Rusijos karo prieš Ukrainą diena.
+1	690-oji	690-oji	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+2	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+3	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	prieš	prieš	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+5	Ukrainą	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsang
+6	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s4
+# text = Paprastos paliaubos nenutrauktų Rusijos agresijos Ukrainoje, būdamas valstybių vadovų patarėjų susitikime Davose sako Ukrainos prezidento kanceliarijos vadovas Andrijus Jermakas.
+1	Paprastos	paprastas	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpnn
+2	paliaubos	paliaubos	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+3	nenutrauktų	nenutraukti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	_	_	_	Multext=Vgm-3---y--ns-
+4	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	agresijos	agresija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslng
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	būdamas	būti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	_	_	_	Multext=Vgh--sm-n--n--
+9	valstybių	valstybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+10	vadovų	vadovas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	patarėjų	patarėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	susitikime	susitikimas	NOUN	dkt.sngr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsly-
+13	Davose	Davosas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+14	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+15	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+16	prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	kanceliarijos	kanceliarija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	vadovas	vadovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+19	Andrijus	Andrijus	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsnnf
+20	Jermakas	Jermakas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s5
+# text = Anot jo, šitaip būtų suteikta pertrauka, kurią rusai panaudotų savo pajėgoms stiprinti.
+1	Anot	anot	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsgn
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	šitaip	šitaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	būtų	būti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+6	suteikta	suteikti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpnnnn-p
+7	pertrauka	pertrauka	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	kurią	kuris	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsan
+10	rusai	rusas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+11	panaudotų	panaudoti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	_	_	_	Multext=Vgm-3---n--ns-
+12	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+13	pajėgoms	pajėgos	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+14	stiprinti	stiprinti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p3
+# sent_id = LRT_UKR_008-s6
+# text = „Tai tikrai nėra kelias į taiką.
+1	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+3	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+5	kelias	kelias	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+7	taiką	taika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s7
+# text = Rusai nenori taikos.
+1	Rusai	rusas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+2	nenori	nenorėti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---y--ni-
+3	taikos	taika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsgn-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s8
+# text = Jie nori dominavimo.
+1	Jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+2	nori	norėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	dominavimo	dominavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+4	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s9
+# text = Taigi pasirinkimas paprastas: arba mes pralaimime ir išnyksime – arba laimėsime ir gyvensime toliau.
+1	Taigi	taigi	PART	dll.	_	_	_	_	Multext=Qg
+2	pasirinkimas	pasirinkimas	NOUN	dkt.sngr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsny-
+3	paprastas	paprastas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsnn
+4	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+5	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+6	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+7	pralaimime	pralaimėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp1p--n--ni-
+8	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+9	išnyksime	išnykti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+10	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	arba	arba	CCONJ	jng.	_	_	_	_	Multext=Cg
+12	laimėsime	laimėti	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+13	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+14	gyvensime	gyventi	VERB	vksm.asm.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf1p--n--ni-
+15	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	_	_	_	SpaceAfter=No|Multext=Rgc
+16	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s10
+# text = Ir mes kovojame“, – sakė A. Jermakas.
+1	Ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur	_	_	_	Multext=Pg-pnn
+3	kovojame	kovoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp1p--n--ni-
+4	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+7	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+8	A.	A.	PROPN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	Jermakas	Jermakas	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnns
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p4
+# sent_id = LRT_UKR_008-s11
+# text = Kremliuje ir Rusijos informacinėje erdvėje vyksta „klanų karas“ prezidento rinkimų kampanijos fone, rašoma JAV Karo studijų instituto (ISW) ataskaitoje.
+1	Kremliuje	kremlius	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+2	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+3	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+4	informacinėje	informacinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+5	erdvėje	erdvė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+6	vyksta	vykti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+8	klanų	klanas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	karas	karas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+10	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+11	prezidento	prezidentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	rinkimų	rinkimai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+13	kampanijos	kampanija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	fone	fonas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+15	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+16	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+17	JAV	JAV	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+18	Karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	studijų	studijos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+20	instituto	institutas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+21	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+22	ISW	ISW	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+23	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+24	ataskaitoje	ataskaita	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s12
+# text = Taip pranešama pasirodžius serbų samdinio vaizdo kreipimuisi į Rusijos prezidentą Vladimirą Putiną.
+1	Taip	taip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	pranešama	pranešti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp--npnn-n-p
+3	pasirodžius	pasirodyti	VERB	vksm.pad.sngr.būt-k.	Reflex=Yes|Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--y--
+4	serbų	serbas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+5	samdinio	samdinys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	vaizdo	vaizdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	kreipimuisi	kreipimasis	NOUN	dkt.sngr.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	Multext=Ncmsdy-
+8	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+9	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+10	prezidentą	prezidentas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	Vladimirą	Vladimiras	PROPN	dkt.tikr.vrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	_	_	_	Multext=Npmsanf
+12	Putiną	Putinas	PROPN	dkt.tikr.pvrd.vyr.vns.G.	Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsans
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s13
+# text = Jame išsakoma kritika Rusijos karinei vadovybei.
+1	Jame	jis	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+2	išsakoma	išsakyti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-sfpnnnn-p
+3	kritika	kritika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+4	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	karinei	karinis	ADJ	bdv.nelygin.mot.vns.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsdn
+6	vadovybei	vadovybė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsdn-
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s14
+# text = Serbų snaiperis Dejanas Beričius sausio 8 d. paskelbė vaizdo kreipimąsi, kuriame apkaltino Rusijos oro desanto pulko karinius vadus blogai elgiantis su serbų samdiniais „Vilkų“ (Volki) būryje.
+1	Serbų	serbas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+2	snaiperis	snaiperis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	Dejanas	Dejanas	X	kt.	_	_	_	_	Multext=X-
+4	Beričius	Beričius	X	kt.	_	_	_	_	Multext=X-
+5	sausio	sausis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+6	8	8	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+7	d.	d.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+8	paskelbė	paskelbti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+9	vaizdo	vaizdas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	kreipimąsi	kreipimasis	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No|Multext=Ncmsay-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+13	apkaltino	apkaltinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+14	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+15	oro	oras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+16	desanto	desantas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	pulko	pulkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	karinius	karinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpan
+19	vadus	vadas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+20	blogai	blogai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+21	elgiantis	elgtis	VERB	vksm.pad.sngr.es.	Reflex=Yes|Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--y--
+22	su	su	ADP	prl.Įn.	Case=Ins	_	_	_	Multext=Sgi
+23	serbų	serbas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+24	samdiniais	samdinys	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpin-
+25	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+26	Vilkų	Vilkai	PROPN	dkt.tikr.vtvrd.vyr.dgs.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Plur	_	_	_	SpaceAfter=No|Multext=Npmpgng
+27	“	“	PUNCT	skyr.	_	_	_	_	Multext=Tu
+28	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+29	Volki	Volki	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+30	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+31	būryje	būrys	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p5
+# sent_id = LRT_UKR_008-s15
+# text = Taip pat penktadienį gaisras sunaikino didelį sandėlį Sankt Peterburge, priklausantį didžiausiai Rusijos interneto parduotuvei „Wildberries“.
+1	Taip pat	taip pat	PART	dll.	_	_	_	_	Multext=Qg
+2	penktadienį	penktadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+3	gaisras	gaisras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	sunaikino	sunaikinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+5	didelį	didelis	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+6	sandėlį	sandėlis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+7	Sankt	Sankt	PROPN	dkt.tikr.vtvrd.	NameType=Geo	_	_	_	Multext=Npc--ng
+8	Peterburge	Peterburgas	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmslng
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	priklausantį	priklausyti	VERB	vksm.dlv.veik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannan-p
+11	didžiausiai	didžiai	ADV	prv.aukšč.	Degree=Sup	_	_	_	Multext=Rgs
+12	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+13	interneto	internetas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+14	parduotuvei	parduotuvė	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsdn-
+15	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+16	Wildberries	Wildberries	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+18	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p6
+# sent_id = LRT_UKR_008-s16
+# text = Šis sandėlis pagarsėjęs kaip imigrantų darbo vieta.
+1	Šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+2	sandėlis	sandėlis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	pagarsėjęs	pagarsėti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+4	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	imigrantų	imigrantas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+8	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s17
+# text = Sandėlyje kilus masinėms muštynėms tarp darbuotojų, Rusijos valdžios institucijos surengė reidą sandėlyje, kurio metu keli migrantai gavo šaukimus į kariuomenę, rašo ISW analitikai.
+1	Sandėlyje	sandėlis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+2	kilus	kilti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	_	_	_	Multext=Vgaa----n--n--
+3	masinėms	masinis	ADJ	bdv.nelygin.mot.dgs.N.	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpdn
+4	muštynėms	muštynės	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpdn-
+5	tarp	tarp	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+6	darbuotojų	darbuotojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+9	valdžios	valdžia	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+10	institucijos	institucija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	surengė	surengti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	reidą	reidas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+13	sandėlyje	sandėlis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+16	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsin-
+17	keli	keli	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Pgmpnn
+18	migrantai	migrantas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+19	gavo	gauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	šaukimus	šaukimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpan-
+21	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+22	kariuomenę	kariuomenė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsan-
+23	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+24	rašo	rašyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	ISW	ISW	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+26	analitikai	analitikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+27	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p7
+# sent_id = LRT_UKR_008-s18
+# text = ISW pateikia naujausią Ukrainos žemėlapį, kuriame užfiksuotos Ukrainos ir Rusijos pajėgų kontroliuojamos teritorijos:
+1	ISW	ISW	PROPN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+2	pateikia	pateikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	naujausią	naujas	ADJ	bdv.aukšč.mot.vns.G.	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Multext=Agsfsan
+4	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	žemėlapį	žemėlapis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kuriame	kuris	PRON	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsln
+8	užfiksuotos	užfiksuoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnnnn-p
+9	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+10	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+11	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+12	pajėgų	pajėgos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+13	kontroliuojamos	kontroliuoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-pfpnnnn-p
+14	teritorijos	teritorija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpnn-
+15	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+
+# newpar id = LRT_UKR_008-p8
+# sent_id = LRT_UKR_008-s19
+# text = Ukrainos kariškiai pastarąją parą sunaikino dar 840 okupantų rusų.
+1	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+2	kariškiai	kariškis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+3	pastarąją	pastaras	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsay
+4	parą	para	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+5	sunaikino	sunaikinti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+7	840	840	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	okupantų	okupantas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+9	rusų	rusas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+10	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s20
+# text = O iš viso nuo 2022 metų vasario 24 d. iki 2024 metų sausio 14 d. Rusijos armija Ukrainoje jau neteko apie 370 000 kareivių.
+1	O	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+2	iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+3	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	vasario	vasaris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+7	24	24	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+8	d.	d.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+9	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	2024	2024	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+12	sausio	sausis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+13	14	14	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	d.	d.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+15	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+16	armija	armija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+17	Ukrainoje	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+18	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+19	neteko	netekti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+20	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+21	370 000	370 000	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+22	kareivių	kareivis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+23	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p9
+# sent_id = LRT_UKR_008-s21
+# text = Tai šeštadienį pranešė Ukrainos ginkluotųjų pajėgų Generalinis štabas, kuriuo remiasi „Ukrinform“.
+1	Tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	šeštadienį	šeštadienis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+3	pranešė	pranešti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+4	Ukrainos	Ukraina	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfsgng
+5	ginkluotųjų	ginkluoti	VERB	vksm.dlv.neveik.būt.įvardž.mot.dgs.K.	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pfpnygn-p
+6	pajėgų	pajėgos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+7	Generalinis	generalinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsnn
+8	štabas	štabas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	kuriuo	kuris	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsin
+11	remiasi	remtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--yi-
+12	„	„	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	Ukrinform	Ukrinform	PROPN	dkt.tikr.vyr.	Gender=Masc	_	_	_	SpaceAfter=No|Multext=Npm--n-
+14	“	“	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+15	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p10
+# sent_id = LRT_UKR_008-s22
+# text = Be to, per šį laikotarpį okupantai rusai neteko 6 075 tankų (+10), 11 302 šarvuotųjų kovos mašinų (+33), 8 747 artilerijos sistemų (+19), 957 reaktyvinių salvinės ugnies sistemų (+0), 648 oro gynybos priemonių (+2), 329 lėktuvų (+0), 324 sraigtasparnių (+0), 6 861 dronų (+13), 1 814 sparnuotųjų raketų (+0), 23 laivų (+0), 1 povandeninio laivo (+0), 11 667 automobilių (+35), 1 353 specialiosios technikos vienetų (+8).
+1	Be to	be to	PART	dll.	_	_	_	_	SpaceAfter=No|Multext=Qg
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+4	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+5	laikotarpį	laikotarpis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+6	okupantai	okupantas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+7	rusai	rusas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+8	neteko	netekti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+9	6 075	6 075	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+10	tankų	tankas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+11	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+12	+10	+10	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+13	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	11 302	11 302	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+16	šarvuotųjų	šarvuotas	ADJ	bdv.nelygin.įvardž.mot.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgy
+17	kovos	kova	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	mašinų	mašina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+19	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+20	+33	+33	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+21	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	8 747	8 747	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+24	artilerijos	artilerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	sistemų	sistema	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+26	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+27	+19	+19	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+28	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+29	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+30	957	957	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+31	reaktyvinių	reaktyvinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+32	salvinės	salvinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+33	ugnies	ugnis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+34	sistemų	sistema	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+35	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+36	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+37	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+38	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+39	648	648	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+40	oro	oras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+41	gynybos	gynyba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+42	priemonių	priemonė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+43	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+44	+2	+2	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+45	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+46	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+47	329	329	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+48	lėktuvų	lėktuvas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+49	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+50	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+51	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+52	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+53	324	324	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+54	sraigtasparnių	sraigtasparnis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+55	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+56	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+57	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+58	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+59	6 861	6 861	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+60	dronų	dronas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+61	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+62	+13	+13	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+63	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+64	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+65	1 814	1 814	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+66	sparnuotųjų	sparnuotas	ADJ	bdv.nelygin.įvardž.mot.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgy
+67	raketų	raketa	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+68	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+69	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+70	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+71	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+72	23	23	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+73	laivų	laivas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+74	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+75	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+76	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+77	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+78	1	1	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+79	povandeninio	povandeninis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+80	laivo	laivas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+81	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+82	+0	+0	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+83	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+84	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+85	11 667	11 667	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+86	automobilių	automobilis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+87	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+88	+35	+35	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+89	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+90	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+91	1 353	1 353	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+92	specialiosios	specialus	ADJ	bdv.nelygin.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgy
+93	technikos	technika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+94	vienetų	vienetas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+95	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+96	+8	+8	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+97	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+98	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = LRT_UKR_008-p11
+# sent_id = LRT_UKR_008-s23
+# text = Pasak štabo atstovų, duomenys tikslinami.
+1	Pasak	pasak	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+2	štabo	štabas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	atstovų	atstovas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpgn-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	duomenys	duomuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+6	tikslinami	tikslinti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp-pmpnnnn-p
+7	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = LRT_UKR_008-s24
+# text = Skaičiavimą apsunkina intensyvūs karo veiksmai.
+1	Skaičiavimą	skaičiavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+2	apsunkina	apsunkinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	intensyvūs	intensyvus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpnn
+4	karo	karas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	veiksmai	veiksmas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+6	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

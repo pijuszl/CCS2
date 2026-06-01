@@ -1,0 +1,231 @@
+# newdoc id = UN_APL_03
+# newpar id = UN_APL_03-p1
+# sent_id = UN_APL_03-s1
+# text = Mokslininkai: po 15 metų gali prasidėti mažasis ledynmetis
+1	Mokslininkai	mokslininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncmpnn-
+2	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+3	po	po	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+4	15	15	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+5	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	prasidėti	prasidėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+8	mažasis	mažas	ADJ	bdv.nelygin.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsny
+9	ledynmetis	ledynmetis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+
+# newpar id = UN_APL_03-p2
+# sent_id = UN_APL_03-s2
+# text = Panašu, kad mūsų planetos jau visai netrukus laukia mažasis ledynmetis.
+1	Panašu	panašus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	_	_	_	SpaceAfter=No|Multext=Agpn--n
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+4	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur	_	_	_	Multext=Pg-pgn
+5	planetos	planeta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+6	jau	jau	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+7	visai	visai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	netrukus	netrukus	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	laukia	laukti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	mažasis	mažas	ADJ	bdv.nelygin.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsny
+11	ledynmetis	ledynmetis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+12	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_03-s3
+# text = Naujausio tyrimo rezultatai byloja, kad nuo 2020 iki 2030 m. Saulės konvekcinių srautų bangos persidengs ir neutralizuos viena kitą, todėl pačios žvaigždės aktyvumas ketvirtąjį XXI a. dešimtmetį (nuo 2030-ųjų) gali sumažėti apie 60 proc.
+1	Naujausio	naujas	ADJ	bdv.aukšč.vyr.vns.K.	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsgn
+2	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+3	rezultatai	rezultatas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+4	byloja	byloti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+7	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+8	2020	2020	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+9	iki	iki	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+10	2030	2030	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+11	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+12	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+13	konvekcinių	konvekcinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+14	srautų	srautas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+15	bangos	banga	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpnn-
+16	persidengs	persidengti	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--yi-
+17	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+18	neutralizuos	neutralizuoti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+19	viena	vienas	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsnn
+20	kitą	kitas	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgfsan
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+23	pačios	pats	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+24	žvaigždės	žvaigždė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+26	ketvirtąjį	ketvirtas	ADJ	sktv.raid.kelint.įvardž.vyr.vns.G.	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	_	_	_	Multext=Momsaly
+27	XXI	XXI	NUM	sktv.rom.	NumForm=Roman	_	_	_	Multext=M----r-
+28	a.	a.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+29	dešimtmetį	dešimtmetis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+30	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+31	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+32	2030-ųjų	2030-ųjų	NUM	sktv.mišr.	NumForm=Combi	_	_	_	SpaceAfter=No|Multext=M----m-
+33	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+34	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+35	sumažėti	sumažėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+36	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+37	60	60	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+38	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+
+# newpar id = UN_APL_03-p3
+# sent_id = UN_APL_03-s4
+# text = Kitaip tariant, netrukus gali prasidėti vadinamasis Maunderio minimumas – ypač menko Saulės aktyvumo laikotarpis, kuris Žemėje vyravo 1646-1715 m. Jis dėl šaltų žiemų dar vadinamas mažuoju ledynmečiu.
+1	Kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	tariant	tarti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	SpaceAfter=No|Multext=Vgap----n--n--
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	netrukus	netrukus	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+6	prasidėti	prasidėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+7	vadinamasis	vadinti	VERB	vksm.dlv.neveik.es.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnynn-p
+8	Maunderio	Maunderio	X	kt.	_	_	_	_	Multext=X-
+9	minimumas	minimumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+10	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+11	ypač	ypač	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+12	menko	menkas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsgn
+13	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+14	aktyvumo	aktyvumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	laikotarpis	laikotarpis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+16	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+17	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+18	Žemėje	Žemė	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	_	_	_	Multext=Npfslng
+19	vyravo	vyrauti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+20	1646	1646	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+21	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+22	1715	1715	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+23	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+24	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+25	dėl	dėl	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+26	šaltų	šaltas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpgn
+27	žiemų	žiema	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+28	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+29	vadinamas	vadinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgpp-smpnnnn-p
+30	mažuoju	mažas	ADJ	bdv.nelygin.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsiy
+31	ledynmečiu	ledynmetis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_03-s5
+# text = Naujausias Saulės aktyvumo ciklo modelis teikia nemalonias vienuolika metų trunkančio ciklo prognozes.
+1	Naujausias	naujas	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	Multext=Agsmsnn
+2	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+3	aktyvumo	aktyvumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	ciklo	ciklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+5	modelis	modelis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	teikia	teikti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+7	nemalonias	nemalonus	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	Multext=Agpfpan
+8	vienuolika	vienuolika	NUM	sktv.raid.kiek.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfsnl-
+9	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+10	trunkančio	trukti	VERB	vksm.dlv.veik.es.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smanngn-p
+11	ciklo	ciklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+12	prognozes	prognozė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+13	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_03-s6
+# text = Modelis numato tam tikras konvekcinių srautų bangas, kurias sukelia du Saulės sluoksniai – vienas yra prie pat žvaigždės paviršiaus, o kitas – giliau Saulėje.
+1	Modelis	modelis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+2	numato	numatyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	tam tikras	tam tikras	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+4	konvekcinių	konvekcinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	Multext=Agpmpgn
+5	srautų	srautas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+6	bangas	banga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+7	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+8	kurias	kuris	PRON	įv.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Pgfpan
+9	sukelia	sukelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+10	du	du	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcmpnl-
+11	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+12	sluoksniai	sluoksnis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+13	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+14	vienas	vienas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+15	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	prie pat	prie pat	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+17	žvaigždės	žvaigždė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+18	paviršiaus	paviršius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+21	kitas	kitas	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+22	–	–	PUNCT	skyr.	_	_	_	_	Multext=Th
+23	giliau	giliai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+24	Saulėje	Saulė	PROPN	dkt.tikr.vrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npfslnf
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_APL_03-s7
+# text = Pagal šį modelį, kurį Nacionaliniame astronomų suvažiavime Landidne (Velsas, JK) pristatė prof. Valentina Žarkova, nuo 2030-ųjų Saulės aktyvumas gali sumažėti apie 60 proc. Modelio autorė prognozuoja, kad 25-ojo ciklo metu, kurio pikas bus 2022 m., bangų aktyvumas stipriai sumenks.
+1	Pagal	pagal	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+2	šį	šis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+3	modelį	modelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kurį	kuris	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+6	Nacionaliniame	nacionalinis	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsln
+7	astronomų	astronomas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+8	suvažiavime	suvažiavimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsln-
+9	Landidne	Landidne	X	kt.	_	_	_	_	Multext=X-
+10	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+11	Velsas	Velsas	PROPN	dkt.tikr.vtvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	SpaceAfter=No|Multext=Npmsnng
+12	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+13	JK	JK	PROPN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+14	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+15	pristatė	pristatyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+16	prof.	prof.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+17	Valentina	Valentina	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsnnf
+18	Žarkova	Žarkova	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+19	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+20	nuo	nuo	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+21	2030-ųjų	2030-ųjų	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+22	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+23	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+24	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+25	sumažėti	sumažėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+26	apie	apie	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+27	60	60	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+28	proc.	proc.	NOUN	sutr.	Abbr=Yes	_	_	_	Multext=Ys
+29	Modelio	modelis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+30	autorė	autorė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsnn-
+31	prognozuoja	prognozuoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+32	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+33	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+34	25-ojo	25-ojo	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+35	ciklo	ciklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+36	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+37	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+38	kurio	kuris	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+39	pikas	pikas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+40	bus	būti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+41	2022	2022	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+42	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+43	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+44	bangų	banga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpgn-
+45	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+46	stipriai	stipriai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+47	sumenks.	sumenkti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+
+# sent_id = UN_APL_03-s8
+# text = Todėl 26-ojo ciklo metu, kuris truks maždaug dešimtmetį (2030-2040 m.) dviejų minėtų Saulės sluoksnių procesai išsiderins, ir saulės aktyvumas smarkiai kris.
+1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+2	26-ojo	26-ojo	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+3	ciklo	ciklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+4	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	kuris	kuris	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+7	truks	trukti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	Multext=Vgmf3---n--ni-
+8	maždaug	maždaug	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+9	dešimtmetį	dešimtmetis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+10	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+11	2030	2030	NUM	sktv.arab.	NumForm=Digit	_	_	_	SpaceAfter=No|Multext=M----d-
+12	-	-	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Th
+13	2040	2040	NUM	sktv.arab.	NumForm=Digit	_	_	_	Multext=M----d-
+14	m.	m.	NOUN	sutr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ys
+15	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+16	dviejų	du	NUM	sktv.raid.kiek.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	Multext=Mcfpgl-
+17	minėtų	minėti	VERB	vksm.dlv.neveik.būt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-pmpnngn-p
+18	Saulės	Saulė	PROPN	dkt.tikr.vrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	_	_	_	Multext=Npfsgnf
+19	sluoksnių	sluoksnis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpgn-
+20	procesai	procesas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Multext=Ncmpnn-
+21	išsiderins	išsiderinti	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--yi-
+22	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+23	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+24	saulės	saulė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+25	aktyvumas	aktyvumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+26	smarkiai	smarkiai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+27	kris	kristi	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmf3---n--ni-
+28	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp

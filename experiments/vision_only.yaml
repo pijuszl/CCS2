@@ -1,0 +1,11 @@
+# Sanity check: how strong is the image alone?
+tag: vision_only
+model_kind: vision_only
+dataset:
+  use_scraped: true
+  image_required: true
+train:
+  epochs: 4
+  batch_size: 16
+  grad_accum: 2
+  lr: 1.0e-4

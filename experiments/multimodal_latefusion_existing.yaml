@@ -1,0 +1,16 @@
+# H1 comparison: stays on the image-bearing subset so the contrast vs the text
+# baseline isn't confounded by N. Note: existing corpora have no images, so this
+# run only makes sense once scraped data is included; left here for the case
+# when image-bearing scraped items are merged into the existing pool.
+tag: multimodal_latefusion_existing
+model_kind: multimodal
+dataset:
+  use_scraped: false
+  image_required: true
+train:
+  epochs: 4
+  batch_size: 4
+  grad_accum: 8
+  lr: 2.0e-5
+  modality_dropout: 0.1
+  loss: focal

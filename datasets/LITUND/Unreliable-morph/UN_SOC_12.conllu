@@ -1,0 +1,221 @@
+# newdoc id = UN_SOC_12
+# newpar id = UN_SOC_12-p1
+# sent_id = UN_SOC_12-s1
+# text = Per kirmgrauža keliavęs NSO pasirodė Jungtinėje Karalystėje
+1	Per	per	PART	dll.	_	_	_	_	Multext=Qg
+2	kirmgrauža	kirmgraužos	NOUN	dkt.mot.vns.V.vrnt.	Case=Nom|Gender=Fem|Number=Sing|Style=Rare	_	_	_	Multext=Ncfsnn-
+3	keliavęs	keliauti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+4	NSO	NSO	NOUN	akr.	Abbr=Yes	_	_	_	Multext=Ya
+5	pasirodė	pasirodyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--yi-
+6	Jungtinėje	jungtinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsln
+7	Karalystėje	karalystė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+
+# newpar id = UN_SOC_12-p2
+# sent_id = UN_SOC_12-s2
+# text = Jungtinės Karalystės astronomas atsitiktinai nufotografavo netoli Mokslo centro disko formos   neatpažinta skraidantį objektą.
+1	Jungtinės	jungtinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	Multext=Agpfsgn
+2	Karalystės	karalystė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+3	astronomas	astronomas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+4	atsitiktinai	atsitiktinai	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+5	nufotografavo	nufotografuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+6	netoli	netoli	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+7	Mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+8	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+9	disko	diskas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+10	formos	forma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+11	neatpažinta	neatpažinti	VERB	vksm.dlv.neig.neveik.būt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-sfpynin-p
+12	skraidantį	skraidyti	VERB	vksm.dlv.veik.es.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-smannan-p
+13	objektą	objektas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+14	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s3
+# text = Kaip pasakoja  60-metų Kenneth Parsons (Kenetas Parsonsas), nuotrauką skraidančios lėkštės nufotografavo netoli Vinčesterio mokslo centro (Winchester Science Centre) ir Planetariumo Hempšyre (Planetarium in Hampshire).
+1	Kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	pasakoja	pasakoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+3	60-metų	60-metų	NUM	sktv.mišr.	NumForm=Combi	_	_	_	Multext=M----m-
+4	Kenneth	Kenneth	X	kt.	_	_	_	_	Multext=X-
+5	Parsons	Parsons	X	kt.	_	_	_	_	Multext=X-
+6	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+7	Kenetas	Kenetas	X	kt.	_	_	_	_	Multext=X-
+8	Parsonsas	Parsonsas	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+9	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+10	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+11	nuotrauką	nuotrauka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsan-
+12	skraidančios	skraidyti	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpp-sfanngn-p
+13	lėkštės	lėkštė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+14	nufotografavo	nufotografuoti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+15	netoli	netoli	ADP	prl.K.	Case=Gen	_	_	_	Multext=Sgg
+16	Vinčesterio	vinčesteris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+17	mokslo	mokslas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+18	centro	centras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+19	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+20	Winchester	Winchester	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+21	Science	Science	PROPN	dkt.tikr.	_	_	_	_	Multext=Npc--n-
+22	Centre	centras	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+23	)	)	PUNCT	skyr.	_	_	_	_	Multext=Tr
+24	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+25	Planetariumo	planetariumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+26	Hempšyre	Hempšyras	PROPN	dkt.tikr.vtvrd.vyr.vns.Vt.	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	_	_	_	Multext=Npmslng
+27	(	(	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tl
+28	Planetarium	Planetarium	X	kt.	_	_	_	_	Multext=X-
+29	in	in	X	kt.	_	_	_	_	Multext=X-
+30	Hampshire	Hampshire	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+31	)	)	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tr
+32	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s4
+# text = Atliekant nuotraukas, Kenetas net nepastebėjo NSO, bet vėliau pradėjęs studijuoti padarytas ir  vienoje nuotraukoje nuotraukas pastebėjo keistą objektą.
+1	Atliekant	atlikti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+2	nuotraukas	nuotrauka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Multext=Ncfpan-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	Kenetas	Kenetas	X	kt.	_	_	_	_	Multext=X-
+5	net	net	PART	dll.	_	_	_	_	Multext=Qg
+6	nepastebėjo	nepastebėti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---y--ni-
+7	NSO	NSO	NOUN	akr.	Abbr=Yes	_	_	_	SpaceAfter=No|Multext=Ya
+8	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+9	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+11	pradėjęs	pradėti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+12	studijuoti	studijuoti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+13	padarytas	padaryti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Multext=Vgps-smpnnnn-p
+14	ir	ir	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	vienoje	vienas	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+16	nuotraukoje	nuotrauka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsln-
+17	nuotraukas	nuotrauka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+18	pastebėjo	pastebėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+19	keistą	keistas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Multext=Agpmsan
+20	objektą	objektas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+21	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_12-p3
+# sent_id = UN_SOC_12-s5
+# text = Žinoma, iš pat pradžių aš maniau, kad tai į objektyvą pateko vabzdys, o gal paukštis.
+1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No|Multext=Vgpp--npnn-n-p
+2	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+3	iš pat pradžių	iš pat pradžių	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+4	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+5	maniau	manyti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgma1s--n--ni-
+6	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+7	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+8	tai	tai	SCONJ	jng.	_	_	_	_	Multext=Cg
+9	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+10	objektyvą	objektyvas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+11	pateko	patekti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+12	vabzdys	vabzdys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	o	o	CCONJ	jng.	_	_	_	_	Multext=Cg
+15	gal	gal	PART	dll.	_	_	_	_	Multext=Qg
+16	paukštis	paukštis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s6
+# text = Kai aš vėliau pradėjau žiūrinėti nuotraukas savo kompiuteryje, aš pastebėjau kažką ore, vienoje nuotraukoje, nors fotografavimo metu, aš nepastebėjau nieko neįprasto", - sako Kenetas.
+1	Kai	kai	SCONJ	jng.	_	_	_	_	Multext=Cg
+2	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+3	vėliau	vėlai	ADV	prv.aukšt.	Degree=Cmp	_	_	_	Multext=Rgc
+4	pradėjau	pradėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+5	žiūrinėti	žiūrinėti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	Multext=Vgi-----n--n--
+6	nuotraukas	nuotrauka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Multext=Ncfpan-
+7	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+8	kompiuteryje	kompiuteris	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+9	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+10	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+11	pastebėjau	pastebėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--n--ni-
+12	kažką	kažkas	PRON	įv.G.	Case=Acc	_	_	_	Multext=Pg--an
+13	ore	oras	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsln-
+14	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+15	vienoje	vienas	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsln
+16	nuotraukoje	nuotrauka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncfsln-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	nors	nors	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	fotografavimo	fotografavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+20	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsin-
+21	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+22	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+23	nepastebėjau	nepastebėti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--y--ni-
+24	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+25	neįprasto	neįprastas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Agpmsgn
+26	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+27	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+28	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+29	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+30	Kenetas	Kenetas	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+31	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s7
+# text = "Aš ne ekspertas, bet per visą savo gyvenimą, niekada nemačiau vabzdžio ar paukščio, kaip šis.
+1	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+2	Aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing	_	_	_	Multext=Pg-snn
+3	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+4	ekspertas	ekspertas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+5	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+6	bet	bet	CCONJ	jng.	_	_	_	_	Multext=Cg
+7	per	per	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+8	visą	visas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsan
+9	savo	savas	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsgn
+10	gyvenimą	gyvenimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsan-
+11	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+12	niekada	niekada	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+13	nemačiau	nematyti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma1s--y--ni-
+14	vabzdžio	vabzdys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsgn-
+15	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+16	paukščio	paukštis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsgn-
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kaip	kaip	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	šis	šis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Pgmsnn
+20	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s8
+# text = Kenetas mano, kad objektas galėjo trumpam pasirodyti keliaujant per kirmgrauža", - sako Kenetas.
+1	Kenetas	Kenetas	X	kt.	_	_	_	_	Multext=X-
+2	mano	manyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|Multext=Vgmp3---n--ni-
+3	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+4	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+5	objektas	objektas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+6	galėjo	galėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+7	trumpam	trumpam	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+8	pasirodyti	pasirodyti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	_	_	_	Multext=Vgi-----n--y--
+9	keliaujant	keliauti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	_	_	_	Multext=Vgap----n--n--
+10	per	per	PART	dll.	_	_	_	_	Multext=Qg
+11	kirmgrauža	kirmgraužos	NOUN	dkt.mot.vns.V.vrnt.	Case=Nom|Gender=Fem|Number=Sing|Style=Rare	_	_	_	SpaceAfter=No|Multext=Ncfsnn-
+12	"	"	PUNCT	skyr.	_	_	_	_	SpaceAfter=No|Multext=Tu
+13	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+14	-	-	PUNCT	skyr.	_	_	_	_	Multext=Th
+15	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Multext=Vgmp3---n--ni-
+16	Kenetas	Kenetas	X	kt.	_	_	_	_	SpaceAfter=No|Multext=X-
+17	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# sent_id = UN_SOC_12-s9
+# text = Nuotraukos autorius įsitikinęs, kad tai ne paukštis ar vabzdys: jis vis dar linkęs manyti, kad į kadrą papuolė kitos civilizacijos erdvėlaivis.
+1	Nuotraukos	nuotrauka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+2	autorius	autorius	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+3	įsitikinęs	įsitikinti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No|Multext=Vgpa-smannny-p
+4	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+5	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+6	tai	tas	PRON	įv.bev.	Gender=Neut	_	_	_	Multext=Pgn--n
+7	ne	ne	PART	dll.	_	_	_	_	Multext=Qg
+8	paukštis	paukštis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsnn-
+9	ar	ar	CCONJ	jng.	_	_	_	_	Multext=Cg
+10	vabzdys	vabzdys	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+11	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+12	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Multext=Pgmsnn
+13	vis	vis	ADV	prv.nelygin.	Degree=Pos	_	_	_	Multext=Rgp
+14	dar	dar	PART	dll.	_	_	_	_	Multext=Qg
+15	linkęs	linkti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	Multext=Vgpa-smannnn-p
+16	manyti	manyti	VERB	vksm.bndr.	VerbForm=Inf	_	_	_	SpaceAfter=No|Multext=Vgi-----n--n--
+17	,	,	PUNCT	skyr.	_	_	_	_	Multext=Tc
+18	kad	kad	SCONJ	jng.	_	_	_	_	Multext=Cg
+19	į	į	ADP	prl.G.	Case=Acc	_	_	_	Multext=Sga
+20	kadrą	kadras	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Multext=Ncmsan-
+21	papuolė	papulti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Multext=Vgma3---n--ni-
+22	kitos	kitas	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Pgfsgn
+23	civilizacijos	civilizacija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Multext=Ncfsgn-
+24	erdvėlaivis	erdvėlaivis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+25	.	.	PUNCT	skyr.	_	_	_	_	Multext=Tp
+
+# newpar id = UN_SOC_12-p4
+# sent_id = UN_SOC_12-s10
+# text = Šaltinis: https://paranormal.lt/news/per_kirmgrauza_keliaves_nso_pasirode_jungtineje_karalysteje/2015-05-14-211
+1	Šaltinis	šaltinis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|Multext=Ncmsnn-
+2	:	:	PUNCT	skyr.	_	_	_	_	Multext=Tn
+3	https://paranormal.lt/news/per_kirmgrauza_keliaves_nso_pasirode_jungtineje_karalysteje/2015-05-14-211	https://paranormal.lt/news/per_kirmgrauza_keliaves_nso_pasirode_jungtineje_karalysteje/2015-05-14-211	X	kt.	_	_	_	_	Multext=X-

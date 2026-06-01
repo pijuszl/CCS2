@@ -1,0 +1,21 @@
+[project]
+name = "propaganda-lt"
+version = "0.1.0"
+description = "Decoding Deception: multimodal Lithuanian propaganda detection (CCS2)."
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "B"]
+ignore = ["E501"]  # long lines OK in research code
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::UserWarning",
+]
