@@ -1,0 +1,263 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "val": {
+        "macro_f1": 0.22580645161290322,
+        "micro_f1": 0.5121951219512195,
+        "per_class": {
+          "non": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "open": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "hidden": {
+            "precision": 1.0,
+            "recall": 0.5121951219512195,
+            "f1": 0.6774193548387096,
+            "support": 41
+          }
+        },
+        "confusion_matrix": {
+          "labels": [
+            "non",
+            "open",
+            "hidden"
+          ],
+          "matrix": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              20,
+              0,
+              21
+            ]
+          ]
+        },
+        "n": 41
+      }
+    },
+    {
+      "epoch": 2,
+      "val": {
+        "macro_f1": 0.3162393162393162,
+        "micro_f1": 0.9024390243902439,
+        "per_class": {
+          "non": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "open": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "hidden": {
+            "precision": 1.0,
+            "recall": 0.9024390243902439,
+            "f1": 0.9487179487179487,
+            "support": 41
+          }
+        },
+        "confusion_matrix": {
+          "labels": [
+            "non",
+            "open",
+            "hidden"
+          ],
+          "matrix": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              0,
+              37
+            ]
+          ]
+        },
+        "n": 41
+      }
+    },
+    {
+      "epoch": 3,
+      "val": {
+        "macro_f1": 0.25252525252525254,
+        "micro_f1": 0.6097560975609756,
+        "per_class": {
+          "non": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "open": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "hidden": {
+            "precision": 1.0,
+            "recall": 0.6097560975609756,
+            "f1": 0.7575757575757576,
+            "support": 41
+          }
+        },
+        "confusion_matrix": {
+          "labels": [
+            "non",
+            "open",
+            "hidden"
+          ],
+          "matrix": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              16,
+              0,
+              25
+            ]
+          ]
+        },
+        "n": 41
+      }
+    },
+    {
+      "epoch": 4,
+      "val": {
+        "macro_f1": 0.3333333333333333,
+        "micro_f1": 1.0,
+        "per_class": {
+          "non": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "open": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "hidden": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 41
+          }
+        },
+        "confusion_matrix": {
+          "labels": [
+            "non",
+            "open",
+            "hidden"
+          ],
+          "matrix": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              41
+            ]
+          ]
+        },
+        "n": 41
+      }
+    }
+  ],
+  "test": {
+    "macro_f1": 0.318578741342969,
+    "micro_f1": 0.5,
+    "per_class": {
+      "non": {
+        "precision": 1.0,
+        "recall": 0.41379310344827586,
+        "f1": 0.5853658536585366,
+        "support": 29
+      },
+      "open": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "hidden": {
+        "precision": 0.22727272727272727,
+        "recall": 1.0,
+        "f1": 0.37037037037037035,
+        "support": 5
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "non",
+        "open",
+        "hidden"
+      ],
+      "matrix": [
+        [
+          12,
+          0,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          5
+        ]
+      ]
+    },
+    "n": 34
+  },
+  "best_val": 0.3333333333333333,
+  "elapsed_s": 102.18
+}

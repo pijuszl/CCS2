@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Secrets
+.env
+
+# Large data — not committed
+data/
+datasets/
+
+# Model checkpoints (too large)
+*.pt
+*.bin
+*.safetensors
+
+# Zip archives
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Duplicate report folder created by accident
+report/report/
+
+# OS
+.DS_Store
+Thumbs.db

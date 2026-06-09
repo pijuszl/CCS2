@@ -1,0 +1,83 @@
+seed: 42
+paths:
+  datasets_dir: datasets
+  data_dir: data
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  annotations_dir: data/annotations
+  results_dir: results
+  runs_dir: results/runs
+  checkpoints_dir: results/checkpoints
+  figures_dir: results/figures
+  tables_dir: results/tables
+  logs_dir: results/logs
+classes:
+- non
+- open
+- hidden
+text:
+  model_name: xlm-roberta-base
+  max_len: 512
+  truncation: longest_first
+image:
+  size: 224
+  size_large: 512
+  mean:
+  - 0.48145466
+  - 0.4578275
+  - 0.40821073
+  std:
+  - 0.26862954
+  - 0.26130258
+  - 0.27577711
+vision:
+  backbone: open_clip:ViT-B-32
+  pretrained: openai
+  freeze_until_layer: 6
+fusion:
+  hidden_dim: 512
+  dropout: 0.1
+train:
+  batch_size: 8
+  grad_accum: 4
+  lr: 2.0e-05
+  weight_decay: 0.01
+  warmup_ratio: 0.06
+  epochs: 4
+  early_stop_patience: 2
+  early_stop_metric: macro_f1
+  mixed_precision: true
+  modality_dropout: 0.0
+  loss: ce
+  focal_gamma: 2.0
+  smoke_subset: 64
+  smoke_epochs: 1
+split:
+  test_size: 0.15
+  val_size: 0.15
+  n_splits: 5
+  stratify_by: label_3class
+  group_by:
+  - source
+  - group_key
+balance:
+  strategy: none
+scraper:
+  user_agent: 'DecodingDeceptionResearchBot/0.1 (UCPH CCS2 academic study; contact:
+    anonymous)'
+  rate_limit_s: 1.5
+  timeout_s: 20
+  retries: 3
+  cache_html: true
+annotation:
+  batch_size: 20
+  self_consistency_n: 3
+  confidence_threshold: 0.6
+  abstain_below: 0.5
+device: auto
+tag: no_balance
+model_kind: text
+dataset:
+  use_scraped: false
+  image_required: false

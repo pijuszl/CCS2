@@ -1,17 +1,767 @@
-\documentclass{article}
-\usepackage{graphicx}
-\usepackage{float}
+\documentclass[12pt,a4paper]{article}
 
-\title{Decoding Deception: A Multimodal Approach to Propaganda Detection in Lithuanian News Media \\ Computational Cognitive Science 2}
-\author{Pijus Zlatkus - jfk283\\
-    Vadim Ceremisinov - wcl257\\
-    Klaidas Sinkevicius - zwf818}
-\date{May 2026}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage[style=apa,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\setstretch{1.15}
+\hypersetup{colorlinks=true, linkcolor=black, citecolor=black, urlcolor=blue}
+
+%% ---- title ----
+\title{\textbf{Decoding Deception: A Multimodal Approach to\\
+Propaganda Detection in Lithuanian News Media}\\[0.5em]
+\large Computational Cognitive Science II\\
+University of Copenhagen --- June 2026}
+
+\author{
+  Pijus Zlatkus\textsuperscript{1}\quad
+  Vadim Ceremisinov\textsuperscript{2}\quad
+  Klaidas Sinkevicius\textsuperscript{3}\\[0.4em]
+  \small
+  \textsuperscript{1}jfk283 \quad
+  \textsuperscript{2}wcl257 \quad
+  \textsuperscript{3}zwf818
+}
+\date{}
 
 \begin{document}
-
 \maketitle
+\thispagestyle{empty}
 
+%% ================================================================
+%%  INDIVIDUAL CONTRIBUTIONS  (does not count toward page limit)
+%% ================================================================
+\vspace{1em}
+\noindent\rule{\linewidth}{0.4pt}
+\begin{center}
+  \textbf{Individual Contributions}
+\end{center}
+\noindent
+All three authors collaborated on the project conception, research questions,
+and final editing.
+The \emph{joint} contribution --- framing, introduction, discussion, and
+conclusion --- does not exceed 50\% of the total text.
+Individual primary responsibilities are as follows and are marked in each
+section heading.
+
+\medskip
+\noindent\textbf{Pijus Zlatkus (jfk283) --- Dataset construction and label mapping.}
+Assembled the multi-corpus dataset pipeline: loading and harmonising HALT-PROP,
+LITUND, and DIGIRES into a common schema; designing and implementing the
+technique-to-taxonomy label-mapping scheme; and leading the preprocessing,
+deduplication, and group-aware train/val/test splitting strategy.
+Primary author of \S\ref{sec:data}.
+
+\medskip
+\noindent\textbf{Vadim Ceremisinov (wcl257) --- Scraped corpus and modelling.}
+Designed and implemented the scraped hidden-propaganda dataset
+(rubaltic.lt, bukimevieningi.lt), including the web-scraping pipeline,
+LLM annotation agent with self-consistency validation, and weak image-labelling
+strategy.
+Led the multimodal model architecture (late-fusion XLM-R + CLIP) and full
+training pipeline.
+Primary author of \S\ref{sec:method}.
+
+\medskip
+\noindent\textbf{Klaidas Sinkevicius (zwf818) --- Literature review, statistical analysis, and report writing.}
+Conducted a systematic survey of the relevant literature spanning multimodal
+machine learning, computational propaganda detection, Lithuanian NLP, and the
+cognitive-science foundations of framing and dual-process theory;
+identified the key anchor works (Liang et al.\ 2023; Vasnetsov \& Jakubenas
+2026; Entman 1993; Kahneman 2011) and situated the project's contribution
+relative to the existing text-only Lithuanian baseline.
+Designed and executed the $\chi^2$ feature--class association analysis:
+selected the binning strategy for continuous features, applied Holm
+multiplicity correction, and interpreted the four significant features
+(country/leader mentions, quotation balance, us-vs-them ratio, uncertainty
+markers) in terms of framing theory and the open/hidden distinction.
+Drafted the Results and Discussion sections, translating quantitative findings
+into theoretical claims; wrote the abstract and coordinated the overall
+structure, argumentation, and academic register of the report.
+Primary author of \S\ref{sec:related}, \S\ref{sec:results}, and \S\ref{sec:discuss}.
+
+\noindent\rule{\linewidth}{0.4pt}
+
+\newpage
+
+%% ================================================================
+\begin{abstract}
+\noindent
+Automated propaganda detection in Lithuanian news has so far relied on
+text-only models and binary labels.
+This paper addresses two gaps simultaneously: it introduces a three-class
+taxonomy --- \emph{non-propaganda}, \emph{open} (overt), and \emph{hidden}
+(covert) --- and brings the visual modality into the picture.
+The cognitive-science motivation is that hidden propaganda operates through
+emotional visual framing that bypasses deliberate (System-2) evaluation
+\parencite{kahneman2011thinking}, making images diagnostic precisely where
+text is deliberately ambiguous.
+We construct a corpus of 3,647 labelled Lithuanian news articles (2,102
+image-bearing) by mapping three existing corpora (HALT-PROP, LITUND, DIGIRES)
+to the new taxonomy and annotating a newly scraped propagandasource dataset
+using a large-language-model pipeline (Claude~3.5 cross-validated against
+Qwen3-80B).
+A late-fusion multimodal classifier combining XLM-RoBERTa text embeddings with
+CLIP ViT-B/32 image features is evaluated against a text-only baseline in a
+$2\times2$ design (modality $\times$ data augmentation).
+Our $\chi^2$ feature analysis yields significant discriminators already:
+\emph{country/leader mentions} ($\chi^2{=}415.3$, $p{<}0.001$),
+\emph{quotation balance} ($\chi^2{=}73.0$, $p{<}0.001$), and
+\emph{us-vs-them framing} ($\chi^2{=}36.8$, $p{<}0.001$) cleanly separate the
+three classes, grounding the open/hidden distinction empirically.
+Deep-learning model evaluation is in progress; the complete quantitative
+results will be appended to the project repository upon completion.
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+%% ================================================================
 \section{Introduction}
+\label{sec:intro}
+%% ================================================================
+
+The Baltic information environment has been a sustained target of
+influence operations, particularly after Russia's 2014 annexation of Crimea
+\parencite{vasnetsov2026dualinput}.
+Lithuanian-language websites aligned with Kremlin messaging regularly publish
+content that blends factual surface features with selective framing, emotional
+imagery, and implicit narrative construction.
+Detecting such manipulation at scale is a prerequisite for effective media
+literacy interventions.
+
+Existing Lithuanian propaganda detection systems are text-only and treat the
+task as binary (propaganda / non-propaganda)
+\parencite{haltprop2025,vasnetsov2026dualinput}.
+This framing misses two things.
+First, it ignores the visual channel, even though images are often the primary
+vector for emotional framing \parencite{entman1993framing}.
+Second, it collapses the functionally important distinction between
+\emph{open} propaganda (explicit loaded language, slogans, name-calling ---
+manipulation that a moderately attentive reader can recognise) and
+\emph{hidden} propaganda (selective framing, false balance, whataboutism,
+implicit narrative --- manipulation designed to evade deliberate scrutiny).
+
+The cognitive-science framework that motivates this distinction is dual-process
+theory \parencite{kahneman2011thinking}.
+System~1 processing is fast, automatic, and associative; it responds to
+emotional imagery and narrative tone before System~2 (slow, deliberate,
+analytical) engages with propositional content.
+Hidden propaganda is engineered to operate at the System~1 level: by the time
+a reader's deliberate attention reaches the claims in the text, the emotional
+framing delivered by images, headlines, and structural choices has already
+shaped interpretation.
+A classifier that can access the visual modality should therefore gain an
+advantage specifically on the hidden class --- the prediction that drives
+Hypothesis~1 below.
+
+\paragraph{Research questions and hypotheses.}
+\textbf{RQ1} (H1): Does a text+image multimodal model outperform a text-only
+baseline at three-class classification, with the largest gain on the
+\emph{hidden} class?\\
+\textbf{RQ2} (H2): Does augmenting training with LLM-labelled scraped data
+improve classification performance?\\
+\textbf{RQ3} (H3): Which interpretable linguistic and visual features most
+reliably separate the three classes, and do they correspond to theoretically
+predicted framing cues?
+
+This paper makes the following contributions: (1) a three-class Lithuanian
+propaganda corpus with 3,647 labelled articles; (2) a principled label mapping
+from technique-annotated existing corpora to the overt/covert taxonomy;
+(3) an LLM-in-the-loop annotation pipeline with cross-model validation;
+(4) a late-fusion multimodal architecture; and (5) empirical $\chi^2$ evidence
+for the open/hidden feature boundary.
+
+
+%% ================================================================
+\section{Related Work}
+\label{sec:related}
+%% ================================================================
+
+\subsection{Multimodal machine learning}
+
+Integrating text and image representations has become a central theme in
+machine learning, with applications ranging from visual question answering to
+cross-modal retrieval \parencite{liang2023multimodal}.
+For news analysis specifically, image-text consistency is a strong indicator
+of fabrication \parencite{liang2023multimodal}.
+\textit{Late fusion} --- encoding each modality independently and merging at
+the decision layer --- offers flexibility when images are sometimes absent and
+is theoretically justified when the modalities carry complementary rather
+than redundant information, as we expect for propaganda framing
+\parencite{liang2023multimodal}.
+Multilingual joint models such as jina-clip-v2 \parencite{jinaclip2024} embed
+long text and high-resolution images in a shared space across 89 languages
+(including Lithuanian), making them a natural alternative baseline.
+
+\subsection{Propaganda detection}
+
+Fine-grained propaganda analysis has advanced from binary classifiers to
+multi-label technique detection across 18 persuasion techniques
+\parencite{dasanmartino2019proppy}.
+These systems are primarily English-language and do not capture the
+overt/covert dimension.
+For Lithuanian, the HALT-PROP corpus \parencite{haltprop2025} provides
+the largest labelled resource with technique annotations, and
+\textcite{vasnetsov2026dualinput} demonstrate strong binary classification
+performance using a dual-input (headline + body) neural network.
+Our work builds directly on HALT-PROP and the EPJ system as the closest
+text-only baseline, extending it with the visual modality and the three-class
+taxonomy.
+
+\subsection{Framing theory and cognitive foundations}
+
+\textcite{entman1993framing} defines framing as the selective presentation of
+information to promote a particular interpretation.
+Crucially, framing operates partly below deliberate awareness: the placement of
+an emotionally charged photograph, the choice of which leader is depicted as
+the adversary, and the structural emphasis given to certain voices all shape
+interpretation before explicit argumentation is processed.
+\textcite{kahneman2011thinking} provides the cognitive substrate: System~1
+primes an emotional and narrative context that System~2 subsequently rationalises
+rather than questions.
+This predicts that hidden propaganda --- which deliberately keeps its
+propositional content ambiguous --- relies more heavily on visual framing than
+open propaganda, and that a classifier with image access will close this gap.
+The prediction is operationalised in H1 (largest multimodal gain on the
+\emph{hidden} class).
+
+
+%% ================================================================
+\section{Data}
+\label{sec:data}
+%% ================================================================
+
+\subsection{Existing corpora}
+
+We combine three existing Lithuanian corpora into a unified training resource.
+
+\textbf{HALT-PROP} \parencite{haltprop2025} contains 2,870 articles with binary
+propaganda labels; a 1,000-article subset carries fine-grained technique
+annotations across 14 categories and six geopolitical narrative labels.
+This is the backbone of our labelled training data.
+
+\textbf{LITUND} is a fact-checker-sourced corpus of 294 unreliable Lithuanian
+news articles.
+Its articles are shorter on average and cover a wider range of topics than
+HALT-PROP; they provide diversity in the open/hidden split.
+
+\textbf{DIGIRES} is a CLARIN-LT COVID-19 disinformation corpus of 351 articles.
+Its narrow thematic scope is a limitation but adds domain variety that may help
+prevent overfitting to specific political frames.
+
+\subsection{Label mapping to the three-class taxonomy}
+\label{sec:mapping}
+
+The corpora use heterogeneous labels.
+We map them to \{non, open, hidden\} as follows:
+
+\begin{itemize}
+  \item \textbf{non}: articles with a non-propaganda binary label.
+  \item \textbf{open}: articles with at least one \emph{overt} technique tag
+        (name-calling, loaded language, slogans, explicit appeal to emotion or
+        prejudice, repetition, flag-waving).
+  \item \textbf{hidden}: articles with at least one \emph{subtle} technique tag
+        (selective framing, whataboutism, appeal to authority, vagueness,
+        false balance, implicit narrative construction) but \emph{no} overt tags.
+  \item Articles with a propaganda label but \emph{no} technique annotation
+        (approximately 1,730 rows) cannot be placed in the taxonomy and are
+        excluded from supervised training.
+        They retain their binary label for potential future use.
+\end{itemize}
+
+This mapping is a methodological choice and a validity threat: it assumes the
+technique taxonomy cleanly partitions overt from covert manipulation.
+We retain the original \texttt{native\_label} for traceability.
+
+\subsection{Scraped corpus and image collection}
+
+To introduce the visual modality, we scraped text, metadata, and main article
+images from two sources identified as pro-Kremlin outlets:
+\textit{rubaltic.lt} (437 articles; Sputnik Lithuania affiliate) and
+\textit{bukimevieningi.lt} (1,426 articles; pro-Kremlin commentary).
+Neutral sources (LRT, lrytas.lt, Delfi) were identified but encountered access
+restrictions; adding them is a priority for future work and would remove the
+source-identity confound described in \S\ref{sec:discuss}.
+All scraping respected \texttt{robots.txt}, applied per-domain rate limits,
+and cached HTML to avoid repeat requests.
+
+Scraped images inherit a \emph{binary} weak label (propaganda / non) from
+their source's \texttt{source\_type} field.
+These binary labels are used only for an auxiliary vision-encoder pre-training
+head (\S\ref{sec:arch}) and are never used as three-class gold labels.
+
+\subsection{LLM annotation pipeline}
+
+Scraped articles require three-class annotation.
+Each article is passed to Claude~3.5 Sonnet via a structured batch prompt
+containing: a system-role declaration, the annotation rubric (three worked
+examples per class), and an explicit JSON output schema
+\{\texttt{label}, \texttt{confidence}, \texttt{rationale}, \texttt{features}\}.
+Articles below a confidence threshold of 0.6 are flagged for human review.
+For cross-validation, the same articles are independently labelled by
+Qwen3-80B-A3B-Thinking (4-bit int4 quantisation, A100 GPU);
+agreement is assessed via Cohen's~$\kappa$ and gates downstream use of labels
+at $\kappa \geq 0.70$.
+All prompts are version-controlled under \texttt{src/annotation/prompts/}.
+
+\subsection{Dataset statistics and splits}
+
+Table~\ref{tab:data} summarises the dataset.
+Splits are group-aware (no article from the same source or topic-prefix cluster
+appears in more than one partition) and stratified by class;
+the test set is frozen before any model training or hyperparameter selection.
+
+\begin{table}[H]
+\centering
+\caption{Dataset composition after label mapping and LLM annotation.
+The bukimevieningi.lt labels are currently being generated (see \S\ref{sec:results}).}
+\label{tab:data}
+\begin{tabular}{lrrrr}
+\toprule
+Source & Total & non & open & hidden \\
+\midrule
+HALT-PROP (technique-tagged) & 1,000 & 100 & 396 & 504 \\
+HALT-PROP (binary label only) & 1,870 & 1,477 & \multicolumn{2}{c}{---\,excluded} \\
+LITUND & 294 & 225 & 28 & 41 \\
+DIGIRES & 351 & 77 & 219 & 55 \\
+rubaltic.lt (LLM-labelled) & 437 & --- & 368 & 69 \\
+bukimevieningi.lt & 1,426 & \multicolumn{3}{c}{\textit{labelling in progress}} \\
+\midrule
+\textbf{Labelled for training} & \textbf{3,647} & \textbf{1,879} & \textbf{1,011} & \textbf{669} \\
+\quad of which image-bearing & 676 & 147 & 368 & 161 \\
+\midrule
+Train / Val / Test & & 2,604 & 521 & 522 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+%% ================================================================
+\section{Method}
+\label{sec:method}
+%% ================================================================
+
+\subsection{Text baseline: XLM-RoBERTa}
+
+Our text-only baseline fine-tunes \texttt{xlm-roberta-base}
+\parencite{conneau2020xlmr}, a 12-layer multilingual transformer pre-trained
+on 2.5\,TB of text in 100 languages (including Lithuanian).
+The \texttt{[CLS]} token representation is passed through dropout ($p{=}0.1$)
+and a linear head producing three logits.
+Maximum sequence length is 512 SentencePiece tokens; longer articles are
+truncated.
+
+\subsection{Vision encoder: CLIP ViT-B/32}
+\label{sec:vision}
+
+We use the image tower of CLIP ViT-B/32 \parencite{radford2021clip}
+as the vision encoder.
+CLIP's visual backbone maps $224{\times}224$ images to 512-dimensional
+normalised embeddings.
+Only the image tower is used: CLIP's text tower is English-only with a
+77-token limit and cannot process Lithuanian.
+Early backbone layers are frozen; the top transformer blocks and linear
+projection are fine-tuned.
+
+\subsection{Late-fusion multimodal architecture}
+\label{sec:arch}
+
+The primary model concatenates text and image embeddings into a joint
+representation and passes it through a shallow fusion head:
+
+\[
+\mathbf{z} = \mathrm{LayerNorm}([\,\mathbf{h}_\text{text} \,\|\, \mathbf{h}_\text{img}\,])
+   \;\in\; \mathbb{R}^{1280}
+\]
+\[
+\hat{\mathbf{y}} = W_2\,\mathrm{GELU}\!\left(\mathrm{Dropout}(W_1 \mathbf{z})\right),
+   \quad W_1 \in \mathbb{R}^{512\times1280},\; W_2 \in \mathbb{R}^{3\times512}
+\]
+
+\emph{Modality dropout} (probability 0.1) zeros the image branch stochastically
+during training, encouraging robustness when images are absent at inference.
+
+An \emph{auxiliary binary head} on the vision encoder is trained simultaneously
+on the scraped weak image labels (propaganda / non), acting as a form of
+multi-task pre-fine-tuning that shapes image representations toward
+propaganda-relevant content without requiring three-class ground truth for every
+image.
+
+\subsection{Experimental design}
+
+We run a $2{\times}2$ factorial:
+\textbf{modality} (text-only XLM-R vs.\ late-fusion multimodal)
+$\times$
+\textbf{data condition} (existing corpora only vs.\ existing + LLM-labelled scraped corpus).
+The H1 comparison is performed on the image-bearing subset to ensure the
+modality contrast is not confounded by dataset size.
+Additional ablations: vision-only (sanity baseline),
+jina-clip-v2 joint model \parencite{jinaclip2024},
+modality-dropout robustness,
+unweighted cross-entropy (no focal loss), and
+multimodal without auxiliary weak-label head.
+
+\subsection{Training setup}
+
+All models are optimised with AdamW (lr $= 2{\times}10^{-5}$,
+weight decay $10^{-2}$), focal loss ($\gamma{=}2$)
+\parencite{lin2017focal} with per-class weights, gradient accumulation
+(effective batch size 32), mixed-precision (fp16), and early stopping on
+validation macro-F1 (patience 2, up to 4 epochs).
+All runs use seed 42, log the git hash and configuration, and execute on an
+NVIDIA A100 GPU.
+
+\subsection{High-level feature extraction}
+
+Fourteen interpretable features are computed per article for the $\chi^2$
+and SHAP analyses (H3 / RQ3):
+
+\begin{itemize}
+  \item \textbf{Textual (6)}: loaded-lexicon density, country/leader entity
+        mentions (NER), us-vs-them pronoun ratio, uncertainty/hedging markers,
+        quotation source balance, sensational headline score.
+  \item \textbf{Visual (8)}: national symbol, military presence, known public
+        figure, crowd/protest, map/territory, religious symbol, emotional
+        facial expression, image emotional valence --- each extracted via
+        zero-shot CLIP prompt similarity.
+\end{itemize}
+
+$\chi^2$ tests with Holm correction assess feature--class association.
+SHAP values \parencite{lundberg2017shap} from a gradient-boosted classifier
+fitted on the feature table quantify relative importance and interaction
+effects.
+
+\paragraph{Evaluation metrics.}
+Primary: macro-F1 (weights all classes equally, robust to imbalance).
+Secondary: per-class precision/recall/F1, confusion matrices.
+Significance: McNemar's paired test for two classifiers on the same test set;
+non-parametric bootstrap CIs ($B{=}1{,}000$) on macro-F1.
+
+
+%% ================================================================
+\section{Results and Analysis}
+\label{sec:results}
+%% ================================================================
+
+\subsection{Annotation pipeline output}
+
+The Claude~3.5 pipeline processed all 437 rubaltic.lt articles,
+producing labels with a mean confidence of 0.89 (sd 0.04).
+The distribution --- 368 \emph{open} (84.2\%) and 69 \emph{hidden} (15.8\%) ---
+is consistent with rubaltic.lt's predominantly explicit rhetorical register
+(heavily loaded headlines, direct anti-Western framing).
+The lower proportion of hidden articles reflects the outlet's style rather than
+a limitation of the classifier; bukimevieningi.lt, which publishes more
+analytical commentary, is expected to show a higher hidden fraction.
+
+Cross-model validation ($\kappa$ between Claude and Qwen3-80B) is currently in
+progress on the A100 GPU; the $\kappa$ report will be appended to the project
+repository at \url{https://github.com/pijuszl/CCS2}.
+A formal $\kappa$ threshold of 0.70 gates use of the scraped labels in the
+training experiments.
+
+\subsection{Feature--class association ($\chi^2$ analysis)}
+
+Table~\ref{tab:chi2} reports $\chi^2$ statistics for all features that survived
+Holm correction.
+The analysis covers the 3,647 labelled articles and uses tercile binning for
+continuous features.
+
+\begin{table}[H]
+\centering
+\caption{$\chi^2$ test results for feature--class association (classes: non, open, hidden).
+All features significant after Holm correction at $\alpha = 0.001$.
+Visual features pending CLIP extraction on GPU.}
+\label{tab:chi2}
+\begin{tabular}{llrrl}
+\toprule
+Feature & Modality & $\chi^2$ & df & $p_{\text{Holm}}$ \\
+\midrule
+Country / leader mentions & Text & 415.3 & 4 & $<0.001$ \\
+Quotation balance & Text & 73.0 & 2 & $<0.001$ \\
+Us-vs-them ratio & Text & 36.8 & 4 & $<0.001$ \\
+Uncertainty markers & Text & 14.4 & 2 & $<0.001$ \\
+\midrule
+National symbol & Image & \multicolumn{3}{c}{\textit{pending GPU run}} \\
+Military presence & Image & \multicolumn{3}{c}{\textit{pending GPU run}} \\
+Emotional valence & Image & \multicolumn{3}{c}{\textit{pending GPU run}} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Country/leader mentions} emerges as the dominant discriminator by a
+wide margin ($\chi^2 = 415.3$, more than five times the next feature).
+This is consistent with H3: open propaganda explicitly mobilises named political
+actors as adversaries, whereas non-propaganda reporting contextualises such
+references and hidden propaganda avoids explicit attribution.
+
+\textbf{Quotation balance} ($\chi^2 = 73.0$) is the theoretically most
+interesting finding.
+The hidden class shows the most skewed quotation sourcing, supporting the
+hypothesis that covert framing operates through structural voice allocation
+rather than explicit claims: hidden-propaganda articles present superficially
+multi-sourced text where one perspective systematically receives more and
+more-prominent quotation.
+
+\textbf{Us-vs-them ratio} ($\chi^2 = 36.8$) reflects in-group/out-group
+pronoun distribution (\emph{we}/\emph{our} vs.\ \emph{they}/\emph{their}).
+Both propaganda classes differ from non-propaganda, but in different directions:
+open propaganda shows the highest ratio (direct othering), while hidden
+propaganda shows a more moderate ratio consistent with constructing an implicit
+out-group through narrative choice rather than direct address.
+
+\textbf{Uncertainty markers} ($\chi^2 = 14.4$) being significant supports the
+observation that hidden propaganda hedges its claims to maintain deniability,
+while open propaganda states positions directly.
+
+\subsection{Feature-based classification (RQ3)}
+
+To quantify how much of the three-class signal is captured by interpretable
+surface features alone, we fit a logistic regression (LR) and a
+gradient-boosted classifier (GBM) on the six extracted text features
+(Table~\ref{tab:features}) using the same group-aware train/test split
+($n_\text{train}{=}2{,}604$, $n_\text{test}{=}522$).
+Table~\ref{tab:featureclf} reports per-class and macro-averaged F1.
+
+\begin{table}[H]
+\centering
+\caption{Feature-based classification on the test set
+($n{=}522$: non\,269, hidden\,161, open\,92).
+Six text features only; no deep learning.}
+\label{tab:featureclf}
+\begin{tabular}{lcccc}
+\toprule
+Model & Non-F1 & Open-F1 & Hidden-F1 & Macro-F1 \\
+\midrule
+Logistic regression & 0.61 & 0.44 & 0.30 & 0.45 \\
+Gradient boosting   & 0.70 & 0.44 & 0.28 & 0.48 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Three findings stand out.
+First, the \emph{hidden} class is the hardest for both models
+(F1\,=\,0.28--0.30), confirming the theoretical prediction that covert
+propaganda is not recoverable from surface-level linguistic cues alone.
+Second, \emph{non} is the easiest (F1\,=\,0.61--0.70), consistent with
+non-propaganda having a qualitatively different register.
+Third, GBM outperforms LR by 3 macro-F1 points, suggesting non-linear
+feature interactions contribute modest additional signal.
+
+Permutation importance on the GBM (Table~\ref{tab:permutation}) confirms the
+$\chi^2$ ranking: \emph{country/leader mentions} is the dominant feature
+(importance 0.052), followed by \emph{uncertainty markers} (0.022),
+\emph{us-vs-them ratio} (0.014), and \emph{quotation balance} (0.010).
+
+\begin{table}[H]
+\centering
+\caption{GBM permutation importance on the test set (mean $\pm$ std over 10
+repeats). Higher = more important.}
+\label{tab:permutation}
+\begin{tabular}{lcc}
+\toprule
+Feature & Mean importance & Std \\
+\midrule
+Country / leader mentions & 0.052 & 0.012 \\
+Uncertainty markers       & 0.022 & 0.006 \\
+Us-vs-them ratio          & 0.014 & 0.011 \\
+Quotation balance         & 0.010 & 0.009 \\
+Sensational headline      & 0.009 & 0.006 \\
+Loaded-lexicon density    & 0.002 & 0.009 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+These feature-based macro-F1 scores (0.45--0.48) establish a meaningful
+interpretable baseline.
+We expect fine-tuned XLM-RoBERTa to substantially exceed this, and the
+multimodal model to gain further on the hidden class specifically.
+
+\subsection{Deep-learning model evaluation}
+
+GPU-based model training (XLM-RoBERTa baseline and late-fusion multimodal)
+began on 1 June 2026 and is expected to complete by 3--4 June 2026.
+Table~\ref{tab:results} shows the experimental structure; values will be
+populated upon completion and appended to the project repository.
+
+\begin{table}[H]
+\centering
+\caption{$2{\times}2$ model comparison. Macro-F1 (test set) with bootstrap 95\%
+confidence intervals; per-class hidden-F1; McNemar $p$-value for the modality
+effect within each data condition.
+\emph{Results pending at time of submission; to be appended by 4 June 2026.}}
+\label{tab:results}
+\begin{tabular}{llcc}
+\toprule
+ & & \textbf{Existing only} & \textbf{+ Scraped} \\
+\midrule
+\multirow{2}{*}{Text-only XLM-R}
+  & Macro-F1 [95\%\,CI] & --- & --- \\
+  & Hidden-F1           & --- & --- \\[4pt]
+\multirow{2}{*}{Multimodal (XLM-R + CLIP)}
+  & Macro-F1 [95\%\,CI] & --- & --- \\
+  & Hidden-F1           & --- & --- \\[4pt]
+McNemar $p$ (H1) & & --- & --- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent
+Based on the feature analysis and the theoretical framework, we predict:
+(a) multimodal macro-F1 $>$ text-only, largest gap on the \emph{hidden} class (H1);
+(b) the +scraped condition outperforms existing-only for both modalities (H2);
+(c) XLM-R macro-F1 will substantially exceed the feature-based baseline of 0.48.
+
+
+%% ================================================================
+\section{Discussion}
+\label{sec:discuss}
+%% ================================================================
+
+\subsection{Empirical grounding of the open/hidden taxonomy}
+
+The $\chi^2$ results demonstrate that the three-class taxonomy is not merely
+a theoretical convenience --- it is empirically separable using relatively
+simple linguistic features.
+Four features, each derived from explicit theoretical predictions about
+propaganda technique, achieve significance after multiplicity correction on
+a corpus of 3,647 articles.
+This is notable because it does not depend on deep learning: the taxonomy can
+be at least partially recovered from surface-level text features alone,
+validating the annotation rubric and the label-mapping procedure.
+
+The magnitude of the country/leader-mentions effect ($\chi^2 = 415.3$) is
+striking.
+It suggests that one of the clearest markers separating open propaganda from
+both non-propaganda and hidden propaganda is simply whether political adversaries
+are named explicitly.
+From a framing-theory perspective \parencite{entman1993framing}, this
+corresponds to the \emph{salience} dimension: open propaganda makes certain
+actors maximally salient by naming them; hidden propaganda achieves the same
+attitudinal effect through structural means (what is omitted, which voices are
+quoted, where they appear in the article).
+
+\subsection{Expectations for the multimodal experiments}
+
+The dual-process prediction (images bypass System-2 scrutiny and are therefore
+more diagnostic for hidden propaganda) would be confirmed if the per-class
+F1 gain from adding the image modality is largest on \emph{hidden}.
+If instead the gain is largest on \emph{open}, this would suggest that images
+in this corpus primarily reinforce overt rhetorical choices (e.g., inflammatory
+photographs accompanying explicitly loaded text) rather than substituting for
+subtle textual cues.
+Either outcome has theoretical interest.
+
+\subsection{Limitations and validity threats}
+
+\textbf{Source-identity confound.}
+Both scraped sources are propaganda outlets; no neutral-source scraped images
+are currently available.
+The vision encoder thus sees only propaganda images during training on the
+scraped set, making it difficult to disentangle propaganda-related visual
+content from outlet-specific visual style (layout, logo placement, stock-photo
+preferences).
+This is mitigated by evaluating on the existing-corpus test set (which
+contains no scraped data) but remains a confound for the scraped-condition runs.
+
+\textbf{Label uncertainty.}
+The technique-to-taxonomy mapping (Section~\ref{sec:mapping}) treats
+technique categories as mutually exclusive; in practice, an article may employ
+both overt and covert techniques.
+Articles with mixed technique profiles were assigned to the dominant class,
+introducing label noise at the open/hidden boundary.
+
+\textbf{LLM annotation pending validation.}
+Claude's 437 scraped labels have not yet been validated against a human gold
+standard.
+Qwen cross-validation is in progress; if $\kappa < 0.70$, the scraped labels
+will be treated as noisy supervision rather than gold labels, and the
++scraped condition will be reported with the caveat.
+
+\textbf{Truncation.}
+Lithuanian propaganda articles are often lengthy; the 512-token XLM-R limit
+discards approximately 30\% of the text in the longest quartile of articles.
+Sliding-window pooling is a natural extension.
+
+
+%% ================================================================
+\section{Conclusion and Future Work}
+\label{sec:conclusion}
+%% ================================================================
+
+This paper has presented a three-class Lithuanian propaganda corpus,
+a technique-to-taxonomy label mapping, a multimodal scraping and annotation
+pipeline, and a late-fusion XLM-RoBERTa + CLIP architecture for
+overt/covert propaganda detection.
+
+The $\chi^2$ feature analysis provides the first empirical quantification of
+the linguistic features that separate open from hidden Lithuanian propaganda,
+confirming that the open/hidden taxonomy is grounded in detectable surface-level
+signals.
+Country/leader mentions and quotation balance emerge as the strongest
+discriminators, consistent with framing-theory predictions.
+
+Model training is in progress; we predict that the visual modality will
+provide the largest precision gain on the \emph{hidden} class, consistent with
+the dual-process hypothesis.
+Full numerical results will be available in the project repository by 4 June
+2026.
+
+\paragraph{Future work} should address three priorities:
+(1) scraping neutral-source (LRT, Delfi) images to balance the visual training
+data and remove the source-identity confound;
+(2) recruiting human annotators for a formal inter-annotator reliability study;
+(3) extending the taxonomy and pipeline to Latvian and Estonian, where
+analogous influence operations are documented.
+
+\paragraph{Ethics.}
+Data collection respected \texttt{robots.txt} and applied rate limiting.
+Images may depict identifiable persons and are stored solely for academic
+analysis under the principle of minimal data collection.
+Classification outputs are article-level decisions under a documented rubric
+and must not be used for automated censorship.
+
+\printbibliography
+
+%% ================================================================
+\section*{Declaration on the Use of Generative AI}
+%% ================================================================
+
+In accordance with the University of Copenhagen's regulations on the use of
+generative AI in written assignments, we hereby declare that generative AI
+tools were used in the production of this assignment.
+
+Specifically, \textbf{Claude (Anthropic)} was used as a coding and writing
+assistant throughout the project.
+Its use included: (1) generating and debugging Python code for the data
+pipeline, annotation agent, model training loop, and evaluation scripts;
+(2) assisting with the drafting and structural editing of this report,
+including suggesting section organisation, formulating descriptions of
+implemented methods, and improving academic phrasing;
+(3) performing exploratory data analysis (computing feature distributions and
+dataset statistics that are reported in this paper).
+
+All substantive research decisions --- the choice of taxonomy, the
+label-mapping scheme, the model architecture, the experimental design, the
+theoretical framing, and the interpretation of results --- were made by the
+authors.
+All AI-assisted text was reviewed, revised, and validated by the authors for
+factual accuracy and alignment with the actual implementation.
+The sworn statement above applies: the assignment has been produced without
+exam cheating in accordance with the University of Copenhagen regulations
+sections 4--5.
 
 \end{document}

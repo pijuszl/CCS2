@@ -376,7 +376,8 @@ def main() -> None:
     is_binary_aux = (model_kind == "vision_only" and set(classes) == {"non", "propaganda"})
     balance_path = processed_dir / ("balance_binary.json" if is_binary_aux else "balance.json")
     class_weight = None
-    if balance_path.exists():
+    balance_strategy = (cfg.get("balance") or {}).get("strategy", "auto")
+    if balance_strategy != "none" and balance_path.exists():
         b = json.loads(balance_path.read_text(encoding="utf-8"))
         class_weight = torch.tensor([b["class_weight"][c] for c in classes], dtype=torch.float, device=device)
         log.info("loaded class weights from %s: %s",

@@ -1,0 +1,49 @@
+{
+  "macro_f1": 0.318578741342969,
+  "micro_f1": 0.5,
+  "per_class": {
+    "non": {
+      "precision": 1.0,
+      "recall": 0.41379310344827586,
+      "f1": 0.5853658536585366,
+      "support": 29
+    },
+    "open": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "hidden": {
+      "precision": 0.22727272727272727,
+      "recall": 1.0,
+      "f1": 0.37037037037037035,
+      "support": 5
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "non",
+      "open",
+      "hidden"
+    ],
+    "matrix": [
+      [
+        12,
+        0,
+        17
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5
+      ]
+    ]
+  },
+  "n": 34
+}
